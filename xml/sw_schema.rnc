@@ -1,0 +1,20 @@
+start = root
+root = element root{script}
+script = element script{title, writer, body, draftNum?,date?}
+title = element title{mainTitle, subTitle, epNum}
+mainTitle = element mainTitle{text}
+subTitle = element subTitle{text}
+epNum = element epNum {n,text}
+n = attribute n {xsd:integer}
+writer = element writer {text}
+body = element body {crawl,scene+}
+draftNum = element draftNum {text}
+date = element date {text}
+crawl = element crawl {text}
+scene = element scene {setting,(sd|sp)+}
+setting = element setting{text}
+sd = element sd{text}
+sp = element sp {speaker,text}
+speaker = element speaker {text}
+
+
