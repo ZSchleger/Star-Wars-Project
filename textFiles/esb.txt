@@ -1,22 +1,28 @@
-STAR WARS
-EPISODE V
-THE EMPIRE STRIKES BACK
-Written by
-Lawrence Kasdan and Leigh Brackett
-From a story by George Lucas
+Star Wars: Episode V - The Empire Strikes Back (1980)
+by Lawrence Kasdan & Leigh Brackett
+
+EPISODE 5 THE EMPIRE STRIKES BACK
+
+It is a dark time for the Rebellion. Although the Death Star has been destroyed, Imperial troops have driven the Rebel forces from their hidden base and pursued them across the galaxy.Evading the dreaded Imperial Starfleet, a group of freedom fighters led by Luke Skywalker have established a new secret base on the remote ice world of Hoth.The evil lord Darth Vader, obsessed with finding young Skywalker, has dispatched thousands of remote probes into the far reaches of space....
+
 1 EXT. GALAXY - PLANET HOTH 1
+
 A Star Destroyer moves through space, releasing Imperial
 probe robots from its underside.
 One of these probes zooms toward the planet Hoth and lands
 on its ice- covered surface. An explosion marks the point
 of impact.
+
 2 EXT. HOTH - METEORITE CRATER - SNOW PLAIN - DAY 2
+
 A weird mechanical sound rises above the whining of the
 wind. A strange probe robot, with several extended sensors,
 emerges from the smoke-shrouded crater. The ominous
 mechanical probe floats across the snow plain and disappears
 into the distance.
+
 3 EXT. PLAIN OF HOTH - DAY 3
+
 A small figure gallops across the windswept ice slope. The
 bundled rider is mounted on a large gray snow lizard, a
 Tauntaun. Curving plumes of snow rise from beneath the
@@ -29,6 +35,7 @@ from where the probe robot has crashed.
 The wind whips at Luke's fur-lined cap and he activates a
 comlink transmitter. His Tauntaun shifts and moans
 nervously beneath him.
+
 LUKE
 (into comlink)
 Echo Three to Echo Seven. Han, old
