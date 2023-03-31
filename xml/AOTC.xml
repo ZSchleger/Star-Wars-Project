@@ -1,13 +1,14 @@
+<?xml-model href="sw_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 <title>Star Wars: Episode II - Attack of the Clones (2002)</title>
 by <writer>George Lucas.</writer>
  
 
-<script><setting><setting>EXT. SPACE</setting></setting>
+<script><setting>EXT. SPACE</setting>
 
 <sd>A vast sea of stars severas as a backdrop for the Main Title, following by a rollup, which crawls into infinity.</sd>
 	
-<subTitile epNum="2">EPISODE 2 ATTACK OF THE CLONES</subTitile>
+<subTitle epNum="2">EPISODE 2 ATTACK OF THE CLONES</subTitle>
 
 <crawl>There is unrest in the Galactic Senate
 Several hundred solar systems under
@@ -723,10 +724,10 @@ Mace.</sd>
 
 <setting>INT. SENATE BUILDING, PADME'S APARTMENT, BEDROOM - NIGHT</setting>
 
-<sd>As PADME sleeps, a PROBE DROID approaches outside her window. It sends out several small arms that attach to the window, creating sparks that shut down the security system. Then a large arm cuts a small hole in the glass. A FA<setting>INT SOUND is heard as the small section of glass is removed from the window.</setting></sd>
+<sd>As PADME sleeps, a PROBE DROID approaches outside her window. It sends out several small arms that attach to the window, creating sparks that shut down the security system. Then a large arm cuts a small hole in the glass. A FAINT SOUND is heard as the small section of glass is removed from the window.</sd>
 
 
-<sd>ARTOO wakes up, and his lights go on. The PROBE DROID freezes. ARTOO looks around, makes a PLA<setting>INTIVE LITTLE SOUND, then shuts down again. The PROBE DROID attaches a little tube to the window. TWO DEADLY LOOKING CENTIPEDE-LIKE KOUHUNS exit the tube, crawl through the blinds and head toward the sleeping PADME.</setting></sd>
+<sd>ARTOO wakes up, and his lights go on. The PROBE DROID freezes. ARTOO looks around, makes a PLAINTIVE LITTLE SOUND, then shuts down again. The PROBE DROID attaches a little tube to the window. TWO DEADLY LOOKING CENTIPEDE-LIKE KOUHUNS exit the tube, crawl through the blinds and head toward the sleeping PADME.</sd>
 
 
 <setting>INT. SENATE BUILDING, PADME'S APARTMENT, MAIN ROOM - NIGHT</setting>
@@ -1767,14 +1768,14 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 
 <sd>Steam billows out from the kitchen hatch behind the counter as a huge head pokes through.</sd>
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 			Obi-Wan!
 
 <sp><speaker>OBI-WAN</speaker>
 			Hey, Dex.</sp>
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 			Take a seat! Be right with ya!
 
@@ -1786,20 +1787,20 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 <sp><speaker>OBI-WAN</speaker>
 			Thank you.</sp>
 
-<sd>HERMIONE moves off as the door to the counter opens and D<setting>EXTER JETTSTER appears. He is big - bald and sweaty, old and alien. Not someone to tangle with. He arrives, beaming hugely.</setting></sd>
+<sd>HERMIONE moves off as the door to the counter opens and DEXTER JETTSTER appears. He is big - bald and sweaty, old and alien. Not someone to tangle with. He arrives, beaming hugely.</sd>
 
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 			Hey, ol' buddy!
 
 <sp><speaker>OBI-WAN</speaker>
 			Hey, Dex.</sp>
 
-<sd>D<setting>EXTER eases himself into the seat opposite OBI-WAN. He can just make it. HERMIONE sets two mugs of steaming ardees in from of them.</setting></sd>
+<sd>DEXTER eases himself into the seat opposite OBI-WAN. He can just make it. HERMIONE sets two mugs of steaming ardees in from of them.</sd>
 
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 			So, my friend. What can I do for
 			ya?
@@ -1809,14 +1810,14 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 
 <sd>OBI-WAN places the dart on the table between them. DEX'S eyes widen. He puts down his mug.</sd>
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 			Well, whattaya know...
 
-<sd>D<setting>EXTER picks up the dart delicately between his puffy fingers and peers at it.</setting></sd>
+<sd>DEXTER picks up the dart delicately between his puffy fingers and peers at it.</sd>
 
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 				(continuing)
 			I ain't seen one of these since I
@@ -1826,10 +1827,10 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 <sp><speaker>OBI-WAN</speaker>
 			Do you know where it came from?</sp>
 
-<sd>D<setting>EXTER grins. He puts the dart down between them.</setting></sd>
+<sd>DEXTER grins. He puts the dart down between them.</sd>
 
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 			This baby belongs to them cloners.
 			What you got here is a Kamino
@@ -1840,7 +1841,7 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 			it didn't show up in any analysis
 			archive.</sp>
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 			It's these funny little cuts on
 			the side give it away...
@@ -1858,7 +1859,7 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 			Kamino... doesn't sound familiar.
 			Is it part of the Republic?</sp>
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 			No, it's beyond the Outer Rim.
 			I'd say about twelve parsecs
@@ -1874,7 +1875,7 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 <sp><speaker>OBI-WAN</speaker>
 			Cloners? Are they friendly?</sp>
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 			It depends.
 
@@ -1883,7 +1884,7 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 
 <sd>Dexter grins. </sd>
 
-<sp><speaker>D<setting>EXTER JETTSTER</setting></speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker></sp>
 
 			On how good your manners are...
 			and how big your pocketbook is...

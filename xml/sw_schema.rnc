@@ -1,20 +1,12 @@
 start = root
-root = element root{script}
-script = element script{title, writer, body, draftNum?,date?}
-title = element title{mainTitle, subTitle, epNum}
-mainTitle = element mainTitle{text}
-subTitle = element subTitle{text}
-epNum = element epNum {n,text}
-n = attribute n {xsd:integer}
-writer = element writer {text}
-body = element body {crawl,scene+}
-draftNum = element draftNum {text}
-date = element date {text}
-crawl = element crawl {text}
-scene = element scene {setting,(sd|sp)+}
+root = element root{title,text, writer, script}
+script = element script{mixed{sd|subTitle|crawl|setting|sp|speaker}*}
+sp = element sp{speaker, text}
+speaker = element speaker{text}
 setting = element setting{text}
+crawl = element crawl{text}
+subTitle = element subTitle{epNum, text}
+epNum = attribute epNum{'1'|'2'|'3'|'4'|'5'|'6'}
 sd = element sd{text}
-sp = element sp {speaker,text}
-speaker = element speaker {text}
-
-
+writer = element writer{text}
+title = element title{text}

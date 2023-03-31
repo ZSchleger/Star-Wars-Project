@@ -1,3 +1,4 @@
+<?xml-model href="sw_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 <title>STAR WARS Episode IV A NEW HOPE (1977)</title>
 by <writer>George Lucas</writer>
@@ -46,23 +47,23 @@ surface of an Art Deco design.</sd>
 
 <sd>Another blast shakes them as they struggle along their way.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Rebel troopers rush past the robots and take up positions in 
 the main passageway. They aim their weapons toward the door.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>The little R2 unit makes a series of electronic sounds that 
 only another robot could understand.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo continues making beeping sounds. Tension mounts as 
 loud metallic latches clank and the scream of heavy equipment 
 are heard moving around the outside hull of the ship.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>EXT. SPACECRAFT IN SPACE</setting>
 
@@ -86,7 +87,7 @@ arms and faces.</sd>
 
 <sd>An explosion hits near the robots.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo counters with an angry rebuttal as the battle rages 
 around the two hapless robots.</sd>
@@ -113,7 +114,7 @@ Landspeeder (an auto-like transport that travels a few feet
 above the ground on a magnetic-field). He motions for the 
 tiny robot to follow him.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>The robot scoots around in a tight circle, stops short, and 
 smoke begins to pour out of every joint. Luke throws his 
@@ -144,7 +145,7 @@ Artoo makes beeping sounds.</sd>
 nowhere in sight. The pitiful screams of the doomed Rebel 
 soldiers can be heard in the distance.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>A familiar clanking sound attacks Threepio's attention and 
 he spots little Artoo at the end of the hallway in a smoke-
@@ -154,16 +155,16 @@ dreamlike and half hidden in the smoke, she finishes adjusting
 something on Artoo's computer face, then watches as the little 
 robot joins his companion.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Stormtroopers can be heard battling in the distance.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo scoots past his bronze friend and races down the 
 subhallway. Threepio chases after him.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo responds with electronic beeps.</sd>
 
@@ -173,20 +174,20 @@ subhallway. Threepio chases after him.</sd>
 of his foes. He grabs a wounded Rebel Officer by the neck as 
 an Imperial Officer rushes up to the Dark Lord.</sd>
 
-<speaker><speaker>IMPERIAL OFFICER</speaker></speaker>
+<speaker>IMPERIAL OFFICER</speaker>
 
 <sd>Vader squeezes the neck of the Rebel Officer, who struggles 
 in vain.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>Vader lifts the Rebel off his feet by his throat.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>REBEL OFFICER</speaker></speaker>
+<speaker>REBEL OFFICER</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>The Rebel refuses to speak but eventually cries out as the 
 Dark Lord begins to squeeze the officer's throat, creating a 
@@ -194,7 +195,7 @@ gruesome snapping and choking, until the soldier goes limp.
 Vader tosses the dead soldier against the wall and turns to 
 his troops.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>The stormtroopers scurry into the subhallways.</sd>
 
@@ -207,13 +208,13 @@ eyes slowly gives way to anger as the muted crushing sounds
 of the approaching stormtroopers grow louder. One of the 
 troopers spots her.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <sd>Leia steps from her hiding place and blasts a trooper with 
 her laser pistol. She starts to run but is felled by a 
 paralyzing ray. The troopers inspect her inert body.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <setting>INT. REBEL BLOCKADE RUNNER - SUBHALLWAY</setting>
 
@@ -222,16 +223,16 @@ He snaps the seal on the main latch and a red warning light
 begins to flash. The stubby astro-robot works his way into 
 the cramped four-man pod.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo beeps something to him.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo whistles something at his reluctant friend regarding 
 the mission he is about to perform.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo isn't happy with Threepio's stubbornness, and he beeps 
 and twangs angrily.</sd>
@@ -241,27 +242,27 @@ through the narrow subhallway. Flames lick at Threepio and,
 after a flurry of electronic swearing from Artoo, the lanky 
 robot jumps into the lifepod.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. IMPERIAL STARDESTROYER</setting>
 
 <sd>On the main viewscreen, the lifepod carrying the two terrified 
 robots speeds away from the stricken Rebel spacecraft.</sd>
 
-<speaker><speaker>CHIEF PILOT</speaker></speaker>
+<speaker>CHIEF PILOT</speaker>
 
-<speaker><speaker>CAPTAIN</speaker></speaker>
+<speaker>CAPTAIN</speaker>
 
 <setting>INT. LIFEPOD</setting>
 
 <sd>Artoo and Threepio look out at the receding Imperial starship.  
 Stars circle as the pod rotates through the galaxy.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo beeps an assuring response.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY</setting>
 
@@ -271,7 +272,7 @@ empty street of the tiny settlement. An old woman runs to
 get out of the way of the speeding vehicle, shaking her fist 
 at Luke as he flies past.</sd>
 
-<speaker><speaker>WOMAN</speaker></speaker>
+<speaker>WOMAN</speaker>
 
 <setting>INT. POWER STATION - DAY</setting>
 
@@ -280,9 +281,9 @@ mechanic and Camie, a sexy, disheveled girl who has been
 asleep in his lap. They grumbled as he races through the 
 office, yelling wildly.</sd>
 
-<speaker><speaker>FIXER</speaker></speaker>
+<speaker>FIXER</speaker>
 
-<speaker><speaker>CAMIE</speaker></speaker>
+<speaker>CAMIE</speaker>
 
 <sd>Luke bounces into a small room behind the office where Deak 
 and Windy, two tough boys about the same age as Luke, are 
@@ -292,28 +293,28 @@ city attire is a sharp contrast to the loose-fitting tunics
 of the farm boys. A robot repairs some equipment in the 
 background.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke's surprise at the appearance of Biggs gives way to great 
 joy and emotion. They give each other a great bear hug.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Biggs has an air of cool that seems slightly phony.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <sd>Everyone laughs. The dazzling spectacle of his dashing friend 
 is almost too much for Luke, but suddenly he snaps out of 
 it.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>DEAK</speaker></speaker>
+<speaker>DEAK</speaker>
 
 <setting>EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION - </setting>
 DAY
@@ -322,27 +323,27 @@ DAY
 and The Fixer complain and are forced to shade their eyes. 
 Luke has his binoculars out scanning the heavens.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Biggs takes the binoculars from Luke as the others strain to 
 see something with the naked eye. Through the binoculars 
 Biggs sees two small silver specks.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Camie grabs the binoculars away banging them against the 
 building in the process. Luke grabs them.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>CAMIE</speaker></speaker>
+<speaker>CAMIE</speaker>
 
 <sd>The Fixer gives Luke a hard look and the young farm boy shrugs 
 his shoulders in resignation.</sd>
 
-<speaker><speaker>FIXER</speaker></speaker>
+<speaker>FIXER</speaker>
 
 <sd>Luke agrees, although it's obvious he isn't sure why. The 
 group stumbles back into the power station, grumbling about 
@@ -357,36 +358,36 @@ marching troops. They stop in a smoky hallway as Darth Vader
 emerges from the shadows. The sinister Dark Lord stares hard 
 at the frail young senator, but she doesn't move.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>Leia is marched away down the hallway and into the smoldering 
 hole blasted in the side of the ship. An Imperial Commander 
 turns to Vader.</sd>
 
-<speaker><speaker>COMMANDER</speaker></speaker>
+<speaker>COMMANDER</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>COMMANDER</speaker></speaker>
+<speaker>COMMANDER</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>Another Imperial Officer approaches Vader and the Commander. 
 They stop and snap to attention.</sd>
 
-<speaker><speaker>SECOND OFFICER</speaker></speaker>
+<speaker>SECOND OFFICER</speaker>
 
 <sd>Vader turns to the Commander.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>COMMANDER</speaker></speaker>
+<speaker>COMMANDER</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -401,48 +402,48 @@ kick up clouds of sand as they leave the lifepod and clumsily
 work their way across the desert wasteland. The lifepod in 
 the distance rests half buried in the sand.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo answers with beeping sounds.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo continues to respond with beeping sounds.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Suddenly Artoo whistles, makes a sharp right turn and starts 
 off in the direction of the rocky desert mesas. Threepio 
 stops and yells at him.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>A stream of electronic noises pours forth from the small 
 robot.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo counters with a long whistle.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo continues to make beeping sounds.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo continues to make beeping sounds.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Threepio gives the little robot a kick and starts off in the 
 direction of the vast dune sea.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo's reply is a rather rude sound. He turns and trudges 
 off in the direction of the towering mesas.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo beeps to himself as he makes his way toward the distant 
 mountains.</sd>
@@ -454,88 +455,88 @@ dune; only to find more dunes, which seem to go on for endless
 miles.  He looks back in the direction of the now distant 
 rock mesas.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>In a huff of anger and frustration, Threepio knocks the sand 
 from his joints. His plight seems hopeless, when a glint of 
 reflected light in the distance reveals an object moving 
 towards him.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>The bronze android waves frantically and yells at the 
 approaching transport.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY</setting>
 
 <sd>Luke and Biggs are walking and drinking a malt brew. Fixer 
 and the others can be heard working inside.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Biggs looks around then leans close to Luke.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <sd>Luke's eyes are wide with Biggs' seriousness and loyalty.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <sd>Luke, amazed and stunned, is almost speechless.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Biggs shakes his head angrily and then continues.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <sd>Biggs turns away from his old friend and heads towards the 
 power station.</sd>
@@ -597,7 +598,7 @@ shapes and sizes. Some are engaged in electronic conversation,
 while others simply mill about. A voice of recognition calls 
 out from the gloom.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>A battered Threepio scrambles up to Artoo and embraces him.</sd>
 
@@ -613,12 +614,12 @@ ridge.</sd>
 buried lifepod that brought Artoo and Threepio to Tatooine. 
 A trooper yells to an officer some distance away.</sd>
 
-<speaker><speaker>FIRST TROOPER</speaker></speaker>
+<speaker>FIRST TROOPER</speaker>
 
 <sd>A second trooper picks a small bit of metal out of the sand 
 and gives it to the first trooper.</sd>
 
-<speaker><speaker>SECOND TROOPER</speaker></speaker>
+<speaker>SECOND TROOPER</speaker>
 
 <setting>EXT. TATOOINE - DUNES</setting>
 
@@ -629,7 +630,7 @@ and gives it to the first trooper.</sd>
 <sd>Threepio and Artoo noisily bounce along inside the cramped 
 prison chamber. Artoo appears to be shut off.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Suddenly the shaking and bouncing of the Sandcrawler stops, 
 creating quite a commotion among the mechanical men.  
@@ -639,15 +640,15 @@ chamber a hatch opens, filling the chamber with blinding
 white light. a dozen or so Jawas make their way through the 
 odd assortment of robots.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>A Jawa starts moving toward them.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo responds, making beeping sounds.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON</setting>
 
@@ -676,36 +677,36 @@ pitch in a queer, unintelligible language.</sd>
 homestead. Luke goes over to the edge and sees his Aunt Beru 
 standing in the main courtyard.</sd>
 
-<speaker><speaker>BERU</speaker></speaker>
+<speaker>BERU</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke returns to his uncle as they look over the equipment 
 for sale with the Jawa leader.</sd>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>As the Jawas start to lead the three remaining robots back 
 into the Sandcrawler, Artoo lets out a pathetic little beep 
@@ -716,42 +717,42 @@ by a slimy Jawa, who zaps him with a control box.</sd>
 robots start off for the garage when a plate pops off the 
 head of the red astro-droid's head plate and it sparks wildly.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
 <sd>The Jawa goes into a loud spiel. Meanwhile, Artoo has sneaked 
 out of line and is moving up and down trying to attract 
 attention. He lets out with a low whistle. Threepio taps 
 Luke on the shoulder.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
 <sd>With a little reluctance the scruffy dwarf trades the damaged 
 astro-droid for Artoo.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Owen pays off the whining Jawa as Luke and the two robots 
 trudge off toward a grimy homestead entry.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON</setting>
 
@@ -761,7 +762,7 @@ himself into a large tub filled with warm oil. Near the
 battered Landspeeder little Artoo rests on a large battery 
 with a cord to his face.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo beeps a muffled reply. Luke seems to be lost in thought 
 as he runs his hand over the damaged fin of a small two-man 
@@ -769,52 +770,52 @@ Skyhopper spaceship resting in a low hangar off the garage.
 Finally Luke's frustrations get the better of him and he 
 slams a wrench across the workbench.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Luke glances at the battered robot. A bit of his anger drains 
 and a tiny smile creeps across his face.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Artoo beeps in response. Luke unplugs Artoo and begins to 
 scrape several connectors on the robot's head with a chrome 
 pick. Threepio climbs out of the oil tub and begins wiping 
 oil from his bronze body.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Luke struggles to remove a small metal fragment from Artoo's 
 neck joint. He uses a larger pick.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>The fragment breaks loose with a snap, sending Luke tumbling 
 head over heels. He sits up and sees a twelve-inch three-
@@ -823,105 +824,105 @@ projected from the face of little Artoo. The image is a
 rainbow of colors as it flickers and jiggles in the dimly 
 lit garage. Luke's mouth hangs open in awe.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Artoo looks around and sheepishly beeps an answer for Threepio 
 to translate. Leia continues to repeat the sentence fragment 
 over and over.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo whistles his surprise as he pretends to just notice 
 the hologram. He looks around and sheepishly beeps an answer 
 for Threepio to translate. Leia continues to repeat the 
 sentence fragment over and over.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Luke becomes intrigued by the beautiful girl.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke reaches out for Artoo but he lets out several frantic 
 squeaks and a whistle.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo whistles and beeps a long message to Threepio.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke's gazes at the beautiful young princess for a few 
 moments.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Artoo beeps something to Threepio.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Luke looks longingly at the lovely, little princess and hasn't 
 really heard what Threepio has been saying.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke takes a wedged bar and pops the restraining bolt off 
 Artoo's side.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>The princess immediately disappears...</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Artoo beeps an innocent reply as Threepio sits up in 
 embarrassment.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>A women's voice calls out from another room.</sd>
 
-<speaker><speaker>AUNT BERU</speaker></speaker>
+<speaker>AUNT BERU</speaker>
 
 <sd>Luke stands up and shakes his head at the malfunctioning 
 robot.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Luke tosses Artoo's restraining bolt on the workbench and 
 hurries out of the room.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo beeps in response.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo beeps.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. LARS HOMESTEAD - DINING AREA</setting>
 
@@ -934,66 +935,66 @@ of food and starts for the dining area.</sd>
 steaming bowls of food as Aunt Beru carries in a bowl of red 
 grain.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Owen is greatly alarmed at the mention of his name, but 
 manages to control himself.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Owen breaks loose with a fit of uncontrolled anger.</sd>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Owen's face becomes a scowl, although he tries to suppress 
 it.</sd>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
 <sd>Luke continues to toy with his food, not looking at his uncle.</sd>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
 <sd>Luke pushes his half-eaten plate of food aside and stands.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>AUNT BERU</speaker></speaker>
+<speaker>AUNT BERU</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Resigned to his fate, Luke paddles out of the room. Owen 
 mechanically finishes his dinner.</sd>
 
-<speaker><speaker>AUNT BERU</speaker></speaker>
+<speaker>AUNT BERU</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>AUNT BERU</speaker></speaker>
+<speaker>AUNT BERU</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
 <setting>EXT. TATOOINE - LARS HOMESTEAD</setting>
 
@@ -1010,14 +1011,14 @@ similar to the one the Jawas were carrying. He activates the
 box, which creates a low hum, and Threepio, letting out a 
 short yell, pops up from behind the Skyhopper spaceship.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Threepio stumbles forward, but Artoo is still nowhere in 
 sight.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke races out of the garage followed by Threepio.</sd>
 
@@ -1029,25 +1030,25 @@ robot. Threepio struggles out of the homestead and on the
 salt flat as Luke scans the landscape with his 
 electrobinoculars.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Owen yells up from the homestead plaza.</sd>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>He takes one final look across the dim horizon.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. LARS HOMESTEAD - PLAZA</setting>
 
@@ -1055,22 +1056,22 @@ electrobinoculars.</sd>
 the open courtyard. The idyll is broken be the yelling of 
 Uncle Owen, his voice echoing throughout the homestead.</sd>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
 <setting>INT. LARS HOMESTEAD - KITCHEN</setting>
 
 <sd>The interior of the kitchen is a worm glow as Aunt Beru 
 prepares the morning breakfast. Owen enters in a huff.</sd>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>AUNT BERU</speaker></speaker>
+<speaker>AUNT BERU</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
-<speaker><speaker>AUNT BERU</speaker></speaker>
+<speaker>AUNT BERU</speaker>
 
-<speaker><speaker>OWEN</speaker></speaker>
+<speaker>OWEN</speaker>
 
 <setting>EXT. TATOOINE - DESERT WASTELAND - LUKE'S SPEEDER - DAY</setting>
 
@@ -1078,26 +1079,26 @@ prepares the morning breakfast. Owen enters in a huff.</sd>
 pilots the sleek Landspeeder gracefully across the vast 
 wasteland.</sd>
 
-<setting>INT./<setting>EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING - </setting></setting>
+<setting>INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING -</setting>
 DAY
 
 <sd>Luke leans over the back of the speeder and adjusts something 
 in the motor compartment.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Threepio signals that is fine and Luke turns back into the 
 wind-whipped cockpit and pops the canopy shut.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. TATOOINE - ROCK MESA - DUNE SEA - COASTLINE - DAY</setting>
 
@@ -1129,29 +1130,29 @@ and ride off down the rugged bluff.</sd>
 with his long laser rifle slung over his shoulder, stands 
 before little Artoo.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>The little droid whistles a feeble reply, as Threepio poses 
 menacingly behind the little runaway.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Suddenly the little robot jumps to life with a mass of frantic 
 whistles and screams.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Luke swings his rifle into position and looks to the south.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. TATOOINE - ROCK CANYON - RIDGE - DAY</setting>
 
@@ -1160,7 +1161,7 @@ scans the canyon with his electrobinoculars. He spots the
 two riderless Banthas. Threepio struggles up behind the young 
 adventurer.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke watches the distant Tusken Raider through his 
 electrobinoculars. Suddenly something huge moves in front of 
@@ -1199,48 +1200,48 @@ eyes and a scraggly white beard. Ben Kenobi squints his eyes
 as he scrutinizes the unconscious farm boy. Artoo makes a 
 slight sound and Ben turns and looks right at him.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Artoo waddles over to were Luke lies crumpled in a heap and 
 begins to whistle and beep his concern. Ben puts his hand on 
 Luke's forehead and he begins to come around.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Ben ponders this for a moment, scratching his scruffy beard.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>He suddenly looks up at the overhanging cliffs.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Luke sits up and rubs his head. Artoo lets out a pathetic 
 beep causing Luke to remember something. He looks around.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. TATOOINE - SAND PIT - ROCK MESA - DAY</setting>
 
@@ -1253,22 +1254,22 @@ buried in the sand. One of his arms has broken off.</sd>
 flips a hidden switch on his back several times until finally 
 the mechanical man's systems turn on.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo makes a beeping sound.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke and Ben help the battered robot to his feet. Little 
 Artoo watches from the top of the pit. Ben glances around 
 suspiciously. Sensing something, he stands up and sniffs the 
 air.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <setting>INT. KENOBI'S DWELLING</setting>
 
@@ -1277,17 +1278,17 @@ still manages to radiate an air of time-worn comfort and
 security. Luke is in one corner repairing Threepio's arm, as 
 old Ben sits thinking.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Ben gets up and goes to a chest where he rummages around.  
 As Luke finishes repairing Threepio and starts to fit the 
@@ -1296,71 +1297,71 @@ Luke thinks about the bolt for a moment then puts it on the
 table. Ben shuffles up and presents Luke with a short handle 
 with several electronic gadgets attached to it.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Ben hands Luke the saber.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Luke pushes a button on the handle. A long beam shoots out 
 about four feet and flickers there. The light plays across 
 the ceiling.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Luke hasn't really been listening.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Artoo makes beeping sounds.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke is cut short as the recorded image of the beautiful 
 young Rebel princess is projected from Artoo's face.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Luke stops his work as the lovely girl's image flickers before 
 his eyes.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>There is a little static and the transmission is cut short.  
 Old Ben leans back and scratches his head. He silently puffs 
 on a tarnished chrome water pipe. Luke has stars in his eyes.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <setting>EXT. SPACE.</setting>
 
@@ -1374,13 +1375,13 @@ conference table. Imperial stormtroopers stand guard around
 the room. Commander Tagge, a young, slimy-looking general, 
 is speaking.</sd>
 
-<speaker><speaker>TAGGE</speaker></speaker>
+<speaker>TAGGE</speaker>
 
 <sd>The bitter Admiral Motti twists nervously in his chair.</sd>
 
-<speaker><speaker>MOTTI</speaker></speaker>
+<speaker>MOTTI</speaker>
 
-<speaker><speaker>TAGGE</speaker></speaker>
+<speaker>TAGGE</speaker>
 
 <sd>Suddenly all heads turn as Commander Tagge's speech is cut 
 short and the Grand Moff Tarkin, governor of the Imperial 
@@ -1390,32 +1391,32 @@ bow before the thin, evil-looking governor as he takes his
 place at the head of the table. The Dark Lord stands behind 
 him.</sd>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>TAGGE</speaker></speaker>
+<speaker>TAGGE</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>TAGGE</speaker></speaker>
+<speaker>TAGGE</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>MOTTI</speaker></speaker>
+<speaker>MOTTI</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>MOTTI</speaker></speaker>
+<speaker>MOTTI</speaker>
 
 <sd>Suddenly Motti chokes and starts to turn blue under Vader's 
 spell.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
 <setting>EXT. TATOOINE - WASTELAND</setting>
 
@@ -1423,27 +1424,27 @@ spell.</sd>
 Sandcrawler. Luke and Ben walk among the smoldering rubble 
 and scattered bodies.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Ben is crouching in the sand studying the tracks.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke looks back at the speeder where Artoo and Threepio are 
 inspecting the dead Jawas, and put two and two together.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke reaches a sudden horrible realization, then races for 
 the speeder and jumps it.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Luke races off leaving Ben and the two robots alone with the 
 burning Sandcrawler.</sd>
@@ -1459,7 +1460,7 @@ out and runs to the smoking holes that were once his home.
 Debris is scattered everywhere and it looks as if a great 
 battle has taken place.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke stumbles around in a daze looking for his aunt and uncle. 
 Suddenly he comes upon their smoldering remains. He is 
@@ -1477,7 +1478,7 @@ several Imperial guards to enter. Princess Leia's face is
 filled with defiance, which slowly gives way to fear as a 
 giant black torture robot enters, followed by Darth Vader.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>The torture robot gives off a steady beeping sound as it 
 approaches Princess Leia and extends one of its mechanical 
@@ -1492,9 +1493,9 @@ the Sandcrawler as Ben and the robots finish burning the
 dead.  Luke drives up in the speeder and Ben walks over to 
 him.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. TATOOINE - WASTELAND</setting>
 
@@ -1506,7 +1507,7 @@ harsh gale blows across the stark canyon floor. Luke adjusts
 his goggles and walks to the edge of the craggy bluff where 
 Ben is standing.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Ben looks over at Luke, who gives the old Jedi a determined 
 smile.</sd>
@@ -1517,32 +1518,32 @@ smile.</sd>
 hardend stormtroopers who look over the two robots. A Trooper 
 questions Luke.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <sd>Luke becomes very nervous as he fumbles to find his ID while 
 Ben speaks to the Trooper in a very controlled voice.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
 
@@ -1552,22 +1553,22 @@ transport, including several unusual beasts of burden, are
 parked outside the bar. A Jawa runs up and begins to fondle 
 the speeder.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>As Luke gets out of the speeder he tries to shoo the Jawa 
 away.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. TATOOINE - MOS EISLEY - CANTINA</setting>
 
@@ -1581,15 +1582,15 @@ drinks. Ben moves to an empty spot at the bar near a group
 of repulsive but human scum. A huge, rough-looking Bartender 
 stops Luke and the robots.</sd>
 
-<speaker><speaker>BARTENDER</speaker></speaker>
+<speaker>BARTENDER</speaker>
 
 <sd>Luke still recovering from the shock of seeing so many 
 outlandish creatures, doesn't quite catch the bartender's 
 drift.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BARTENDER</speaker></speaker>
+<speaker>BARTENDER</speaker>
 
 <sd>Luke looks at old Ben, who is busy talking to one of the 
 Galactic pirates. He notices several of the gruesome creatures 
@@ -1597,9 +1598,9 @@ along the bar are giving him a very unfriendly glare.</sd>
 
 <sd>Luke pats Threepio on the shoulder.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Threepio and his stubby partner go outside and most of the 
 creatures at the bar go back to their drinks.</sd>
@@ -1624,35 +1625,35 @@ or whatever.</sd>
 
 <sd>A large, multiple-eyed Creature gives Luke a rough shove.</sd>
 
-<speaker><speaker>CREATURE</speaker></speaker>
+<speaker>CREATURE</speaker>
 
 <sd>The hideous freak is obviously drunk. Luke tries to ignore 
 the creature and turns back on his drink. A short, grubby 
 Human and an even smaller rodent-like beast join the 
 belligerent monstrosity.</sd>
 
-<speaker><speaker>HUMAN</speaker></speaker>
+<speaker>HUMAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HUMAN</speaker></speaker>
+<speaker>HUMAN</speaker>
 
 <sd>The big creature is getting agitated and yells out some 
 unintelligible gibberish at the now rather nervous, young 
 adventurer.</sd>
 
-<speaker><speaker>HUMAN</speaker></speaker>
+<speaker>HUMAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HUMAN</speaker></speaker>
+<speaker>HUMAN</speaker>
 
 <sd>The rodent lets out a loud grunt and everything at the bar 
 moves away. Luke tries to remain cool but it isn't easy. His 
 three adversaries ready their weapons. Old Ben moves in behind 
 Luke.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>A powerful blow from the unpleasant creature sends the young 
 would-be Jedi sailing across the room, crashing through tables 
@@ -1661,7 +1662,7 @@ With a blood curdling shriek, the monster draws a wicked
 chrome laser pistol from his belt and levels it at old Ben. 
 The bartender panics.</sd>
 
-<speaker><speaker>BARTENDER</speaker></speaker>
+<speaker>BARTENDER</speaker>
 
 <sd>With astounding agility old Ben's laser sword sparks to life 
 and in a flash an arm lies on the floor. The rodent is cut 
@@ -1675,7 +1676,7 @@ given a respectable amount of room at the bar. Luke, rubbing
 his bruised head, approaches the old man with new awe. Ben 
 points the the Wookiee.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
 
@@ -1684,7 +1685,7 @@ an electronic conversation with another little red astro-
 droid. A creature comes out of the cantina and approaches 
 two stormtroopers in the street.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. TATOOINE - MOS EISLEY - CANTINA</setting>
 
@@ -1695,63 +1696,63 @@ sitting. Han is a tough, roguish starpilot about thirty years
 old. A mercenary on a starship, he is simple, sentimental, 
 and cocksure.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Ben reacts to Solo's stupid attempt to impress them with 
 obvious misinformation.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Han ponders this for a few moments.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Ben and Luke turn around to see four Imperial stormtroopers 
 looking at the dead bodies and asking the bartenders some 
 questions. The bartender points to the booth.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <sd>The stormtroopers look over at the booth but Luke and Ben 
 are gone. The bartender shrugs his shoulders in puzzlement.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. MOS EISLEY - CANTINA</setting>
 
@@ -1759,34 +1760,34 @@ are gone. The bartender shrugs his shoulders in puzzlement.</sd>
 with a short trunk-nose, pokes a gun in his side. The creature 
 speaks in a foreign tongue translated into English subtitles.</sd>
 
-<speaker><speaker>GREEDO</speaker></speaker>
+<speaker>GREEDO</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Han sits down and the alien sits across from him holding the 
 gun on him.</sd>
 
-<speaker><speaker>GREEDO</speaker></speaker>
+<speaker>GREEDO</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>GREEDO</speaker></speaker>
+<speaker>GREEDO</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>GREEDO</speaker></speaker>
+<speaker>GREEDO</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Han Solo slowly reaches for his gun under the table.</sd>
 
-<speaker><speaker>GREEDO</speaker></speaker>
+<speaker>GREEDO</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>GREEDO</speaker></speaker>
+<speaker>GREEDO</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Suddenly the slimy alien disappears in a blinding flash of 
 light. Han pulls his smoking gun from beneath the table as 
@@ -1794,7 +1795,7 @@ the other patron look on in bemused amazement. Han gets up
 and starts out of the cantina, flipping the bartender some 
 coins as he leaves.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -1802,19 +1803,19 @@ coins as he leaves.</sd>
 
 <setting>INT. DEATH STAR - CONTROL ROOM</setting>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>An Imperial Officer interrupts the meeting.</sd>
 
-<speaker><speaker>IMPERIAL OFFICER</speaker></speaker>
+<speaker>IMPERIAL OFFICER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
 
@@ -1824,21 +1825,21 @@ exotic goods in the dingy little stalls. Men, monsters, and
 robots crouch in the waste-filled doorways, whispering and 
 hiding from the hot winds.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>One of the troopers checks a tightly locked door and moves 
 on down the alleyway. The door slides open a crack and 
 Threepio peeks out. Artoo is barely visible in the background.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <sd>The door opens, Threepio moves into the doorway.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo makes beeping sounds.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>EXT. TATOOINE - MOS EISLEY - STREET - ALLEYWAY - USED </setting>
 SPEEDER LOT
@@ -1848,9 +1849,9 @@ talking with a tall, grotesque, insect-like used speeder
 dealer. Strange exotic bodies and spindly-legged beasts pass 
 by as the insect concludes the sale by giving Luke some coins.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Ben and Luke leave the speeder lot and walk down the dusty 
 alleyway past a small robot herding a bunch of anteater-like 
@@ -1859,7 +1860,7 @@ faithful speeder as he rounds a corner. A darkly clad creature
 moves out of the shadows as they pass and watches them as 
 they disappear down another alley.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <setting>INT. DOCKING BAY 94 - DAY</setting>
 
@@ -1870,33 +1871,33 @@ a grim testimonial to his prowess as a vicious killer. He is
 a fat, slug-like creature with eyes on extended feelers and 
 a huge ugly mouth.</sd>
 
-<speaker><speaker>JABBA</speaker></speaker>
+<speaker>JABBA</speaker>
 
 <sd>A voice from directly behind the pirates startles them and 
 they turn around to see Han Solo and the giant Wookiee, 
 Chewbacca, standing behind them with no weapons in sight.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>JABBA</speaker></speaker>
+<speaker>JABBA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>JABBA</speaker></speaker>
+<speaker>JABBA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>JABBA</speaker></speaker>
+<speaker>JABBA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>JABBA</speaker></speaker>
+<speaker>JABBA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>JABBA</speaker></speaker>
+<speaker>JABBA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>EXT. DOCKING PORT ENTRY - ALLEYWAY</setting>
 
@@ -1914,17 +1915,17 @@ Docking Bay 94. Resting in the middle of the huge hole is a
 large, round, beat-up, pieced-together hunk of junk that 
 could only loosely be called a starship.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>The tall figure of Han Solo comes down the boarding ramp.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Luke scratches his head. It's obvious he isn't sure about 
 all this. Chewbacca rushes up the ramp and urges the others 
 to follow.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The group rushes up the gang plank, passing a grinning Han 
 Solo.</sd>
@@ -1939,32 +1940,32 @@ engines of the starship.</sd>
 <sd>Luke, Ben, Threepio, and Artoo move toward the Millennium 
 Falcon passing Solo.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>EXT. TATOOINE - MOS EISLEY - STREET</setting>
 
 <sd>Eight Imperial stormtroopers rush up to the darkly clad 
 creature.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <sd>The darkly clad creature points to the door of the docking 
 bay.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <setting>INT. MOS EISLEY SPACEPORT - DOCKING BAY 94]</setting>
 
 <sd>The troops hold their guns at the ready and charge down the 
 docking bay entrance.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <sd>Han Solo looks up and sees the Imperial stormtroopers rushing 
 into the docking bay. Several of the troopers fire at Han as 
 he ducks into the spaceship.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <sd>Han draws his laser pistol and pops off a couple of shots 
 which force the stormtroopers to dive for safety. The 
@@ -1973,11 +1974,11 @@ slams the overhead entry shut.</sd>
 
 <setting>INT. MILLENNIUM FALCON</setting>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The group straps in for take off.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>EXT. TATOOINE - MOS EISLEY - STREETS</setting>
 
@@ -2001,7 +2002,7 @@ chatters away as he points to something on the radar scope.</sd>
 Little Artoo appears momentarily at the cockpit doorway, 
 makes a few beeping remarks, then scurries away.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>EXT. SPACE - PLANET TATOOINE</setting>
 
@@ -2015,11 +2016,11 @@ stardestroyers.</sd>
 spread before them. Luke and Ben make their way into the 
 cramped cockpit where Han continues his calculation.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>EXT. SPACE - PLANET TATOOINE</setting>
 
@@ -2029,24 +2030,24 @@ cramped cockpit where Han continues his calculation.</sd>
 
 <sd>The ship shudders as an explosion flashes outside the window.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The ship begins to rock violently as lasers hit it.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The ship is now constantly battered with laserfire as a red 
 warning light begins to flash.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The galaxy brightens and they move faster, almost as if 
 crashing a barrier. Stars become streaks as the pirateship 
@@ -2067,51 +2068,51 @@ second.</sd>
 Governor Tarkin, who stands before the huge wall screen 
 displaying a small green planet.</sd>
 
-<speaker><speaker>MOTTI</speaker></speaker>
+<speaker>MOTTI</speaker>
 
 <sd>Vader and two stormtroopers enter with Princess Leia. Her 
 hands are bound.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
 <sd>Tarkin waves menacingly toward Leia.</sd>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
 <sd>Leia overhears an intercom voice announcing the approach to 
 Alderaan.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Leia lowers her head.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <setting>INT. DEATH STAR - BLAST CHAMBER</setting>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>A button is pressed which switches on a panel of lights. A 
 hooded Imperial soldier reaches overhead and pulls a lever.  
@@ -2127,28 +2128,28 @@ The small green planet of Alderaan is blown into space dust.</sd>
 robot. Ben suddenly turns away and sits down. He falters, 
 seems almost faint.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Ben rubs his forehead. He seems to drift into a trance. Then 
 he fixes his gaze on Luke.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Han Solo enters the room.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Luke is once again practicing with the lightsaber.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Threepio watches Chewbacca and Artoo who are engrossed in a 
 game in which three-dimensional holographic figures move 
 along a chess-type board.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Chewbacca and the two robots sit around the lighted table 
 covered with small holographic monsters. Each side of the 
@@ -2156,7 +2157,7 @@ table has a small computer monitor embedded in it. Chewbacca
 seems very pleased with himself as he rests his lanky fur- 
 covered arms over his head.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo immediately reaches up and taps the computer with his 
 stubby claw hand, causing one of the holographic creatures 
@@ -2165,26 +2166,26 @@ face and he begins yelling gibberish at the tiny robot.
 Threepio intercedes on behalf of his small companion and 
 begins to argue with the huge Wookiee.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Luke stands in the middle of the small hold area; he seems 
 frozen in place. A humming lightsaber is held high over his 
 head. Ben watches him from the corner, studying his movements.  
 Han watches with a bit of smugness.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Suspended at eye level, about ten feet in front of Luke, a 
 "seeker", a chrome baseball-like robot covered with antennae, 
@@ -2196,26 +2197,26 @@ then makes another quick lunge, this time emitting a blood
 red laser beam as it attacks. It hits Luke in the leg causing 
 him to tumble over. Han lets loose with a burst of laughter.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Ben smiles quietly.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Ben places a large helmet on Luke's head which covers his 
 eyes.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Han skeptically shakes his head as Ben throws the seeker 
 into the air. The ball shoots straight up in the air, then 
@@ -2224,46 +2225,46 @@ missing the seeker, which fires off a laserbolt which hits
 Luke square on the seat of the pants. He lets out a painful 
 yell and attempts to hit the seeker.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Luke stands in one place, seemingly frozen. The seeker makes 
 a dive at Luke and, incredibly, he managed to deflect the 
 bolt. The ball ceases fire and moves back to its original 
 position.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Solo notices a small light flashing on the far side of the 
 control panel.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Han and Chewbacca head back to the cockpit.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <setting>INT. DEATH STAR - CONFERENCE ROOM</setting>
 
 <sd>Imperial Officer Cass stands before Governor Tarkin and the 
 evil Dark Lord Darth Vader.</sd>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>OFFICER CASS</speaker></speaker>
+<speaker>OFFICER CASS</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
 <setting>EXT. HYPERSPACE</setting>
 
@@ -2272,7 +2273,7 @@ surreal light show surrounds the ship.</sd>
 
 <setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Han pulls back on a control lever. Outside the cockpit window 
 stars begin streaking past, seem to decrease in speed, then 
@@ -2280,47 +2281,47 @@ stop. Suddenly the starship begins to shudder and violently
 shake about. Asteroids begin to race toward them, battering 
 the sides of the ship.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The Wookiee flips off several controls and seems very cool 
 in the emergency. Luke makes his way into the bouncing 
 cockpit.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Ben moves into the cockpit behind Luke as the ship begins to 
 settle down.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>A signal starts flashing on the control panel and a muffled 
 alarm starts humming.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Chewbacca barks his concern. A huge explosion bursts outside 
 the cockpit window, shaking the ship violently. A tiny, finned 
 Imperial TIE fighter races past the cockpit window.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -2328,13 +2329,13 @@ Imperial TIE fighter races past the cockpit window.</sd>
 
 <setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -2348,11 +2349,11 @@ fighter. In the distance, one of the stars becomes brighter
 until it is obvious that the TIE ship is heading for it. Ben 
 stands behind Chewbacca.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -2364,35 +2365,35 @@ they race toward camera and disappear over head.</sd>
 <sd>The distant star can be distinguished as a small moon or 
 planet.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The small moon begins to take on the appearance of a monstrous 
 spherical battle station.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The pirateship shudders and the TIE fighter accelerates away 
 toward the gargantuan battle station.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Ben Kenobi puts a hand on his shoulder.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <setting>INT. MILLENNIUM FALCON - DEATH STAR</setting>
 
@@ -2407,7 +2408,7 @@ the helpless pirateship is dragged.</sd>
 <sd>The helpless Millennium Falcon is pulled past a docking port 
 control room and huge laser turret cannons.</sd>
 
-<sd>VOICE OVER DEATH STAR <setting>INTERCOM</setting></sd>
+<sd>VOICE OVER DEATH STAR INTERCOM</sd>
 
 <sd>Clear Bay twenty-three-seven. We are opening the magnetic 
 field.</sd>
@@ -2418,7 +2419,7 @@ field.</sd>
 Star, coming to rest in a huge hangar. Thirty stormtroopers 
 stand at attention in a central assembly area.</sd>
 
-<speaker><speaker>OFFICER</speaker></speaker>
+<speaker>OFFICER</speaker>
 
 <setting>INT. DEATH STAR - HALLWAY</setting>
 
@@ -2430,40 +2431,40 @@ stand at attention in a central assembly area.</sd>
 readiness to board it, while other troopers stand with weapons 
 ready to fire.</sd>
 
-<speaker><speaker>OFFICER</speaker></speaker>
+<speaker>OFFICER</speaker>
 
 <setting>INT. DEATH STAR - CONFERENCE ROOM</setting>
 
 <sd>Tarkin pushes a button and responds to the intercom buzz.</sd>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>VOICE</speaker></speaker>
+<speaker>VOICE</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>INT. DEATH STAR - DOCKING BAY 2037</setting>
 
 <sd>Vader and a commander approach the troops as an Officer and 
 several heavily armed troops exit the spacecraft.</sd>
 
-<speaker><speaker>VOICE</speaker></speaker>
+<speaker>VOICE</speaker>
 
-<speaker><speaker>OFFICER</speaker></speaker>
+<speaker>OFFICER</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>OFFICER</speaker></speaker>
+<speaker>OFFICER</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>OFFICER</speaker></speaker>
+<speaker>OFFICER</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>Vader turns quickly and exits the hangar.</sd>
 
-<speaker><speaker>OFFICER</speaker></speaker>
+<speaker>OFFICER</speaker>
 
 <setting>INT. MILLENNIUM FALCON - HALLWAY</setting>
 
@@ -2473,15 +2474,15 @@ officer giving orders finally fade. Two floor panels suddenly
 pop up revealing Han Solo and Luke. Ben Kenobi sticks his 
 head out of a third locker.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Han shakes his head, muttering to himself. Chewbacca agrees.</sd>
 
@@ -2490,12 +2491,12 @@ head out of a third locker.</sd>
 <sd>The crewmen carry a heavy box on board the ship, past the 
 two stormtroopers guarding either side of the ramp.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <sd>The crewmen enter the pirateship and a loud crashing sound 
 is followed by a voice calling to the guard below.</sd>
 
-<speaker><speaker>HAN'S VOICE</speaker></speaker>
+<speaker>HAN'S VOICE</speaker>
 
 <sd>The stormtroopers enter the ship and a quick round of gunfire 
 is heard.</sd>
@@ -2506,7 +2507,7 @@ is heard.</sd>
 pirateship, a Gantry Officer looks out his window and notices 
 the guards are missing. He speaks into the comlink.</sd>
 
-<speaker><speaker>GANTRY OFFICER</speaker></speaker>
+<speaker>GANTRY OFFICER</speaker>
 
 <sd>A stormtrooper comes down the ramp of the pirateship and 
 waves to the gantry officer, pointing to his ear indicating 
@@ -2514,7 +2515,7 @@ his comlink is not working. The gantry officer shakes his
 head in disgust and heads for the door, giving his aide an 
 annoyed look.</sd>
 
-<speaker><speaker>GANTRY OFFICER</speaker></speaker>
+<speaker>GANTRY OFFICER</speaker>
 
 <sd>As the officer approaches the door, it slides open revealing 
 the towering Chewbacca. The gantry officer, in a momentary 
@@ -2525,155 +2526,155 @@ by Han, dressed as an Imperial stormtrooper. Ben and the
 robots enter the room quickly followed by Luke, also dressed 
 as a stormtrooper. Luke quickly removes his helmet.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Ben feeds some information into the computer and a map of 
 the city appears on the monitor. He begins to inspect it 
 carefully. Threepio and Artoo look over the control panel.  
 Artoo finds something that makes him whistle wildly.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Artoo punches his claw arm into the computer socket and the 
 vast Imperial brain network comes to life, feeding information 
 to the little robot. After a few moments, he beeps something.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>The computer monitor flashes readouts.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Ben studies the data on the monitor readout.</sd>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Ben adjusts the lightsaber on his belt and silently steps 
 out of the command office, then disappears down a long grey 
 hallway. Chewbacca barks a comment and Han shakes his head 
 in agreement.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Han looks at Luke.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Suddenly Artoo begins to whistle and beep a blue streak.  
 Luke goes over to him.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Artoo whistles a frantic reply.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Chewbacca growls.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Han looks at Chewie, who grunts a short grunt.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke moves toward Chewbacca with electronic cuffs.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Chewie lets out a hideous growl.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke sheepishly hands the binders to Han.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The Wookiee has a worried and frightened look on his face as 
 Han binds him with the electronic cuffs.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Luke and Han put on their armored stormtrooper helmets and 
 start off into the giant Imperial Death Star.</sd>
@@ -2688,7 +2689,7 @@ glance.</sd>
 
 <sd>Finally a small elevator arrives and the trio enters.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>A bureaucrat races to get aboard also, but is signaled away 
 by Han. The door to the pod-like vehicle slides closed and 
@@ -2712,25 +2713,25 @@ slides open behind them. The giant Wookiee and his two guards
 enter the old grey security station. Guards and laser gates 
 are everywhere. Han whispers to Luke under his breath.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. DETENTION AREA</setting>
 
 <sd>Elevator doors open. A tall, grim looking Officer approaches 
 the trio.</sd>
 
-<speaker><speaker>OFFICER</speaker></speaker>
+<speaker>OFFICER</speaker>
 
 <sd>Chewie growls a bit at the remark but Han nudges him to shut 
 up.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>OFFICER</speaker></speaker>
+<speaker>OFFICER</speaker>
 
 <sd>The officer goes back to his console and begins to punch in 
 the information. There are only three other troopers in the 
@@ -2741,11 +2742,11 @@ Chewbacca's electronic cuffs and shrugs to Luke.</sd>
 <sd>Suddenly Chewbacca throws up his hands and lets out with one 
 of his ear-piercing howls. He grabs Han's laser rifle.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The startled guards are momentarily dumbfounded. Luke and 
 Han have already pulled out their laser pistols and are 
@@ -2757,22 +2758,22 @@ about to push the alarm system. Han rushes to the comlink
 system, which is screeching questions about what is going 
 on.  He quickly checks the computer readout.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Luke races down one of the cell corridors. Han speaks into 
 the buzzing comlink.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 		<setting>INTERCOM VOICE</setting>
 		   What happened?
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 		<setting>INTERCOM VOICE</setting>
 		   We're sending a squad up.
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 		<setting>INTERCOM VOICE</setting>
 		   Who is this? What's your operating 
@@ -2780,7 +2781,7 @@ the buzzing comlink.</sd>
 
 <sd>Han blasts the comlink and it explodes.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. DEATH STAR - CELL ROW</setting>
 
@@ -2791,64 +2792,64 @@ and is now looking at him with an uncomprehending look on
 her face. Luke is stunned by her incredible beauty and stands 
 staring at her with his mouth hanging open.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Luke takes off his helmet, coming out of it.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. DEATH STAR - CONFERENCE ROOM</setting>
 
 <sd>Darth Vader paces the room as Governor Tarkin sits at the 
 far end of the conference table.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
 <sd>There is a quiet buzz on the comlink.</sd>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
 		<setting>INTERCOM VOICE</setting>
 		   Governor Tarkin, we have an emergency 
 		   alert in detention block A A-twenty-
 		   three.
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>INT. DEATH STAR - DETENTION AREA - HALLWAY</setting>
 
 <sd>An ominous buzzing sound is heard on the other side of the 
 elevator door.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Chewbacca responds with a growling noise.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>A series of explosions knock a hole in the elevator door 
 through which several Imperial troops begin to emerge.</sd>
@@ -2857,21 +2858,21 @@ through which several Imperial troops begin to emerge.</sd>
 and flame. They turn and run down the cell hallway, meeting 
 up with Luke and Leia rushing toward them.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Luke takes a small comlink transmitter from his belt as they 
 continue to exchange fire with stormtroopers making their 
 way down the corridor.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. DEATH STAR - MAIN BAY GANTRY - CONTROL TOWER</setting>
 
@@ -2879,13 +2880,13 @@ way down the corridor.</sd>
 whistles a blue streak. Threepio yells into the small comlink 
 transmitter.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Someone begins banging on the door.</sd>
 
-<speaker><speaker>TROOPER VOICE</speaker></speaker>
+<speaker>TROOPER VOICE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. DEATH STAR - DETENTION CORRIDOR</setting>
 
@@ -2895,36 +2896,36 @@ are barely able to keep the stormtroopers at bay at the far
 and of the hallway. The laserfire is very intense, and smoke 
 fills the narrow cell corridor.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Luke manages a sheepish grin and shrugs his shoulders.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>The princess grabs Luke's gun and fires at a small grate in 
 the wall next to Han, almost frying him.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>She jumps through the narrow opening as Han and Chewbacca 
 look on in amazement. Chewbacca sniffs the garbage chute and 
 says something.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Han gives him a kick and the Wookiee disappears into the 
 tiny opening. Luke and Han continue firing as they work their 
 way toward the opening.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Luke ducks laserfire as he jumps into the darkness. Han fires 
 off a couple of quick blasts creating a smokey cover, then 
@@ -2937,9 +2938,9 @@ Luke is already stumbling around looking for an exit. He
 finds a small hatchway and struggles to get it open. It won't 
 budge.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Han draws his laser pistol and fires at the hatch. The 
 laserbolt ricochets wildly around the small metal room.  
@@ -2947,55 +2948,55 @@ Everyone dives for cover in the garbage as the bolt explodes
 almost on top of them. Leia climbs out of the garbage with a 
 rather grim look on her face.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>A loud, horrible, inhuman moan works its way up from the 
 murky depths. Chewbacca lets out a terrified howl and begins 
 to back away. Han and Luke stand fast with their laser pistols 
 drawn. The Wookiee is cowering near one of the walls.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Suddenly Luke is yanked under the garbage.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Solo tries to get to Luke. Luke surfaces with a gasp of air 
 and thrashing of limbs. A membrane tentacle is wrapped around 
 his throat.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Leia extends a long pipe toward him.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Solo fires his gun downward. Luke is pulled back into the 
 muck by the slimy tentacle.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Suddenly the walls of the garbage receptacle shudder and 
 move in a couple of inches. Then everything is deathly quiet.  
@@ -3003,32 +3004,32 @@ Han and Leia give each other a worried look as Chewbacca
 howls in the corner. With a rush of bubbles and muck Luke 
 suddenly bobs to the surface.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Luke seems to be released by the thing.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Before anyone can say anything the walls begin to rumble and 
 edge toward the Rebels.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>They place poles and long metal beams between the closing 
 walls, but they are simply snapped and bent as the giant 
 trashmasher rumbles on. The situation doesn't look too good.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke pulls out his comlink.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. DEATH STAR - MAIN GANTRY - COMMAND OFFICE</setting>
 
@@ -3039,26 +3040,26 @@ Threepio are nowhere in sight. Suddenly there is a great
 explosion and the door of the control tower flies across the 
 floor. Four armed stormtroopers enter the chamber.</sd>
 
-<speaker><speaker>FIRST TROOPER</speaker></speaker>
+<speaker>FIRST TROOPER</speaker>
 
 <sd>A trooper pushes a button and the supply cabinet door slides 
 open. See-Threepio and Artoo-Detoo are inside. Artoo follows 
 his bronze companion out into the office.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>FIRST OFFICER</speaker></speaker>
+<speaker>FIRST OFFICER</speaker>
 
 <sd>The troops hustle off down the hallway, leaving a guard to 
 watch over the command office.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>The guard aims a blaster at them.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <sd>The guard nods and Threepio, with little Artoo in tow, hurries 
 out the door.</sd>
@@ -3072,26 +3073,26 @@ giant paws.</sd>
 <sd>Han is leaning back against the other wall. Garbage is 
 snapping and popping. Luke is trying to reach Threepio.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Han and Leia try to brace the contracting walls with a pole. 
 Leia begins to sink into the trash.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Little Artoo carefully plugs his claw arm into a new wall 
 socket and a complex array of electronic sounds spew from 
 the tiny robot.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. DEATH STAR - GARBAGE ROOM</setting>
 
@@ -3101,17 +3102,17 @@ other. Leia reaches out and takes Han's hand and she holds
 it tightly. She's terrified and suddenly groans as she feels 
 the first crushing pressure against her body.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo frantically beeps something to See-Threepio.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. DEATH STAR - GARBAGE ROOM</setting>
 
@@ -3124,34 +3125,34 @@ and he rips it off his belt.</sd>
 <sd>Muffled sounds of Luke's voice over the comlink can be heard, 
 but not distinctly.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. DEATH STAR - GARBAGE ROOM</setting>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. DEATH STAR - GARBAGE ROOM</setting>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Threepio holds his head in agony as he hears the incredible 
 screaming and hollering from Luke's comlink.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. DEATH STAR - GARBAGE ROOM</setting>
 
@@ -3159,16 +3160,16 @@ screaming and hollering from Luke's comlink.</sd>
 The walls have stopped moving. Han, Chewie and Leia embrace 
 in the background.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke moves to the pressure sensitive hatch, looking for a 
 number.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL</setting>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. DEATH STAR - TRACTOR BEAM - POWER GENERATOR TRENCH</setting>
 
@@ -3186,45 +3187,45 @@ and several lights on the board go from red to blue.</sd>
 Han and Luke remove the trooper suits and strap on the blaster 
 belts.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Luke smiles and scratches his head as he takes a blaster 
 from Solo.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Chewie begins growling and points to the hatch to the garbage 
 room, as he runs away and then stops howling.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>The Dia Nogu bangs against the hatch and a long, slimy 
 tentacle works its way out of the doorway searching for a 
 victim. Han aims his pistol.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Han fires at the doorway. The noise of the blast echoes 
 relentlessly throughout the empty passageway. Luke simply 
 shakes his head in disgust.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Chewie shakes his head "no."</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Han is stunned at the command of the petite young girl.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Han watches her start away. He looks at Luke.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>They follow her, moving swiftly down the deserted corridor.</sd>
 
@@ -3235,15 +3236,15 @@ stormtroopers marches to the power trench. Ben instantly
 slips into the shadows as an Officer moves to within a few 
 feet of him.</sd>
 
-<speaker><speaker>OFFICER</speaker></speaker>
+<speaker>OFFICER</speaker>
 
-<speaker><speaker>FIRST TROOPER</speaker></speaker>
+<speaker>FIRST TROOPER</speaker>
 
 <sd>All but two of the stormtroopers leave.</sd>
 
-<speaker><speaker>FIRST TROOPER</speaker></speaker>
+<speaker>FIRST TROOPER</speaker>
 
-<speaker><speaker>SECOND TROOPER</speaker></speaker>
+<speaker>SECOND TROOPER</speaker>
 
 <sd>Ben moves around the tractor beam, watching the stormtroopers 
 as they turn their backs to him. Ben gestures with his hand 
@@ -3251,9 +3252,9 @@ toward them, as the troops think they hear something in the
 other hallway. With the help of the Force, Ben deftly slips 
 past the troopers and into the main hallway.</sd>
 
-<speaker><speaker>SECOND TROOPER</speaker></speaker>
+<speaker>SECOND TROOPER</speaker>
 
-<speaker><speaker>FIRST TROOPER</speaker></speaker>
+<speaker>FIRST TROOPER</speaker>
 
 <setting>INT. DEATH STAR - HALLWAY</setting>
 
@@ -3261,43 +3262,43 @@ past the troopers and into the main hallway.</sd>
 stop before a bay window overlooking the pirateship. Troopers 
 are milling about the ship. Luke takes out his pocket comlink.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Han is watching the dozen or so troops moving in and out of 
 the pirateship. Leia moves towards Han, touches his arm and 
 points out the window to the ship.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Han gives her a dirty look, and they start off down the 
 hallway. They round a corner and run right into twenty 
 Imperial stormtroopers heading toward them. Both groups are 
 taken by surprise and stop in their tracks.</sd>
 
-<speaker><speaker>FIRST TROOPER</speaker></speaker>
+<speaker>FIRST TROOPER</speaker>
 
 <sd>Before even thinking, Han draws his laser pistol and charges 
 the troops, firing. His blaster knocks one of the 
 stormtroopers into the air. Chewie follows his captain down 
 the corridor, stepping over the fallen trooper on the floor.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Han has already rounded a corner and does not hear.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke is furious but doesn't have time to think about it for 
 muted alarms begin to go off down on the hangar deck. Luke 
@@ -3339,7 +3340,7 @@ and Luke almost rushes into the abyss. He loses his balance
 off the end of the bridge as Leia, behind him, takes hold of 
 his arm and pulls him back.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Blasts from the stormtroopers' laser guns explode nearby 
 reminding them of the oncoming danger. Luke fires back at 
@@ -3348,21 +3349,21 @@ that pops the hatch door shut with a resounding boom, leaving
 them precariously perched on a short piece of bridge overhang.  
 Laserfire from the troopers continues to hit the steel door.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Luke blasts the controls with his laser pistol.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke looks at the blasted bridge control while the 
 stormtroopers on the opposite side of the door begin making 
 ominous drilling and pounding sounds.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Luke notices something on his stormtrooper belt, when 
 laserfire hits the wall behind him. Luke aims his laser pistol 
@@ -3375,7 +3376,7 @@ and grabs at his chest.</sd>
 Luke's laserfire, and plummets down the shaft. Troopers move 
 back off the bridge; Luke hands the gun to Leia.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke pulls a thin nylon cable from his trooper utility belt. 
 It has a grappler hook on it. A trooper appears on a bridge 
@@ -3385,7 +3386,7 @@ and fires at them, as Leia returns his fire as well.
 Suddenly, the hatch door begins to open, revealing the feet 
 of more troops.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Leia hits one of the stormtroopers on the bridge above, and 
 he falls into the abyss. Luke tosses the rope across the 
@@ -3394,7 +3395,7 @@ tugs on the rope to make sure it is secure, then grabs the
 princess in his arms. Leia looks at Luke, then kisses him 
 quickly on the lips. Luke is very surprised.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Luke pushes off and they swing across the treacherous abyss 
 to the corresponding hatchway on the opposite side. Just as 
@@ -3416,7 +3417,7 @@ the hallway and starts after the old Jedi.</sd>
 <sd>Threepio looks around at the troops milling about the 
 pirateship entry ramp.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo, plugged into the computer socket, turns his dome left 
 and right, beeping a response.</sd>
@@ -3426,7 +3427,7 @@ and right, beeping a response.</sd>
 <sd>Han and Chewbacca run down a long corridor with several 
 troopers hot on their trail.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <sd>At the end of the hallway, blast doors begin to close in 
 front of them. The young starpilot and his furry companion 
@@ -3434,7 +3435,7 @@ race past the huge doors just as they are closing, and manage
 to get off a couple off laserblasts at the pursuing troops 
 before the doors slam shut.</sd>
 
-<speaker><speaker>TROOPER</speaker></speaker>
+<speaker>TROOPER</speaker>
 
 <setting>INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY</setting>
 
@@ -3444,14 +3445,14 @@ Darth Vader steps into view at the end of the tunnel, not
 ten feet away. Vader lights his saber. Ben also ignites his 
 and steps slowly forward.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>Ben Kenobi moves with elegant ease into a classical offensive 
 position. The fearsome Dark Knight takes a defensive stance.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>The two Galactic warriors stand perfectly still for a few 
 moments, sizing each other up and waiting for the right 
@@ -3468,9 +3469,9 @@ The two powerful warriors stand motionless for a few moments
 with laser swords locked in mid-air, creating a low buzzing 
 sound.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>BEN</speaker></speaker>
+<speaker>BEN</speaker>
 
 <sd>Their lightsabers continue to meet in combat.</sd>
 
@@ -3480,17 +3481,17 @@ sound.</sd>
 against the wall surveying the forward bay, watching the 
 Imperial stormtroopers make their rounds of the hangar.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Chewbacca growls a reply, as Luke and the princess join them.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. DEATH STAR - HALLWAY</setting>
 
@@ -3500,7 +3501,7 @@ Troopers look on in interest as the old Jedi and Dark Lord
 of The Sith fight. Suddenly Luke spots the battle from his 
 group's vantage point.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke, Leia, Han, and Chewie look up and see Ben and Vader 
 emerging from the hallways on the far side of the docking 
@@ -3511,7 +3512,7 @@ bay.</sd>
 <sd>Threepio and Artoo-Detoo are in the center of the Death Star's 
 Imperial docking bay.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Threepio ducks out of sight as the seven stormtroopers who 
 were guarding the starship rush past them heading towards 
@@ -3522,7 +3523,7 @@ Ben and The Sith Knight. He pulls on Artoo.</sd>
 <sd>Solo, Chewie, Luke, and Leia tensely watch the duel. The 
 troops rush toward the battling knights.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>They start for the Millennium Falcon. Ben sees the troops 
 charging toward him and realizes that he is trapped. Vader 
@@ -3541,7 +3542,7 @@ empty cloak. As the guards are distracted, the adventurers
 and the robots reach the starship. Luke sees Ben cut in two 
 and starts for him. Aghast, he yells out.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>The stormtroopers turn toward Luke and begin firing at him.  
 The robots are already moving up the ramp into the Millennium 
@@ -3549,11 +3550,11 @@ Falcon, while Luke, transfixed by anger and awe, returns
 their fire. Solo joins in the laserfire. Vader looks up and 
 advances toward them, as one of his troopers is struck down.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Luke fires his pistol at the door control panel, and it 
 explodes. The door begins to slide shut. Three troopers charge 
@@ -3564,7 +3565,7 @@ onrushing compatriots. Luke starts for the advancing troops,
 as Solo and Leia move up the ramp into the pirateship. He 
 fires, hitting a stormtrooper, who crumbles to the floor.</sd>
 
-<speaker><speaker>BEN'S VOICE</speaker></speaker>
+<speaker>BEN'S VOICE</speaker>
 
 <sd>Luke looks around to see where the voice came from. He turns 
 toward the pirateship, ducking Imperial gunfire from the 
@@ -3576,7 +3577,7 @@ troopers and races into the ship.</sd>
 The dull thud of laser bolts bouncing off the outside of the 
 ship as Chewie adjusts his controls.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Chewbacca growls in agreement.</sd>
 
@@ -3597,23 +3598,23 @@ sits down beside him.</sd>
 
 <sd>Solo spots approaching enemy ships.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. MILLENNIUM FALCON - CENTRAL HOLD AREA</setting>
 
 <sd>Luke looks downward sadly, shaking his head back and forth, 
 as the princess smiles comfortingly at him.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Artoo-Detoo beeps a reply.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Han rushes into the hold area where Luke is sitting with the 
 princess.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT</setting>
 
@@ -3635,7 +3636,7 @@ rotating turrets on either side of the ship.</sd>
 <sd>Han adjusts his headset as he sits before the controls of 
 his laser cannon, then speaks into the attached microphone.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT</setting>
 
@@ -3657,7 +3658,7 @@ cannon's control button.</sd>
 
 <sd>Chewbacca spots the enemy ships and barks.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <setting>INT. MILLENNIUM FALCON - COCKPIT - POV (POINT OF VIEW) - </setting>
 SPACE
@@ -3696,7 +3697,7 @@ hit, and bounces slightly.</sd>
 
 <sd>Luke fires at an unseen fighter.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. SPACE - MILLENNIUM FALCON/TIE FIGHTERS</setting>
 
@@ -3724,21 +3725,21 @@ pirateship.</sd>
 ship lurches violently, throwing poor Threepio into a cabinet 
 fill of small computer chips.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. MILLENNIUM FALCON - COCKPIT - GUNPORTS</setting>
 
 <sd>Leia watches the computer readout as Chewbacca manipulates 
 the ship's controls.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>An enemy laserbolt hits the pirateship's control panel, 
 causing it to blow out in a shower of sparks.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Artoo-Detoo advances toward the smoking sparking control 
 panel, dousing the inferno by spraying it with fire retardant 
@@ -3793,12 +3794,12 @@ unleashing a barrage of laserbolts at the ship.</sd>
 smiling, fires the laser cannon at it, scoring a spectacular 
 direct hit.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Han turns and gives Luke a victory wave which Luke gleefully 
 returns.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Han turns back to his laser cannon.</sd>
 
@@ -3811,7 +3812,7 @@ returns.</sd>
 <sd>While Chewbacca manipulates the controls, Leia turns, looking 
 over her shoulder out the ports.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -3852,18 +3853,18 @@ pirateship, but a well-aimed blast from Solo's laser cannon
 hits the attacker, which blows up in a small atomic shower 
 of burning fragments.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>The princess jumps up and gives Chewie a congratulatory hug.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <setting>INT. MILLENNIUM FALCON - PASSAGEWAY</setting>
 
 <sd>Threepio lies on the floor of the ship, completely tangled 
 in the smoking, sparking wires.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo turns his dome from side to side, beeping in response.</sd>
 
@@ -3877,11 +3878,11 @@ through space.</sd>
 <sd>Darth Vader strides into the control room, where Tarkin is 
 watching the huge view screen. A sea of stars is before him.</sd>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
 <setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
 
@@ -3889,47 +3890,47 @@ watching the huge view screen. A sea of stars is before him.</sd>
 the ship. Chewie moves into the aft section to check the 
 damage. Leia is seated near Han.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Frustrated, Leia shakes her head.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>She angrily turns, and as she starts out of the cockpit, 
 passes Luke coming in.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke, shaking his head, sits in the copilot seat. He and Han 
 stare out at the vast blackness of space.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke says it with finality and looks away. Han smiles at 
 young Luke's jealousy.</sd>
@@ -3966,13 +3967,13 @@ up in the interior of the crumbling temple. Willard, the
 commander of the Rebel forces, rushes up to the group and 
 gives Leia a big hug. Every one is pleased to see her.</sd>
 
-<speaker><speaker>WILLARD</speaker></speaker>
+<speaker>WILLARD</speaker>
 
 <sd>Willard composes himself, steps back and bows formally.</sd>
 
-<speaker><speaker>WILLARD</speaker></speaker>
+<speaker>WILLARD</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -3985,9 +3986,9 @@ planet Yavin.</sd>
 discussion by the buzz of the comlink. Tarkin moves to answer 
 the call.</sd>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<sd>DEATH STAR <setting>INTERCOM VOICE</setting></sd>
+<sd>DEATH STAR INTERCOM VOICE</sd>
 
 <sd>We are approaching the planet Yavin. The Rebel base is on a 
 moon on the far side. We are preparing to orbit the planet.</sd>
@@ -4007,32 +4008,32 @@ navigators, and a sprinkling of R2-type robots. Everyone is
 listening intently to what Dodonna is saying. Han and 
 Chewbacca are standing near the back.</sd>
 
-<speaker><speaker>DODONNA</speaker></speaker>
+<speaker>DODONNA</speaker>
 
 <sd>Gold Leader, a rough looking man in his early thirties, stands 
 and addresses Dodonna.</sd>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
-<speaker><speaker>DODONNA</speaker></speaker>
+<speaker>DODONNA</speaker>
 
 <sd>Artoo-Detoo stands next to a similar robot, makes beeping 
 sounds, and turns his head from right to left.</sd>
 
-<speaker><speaker>DODONNA</speaker></speaker>
+<speaker>DODONNA</speaker>
 
 <sd>A murmer of disbelief runs through the room.</sd>
 
-<speaker><speaker>DODONNA</speaker></speaker>
+<speaker>DODONNA</speaker>
 
 <sd>Luke is sitting next to Wedge Antilles, a hotshot pilot about 
 sixteen years old.</sd>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>DODONNA</speaker></speaker>
+<speaker>DODONNA</speaker>
 
 <sd>The group rises and begins to leave.</sd>
 
@@ -4048,12 +4049,12 @@ interest, as a circle of lights intertwines around one another
 on the screen showing it's position in relation to Yavin and 
 the forth moon.</sd>
 
-<sd>DEATH STAR <setting>INTERCOM VOICE</setting></sd>
+<sd>DEATH STAR INTERCOM VOICE</sd>
 
 <sd>Orbiting the planet at maximum velocity. The moon with the 
 Rebel base will be in range in thirty minutes.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>INT. MASSASSI OUTPOST - MAIN HANGAR DECK</setting>
 
@@ -4064,75 +4065,75 @@ unlocking power couplings. In an area isolated from this
 activity Luke finds Han and Chewbacca loading small boxes 
 onto an armored speeder.</sd>
 
-<speaker><speaker>MAN'S VOICE</speaker></speaker>
+<speaker>MAN'S VOICE</speaker>
 
 <sd>Han is deliberately ignoring the activity of the fighter 
 pilots' preparation. Luke is quite saddened at the sight of 
 his friend's departure.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Luke goes off and Han hesitates, then calls to him.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Luke turns and sees Han wink at him. Luke lifts his hand in 
 a small wave and then goes off.</sd>
 
 <sd>Han turns to Chewie who growls at his captain,</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. MAIN HANGAR DECK - LUKE'S SHIP</setting>
 
 <sd>Luke, Leia, and Dodonna meet under a huge space fighter.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Leia gives Luke a little kiss, turns, and goes off. As Luke 
 heads for his ship, another pilot rushes up to him and grabs 
 his arm.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Red Leader, a rugged handsome man in his forties, comes up 
 behind Luke and Biggs. He has the confident smile of a born 
 leader.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <sd>Red Leader pats Luke on the back as they stop in front of 
 his fighter.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Red Leader hurries to his own ship.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <sd>Luke laughs and shakes his head in agreement. He heads for 
 his ship.</sd>
@@ -4142,9 +4143,9 @@ spaceship, the crew chief, who is working on the craft, points
 to little Artoo, who is being hoisted into a socket on the 
 back of the fighter.</sd>
 
-<speaker><speaker>CHIEF</speaker></speaker>
+<speaker>CHIEF</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>The crewmen lower Artoo-Detoo into the craft. Now a part of 
 the exterior shell of the starship, the little droid beeps 
@@ -4156,13 +4157,13 @@ hangar as the crewmen secure his little electronic partner
 into Luke's X-wing. It's an emotional-filled moment as Artoo 
 beeps good-bye.</sd>
 
-<speaker><speaker>CHIEF</speaker></speaker>
+<speaker>CHIEF</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo beeps in agreement.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <sd>Artoo whistles his reply.</sd>
 
@@ -4176,7 +4177,7 @@ shields roll smoothly into place over each pilot. A signalman,
 holding red guiding lights, directs the ships. Luke, a trace 
 of a smile gracing his lips, peers about through his goggles.</sd>
 
-<speaker><speaker>BEN'S VOICE</speaker></speaker>
+<speaker>BEN'S VOICE</speaker>
 
 <sd>Luke is confused at the voice and taps his headphones.</sd>
 
@@ -4199,7 +4200,7 @@ ever closer to the system. A series of green dots appear
 around the fourth moon. A din of indistinct chatter fills 
 the war room.</sd>
 
-<speaker><speaker>MASSASSI <setting>INTERCOM VOICE</setting></speaker></speaker>
+<speaker>MASSASSI INTERCOM VOICE</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -4219,38 +4220,38 @@ pull away.</sd>
 <sd>Red Leader lowers his visor and adjusts his gun sights, 
 looking to each side at his wing men.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. ANOTHER COCKPIT</setting>
 
 <sd>One of the Rebel fighters checks in through his mike.</sd>
 
-<speaker><speaker>RED TEN</speaker></speaker>
+<speaker>RED TEN</speaker>
 
 <setting>INT. BIGGS' COCKPIT</setting>
 
 <sd>Biggs checks his fighter's controls, alert and ready for 
 combat.</sd>
 
-<speaker><speaker>RED SEVEN</speaker></speaker>
+<speaker>RED SEVEN</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>INT. PORKINS' COCKPIT</setting>
 
-<speaker><speaker>PORKINS</speaker></speaker>
+<speaker>PORKINS</speaker>
 
-<speaker><speaker>RED NINE</speaker></speaker>
+<speaker>RED NINE</speaker>
 
 <setting>INT. WEDGE'S FIGHTER - COCKPIT</setting>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
-<speaker><speaker>RED ELEVEN</speaker></speaker>
+<speaker>RED ELEVEN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. LUKE'S X-WING FIGHTER</setting>
 
@@ -4259,7 +4260,7 @@ head from side to side and makes beeping sounds.</sd>
 
 <setting>INT. RED LEADER'S FIGHTER - COCKPIT</setting>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -4269,11 +4270,11 @@ position.</sd>
 
 <setting>INT. BIGGS' COCKPIT</setting>
 
-<speaker><speaker>READ LEADER</speaker></speaker>
+<speaker>READ LEADER</speaker>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
@@ -4281,11 +4282,11 @@ position.</sd>
 approaching Death Star. The ship begins to be buffeted 
 slightly.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. ANOTHER COCKPIT</setting>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -4300,13 +4301,13 @@ is built into the surface on one side.</sd>
 <sd>Wedge is amazed and slightly frightened at the awesome 
 spectacle.</sd>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -4319,11 +4320,11 @@ city at night as seen from a weather satellite.</sd>
 
 <setting>INT. GOLD LEADER'S COCKPIT</setting>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
@@ -4332,7 +4333,7 @@ in from behind. Two Y-wing fighters bob back and forth in
 the background. He moves his computer targeting device into 
 position.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -4359,9 +4360,9 @@ fires.</sd>
 <sd>Princess Leia listens to the battle over the intercom.  
 Threepio is at her side.</sd>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -4386,7 +4387,7 @@ armaments and unlocking power cables.</sd>
 fortress. The Death Star surface streaks past the cockpit 
 window.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -4399,7 +4400,7 @@ the dim surface.</sd>
 <sd>Terror crosses Luke's face as he realizes he won't be able 
 to pull out in time to avoid the fireball.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>EXT. SURFACE OF DEATH STAR</setting>
 
@@ -4408,14 +4409,14 @@ of his wings slightly scorched.</sd>
 
 <setting>INT. BIGGS' COCKPIT</setting>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
 <sd>Luke adjusts his controls and breathes a sigh of relief. 
 Flak bursts outside the cockpit window.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -4430,9 +4431,9 @@ Standing in the middle of the chaos, a vision of calm and
 foreboding, is Darth Vader. One of his Astro-Officers rushes 
 up to him.</sd>
 
-<speaker><speaker>ASTRO-OFFICER</speaker></speaker>
+<speaker>ASTRO-OFFICER</speaker>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>INT. DEATH STAR</setting>
 
@@ -4447,18 +4448,18 @@ with his hand in an attempt to stop the ringing.</sd>
 
 <sd>Red Leader flies through a heavy hail of flak.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. LUKE'S X-WING - COCKPIT - TRAVELING</setting>
 
 <sd>The Red Leader's X-wing flies past Luke as he puts his nose 
 down and starts his attack dive.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -4510,21 +4511,21 @@ technicians work in front of many lighted glass walls. Dodonna
 watches quietly from one corner. One of the officers working 
 over a screen speaks into his headset.</sd>
 
-<speaker><speaker>CONTROL OFFICER</speaker></speaker>
+<speaker>CONTROL OFFICER</speaker>
 
 <setting>INT. LUKE'S X-WING - COCKPIT - TRAVELING</setting>
 
 <sd>Luke looks around to see if he can spot the approaching 
 Imperial fighters.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. RED LEADER'S X-WING - COCKPIT - TRAVELING</setting>
 
 <sd>The Death Star's surface sweeps past as Red Leader searches 
 the sky for the Imperial fighters. Flak pounds at his ship.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -4541,9 +4542,9 @@ hoping to lose the Imperial fighter.</sd>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -4556,7 +4557,7 @@ laserbolts at Biggs, but misses.</sd>
 <sd>Biggs see the TIE ship behind him and swings around, trying 
 to avoid him.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -4569,7 +4570,7 @@ fighter, who sticks close to his tail.</sd>
 <sd>Luke is flying upside down. He rotates his ship around to 
 normal attitude as he comes out of his dive.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -4588,14 +4589,14 @@ background.</sd>
 <sd>There is a shot from Luke's X-wing of the TIE ship exploding 
 in a mass of flames.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. DEATH STAR</setting>
 
 <sd>Darth Vader strides purposefully down a Death Star corridor, 
 flanked by Imperial stormtroopers.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
 
@@ -4604,13 +4605,13 @@ officers of the Rebellion stand around the huge round readout
 screen, listening to the ship-to-ship communication on the 
 room's loudspeaker.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -4630,13 +4631,13 @@ Fire breaks out on the right side of the X-wing.</sd>
 
 <sd>Luke looks out of his cockpit at the flames on his ship.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. LUKE'S X-WING FIGHTER</setting>
 
 <sd>Smoke pours out from behind Artoo-Detoo.</sd>
 
-<speaker><speaker>LUKE'S VOICE</speaker></speaker>
+<speaker>LUKE'S VOICE</speaker>
 
 <sd>Green laserfire moves past the beeping little robot as his 
 head turns.</sd>
@@ -4645,23 +4646,23 @@ head turns.</sd>
 
 <sd>Luke nervously works his controls.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
 
 <sd>In the war room, Leia stands frozen as she listens and worries 
 about Luke.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
-<speaker><speaker>RED TEN</speaker></speaker>
+<speaker>RED TEN</speaker>
 
 <setting>INT. LUKE'S X-WING - COCKPIT</setting>
 
 <sd>Luke spots the TIE fighter behind him and soars away from 
 the Death Star surface.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -4672,11 +4673,11 @@ an Imperial TIE fighter closing in on him in hot pursuit.</sd>
 
 <sd>The Death Star whips below Wedge.</sd>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
 <setting>INT. LUKE'S X-WING - COCKPIT</setting>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -4691,7 +4692,7 @@ fighter.</sd>
 
 <sd>Luke reacts frantically.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. TIE FIGHTER - COCKPIT</setting>
 
@@ -4708,7 +4709,7 @@ Luke's ship can be seen far in the distance.</sd>
 
 <sd>Luke looks about in relief.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
 
@@ -4716,16 +4717,16 @@ Luke's ship can be seen far in the distance.</sd>
 to the Rebel Fighter's radio transmissions over the war room 
 intercom.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
 
 <sd>Gold Leader peels off and starts toward the long trenches at 
 the Death Star surface pole.</sd>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -4737,7 +4738,7 @@ toward the Death Star surface.</sd>
 <sd>Leia and the others are grouped around the screen, as 
 technicians move about attending to their duties.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -4749,17 +4750,17 @@ the Death Star surface.</sd>
 <sd>Darth Vader calmly adjusts his control stick as the stars 
 whip past in the window above his head.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
 
 <sd>Technicians are seated at the computer readout table.</sd>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -4782,7 +4783,7 @@ exhaust port. Laserbolts blast toward him in increasing
 numbers, occasionally exploding near the ship causing it to 
 bounce about.</sd>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -4796,17 +4797,17 @@ fighters.</sd>
 
 <setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
 
-<speaker><speaker>GOLD FIVE</speaker></speaker>
+<speaker>GOLD FIVE</speaker>
 
 <sd>Leia, Threepio, and the technicians view the projected target 
 screen, as red and blue target lights glow. The red target 
 near the center blinks on and off.</sd>
 
-<speaker><speaker>MASSASSI <setting>INTERCOM VOICE</setting></speaker></speaker>
+<speaker>MASSASSI INTERCOM VOICE</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -4818,7 +4819,7 @@ through a hail of laserfire.</sd>
 <sd>Gold Leader pulls his computer targeting device down in front 
 of his eye. Laserbolts continue to batter the Rebel craft.</sd>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>INT. GOLD TWO'S Y-WING - COCKPIT</setting>
 
@@ -4826,23 +4827,23 @@ of his eye. Laserbolts continue to batter the Rebel craft.</sd>
 targeting eye viewer and adjusts it. His ship shudders under 
 intense laser barrage.</sd>
 
-<speaker><speaker>GOLD TWO</speaker></speaker>
+<speaker>GOLD TWO</speaker>
 
 <sd>As the fighters begin to approach the target area, suddenly 
 all the laserfire stops. An eerie clam clings over the trench 
 as the surface whips past in a blur.</sd>
 
-<speaker><speaker>GOLD TWO</speaker></speaker>
+<speaker>GOLD TWO</speaker>
 
 <setting>EXT. GOLD FIVE'S COCKPIT</setting>
 
 <sd>Gold Five looks behind him.</sd>
 
-<speaker><speaker>GOLD FIVE</speaker></speaker>
+<speaker>GOLD FIVE</speaker>
 
 <setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -4855,9 +4856,9 @@ toward the Death Star surface.</sd>
 <sd>Darth Vader calmly adjusts his control stick as the stars 
 zoom by.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
-<speaker><speaker>WINGMAN'S VOICE</speaker></speaker>
+<speaker>WINGMAN'S VOICE</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -4889,32 +4890,32 @@ formation.</sd>
 
 <sd>Gold Leader panics.</sd>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>INT. GOLD FIVE'S Y-WING - COCKPIT</setting>
 
 <sd>Gold Five, the old veteran, trys to calm Gold Leader.</sd>
 
-<speaker><speaker>GOLD FIVE</speaker></speaker>
+<speaker>GOLD FIVE</speaker>
 
 <setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
 
 <sd>The Death Star races by outside the cockpit window as he 
 adjusts his targeting device.</sd>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>INT. GOLD FIVE'S Y-WING - COCKPIT</setting>
 
 <sd>The older pilot remains calm.</sd>
 
-<speaker><speaker>GOLD FIVE</speaker></speaker>
+<speaker>GOLD FIVE</speaker>
 
 <setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
 
 <sd>Now he's really panicked.</sd>
 
-<speaker><speaker>GOLD LEADER</speaker></speaker>
+<speaker>GOLD LEADER</speaker>
 
 <setting>INT. DARTH VADER'S COCKPIT</setting>
 
@@ -4934,22 +4935,22 @@ all directions.</sd>
 
 <sd>Gold Five moves in on the exhaust port.</sd>
 
-<speaker><speaker>GOLD FIVE</speaker></speaker>
+<speaker>GOLD FIVE</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
 <sd>Luke looks over his shoulder at the action outside of his 
 cockpit.</sd>
 
-<speaker><speaker>GOLD FIVE</speaker></speaker>
+<speaker>GOLD FIVE</speaker>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. GOLD FIVE'S Y-WING - COCKPIT</setting>
 
-<speaker><speaker>GOLD FIVE</speaker></speaker>
+<speaker>GOLD FIVE</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -4968,40 +4969,40 @@ toward his death.</sd>
 <sd>Grant Moff Tarkin and a Chief Officer stand in the Death 
 Star's control room.</sd>
 
-<speaker><speaker>OFFICER</speaker></speaker>
+<speaker>OFFICER</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
 <sd>Tarkin turns to the computer readout screen. Flames move 
 around the green disk at the center of the screen, as numbers 
 read across the bottom.</sd>
 
-<speaker><speaker>VOICE</speaker></speaker>
+<speaker>VOICE</speaker>
 
 <setting>INT. READ LEADER'S COCKPIT</setting>
 
 <sd>Red Leader looks over at his wingmen.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
 
 <sd>Dodonna moves to the intercom as he fiddles with the computer 
 keys.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
-<speaker><speaker>DODONNA</speaker></speaker>
+<speaker>DODONNA</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
-<speaker><speaker>RED LEADER'S VOICE</speaker></speaker>
+<speaker>RED LEADER'S VOICE</speaker>
 
 <sd>Luke nods his head.</sd>
 
@@ -5025,7 +5026,7 @@ exhaust port.</sd>
 <sd>Red Leader looks around to watch for the TIE fighters. He 
 begins to perspire.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>EXT. SPACE</setting>
 
@@ -5045,7 +5046,7 @@ Rebel fighters.</sd>
 
 <sd>Red Ten looks around for the Imperial fighters.</sd>
 
-<speaker><speaker>RED TEN</speaker></speaker>
+<speaker>RED TEN</speaker>
 
 <setting>EXT. DEATH STAR TRENCH</setting>
 
@@ -5055,32 +5056,32 @@ them.</sd>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. RED TEN'S COCKPIT</setting>
 
-<speaker><speaker>RED TEN</speaker></speaker>
+<speaker>RED TEN</speaker>
 
 <setting>EXT. SPACE - DEATH STAR TRENCH</setting>
 
 <sd>Three X-wing fighters move in formation down the Death Star 
 trench.</sd>
 
-<speaker><speaker>RED TEN'S VOICE</speaker></speaker>
+<speaker>RED TEN'S VOICE</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
 <sd>Luke looks down at the Death Star surface below.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. RED TEN'S COCKPIT</setting>
 
 <sd>Red Ten looks up and sees the Imperial fighters.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>RED TEN</speaker></speaker>
+<speaker>RED TEN</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -5093,7 +5094,7 @@ fins as they loop toward the Death Star's surface.</sd>
 <sd>Red Leader pulls his targeting device in front of his eyes 
 and makes several adjustments.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -5101,19 +5102,19 @@ and makes several adjustments.</sd>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <sd>Red Leader looks at his computer target readout screen. He 
 then looks into his targeting device.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. DARTH VADER'S COCKPIT</setting>
 
 <sd>Vader adjusts his control lever and dives on the X-wing 
 fighters.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>EXT. DEATH STAR TRENCH</setting>
 
@@ -5152,13 +5153,13 @@ Vader's fighter behind him.</sd>
 
 <sd>Red Leader is concentrating on his targeting device.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. RED TEN'S COCKPIT.</setting>
 
 <sd>Red Ten panics.</sd>
 
-<speaker><speaker>RED TEN</speaker></speaker>
+<speaker>RED TEN</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -5187,7 +5188,7 @@ cross hairs, and fires.</sd>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. DEATH STAR</setting>
 
@@ -5199,16 +5200,16 @@ corridors are knocked against the wall and lose their balance.</sd>
 
 <sd>Leia and the others stare at the computer screen.</sd>
 
-<speaker><speaker>RED NINE'S VOICE</speaker></speaker>
+<speaker>RED NINE'S VOICE</speaker>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
 <sd>Red Leader looks back at the receding Death Star. Tiny 
 explosions are visible in the distance.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR - TIE FIGHTER</setting>
 
@@ -5221,28 +5222,28 @@ the Death Star horizon.</sd>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
 <sd>Luke tries to spot Red Leader. He looks down at the Death 
 Star surface.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. RED LEADER'S COCKPIT</setting>
 
 <sd>A wary Red Leader looks about nervously.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
 <sd>Luke looks excitedly toward Red Leader's X-wing.</sd>
 
-<speaker><speaker>RED LEADER</speaker></speaker>
+<speaker>RED LEADER</speaker>
 
 <setting>INT. DARTH VADER'S COCKPIT</setting>
 
@@ -5270,7 +5271,7 @@ situation.</sd>
 
 <sd>Grand Moff Tarkin casts a sinister eye at the computer screen.</sd>
 
-<speaker><speaker>DEATH STAR <setting>INTERCOM VOICE</setting></speaker></speaker>
+<speaker>DEATH STAR INTERCOM VOICE</speaker>
 
 <setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
 
@@ -5279,13 +5280,13 @@ intently to the talk between the pilots. The room is grim
 after Red Leader's death. Princess Leia nervously paces the 
 room.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. WEDGE'S COCKPIT</setting>
 
 <sd>The horizon twists as Wedge begins to pull out.</sd>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -5294,11 +5295,11 @@ dive toward the Death Star.</sd>
 
 <setting>INT. BIGGS' COCKPIT</setting>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -5309,13 +5310,13 @@ Laserbolts are returned from the Death Star.</sd>
 
 <sd>Luke's lifelong friend struggles with his controls.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>INT. LUKE'S COCKPIT</setting>
 
 <sd>Flak and laserbolts flash outside Luke's cockpit window.</sd>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
 <setting>EXT. DEATH STAR - GUN EMPLACEMENTS</setting>
 
@@ -5328,17 +5329,17 @@ laserbolts.</sd>
 for a moment and then moves his targeting device into 
 position.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. WEDGE'S COCKPIT</setting>
 
 <sd>Wedge looks excitedly about for any sign of the TIE fighters.</sd>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. DEATH STAR SURFACE</setting>
 
@@ -5349,7 +5350,7 @@ position.</sd>
 <sd>Luke breaks into a nervous sweat as the laserfire is returned, 
 knicking one of his wings close to the engine.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. LUKE'S X-WING FIGHTER</setting>
 
@@ -5382,17 +5383,17 @@ wings flying down the trench. He scores a direct hit on Wedge.</sd>
 
 <sd>Leia and the others are grouped around the computer board.</sd>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. WEDGE'S COCKPIT</setting>
 
-<speaker><speaker>WEDGE</speaker></speaker>
+<speaker>WEDGE</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -5402,7 +5403,7 @@ wings flying down the trench. He scores a direct hit on Wedge.</sd>
 
 <sd>Vader watches the escape but issues a command to his wingmen.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -5413,7 +5414,7 @@ still in perfect unbroken formation, tail close behind.</sd>
 
 <sd>Biggs looks around at the TIE fighters. He is worried.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -5424,7 +5425,7 @@ and Biggs.</sd>
 
 <sd>Luke looks back anxiously at little Artoo.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. LUKE'S X-WING FIGHTER</setting>
 
@@ -5450,7 +5451,7 @@ side to side.</sd>
 moment and ponders its use. He looks back into the computer 
 targeter.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -5461,7 +5462,7 @@ Biggs moves in to cover for Luke, but Vader gains on him.</sd>
 
 <sd>Biggs sees the TIE fighter aiming at him.</sd>
 
-<speaker><speaker>BIGGS</speaker></speaker>
+<speaker>BIGGS</speaker>
 
 <setting>INT. DARTH VADER'S COCKPIT</setting>
 
@@ -5490,13 +5491,13 @@ his anger is also growing.</sd>
 <sd>Grand Moff Tarkin watches the projected target screen with 
 satisfaction.</sd>
 
-<speaker><speaker>DEATH STAR <setting>INTERCOM VOICE</setting></speaker></speaker>
+<speaker>DEATH STAR INTERCOM VOICE</speaker>
 
 <setting>INT. DARTH VADER'S COCKPIT</setting>
 
 <sd>Vader takes aim on Luke and talks to the wingmen.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR - LUKE'S SHIP</setting>
 
@@ -5508,7 +5509,7 @@ satisfaction.</sd>
 glances with solid, grim determination. Threepio seems 
 nervous.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
 <setting>INT. LUKE'S X-WING - COCKPIT</setting>
 
@@ -5536,7 +5537,7 @@ nervous.</sd>
 device's screen. He looks into the targeting device, then 
 starts at a voice he hears.</sd>
 
-<speaker><speaker>BEN'S VOICE</speaker></speaker>
+<speaker>BEN'S VOICE</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -5547,7 +5548,7 @@ starts at a voice he hears.</sd>
 <sd>Luke looks up, then starts to look back into the targeting 
 device. He has second thoughts.</sd>
 
-<speaker><speaker>BEN'S VOICE</speaker></speaker>
+<speaker>BEN'S VOICE</speaker>
 
 <sd>A grim determination sweeps across Luke's face as he closes 
 his eyes and starts to mumble Ben's training to himself.</sd>
@@ -5558,7 +5559,7 @@ his eyes and starts to mumble Ben's training to himself.</sd>
 
 <setting>INT. DARTH VADER'S COCKPIT</setting>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -5569,7 +5570,7 @@ his eyes and starts to mumble Ben's training to himself.</sd>
 <sd>Luke looks to the targeting device, then away as he hears 
 Ben's voice.</sd>
 
-<speaker><speaker>BEN'S VOICE</speaker></speaker>
+<speaker>BEN'S VOICE</speaker>
 
 <sd>Luke's hand reaches for the control panel and presses the 
 button. The targeting device moves away.</sd>
@@ -5578,9 +5579,9 @@ button. The targeting device moves away.</sd>
 
 <sd>Leia and the others stand watching the projected screen.</sd>
 
-<speaker><speaker>BASE VOICE</speaker></speaker>
+<speaker>BASE VOICE</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>EXT. SURFACE OF THE DEATH STAR</setting>
 
@@ -5621,7 +5622,7 @@ sound.</sd>
 <sd>Smoke billows out around little Artoo and sparks begin to 
 fly.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>Artoo's beeping sounds die out.</sd>
 
@@ -5631,17 +5632,17 @@ fly.</sd>
 while Threepio watches the Princess. Lights representing the 
 Death Star and targets glow brightly.</sd>
 
-<speaker><speaker>MASSASSI <setting>INTERCOM VOICE</setting></speaker></speaker>
+<speaker>MASSASSI INTERCOM VOICE</speaker>
 
 <setting>INT. DEATH STAR - CONTROL ROOM</setting>
 
 <sd>Tarkin glares at the projected target screen.</sd>
 
-<speaker><speaker>DEATH STAR <setting>INTERCOM VOICE</setting></speaker></speaker>
+<speaker>DEATH STAR INTERCOM VOICE</speaker>
 
-<speaker><speaker>TARKIN</speaker></speaker>
+<speaker>TARKIN</speaker>
 
-<speaker><speaker>DEATH STAR <setting>INTERCOM VOICE</setting></speaker></speaker>
+<speaker>DEATH STAR INTERCOM VOICE</speaker>
 
 <sd>An officer reaches up and pushes buttons on the control panel, 
 as green lighted buttons turn to red.</sd>
@@ -5669,7 +5670,7 @@ targeting screen.</sd>
 <sd>Vader's targeting computer swings around into position. Vader 
 takes careful aim on Luke's X-wing fighter.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <sd>He pushes the fire buttons.</sd>
 
@@ -5689,7 +5690,7 @@ wingman.</sd>
 
 <sd>Vader is taken by surprise, and looks out from his cockpit.</sd>
 
-<speaker><speaker>VADER</speaker></speaker>
+<speaker>VADER</speaker>
 
 <setting>INT. DARTH VADER'S WINGMAN - COCKPIT</setting>
 
@@ -5700,7 +5701,7 @@ unknown attacker.</sd>
 
 <sd>Han and Chewbacca grin from ear to ear.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>EXT. SPACE AROUND THE DEATH STAR</setting>
 
@@ -5712,7 +5713,7 @@ It's a collision course.</sd>
 <sd>The wingman spots the pirateship coming at him and warns the 
 Dark Lord.</sd>
 
-<speaker><speaker>WINGMAN</speaker></speaker>
+<speaker>WINGMAN</speaker>
 
 <setting>EXT. DEATH STAR TRENCH</setting>
 
@@ -5740,13 +5741,13 @@ into space.</sd>
 
 <sd>Solo, smiling, speaks to Luke over his headset mike.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. MASSASSI OUTPOST - WAR ROOM</setting>
 
 <sd>Leia and the others listen to Solo's transmission.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
@@ -5796,13 +5797,13 @@ supernova, creating a spectacular heavenly display.</sd>
 
 <setting>INT. MILLENNIUM FALCON - COCKPIT</setting>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
 
 <sd>Luke is at ease, and his eyes are closed.</sd>
 
-<speaker><speaker>BEN'S VOICE</speaker></speaker>
+<speaker>BEN'S VOICE</speaker>
 
 <sd>The ship rocks back and forth.</sd>
 
@@ -5821,37 +5822,37 @@ throng of ground crew and pilots. Luke climbs down the ladder
 as they all welcome him with laughter, cheers, and shouting. 
 Princess Leia rushes toward him.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>She throws her arms around Luke and hugs him as they dance 
 around in a circle. Solo runs in toward Luke and they embrace 
 one another, slapping each other on the back.</sd>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
-<speaker><speaker>HAN</speaker></speaker>
+<speaker>HAN</speaker>
 
 <sd>Luke and Han look at one another, as Solo playfully shoves 
 at Luke's face. Leia moves in between them.</sd>
 
-<speaker><speaker>LEIA</speaker></speaker>
+<speaker>LEIA</speaker>
 
 <sd>Luke looks toward the ship.</sd>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <sd>The fried little Artoo-Detoo is lifted off the back of the 
 fighter and carried off under the worried eyes of Threepio.</sd>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>TECHNICIAN</speaker></speaker>
+<speaker>TECHNICIAN</speaker>
 
-<speaker><speaker>THREEPIO</speaker></speaker>
+<speaker>THREEPIO</speaker>
 
-<speaker><speaker>LUKE</speaker></speaker>
+<speaker>LUKE</speaker>
 
 <setting>INT. MASSASSI OUTPOST - MAIN THRONE ROOM</setting>
 

@@ -1,3 +1,4 @@
+<?xml-model href="sw_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 <title>Star Wars: Episode V - The Empire Strikes Back (1980)</title>
 by <writer>Lawrence Kasdan &amp; Leigh Brackett</writer>
@@ -4987,9 +4988,9 @@ him.</sd>
 
 <sp><speaker>LANDO</speaker>
 		I had no choice.  They arrived 
-right before you did.  I'm sorry.
+right before you did.  I'm sorry.</sp>
 		
-<speaker>HAN</speaker>
+<sp><speaker>HAN</speaker>
 		I'm sorry, too.</sp>
 
 <setting>EXT.  LUKE'S X-WING - BESPIN SYSTEM</setting>

@@ -1,3 +1,4 @@
+<?xml-model href="sw_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 <title>Star Wars: Episode I - The Phantom Menace (1999)</title>
 by <writer>George Lucas.</writer>
@@ -1199,7 +1200,7 @@ the larger predator. The little sub slips away.</sd>
 <sp><speaker>QUI-GON</speaker>
 	Head for that outcropping.</sp>
 
-<setting>EXT. THEED - MAIN ROAD <setting>INTO THEED - DAY (FX)</setting></setting>
+<setting>EXT. THEED - MAIN ROAD INTO THEED - DAY (FX)</setting>
 
 <sd>The long columns of the DROID ARMY move down the main road
 leading to Theed, the Naboo capital.</sd>
@@ -1304,7 +1305,7 @@ and helps to pull QUI-GON out of the water.</sd>
 <sd>The TWO JEDI turn around to see a BATTLE DROID standing in
 front of them.</sd>
 
-<speaker>BATTLE DROID 3B3</speaker>
+<sp><speaker>BATTLE DROID 3B3</speaker></sp>
 
 <sp><speaker>JAR JAR</speaker>
 	Whoa!!!</sp>
@@ -2031,7 +2032,7 @@ in rags. WATTO raises a hand, and ANAKIN flinches.</sd>
 	Mel tassa cho-passa...
 	(I was cleaning the bin like you...)</sp>
 
-<speaker>ANAKIN (SUBTITLED)</speaker>
+<sp><speaker>ANAKIN (SUBTITLED)</speaker></sp>
 
 <sp><speaker>WATTO (SUBTITLED)</speaker>
 	Chut-Chut! Ganda doe wallya.
@@ -3494,7 +3495,7 @@ it searches for OBI-WAN, QI-GON, or the QUEEN.</sd>
 
 <setting>EXT. MOS ESPA - DESERT RACE ARENA - DAY</setting>
 
-<sd>An <setting>EXTREME HIGH WIDE ANGLE reveals a vast arena in the</setting>
+<sd>An EXTREME HIGH WIDE ANGLE reveals a vast arena in the
 Tatooine desert. A large semi-circular amphitheatre that
 holds at least a hundred thousand people dominates the
 landscape. Large viewing platforms loom over the racetrack.</sd>

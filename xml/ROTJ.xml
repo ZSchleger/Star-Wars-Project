@@ -1,4 +1,6 @@
-<root>Star Wars: Episode VI - Return of the Jedi (1983)
+<?xml-model href="sw_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+ <title>Star Wars: Episode VI - Return of the Jedi (1983)</title>
 by <writer>Lawrence Kasdan &amp; George Lucas</writer>
 
 
@@ -3313,7 +3315,7 @@ All right. Stand by.</sp>
 
 <sd>We are treated to an awesome sight: first the Millennium Falcon, then 
 Ackbar's Star Cruiser, then, in large segments, the huge fleet ROARS 
-<setting>INTO HYPERSPACE. And disappears.</setting></sd>
+INTO HYPERSPACE. And disappears.</sd>
 
 <setting>83   EXT ENDOR - RIDGE OVERLOOKING CONTROL BUNKER</setting>
 

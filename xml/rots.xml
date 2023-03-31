@@ -1,3 +1,4 @@
+<?xml-model href="sw_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 <title>STAR WARS EPISODE 3: REVENGE OF THE SITH (2005)</title>
 By <writer>George Lucas</writer>
