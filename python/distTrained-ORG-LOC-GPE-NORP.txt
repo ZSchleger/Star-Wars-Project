@@ -1,0 +1,230 @@
+ARTOO : ORG
+Alderaan : ORG
+Alliance : ORG
+Anakin : GPE
+Antilles : GPE
+Army : ORG
+Artoo : GPE
+Astro : ORG
+Autopilot : ORG
+Bail Organa of Alderaan : ORG
+Banthas : ORG
+Battle Droids : ORG
+Bazda : ORG
+Bear Clan : ORG
+Bongo du bongu : ORG
+Boonta : ORG
+Boonta Eve : ORG
+Bothan : NORP
+Bothans : NORP
+Bravo Leader : ORG
+CONCORKILL : ORG
+Camp Four : FAC
+CaptainI : ORG
+Carkoon : LOC
+Clone Troopers : ORG
+Congress : ORG
+Coruscant : GPE
+Coucil : NORP
+Council : ORG
+Count Dooku : ORG
+Count Dooku's : ORG
+Count Dooku?His : ORG
+Courscant : ORG
+Dagobah : FAC
+Diplodiaclect : GPE
+Dooku : ORG
+Echo Seven : FAC
+Echo Station Three-T-Eight.(over : FAC
+Ello : ORG
+Empire : GPE
+Falcon : ORG
+Federation : ORG
+Force : ORG
+Furbog : GPE
+Galactic Empire : GPE
+General Veers : ORG
+Geonosian : NORP
+Geonosians : NORP
+Gold Group : ORG
+Gold Leader : ORG
+Gray : ORG
+Green Group : ORG
+Guilds : ORG
+Gundark : ORG
+Gungan city : GPE
+Gungans : NORP
+Han : NORP
+Hobbie : ORG
+Hoth : GPE
+Hut : ORG
+Huttese : NORP
+Hutts : GPE
+IBecause : ORG
+Iego : LOC
+Imperial : ORG
+Imperial Star Destroyer : ORG
+Imperial Starfleet : ORG
+Inkabunga : ORG
+Isuggest : ORG
+JAR : ORG
+Jango : GPE
+Jar Jar : GPE
+Jar Jar Binks!Mesa : ORG
+Jedi : ORG
+Jedi Kights : GPE
+Jev Narran's : GPE
+Kamino : FAC
+Kenobi : ORG
+Knights : ORG
+Lando : GPE
+Lando Calrissian.(into : GPE
+MALEDEE : GPE
+Magnetize : ORG
+Majaesty : ORG
+Mesa : ORG
+Mesa back!Noah : ORG
+Mmmm : GPE
+Monstairs back!Wesa : ORG
+NEE ALAVAR : ORG
+Naboo : ORG
+Natoota : ORG
+Nooooooo : ORG
+North : LOC
+Nosir : GPE
+Nubian : NORP
+Nute Gunray : ORG
+OOM-9 : ORG
+Ody Mandrell : ORG
+Ootmians : NORP
+Order : ORG
+Our Clone Intelligence Units : ORG
+Outer Rim : LOC
+Outlanders : ORG
+Padm : NORP
+Palo : GPE
+Poddraces : ORG
+Punda : NORP
+Qui-Gon : ORG
+Qui-Gon Jinn : ORG
+Qui-Gon's : ORG
+Rebels : ORG
+Red Group : ORG
+Red Leader : ORG
+Red Two : ORG
+Republiv : ORG
+Rogue : ORG
+Rogue Group : ORG
+Rogue Leader(over : ORG
+Rogue Two : ORG
+Rootleaf : ORG
+ST 321 : FAC
+Sebulba : LOC
+Senate : ORG
+Senatorial : ORG
+Separatist : NORP
+Separatists : NORP
+Spreme : NORP
+Star Destroyer : ORG
+Star Destroyers : ORG
+Steady : NORP
+Steeth pa nagoola : ORG
+Stow : ORG
+Super Star Destroyer : ORG
+Supreme : ORG
+TIE : ORG
+Tarfful : GPE
+Target : ORG
+The Commerce Guilds : ORG
+The Congress of Malastare : ORG
+The Federation Army's : ORG
+The Jedi Council : ORG
+The Jedi Order : ORG
+The Lake Country : LOC
+The Trade Federation : ORG
+Threepio : ORG
+Tibanna : GPE
+Tipoca City : GPE
+Toydarian : NORP
+Trade Federation : ORG
+Tund : GPE
+Tusekn Raiders : ORG
+Tusken Riaders : ORG
+Utapau : GPE
+Valorum as Supreme : ORG
+Wampa peedunkee unko : ORG
+Weehoo : ORG
+Whooha : ORG
+Wookiee : NORP
+YOUSA TINK WESA IN : ORG
+amu intoe : GPE
+boyos : GPE
+cheespa : ORG
+chlorian : NORP
+chowa : ORG
+crunchen : GPE
+duey lettal bitty : ORG
+getten berry berry skeered : ORG
+getten berry skeered : ORG
+guds : ORG
+mabee : ORG
+mesa : ORG
+mesa palo : ORG
+mmmm : GPE
+mooie-mooie : ORG
+noe : GPE
+nosir : ORG
+nutsen : ORG
+outlauder : ORG
+pune : GPE
+the Ancient Order of the Whills : ORG
+the Commerce Guilds : ORG
+the Confederacy of Independent Systems : ORG
+the Corporate Alliance : ORG
+the Council Chamber : ORG
+the Council of Governors : ORG
+the Death Star : ORG
+the Droid Armies : ORG
+the Droid Armies of the Trade : ORG
+the Droid Army : ORG
+the Dune Sea : LOC
+the East Platform : LOC
+the Endor moon : LOC
+the Federation Army : ORG
+the Galactic Republic : GPE
+the Galactic Senate : ORG
+the Galactic Senate of the Republic : ORG
+the General's Command Ship : ORG
+the Imperial Fleet : ORG
+the Jedi Council : ORG
+the Jedi Order : ORG
+the Jedi Temple : FAC
+the Jedi don't?The Jedi : GPE
+the Jei Council : ORG
+the Lake Country : LOC
+the Legislative Youth Program : ORG
+the Millennium Falcon : ORG
+the Outer Rim : LOC
+the Refugee Relief Movement : ORG
+the Relief Group : ORG
+the Republic every day : GPE
+the Republic. : GPE
+the Rishi Maze : FAC
+the Sanctuary Moon : LOC
+the Separatist Droid Army : ORG
+the Sovereign System of Geonosis : ORG
+the Supreme Court : ORG
+the Techno Union : ORG
+the Trade Federation : ORG
+the congress of the Republic : ORG
+the moon : LOC
+the south slope : LOC
+theDeath Star's : ORG
+this Count Dooku : ORG
+un : ORG
+wawdabe mesa : ORG
+wermo : ORG
+whata mesa sayin?!Dis : ORG
+youer election : ORG
+yousa Bombad General : ORG
+yousaway : ORG
