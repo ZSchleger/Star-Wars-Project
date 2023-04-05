@@ -33,20 +33,21 @@ TargetPath = '../ner-xml'
 #   W. J. B. Mattingly: https://ner.pythonhumanities.com/02_01_spaCy_Entity_Ruler.html
 #   spaCy documentation on NER Entity Ruler: https://spacy.io/usage/rule-based-matching#entityruler
 
-#### DR. B: COMMENTING THIS OUT UNTIL WE ARE READY FOR IT ####################
-# config = {"spans_key": None, "annotate_ents": True, "overwrite": True, "validate": True}
-# ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
+config = {"spans_key": None, "annotate_ents": True, "overwrite": True, "validate": True}
+ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
 # Notes: Mattingly has this: ruler = nlp.add_pipe("entity_ruler", after="ner", config={"validate": True})
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
-# patterns = [
+patterns = [{"label": "NULL", "pattern": "un"},
+
+    ]
 #     {"label": "PERSON", "pattern": "Ringlord"},
 #     {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^[a-z][a-z ]*[a-z]$"}}]},
 #     # ^^ Trying to remove the all lower-case entities^^^
 #     {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": ".*`.*"}}]},
 #     {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "[a-z]+[A-Z]\w+"}}]},
 # ]
-# ruler.add_patterns(patterns)
+ruler.add_patterns(patterns)
 
 # 3. Here, the function imports each individual file, one at a time
 # (received from the for-loop below.
