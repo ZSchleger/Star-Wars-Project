@@ -23,33 +23,33 @@ def readTextFiles(filepath):
         string = str(xpath)
 
         cleanedUp = regex.sub("(\.)([A-Z']])", "\1 \2", string)
-        tokens = nlp(cleanedUp)
-        listEntities = entitycollector(tokens)
+        doc = nlp(cleanedUp)
+        person_dict = entitycollector(doc)
 
-        return(listEntities)
+        return person_dict
 
 
 
-def entitycollector(tokens):
+def entitycollector(doc):
     with open('output.txt', 'w') as f:
-        entities = {}
-        for entity in tokens.ents:
+        person_dict = {}
+        for entity in doc.ents:
             if entity.label_ == 'PERSON':
-                entityText = entity.text
-                if entityText not in entities:
-                    entities[entityText] = 1
+                person_name = entity.text
+                if person_name not in person_dict:
+                    person_dict[person_name] = {'count': 1, 'verbs': []}
                 else:
-                    entities[entityText] += 1
+                    person_dict[person_name]['count'] += 1
 
-        for entity, count in entities.items():
-            entityInfo = [entity, count]
-            stringify = str(entityInfo)
-            print(stringify)
-            f.write(stringify)
-            f.write('\n')
-        print(f"{entities=}")
-        return entities
+                # use Spacy to analyze text in sp element and pick out verbs
+                sp_text = entity.root.head.text
+                sp_doc = nlp(sp_text)
+                for token in sp_doc:
+                    if token.pos_ == 'VERB':
+                        person_dict[person_name]['verbs'].append(token.lemma_)
 
+        print(f"{person_dict=}")
+        return person_dict
 
 
 
