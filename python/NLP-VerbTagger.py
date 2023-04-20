@@ -34,20 +34,20 @@ TargetPath = '../verbTagged-xml'
 #   spaCy documentation on NER Entity Ruler: https://spacy.io/usage/rule-based-matching#entityruler
 
 config = {"spans_key": None, "annotate_ents": True, "overwrite": True, "validate": True}
-ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
+# ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
 # Notes: Mattingly has this: ruler = nlp.add_pipe("entity_ruler", after="ner", config={"validate": True})
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
-patterns = [{"label": "NULL", "pattern": "un"},
+# patterns = [{"label": "NULL", "pattern": "un"},
 
-    ]
+#   ]
 #     {"label": "PERSON", "pattern": "Ringlord"},
 #     {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^[a-z][a-z ]*[a-z]$"}}]},
 #     # ^^ Trying to remove the all lower-case entities^^^
 #     {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": ".*`.*"}}]},
 #     {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "[a-z]+[A-Z]\w+"}}]},
 # ]
-ruler.add_patterns(patterns)
+# ruler.add_patterns(patterns)
 
 # 3. Here, the function imports each individual file, one at a time
 # (received from the for-loop below.
@@ -100,8 +100,12 @@ def verbCollector(tokens):
     verbs = {}
     for t in sorted(tokens):
         if t.pos_ == "VERB":
-            # if not regex.match(r"\w*\W+\w*", t.text):
-            verbs[t] = t.lemma_
+            if not regex.match(r"\w+(\W|[A-Z])+\w*", t.text):
+                if not regex.match(r"^.$", t.text):
+                    if not regex.match(r"^\W", t.text):
+                        if not str(t.text) == "co":
+                            if not str(t.text) == "re":
+                                verbs[t] = t.lemma_
     print(f"{verbs=}")
     return verbs
     # ebb: Keep the return line in position at same indentation level as the definition of the entities variable.
@@ -116,15 +120,20 @@ def assembleAllVerbs(CollPath):
             filepath = f"{CollPath}/{file}"
 
             eachFileDict = readTextFiles(filepath)
-            print(f"{eachFileDict=}")
+            # print(f"{eachFileDict=}")
             AllVerbs.update(eachFileDict)
             # ebb: The line above adds each file's new NLP data to the dictionary.
 
     print(f"{AllVerbs=}")
-    AllVerbsKeys = list(AllVerbs.keys())
-    AllVerbsKeys.sort()
-    SortedDict = {i: AllVerbs[i] for i in AllVerbsKeys}
-    print(f"{SortedDict=}")
+    distinctVerbs = {}
+    for key, value in AllVerbs.items():
+        if str(key) not in distinctVerbs.keys():
+            distinctVerbs[str(key)] = str(value)
+    distinctVerbsKeys = list(distinctVerbs.keys())
+    distinctVerbsKeys.sort()
+    print(f"{distinctVerbsKeys=}")
+    SortedDict = {i: distinctVerbs[i] for i in distinctVerbsKeys}
+    # print(f"{SortedDict=}")
     writeSortedEntries(SortedDict)
         # ebb: The function call in the above line will print the file to a useful output for review.
         # In a previous version of this file, we were printing the entire dictionary out to a file, and it was printing all the entries
@@ -143,7 +152,7 @@ def assembleAllVerbs(CollPath):
 def writeSortedEntries(dictionary):
     with open('distinct-Verbs.txt', 'w') as f:
         for key, value in dictionary.items():
-            f.write(key + ' : ' + value + '\n')
+            f.write(str(key) + ' : ' + str(value) + '\n')
 def xmlTagger(sourcePath, SortedDict):
     with open(sourcePath, 'r', encoding='utf8') as f:
         readFile = f.read()
@@ -157,14 +166,22 @@ def xmlTagger(sourcePath, SortedDict):
 
         # ebb: Work with stringFile variable to look for matches from the distinctNames set.
         for key, val in SortedDict.items():
-            replacement = '<verb lemma="' + val + '">' + key + '</verb>'
+            replacement = '<verb lemma="' + str(val) + '">' + str(key) + '</verb>'
             # print(f"{replacement=}")
-            stringFile = stringFile.replace(key, replacement)
+            stringFile = stringFile.replace(str(key), replacement)
+            cleanedUp = regex.sub(r"(<verb lemma[^<>]+?)<verb[^<>]+?>([^<>]+)</verb>([^<>]+?>)", r"\1\2\3", stringFile)
+            cleanedUp = regex.sub(r"(<verb lemma[^<>]+?>[^<>]*?)<verb[^<>]+?>([^<>]+?)</verb>([^<]*?</verb>)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(<verb lemma[^<>]+?>[^<>]*?)<verb lemma='[^<>]+?'>([^<>]+?)</verb>([^<]*?</verb>)",
+                                  r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(</?)<verb[^<>]+?>(speak|set)</verb>(er>|ting>)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(\S+)<verb[^<>]+?>(\w+)</verb>(\S*)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(\S*)<verb[^<>]+?>(\w+)</verb>(\S+)", r"\1\2\3", cleanedUp)
+            #<verb lemma="<verb lemma="blast">
             # print(f"{stringFile=}")
 
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
         with open(targetFile, 'w') as f:
-            f.write(stringFile)
+            f.write(cleanedUp)
 
 assembleAllVerbs(CollPath)
 
