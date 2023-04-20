@@ -169,15 +169,15 @@ def xmlTagger(sourcePath, SortedDict):
             replacement = '<verb lemma="' + str(val) + '">' + str(key) + '</verb>'
             # print(f"{replacement=}")
             stringFile = stringFile.replace(str(key), replacement)
-            cleanedUp = regex.sub(r"(<verb lemma[^<>]+?)<verb[^<>]+?>([^<>]+)</verb>([^<>]+?>)", r"\1\2\3", stringFile)
-            cleanedUp = regex.sub(r"(<verb lemma[^<>]+?>[^<>]*?)<verb[^<>]+?>([^<>]+?)</verb>([^<]*?</verb>)", r"\1\2\3", cleanedUp)
-            cleanedUp = regex.sub(r"(<verb lemma[^<>]+?>[^<>]*?)<verb lemma='[^<>]+?'>([^<>]+?)</verb>([^<]*?</verb>)",
-                                  r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(<verb lemma[^<>]+?)<verb[^<>]+>([^<>]+)</verb>([^<>]+?>)", r"\1\2\3", stringFile)
+            cleanedUp = regex.sub(r"(<verb[^<>]+>[^<>]*)<verb[^<>]+>([^<>]+?)</verb>([^<>]*?</verb>)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(<verb[^<>]+>[^<>]*)<verb[^<>]+>([^<>]+)</verb>([^<>]*</verb>)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(<verb[^<>]+>[^<>]*)<verb[^<>]+>([^<>]+)</verb>([^<>]*</verb>)", r"\1\2\3", cleanedUp)
             cleanedUp = regex.sub(r"(</?)<verb[^<>]+?>(speak|set)</verb>(er>|ting>)", r"\1\2\3", cleanedUp)
-            cleanedUp = regex.sub(r"(\S+)<verb[^<>]+?>(\w+)</verb>(\S*)", r"\1\2\3", cleanedUp)
-            cleanedUp = regex.sub(r"(\S*)<verb[^<>]+?>(\w+)</verb>(\S+)", r"\1\2\3", cleanedUp)
-            #<verb lemma="<verb lemma="blast">
-            # print(f"{stringFile=}")
+            cleanedUp = regex.sub(r"(\S+)<verb[^<>]+>(\w+)</verb>(\S*)", r"\1\2\3", cleanedUp)
+            cleanedUp = regex.sub(r"(\S*)<verb[^<>]+>(\w+)</verb>(\S+)", r"\1\2\3", cleanedUp)
+            # ebb: The above is a series of regex cleanups to deal with problematic overtagging from the spaCy language model.
+            # print(f"{cleanedUp=}")
 
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
         with open(targetFile, 'w') as f:
