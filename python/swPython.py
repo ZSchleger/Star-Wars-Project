@@ -9,7 +9,7 @@ from saxonche import PySaxonProcessor
 # nlp = spacy.cli.download("en_core_web_lg")
 nlp = spacy.load('en_core_web_lg')
 
-CollPath = './xml'
+CollPath = '../xml'
 
 
 def readTextFiles(filepath):
@@ -19,7 +19,7 @@ def readTextFiles(filepath):
         node = proc.parse_xml(xml_text=xml)
         xp.set_context(xdm_item=node)
 
-        xpath = xp.evaluate('//script//sp ! normalize-space() => string-join()')
+        xpath = xp.evaluate('(//script//sp/text(), //script//sd, //script//crawl) ! normalize-space() => string-join()')
         string = str(xpath)
 
         cleanedUp = regex.sub("(\.)([A-Z']])", "\1 \2", string)
