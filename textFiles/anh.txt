@@ -1,20 +1,22 @@
-Star Wars: Episode IV - A New Hope (1977)
-by George Lucas
+<root>
+<title>Star Wars: Episode IV - A New Hope (1977)</title>
+by <writer>George Lucas</writer>
 
+<script>
 A vast sea of stars serves as the backdrop for the main
 title. War drums echo through the heavens as a rollup slowly
 crawls into infinity.
 
-EPISODE 4 A NEW HOPE
+<subTitle epNum="4">EPISODE 4 A NEW HOPE</subTitle>
 
-It is a period of civil war. Rebel spaceships, striking from
+<crawl>It is a period of civil war. Rebel spaceships, striking from
 a hidden base, have won their first victory against the evil
 Galactic Empire. During the battle, Rebel spies managed to steal secret plans
 to the Empire's ultimate weapon, the Death Star, an armored
 space station with enough power to destroy an entire planet.
 Pursued by the Empire's sinister agents, Princess Leia races
 home aboard her starship, custodian of the stolen plans that
-can save her people and restore freedom to the galaxy...
+can save her people and restore freedom to the galaxy...</crawl>
 
 The awesome yellow planet of Tatooine emerges from a total
 eclipse, her two moons glowing against the darkness. A tiny
@@ -24,7 +26,7 @@ by a giant Imperial Stardestroyer. Hundreds of deadly
 laserbolts streak from the Imperial Stardestroyer, causing
 the main solar fin of the Rebel craft to disintegrate.
 
-1 INT. REBEL BLOCKADE RUNNER - MAIN PASSAGEWAY 1
+<setting>1 INT. REBEL BLOCKADE RUNNER - MAIN PASSAGEWAY 1</setting>
 
 An explosion rocks the ship as two robots, Artoo-Detoo (R2-
 D2) and See-Threepio (C-3PO) struggle to make their way
@@ -44,24 +46,24 @@ destroyed for sure. This is
 madness!
 Rebel troopers rush past the robots and take up positions in
 the main passageway. They aim their weapons toward the door.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 We're doomed!
 The little R2 unit makes a series of electronic sounds that
 only another robot could understand.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 There'll be no escape for the
 Princess this time.
 Artoo continues making beeping sounds. Tension mounts as
 loud metallic latches clank and the scream of heavy
 equipment are heard moving around the outside hull of the
 ship.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 What's that?
-2 EXT. SPACECRAFT IN SPACE 2
+<setting>2 EXT. SPACECRAFT IN SPACE 2</setting>
 The Imperial craft has easily overtaken the Rebel Blockade
 Runner. The smaller Rebel ship is being drawn into the
 underside dock of the giant Imperial starship.
-3 INT. REBEL BLOCKADE RUNNER 3
+<setting>3 INT. REBEL BLOCKADE RUNNER 3</setting>
 The nervous Rebel troopers aim their weapons. Suddenly a
 tremendous blast opens up a hole in the main passageway and
 a score of fearsome armored spacesuited stormtroopers make
@@ -80,7 +82,7 @@ thermocapsulary dehousing
 assister...
 Artoo counters with an angry rebuttal as the battle rages
 around the two hapless robots.
-4 EXT. TATOOINE - DESERT WASTELAND - DAY 4
+<setting>4 EXT. TATOOINE - DESERT WASTELAND - DAY 4</setting>
 A death-white wasteland stretches from horizon to horizon.
 The tremendous heat of two huge twin suns settle on a lone
 figure, Luke Skywalker, a farm boy with heroic aspirations
@@ -108,7 +110,7 @@ smoke begins to pour out of every joint. Luke throws his
 arms up in disgust. Exasperated, the young farm boy jumps
 into his Landspeeder leaving the smoldering robot to hum
 madly.
-5 INT. REBEL BLOCKADE RUNNER - MAIN HALLWAY 5
+<setting>5 INT. REBEL BLOCKADE RUNNER - MAIN HALLWAY 5</setting>
 The awesome, seven-foot-tall Dark Lord of the Sith makes his
 way into the blinding light of the main passageway. This is
 Darth Vader, right hand of the Emperor. His face is obscured
@@ -118,10 +120,10 @@ Imperial stormtroopers. Everyone instinctively backs away
 from the imposing warrior and a deathly quiet sweeps through
 the Rebel troops. Several of the Rebel troops break and run
 in a frenzied panic.
-6 INT. REBEL BLOCKADE RUNNER 6
+<setting>6 INT. REBEL BLOCKADE RUNNER 6</setting>
 A woman's hand puts a card into an opening in Artoo's dome.
 Artoo makes beeping sounds.
-7 INT. REBEL BLOCKADE RUNNER 7
+<setting>7 INT. REBEL BLOCKADE RUNNER 7</setting>
 Threepio stands in a hallway, somewhat bewildered. Artoo is
 nowhere in sight. The pitiful screams of the doomed Rebel
 soldiers can be heard in the distance.
@@ -134,20 +136,20 @@ old) stands in front of Artoo.
 Surreal and out of place, dreamlike and half hidden in the
 smoke, she finishes adjusting something on Artoo's computer
 face, then watches as the little robot joins his companion.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 At last! Where have you been?
 Stormtroopers can be heard battling in the distance.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 They're heading in this direction.
 What are we going to do? We'll be
 sent to the spice mine of Kessel or
 smashed into who knows what!
 Artoo scoots past his bronze friend and races down the
 subhallway. Threepio chases after him.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Wait a minute, where are you going?
 Artoo responds with electronic beeps.
-8 INT. REBEL BLOCKADE RUNNER - CORRIDOR 8
+<setting>8 INT. REBEL BLOCKADE RUNNER - CORRIDOR 8</setting>
 The evil Darth Vader stands amid the broken and twisted
 bodies of his foes. He grabs a wounded Rebel Officer by the
 neck as an Imperial Officer rushes up to the Dark Lord.
@@ -160,7 +162,7 @@ VADER
 Where are those transmissions you
 intercepted?
 Vader lifts the Rebel off his feet by his throat.
-VADER (CONT’D)
+VADER (CONTINUED)
 What have you done with those
 plans?
 REBEL OFFICER
@@ -176,13 +178,13 @@ Dark Lord begins to squeeze the officer's throat, creating a
 gruesome snapping and choking, until the soldier goes limp.
 Vader tosses the dead soldier against the wall and turns to
 his troops.
-VADER (CONT’D)
+VADER (CONTINUED)
 Commander, tear this ship apart
 until you've found those plans and
 bring me the Ambassador. I want her
 alive!
 The stormtroopers scurry into the subhallways.
-9 INT. REBEL BLOCKADE RUNNER - SUBHALLWAY 9
+<setting>9 INT. REBEL BLOCKADE RUNNER - SUBHALLWAY 9</setting>
 The lovely young girl huddles in a small alcove as the
 stormtroopers search through the ship. She is Princess Leia
 Organa, a member of the Alderaan Senate. The fear in her
@@ -194,10 +196,10 @@ There she is! Set for stun!
 Leia steps from her hiding place and blasts a trooper with
 her laser pistol. She starts to run but is felled by a
 paralyzing ray. The troopers inspect her inert body.
-TROOPER (CONT’D)
+TROOPER (CONTINUED)
 She'll be all right. Inform Lord
 Vader we have a prisoner.
-10 INT. REBEL BLOCKADE RUNNER - SUBHALLWAY 10
+<setting>10 INT. REBEL BLOCKADE RUNNER - SUBHALLWAY 10</setting>
 Artoo stops before the small hatch of an emergency lifepod.
 He snaps the seal on the main latch and a red warning light
 begins to flash. The stubby astro-robot works his way into
@@ -207,7 +209,7 @@ Hey, you're not permitted in there.
 It's restricted. You'll be
 deactivated for sure..
 Artoo beeps something to him.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Don't call me a mindless
 philosopher, you overweight glob of
 grease! Now come out before
@@ -215,7 +217,7 @@ somebody sees you.
 5.
 Artoo whistles something at his reluctant friend regarding
 the mission he is about to perform.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Secret mission? What plans? What
 are you talking about? I'm not
 getting in there!
@@ -225,9 +227,9 @@ A new explosion, this time very close, sends dust and debris
 through the narrow subhallway. Flames lick at Threepio and,
 after a flurry of electronic swearing from Artoo, the lanky
 robot jumps into the lifepod.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 I'm going to regret this.
-11 INT. IMPERIAL STARDESTROYER 11
+<setting>11 INT. IMPERIAL STARDESTROYER 11</setting>
 On the main viewscreen, the lifepod carrying the two
 terrified robots speeds away from the stricken Rebel
 spacecraft.
@@ -236,7 +238,7 @@ There goes another one.
 CAPTAIN
 Hold your fire. There are no life
 forms. It must have been shortcircuited.
-12 INT. LIFEPOD 12
+<setting>12 INT. LIFEPOD 12</setting>
 Artoo and Threepio look out at the receding Imperial
 starship. Stars circle as the pod rotates through the
 galaxy.
@@ -244,9 +246,9 @@ THREEPIO
 That's funny, the damage doesn't
 look as bad from out here.
 Artoo beeps an assuring response.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Are you sure this things safe?
-13 EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY13
+<setting>13 EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY13</setting>
 Heat waves radiate from the dozen or so bleached white
 buildings. Luke pilots his Landspeeder through the dusty
 empty street of the tiny settlement.
@@ -255,7 +257,7 @@ An old woman runs to get out of the way of the speeding
 vehicle, shaking her fist at Luke as he flies past.
 WOMAN
 I've told you kids to slow down!
-14 INT. POWER STATION - DAY 14
+<setting>14 INT. POWER STATION - DAY 14</setting>
 Luke bursts into the power station, waking The Fixer, a
 rugged mechanic and Camie, a sexy, disheveled girl who has
 been asleep in his lap. They grumbled as he races through
@@ -278,7 +280,7 @@ Shape it up you guys!... Biggs?
 Luke's surprise at the appearance of Biggs gives way to
 great joy and emotion. They give each other a great bear
 hug.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 I didn't know you were back! When
 did you get in?
 BIGGS
@@ -312,7 +314,7 @@ going on! Right here in our system.
 Come and look!
 DEAK
 Not again! Forget it.
-15 EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION -15
+<setting>15 EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION -15</setting>
 DAY
 The group stumbles out into the
 stifling desert sun. Camie and The
@@ -335,7 +337,7 @@ But there was a lot of firing
 earlier...
 Camie grabs the binoculars away banging them against the
 building in the process. Luke grabs them.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 Hey, easy with those...
 8.
 CAMIE
@@ -351,7 +353,7 @@ planet is a big hunk of nothing...
 Luke agrees, although it's obvious he isn't sure why. The
 group stumbles back into the power station, grumbling about
 Luke's ineptitude.
-16 INT. REBEL BLOCKADE RUNNER - HALLWAY 16
+<setting>16 INT. REBEL BLOCKADE RUNNER - HALLWAY 16</setting>
 Princess Leia is led down a low-ceilinged hallway by a squad
 of armored stormtroopers. Her hands are bound and she is
 brutally shoved when she is unable to keep up with the
@@ -421,11 +423,11 @@ personally, Commander. There'll be
 no one to stop us this time.
 COMMANDER
 Yes, sir.
-17 EXT. SPACE 17
+<setting>17 EXT. SPACE 17</setting>
 The Imperial Stardestroyer comes over the surface of the
 planet Tatooine.
 10.
-18 EXT. TATOOINE - DESERT 18
+<setting>18 EXT. TATOOINE - DESERT 18</setting>
 Jundland, or "No Man's Land", where the rugged desert mesas
 meet the foreboding dune sea. The two helpless astro-droids
 kick up clouds of sand as they leave the lifepod and
@@ -437,33 +439,33 @@ really don't know how. We seem to
 be made to suffer. It's our lot in
 life.
 Artoo answers with beeping sounds.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 I've got to rest before I fall
 apart. My joints are almost frozen.
 Artoo continues to respond with beeping sounds.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 What a desolate place this is.
 Suddenly Artoo whistles, makes a sharp right turn and starts
 off in the direction of the rocky desert mesas. Threepio
 stops and yells at him.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Where are you going?
 A stream of electronic noises pours forth from the small
 robot.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Well, I'm not going that way. It's
 much too rocky. This way is much
 easier.
 Artoo counters with a long whistle.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 What makes you think there are
 settlements over there?
 Artoo continues to make beeping sounds.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Don't get technical with me.
 Artoo continues to make beeping sounds.
 11.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 What mission? What are you talking
 about? I've had just about enough
 of you! Go that way! You'll be
@@ -471,18 +473,18 @@ malfunctioning within a day, you
 nearsighted scrap pile!
 Threepio gives the little robot a kick and starts off in the
 direction of the vast dune sea.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 And don't let me catch you
 following me begging for help,
 because you won't get it.
 Artoo's reply is a rather rude sound. He turns and trudges
 off in the direction of the towering mesas.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 No more adventures. I'm not going
 that way.
 Artoo beeps to himself as he makes his way toward the
 distant mountains.
-19 EXT. TATOOINE - DUNE SEA 19
+<setting>19 EXT. TATOOINE - DUNE SEA 19</setting>
 Threepio, hot and tired, struggles up over the ridge of a
 dune; only to find more dunes, which seem to go on for
 endless miles. He looks back in the direction of the now
@@ -496,15 +498,15 @@ In a huff of anger and frustration, Threepio knocks the sand
 from his joints. His plight seems hopeless, when a glint of
 reflected light in the distance reveals an object moving
 towards him.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Wait, what's that? A transport! I'm
 saved!
 The bronze android waves frantically and yells at the
 approaching transport.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Over here! Help! Please, help!
 12.
-20 EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY20
+<setting>20 EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY20</setting>
 Luke and Biggs are walking and drinking a malt brew. Fixer
 and the others can be heard working inside.
 LUKE
@@ -648,7 +650,7 @@ BIGGS
 So long, Luke.
 Biggs turns away from his old friend and heads towards the
 power station.
-21 EXT. TATOOINE - ROCK CANYON - SUNSET 21
+<setting>21 EXT. TATOOINE - ROCK CANYON - SUNSET 21</setting>
 The gargantuan rock formations are shrouded in a strange
 foreboding mist and the onimous sounds of unearthly
 creatures fill the air. Artoo moves cautiously through the
@@ -673,7 +675,7 @@ their faces are shrouded so only their glowing eyes can be
 seen. They hiss and make odd guttural sounds as they heave
 the heavy robot onto their shoulders and carry him off down
 the trail.
-22 EXT. TATOOINE - ROCK CANYON - SANDCRAWLER - SUNSET 22
+<setting>22 EXT. TATOOINE - ROCK CANYON - SANDCRAWLER - SUNSET 22</setting>
 The eight Jawas carry Artoo out of the canyon to a huge tanklike vehicle the size of a four-story house. They weld a
 small disk on the side of Artoo and then put him under a
 large tube on the side of the vehicle and the little robot
@@ -681,7 +683,7 @@ is sucked into the giant machine.
 The filthy little Jawas scurry like rats up small ladders
 and enter the main cabin of the behemoth transport.
 16.
-23 INT. SANDCRAWLER - HOLD AREA 23
+<setting>23 INT. SANDCRAWLER - HOLD AREA 23</setting>
 It is dim inside the hold area of the Sandcrawler. Artoo
 switches on a small floodlight on his forehead and stumbles
 around the scrap heap. The narrow beam swings across rusty
@@ -689,7 +691,7 @@ metal rocket parts and an array of grotesquely twisted and
 maimed astro-robots. He lets out a pathetic electronic
 whimper and stumbles off toward what appears to be a door at
 the end of the chamber.
-24 INT. SANDCRAWLER - PRISON AREA 24
+<setting>24 INT. SANDCRAWLER - PRISON AREA 24</setting>
 Artoo enters a wide room with a four-foot ceiling. In the
 middle of the scrap heap sit a dozen or so robots of various
 shapes and sizes. Some are engaged in electronic
@@ -698,11 +700,11 @@ recognition calls out from the gloom.
 THREEPIO
 Artoo-Detoo! It's you! It's you!
 A battered Threepio scrambles up to Artoo and embraces him.
-25 EXT. TATOOINE - ROCK CANYON - SANDCRAWLER - SUNSET 25
+<setting>25 EXT. TATOOINE - ROCK CANYON - SANDCRAWLER - SUNSET 25</setting>
 The enormous Sandcrawler lumbers off toward the magnificent
 twin suns, which are slowly setting over a distant mountain
 ridge.
-26 EXT. TATOOINE - DESERT - DAY 26
+<setting>26 EXT. TATOOINE - DESERT - DAY 26</setting>
 Four Imperial stormtroopers mill about in front of the halfburied lifepod that brought Artoo and Threepio to Tatooine.
 A trooper yells to an officer some distance away.
 FIRST TROOPER
@@ -712,9 +714,9 @@ A second trooper picks a small bit of metal out of the sand
 and gives it to the first trooper.
 SECOND TROOPER
 Look, sir -- droids.
-27 EXT. TATOOINE - DUNES 27
+<setting>27 EXT. TATOOINE - DUNES 27</setting>
 The Sandcrawler moves slowly down a great sand dune.
-28 INT. SANDCRAWLER 28
+<setting>28 INT. SANDCRAWLER 28</setting>
 Threepio and Artoo noisily bounce along inside the cramped
 prison chamber. Artoo appears to be shut off.
 17.
@@ -727,16 +729,16 @@ lights pop on as he begins beeping. At the far end of the
 long chamber a hatch opens, filling the chamber with
 blinding white light. a dozen or so Jawas make their way
 through the odd assortment of robots.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 We're doomed.
 A Jawa starts moving toward them.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Do you think they'll melt us down?
 Artoo responds, making beeping sounds.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Don't shoot! Don't shoot! Will this
 never end?
-29 EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON 29
+<setting>29 EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON 29</setting>
 The Jawas mutter gibberish as they busily line up their
 battered captives, including Artoo and Threepio, in front of
 the enormous Sandcrawler, which is parked beside a small
@@ -823,7 +825,7 @@ Owen is negotiating with the head Jawa. Luke and the two
 robots start off for the garage when a plate pops off the
 head of the red astro-droid's head plate and it sparks
 wildly.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 Uncle Owen...
 OWEN
 Yeah?
@@ -873,7 +875,7 @@ THREEPIO
 Now, don't you forget this! Why I
 should stick my neck out for you is
 quite beyond my capacity!
-30 INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON 30
+<setting>30 INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON 30</setting>
 The garage is cluttered and worn, but a friendly peaceful
 atmosphere permeates the low grey chamber. Threepio lowers
 himself into a large tub filled with warm oil. Near the
@@ -934,7 +936,7 @@ Artoo beeps in response. Luke unplugs Artoo and begins to
 scrape several connectors on the robot's head with a chrome
 pick. Threepio climbs out of the oil tub and begins wiping
 oil from his bronze body.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 You got a lot of carbon scoring
 here. It looks like you boys have
 seen a lot of action.
@@ -1019,7 +1021,7 @@ going to get us in trouble. It's
 all right, you can trust him. He's
 our new master.
 Artoo whistles and beeps a long message to Threepio.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 He says he's the property of ObiWan Kenobi, a resident of these
 parts. And it's a private message
 for him. Quite frankly, sir I don't
@@ -1040,7 +1042,7 @@ the dune sea. He's kind of a
 strange old hermit.
 Luke's gazes at the beautiful young princess for a few
 moments.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 I wonder who she is. It sounds like
 she's in trouble. I'd better play
 back the whole thing.
@@ -1060,10 +1062,10 @@ too small to run away on me if I
 take this off! Okay.
 Luke takes a wedged bar and pops the restraining bolt off
 Artoo's side.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 There you go.
 The princess immediately disappears...
-LUKE (CONT’D)
+LUKE (CONTINUED)
 Well, wait a minute. Where'd she
 go? Bring her back! Play back the
 entire message.
@@ -1094,13 +1096,13 @@ Just you reconsider playing that
 message for him.
 Artoo beeps in response.
 26.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 No, I don't think he likes you at
 all.
 Artoo beeps.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 No, I don't like you either.
-31 INT. LARS HOMESTEAD - DINING AREA 31
+<setting>31 INT. LARS HOMESTEAD - DINING AREA 31</setting>
 Luke's Aunt Beru, a warm, motherly woman, fills a pitcher
 with blue fluid from a refrigerated container in the wellused kitchen. She puts the pitcher on a tray with some bowls
 of food and starts for the dining area.
@@ -1118,7 +1120,7 @@ while I was cleaning him. He says
 he belongs to someone called ObiWan Kenobi.
 Owen is greatly alarmed at the mention of his name, but
 manages to control himself.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 I thought he might have meant old
 Ben. Do you know what he's talking
 about? Well, I wonder if he's
@@ -1173,7 +1175,7 @@ some more hands. And then you can
 go to the Academy next year.
 Luke continues to toy with his food, not looking at his
 uncle.
-OWEN (CONT’D)
+OWEN (CONTINUED)
 You must understand I need you
 here, Luke.
 28.
@@ -1205,12 +1207,12 @@ Luke's just not a farmer, Owen. He
 has too much of his father in him.
 OWEN
 That's what I'm afraid of.
-32 EXT. TATOOINE - LARS HOMESTEAD 32
+<setting>32 EXT. TATOOINE - LARS HOMESTEAD 32</setting>
 The giant twin suns of Tatooine slowly disappear behind a
 distant dune range. Luke stands watching them for a few
 moments, then reluctantly enters the doomed entrance to the
 homestead.
-33 INT. LARS HOMESTEAD - GARAGE 33
+<setting>33 INT. LARS HOMESTEAD - GARAGE 33</setting>
 Luke enters the garage to discover the robots nowhere in
 sight. He takes a small control box from his utility belt
 similar to the one the Jawas were carrying. He activates the
@@ -1230,7 +1232,7 @@ about his mission.
 LUKE
 Oh, no!
 Luke races out of the garage followed by Threepio.
-34 EXT. TATOOINE - LARS HOMESTEAD 34
+<setting>34 EXT. TATOOINE - LARS HOMESTEAD 34</setting>
 Luke rushes out of the small doomed entry to the homestead
 and searches the darkening horizon for the small triped
 astro- robot. Threepio struggles out of the homestead and on
@@ -1261,19 +1263,19 @@ LUKE
 All right, I'll be there in a few
 minutes. Boy, am I gonna get it.
 He takes one final look across the dim horizon.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 You know that little droid is going
 to cause me a lot of trouble.
 THREEPIO
 Oh, he excels at that, sir.
-35 INT. LARS HOMESTEAD - PLAZA 35
+<setting>35 INT. LARS HOMESTEAD - PLAZA 35</setting>
 Morning slowly creeps into the sparse but sparkling oasis of
 the open courtyard. The idyll is broken be the yelling of
 Uncle Owen, his voice echoing throughout the homestead.
 OWEN
 Luke? Luke? Luke? Where could he be
 loafing now!
-36 INT. LARS HOMESTEAD - KITCHEN 36
+<setting>36 INT. LARS HOMESTEAD - KITCHEN 36</setting>
 The interior of the kitchen is a worm glow as Aunt Beru
 prepares the morning breakfast. Owen enters in a huff.
 OWEN
@@ -1291,12 +1293,12 @@ OWEN
 Well, he'd better have those units
 in the south range repaired be
 midday or there'll be hell to pay!
-37 EXT. TATOOINE - DESERT WASTELAND - LUKE'S SPEEDER - DAY 37
+<setting>37 EXT. TATOOINE - DESERT WASTELAND - LUKE'S SPEEDER - DAY 37</setting>
 The rock and sand of the desert floor are a blur as Threepio
 pilots the sleek Landspeeder gracefully across the vast
 wasteland.
 31.
-38 INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING -38
+<setting>38 INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING -38</setting>
 DAY
 Luke leans over the back of the
 speeder and adjusts something in
@@ -1306,7 +1308,7 @@ LUKE
 How's that.
 Threepio signals that is fine and Luke turns back into the
 wind-whipped cockpit and pops the canopy shut.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 Old Ben Kenobi lives out in this
 direction somewhere, but I don't
 see how that R2 unit could have
@@ -1329,7 +1331,7 @@ LUKE
 Wait, there's something dead ahead
 on the scanner. It looks like our
 droid... hit the accelerator.
-39 EXT. TATOOINE - ROCK MESA - DUNE SEA - COASTLINE - DAY 39
+<setting>39 EXT. TATOOINE - ROCK MESA - DUNE SEA - COASTLINE - DAY 39</setting>
 From high on a rock mesa, the tiny Landspeeder can be seen
 gliding across the desert floor. Suddenly in the foreground
 two weather-beaten Sandpeople shrouded in their grimy desert
@@ -1343,14 +1345,14 @@ called, speak in a coarse barbaric language as they get into
 an animated argument. The second Tusken Raider seems to get
 in the final word and the nomads scurry over the rocky
 terrain.
-40 EXT. TATOOINE - ROCK MESA - CANYON 40
+<setting>40 EXT. TATOOINE - ROCK MESA - CANYON 40</setting>
 The Tusken Raider approaches two large Banthas standing tied
 to a rock. The monstrous, bear-like creatures are as large
 as elephants, with huge red eyes, tremendous looped horns,
 and long, furry, dinosaur-like tails. The Tusken Raiders
 mount saddles strapped to the huge creatures' shaggy backs
 and ride off down the rugged bluff.
-41 EXT. TATOOINE - ROCK CANYON - FLOOR 41
+<setting>41 EXT. TATOOINE - ROCK CANYON - FLOOR 41</setting>
 The speeder is parked on the floor of a massive canyon.
 Luke, with his long laser rifle slung over his shoulder,
 stands before little Artoo.
@@ -1381,7 +1383,7 @@ No, he's not going to try anything.
 Suddenly the little robot jumps to life with a mass of
 frantic whistles and screams.
 33.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 What's wrong with him now?
 THREEPIO
 Oh my... sir, he says there are
@@ -1391,7 +1393,7 @@ Luke swings his rifle into position and looks to the south.
 LUKE
 Sandpeople! Or worst! Come on,
 let's have a look. Come on.
-42 EXT. TATOOINE - ROCK CANYON - RIDGE - DAY 42
+<setting>42 EXT. TATOOINE - ROCK CANYON - RIDGE - DAY 42</setting>
 Luke carefully makes his way to the top of a rock ridge and
 scans the canyon with his electrobinoculars. He spots the
 two riderless Banthas. Threepio struggles up behind the
@@ -1416,7 +1418,7 @@ The terrified farm boy scrambles backward until he is forced
 to the edge of a deep crevice. The sinister Raider stands
 over him with his weapon raised and lets out a horrible
 shrieking laugh.
-43 EXT. TATOOINE - ROCK CANYON - FLOOR - DAY 43
+<setting>43 EXT. TATOOINE - ROCK CANYON - FLOOR - DAY 43</setting>
 Artoo forces himself into the shadows of a small alcove in
 the rocks as the vicious Sandpeople walk past carrying the
 inert Luke Skywalker, who is dropped in a heap before the
@@ -1440,7 +1442,7 @@ friend. Don't be afraid.
 Artoo waddles over to were Luke lies crumpled in a heap and
 begins to whistle and beep his concern. Ben puts his hand on
 Luke's forehead and he begins to come around.
-BEN (CONT’D)
+BEN (CONTINUED)
 Don't worry, he'll be all right.
 LUKE
 What happened?
@@ -1488,7 +1490,7 @@ BEN
 Don't seem to remember ever owning
 a droid. Very interesting...
 He suddenly looks up at the overhanging cliffs.
-BEN (CONT’D)
+BEN (CONTINUED)
 I think we better get indoors. The
 Sandpeople are easily startled but
 they will soon be back and in
@@ -1497,7 +1499,7 @@ Luke sits up and rubs his head. Artoo lets out a pathetic
 beep causing Luke to remember something. He looks around.
 LUKE
 Threepio!
-44 EXT. TATOOINE - SAND PIT - ROCK MESA - DAY 44
+<setting>44 EXT. TATOOINE - SAND PIT - ROCK MESA - DAY 44</setting>
 Little Artoo stands at the edge of a large sand pit and
 begins to chatter away in electronic whistles and beeps.
 Luke and Ben stand over a very dented and tangled Threepio
@@ -1530,7 +1532,7 @@ air.
 BEN
 Quickly, son... they're on the
 move.
-45 INT. KENOBI'S DWELLING 45
+<setting>45 INT. KENOBI'S DWELLING 45</setting>
 The small, spartan hovel is cluttered with desert junk but
 still manages to radiate an air of time-worn comfort and
 security. Luke is in one corner repairing Threepio's arm, as
@@ -1565,7 +1567,7 @@ restraining bolt back on, Threepio looks at him nervously.
 Luke thinks about the bolt for a moment then puts it on the
 table. Ben shuffles up and presents Luke with a short handle
 with several electronic gadgets attached to it.
-BEN (CONT’D)
+BEN (CONTINUED)
 I have something here for you. Your
 father wanted you to have this when
 you were old enough, but your uncle
@@ -1579,7 +1581,7 @@ I'll close down for awhile.
 LUKE
 Sure, go ahead.
 Ben hands Luke the saber.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 What is it?
 BEN
 Your fathers lightsaber. This is
@@ -1588,7 +1590,7 @@ clumsy or as random as a blaster.
 Luke pushes a button on the handle. A long beam shoots out
 about four feet and flickers there. The light plays across
 the ceiling.
-BEN (CONT’D)
+BEN (CONTINUED)
 An elegant weapon for a more
 civilized time. For over a thousand
 generations the Jedi Knights were
@@ -1617,7 +1619,7 @@ field created by all living things.
 It surrounds us and penetrates us.
 It binds the galaxy together.
 Artoo makes beeping sounds.
-BEN (CONT’D)
+BEN (CONTINUED)
 Now, let's see if we can't figure
 out what you are, my little friend.
 And where you come from.
@@ -1695,10 +1697,10 @@ going.
 BEN
 You must do what you feel is right,
 of course.
-46 EXT. SPACE. 46
+<setting>46 EXT. SPACE. 46</setting>
 An Imperial Stardestroyer heads toward the evil planet-like
 battle station: the Death Star!
-47 INT. DEATH STAR - CONFERENCE ROOM 47
+<setting>47 INT. DEATH STAR - CONFERENCE ROOM 47</setting>
 Eight Imperial senators and generals sit around a black
 conference table. Imperial stormtroopers stand guard around
 the room. Commander Tagge, a young, slimy-looking general,
@@ -1792,7 +1794,7 @@ location of the Rebel fortress by
 the time this station is
 operational. We will then crush the
 Rebellion with one swift stroke.
-48 EXT. TATOOINE - WASTELAND 48
+<setting>48 EXT. TATOOINE - WASTELAND 48</setting>
 The speeder stops before what remains of the huge Jawas
 Sandcrawler. Luke and Ben walk among the smoldering rubble
 and scattered bodies.
@@ -1823,7 +1825,7 @@ slaughter Jawas?
 Luke looks back at the speeder where Artoo and Threepio are
 inspecting the dead Jawas, and put two and two together.
 43.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 If they traced the robots here,
 they may have learned who they sold
 them to. And that would lead them
@@ -1834,9 +1836,9 @@ BEN
 Wait, Luke! It's too dangerous.
 Luke races off leaving Ben and the two robots alone with the
 burning Sandcrawler.
-49 EXT. TATOOINE - WASTELAND 49
+<setting>49 EXT. TATOOINE - WASTELAND 49</setting>
 Luke races across the wasteland in his battered Landspeeder.
-50 EXT. TATOOINE - LARS HOMESTEAD 50
+<setting>50 EXT. TATOOINE - LARS HOMESTEAD 50</setting>
 The speeder roars up to the burning homestead. Luke jumps
 out and runs to the smoking holes that were once his home.
 Debris is scattered everywhere and it looks as if a great
@@ -1847,9 +1849,9 @@ Luke stumbles around in a daze looking for his aunt and
 uncle. Suddenly he comes upon their smoldering remains. He
 is stunned, and cannot speak. Hate replaces fear and a new
 resolve comes over him.
-51 EXT. SPACE 51
+<setting>51 EXT. SPACE 51</setting>
 Imperial TIE fighter races toward the Death Star.
-52 INT. DEATH STAR - DETENTION CORRIDOR 52
+<setting>52 INT. DEATH STAR - DETENTION CORRIDOR 52</setting>
 Two stormtroopers open an electronic cell door and allow
 several Imperial guards to enter. Princess Leia's face is
 filled with defiance, which slowly gives way to fear as a
@@ -1865,7 +1867,7 @@ arms bearing a large hypodermic needle.
 The door slides shut and the long cell block hallway appears
 peaceful. The muffled screams of the Rebel princess are
 barely heard.
-53 EXT. TATOOINE - WASTELAND 53
+<setting>53 EXT. TATOOINE - WASTELAND 53</setting>
 There is a large bonfire of Jawa bodies blazing in front of
 the Sandcrawler as Ben and the robots finish burning the
 dead. Luke drives up in the speeder and Ben walks over to
@@ -1882,7 +1884,7 @@ Alderaan. There's nothing here for
 me now. I want to learn the ways of
 the Force and become a Jedi like my
 father.
-54 EXT. TATOOINE - WASTELAND 54
+<setting>54 EXT. TATOOINE - WASTELAND 54</setting>
 The Landspeeder with Luke, Artoo, Threepio, and Ben in it
 zooms across the desert. The speeder stops on a bluff
 overlooking the spaceport at Mos Eisley. It is a haphazard
@@ -1897,7 +1899,7 @@ scum and villainy. We must be
 cautious.
 Ben looks over at Luke, who gives the old Jedi a determined
 smile.
-55 EXT. TATOOINE - MOS EISLEY - STREET 55
+<setting>55 EXT. TATOOINE - MOS EISLEY - STREET 55</setting>
 The speeder is stopped on a crowded street by several combathardend stormtroopers who look over the two robots. A
 Trooper questions Luke.
 TROOPER
@@ -1932,7 +1934,7 @@ BEN
 Move along.
 TROOPER
 Move along. Move along.
-56 EXT. TATOOINE - MOS EISLEY - STREET 56
+<setting>56 EXT. TATOOINE - MOS EISLEY - STREET 56</setting>
 The speeder pulls up in front of a rundown blockhouse
 cantina on the outskirts of the spaceport. Various strange
 forms of transport, including several unusual beasts of
@@ -1965,7 +1967,7 @@ LUKE
 I'm ready for anything.
 THREEPIO
 Come along, Artoo.
-57 INT. TATOOINE - MOS EISLEY - CANTINA 57
+<setting>57 INT. TATOOINE - MOS EISLEY - CANTINA 57</setting>
 The young adventurer and his two mechanical servants follow
 Ben Kenobi into the smoke-filled cantina. The murky, moldy
 den is filled with a startling array of weird and exotic
@@ -2029,7 +2031,7 @@ I don't like you either.
 The big creature is getting agitated and yells out some
 unintelligible gibberish at the now rather nervous, young
 adventurer.
-HUMAN (CONT’D)
+HUMAN (CONTINUED)
 Don't insult us. You just watch
 yourself. We're wanted men. I have
 the death sentence in twelve
@@ -2070,13 +2072,13 @@ BEN
 This is Chewbacca. He's first-mate
 on a ship that might suit our
 needs.
-58 EXT. TATOOINE - MOS EISLEY - STREET 58
+<setting>58 EXT. TATOOINE - MOS EISLEY - STREET 58</setting>
 Threepio paces in front of the cantina as Artoo carries on
 an electronic conversation with another little red astrodroid. A creature comes out of the cantina and approaches
 two stormtroopers in the street.
 THREEPIO
 I don't like the look of this.
-59 INT. TATOOINE - MOS EISLEY - CANTINA 59
+<setting>59 INT. TATOOINE - MOS EISLEY - CANTINA 59</setting>
 Strange creatures play exotic big band music on odd-looking
 instruments as Luke, still giddy, downs a fresh drink and
 follows Ben and Chewbacca to a booth where Han Solo is
@@ -2100,7 +2102,7 @@ It's the ship that made the Kessel
 run in less than twelve parsecs!
 Ben reacts to Solo's stupid attempt to impress them with
 obvious misinformation.
-HAN (CONT’D)
+HAN (CONTINUED)
 I've outrun Imperial starships, not
 the local bulk-cruisers, mind you.
 I'm talking about the big Corellian
@@ -2139,7 +2141,7 @@ Alderaan.
 HAN
 Seventeen, huh!
 Han ponders this for a few moments.
-HAN (CONT’D)
+HAN (CONTINUED)
 Okay. You guys got yourself a ship.
 We'll leave as soon as you're
 ready. Docking bay Ninety-four.
@@ -2161,13 +2163,13 @@ Seventeen thousand! Those guys must
 really be desperate. This could
 really save my neck. Get back to
 the ship and get her ready.
-60 EXT. TATOOINE - MOS EISLEY - STREET 60
+<setting>60 EXT. TATOOINE - MOS EISLEY - STREET 60</setting>
 BEN
 You'll have to sell your speeder.
 LUKE
 That's okay. I'm never coming back
 to this planet again.
-61 INT. MOS EISLEY - CANTINA 61
+<setting>61 INT. MOS EISLEY - CANTINA 61</setting>
 As Han is about to leave, Greedo, a slimy green-faced alien
 with a short trunk-nose, pokes a gun in his side. The
 creature speaks in a foreign tongue translated into English
@@ -2222,11 +2224,11 @@ light. Han pulls his smoking gun from beneath the table as
 the other patron look on in bemused amazement. Han gets up
 and starts out of the cantina, flipping the bartender some
 coins as he leaves.
-HAN (CONT’D)
+HAN (CONTINUED)
 Sorry about the mess.
-62 EXT. SPACE 62
+<setting>62 EXT. SPACE 62</setting>
 Several TIE fighters approach the Death Star.
-63 INT. DEATH STAR - CONTROL ROOM 63
+<setting>63 INT. DEATH STAR - CONTROL ROOM 63</setting>
 VADER
 Her resistance to the mind probe is
 considerable.
@@ -2252,7 +2254,7 @@ Set your course for Princess Leia's
 home planet of Alderaan.
 TROOPER
 With pleasure.
-64 EXT. TATOOINE - MOS EISLEY - STREET 64
+<setting>64 EXT. TATOOINE - MOS EISLEY - STREET 64</setting>
 Four heavily-armed stormtroopers move menacingly along a
 narrow slum alleyway crowed with darkly clad creatures
 hawking exotic goods in the dingy little stalls. Men,
@@ -2280,9 +2282,9 @@ I don't know what all the trouble
 is about, but I'm sure it must be
 your fault.
 Artoo makes beeping sounds.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 You watch your language!
-65 EXT. TATOOINE - MOS EISLEY - STREET - ALLEYWAY - USED 65
+<setting>65 EXT. TATOOINE - MOS EISLEY - STREET - ALLEYWAY - USED 65</setting>
 SPEEDER LOT
 Ben and Luke are standing in a
 sleazy used speeder lot, talking
@@ -2304,10 +2306,10 @@ creatures. Luke turns and gives one last forlorn look at his
 faithful speeder as he rounds a corner. A darkly clad
 creature moves out of the shadows as they pass and watches
 them as they disappear down another alley.
-BEN (CONT’D)
+BEN (CONTINUED)
 If the ship's as fast as he's
 boasting, we ought to do well.
-66 INT. DOCKING BAY 94 - DAY 66
+<setting>66 INT. DOCKING BAY 94 - DAY 66</setting>
 Jabba the Hut and a half-dozen grisly alien pirates and
 purple creatures stand in the middle of the docking bay.
 Jabba is the grossest of the slavering hulks and his scarred
@@ -2382,14 +2384,14 @@ rest of your short life.
 HAN
 Jabba, I'll pay you because it's my
 pleasure.
-67 EXT. DOCKING PORT ENTRY - ALLEYWAY 67
+<setting>67 EXT. DOCKING PORT ENTRY - ALLEYWAY 67</setting>
 Chewbacca waits restlessly at the entrance to Docking Bay
 Ben, Luke, and the robots make their way up the street.
 Chewbacca jabbers excitedly and signals for them to hurry.
 The darkly clad creature has followed them from the speeder
 lot. He stops in a nearby doorway and speaks into a small
 transmitter.
-68 INT. MOS EISLEY SPACEPORT - DOCKING BAY 94 68
+<setting>68 INT. MOS EISLEY SPACEPORT - DOCKING BAY 94 68</setting>
 Chewbacca leads the group into a giant dirt pit that is
 Docking Bay 94. Resting in the middle of the huge hole is a
 large, round, beat-up, pieced-together hunk of junk that
@@ -2408,29 +2410,29 @@ all this. Chewbacca rushes up the ramp and urges the others
 to follow.
 HAN (CONT'D)
 57.
-HAN (CONT’D)
+HAN (CONTINUED)
 We're a little rushed, so if you'll
 hurry aboard we'll get out of here.
 The group rushes up the gang plank, passing a grinning Han
 Solo.
-69 INT. MILLENNIUM FALCON 69
+<setting>69 INT. MILLENNIUM FALCON 69</setting>
 Chewbacca settles into the pilot's chair and starts the
 mighty engines of the starship.
-70 INT. MOS EISLEY SPACEPORT - DOCKING BAY 94 70
+<setting>70 INT. MOS EISLEY SPACEPORT - DOCKING BAY 94 70</setting>
 Luke, Ben, Threepio, and Artoo move toward the Millennium
 Falcon passing Solo.
 THREEPIO
 Hello, sir.
-71 EXT. TATOOINE - MOS EISLEY - STREET 71
+<setting>71 EXT. TATOOINE - MOS EISLEY - STREET 71</setting>
 Eight Imperial stormtroopers rush up to the darkly clad
 creature.
 TROOPER
 Which way?
 The darkly clad creature points to the door of the docking
 bay.
-TROOPER (CONT’D)
+TROOPER (CONTINUED)
 All right, men. Load your weapons!
-72 INT. MOS EISLEY SPACEPORT - DOCKING BAY 94] 72
+<setting>72 INT. MOS EISLEY SPACEPORT - DOCKING BAY 94] 72</setting>
 The troops hold their guns at the ready and charge down the
 docking bay entrance.
 TROOPER
@@ -2438,31 +2440,31 @@ Stop that ship!
 Han Solo looks up and sees the Imperial stormtroopers
 rushing into the docking bay. Several of the troopers fire
 at Han as he ducks into the spaceship.
-TROOPER (CONT’D)
+TROOPER (CONTINUED)
 Blast 'em!
 Han draws his laser pistol and pops off a couple of shots
 which force the stormtroopers to dive for safety. The
 pirateship engines whine as Han hits the release button that
 slams the overhead entry shut.
 58.
-73 INT. MILLENNIUM FALCON 73
+<setting>73 INT. MILLENNIUM FALCON 73</setting>
 HAN
 Chewie, get us out of here!
 The group straps in for take off.
 THREEPIO
 Oh, my. I'd forgotten how much I
 hate space travel.
-74 EXT. TATOOINE - MOS EISLEY - STREETS 74
+<setting>74 EXT. TATOOINE - MOS EISLEY - STREETS 74</setting>
 The half-dozen stormtroopers at a check point hear the
 general alarm and look to the sky as the huge starship rises
 above the dingy slum dwellings and quickly disappears into
 the morning sky.
-75 INT. MILLENNIUM FALCON - COCKPIT 75
+<setting>75 INT. MILLENNIUM FALCON - COCKPIT 75</setting>
 Han climbs into the pilot's chair next to Chewbacca, who
 chatters away as he points to something on the radar scope.
-76 EXT. SPACE - PLANET TATOOINE 76
+<setting>76 EXT. SPACE - PLANET TATOOINE 76</setting>
 The Corellian pirateship zooms from Tatooine into space.
-77 INT. MILLENNIUM FALCON - COCKPIT 77
+<setting>77 INT. MILLENNIUM FALCON - COCKPIT 77</setting>
 Han frantically types information into the ship's computer.
 Little Artoo appears momentarily at the cockpit doorway,
 makes a few beeping remarks, then scurries away.
@@ -2473,11 +2475,11 @@ I thought. Try and hold them off.
 Angle the deflector shield while I
 make the calculations for the jump
 to light speed.
-78 EXT. SPACE - PLANET TATOOINE 78
+<setting>78 EXT. SPACE - PLANET TATOOINE 78</setting>
 The Millennium Falcon pirateship races away from the yellow
 planet, Tatooine. It is followed by two huge Imperial
 stardestroyers.
-79 INT. MILLENNIUM FALCON - COCKPIT 79
+<setting>79 INT. MILLENNIUM FALCON - COCKPIT 79</setting>
 Over the shoulders of Chewbacca and Han, we can see the
 galaxy spread before them. Luke and Ben make their way into
 the cramped cockpit where Han continues his calculation.
@@ -2497,9 +2499,9 @@ home. We'll be safe enough once we
 make the jump to hyperspace.
 Besides, I know a few maneuvers.
 We'll lose them!
-80 EXT. SPACE - PLANET TATOOINE 80
+<setting>80 EXT. SPACE - PLANET TATOOINE 80</setting>
 Imperial cruisers fire at the pirateship.
-81 INT. MILLENNIUM FALCON - COCKPIT 81
+<setting>81 INT. MILLENNIUM FALCON - COCKPIT 81</setting>
 The ship shudders as an explosion flashes outside the
 window.
 HAN
@@ -2533,12 +2535,12 @@ make the jump to light speed.
 The galaxy brightens and they move faster, almost as if
 crashing a barrier. Stars become streaks as the pirateship
 makes the jump to hyperspace.
-82 EXT. SPACE 82
+<setting>82 EXT. SPACE 82</setting>
 The Millennium Falcon zooms into infinity in less than a
 second.
-83 EXT. DEATH STAR 83
+<setting>83 EXT. DEATH STAR 83</setting>
 Alderaan looms behind the Death Star battlestation.
-84 INT. DEATH STAR - CONTROL ROOM 84
+<setting>84 INT. DEATH STAR - CONTROL ROOM 84</setting>
 Admiral Motti enters the quiet control room and bows before
 Governor Tarkin, who stands before the huge wall screen
 displaying a small green planet.
@@ -2590,7 +2592,7 @@ You would prefer another target? A
 military target? Then name the
 system!
 Tarkin waves menacingly toward Leia.
-TARKIN (CONT’D)
+TARKIN (CONTINUED)
 I grow tired of asking this. So
 it'll be the last time. Where is
 the Rebel base?
@@ -2600,7 +2602,7 @@ LEIA
 (softly)
 Dantooine.
 Leia lowers her head.
-LEIA (CONT’D)
+LEIA (CONTINUED)
 They're on Dantooine.
 TARKIN
 There. You see Lord Vader, she can
@@ -2620,7 +2622,7 @@ will deal with your Rebel friends
 soon enough.
 LEIA
 No!
-85 INT. DEATH STAR - BLAST CHAMBER 85
+<setting>85 INT. DEATH STAR - BLAST CHAMBER 85</setting>
 VADER
 Commence primary ignition.
 A button is pressed which switches on a panel of lights. A
@@ -2630,7 +2632,7 @@ lever and a bank of lights on a panel and wall light up. A
 huge beam of light emanates from within a cone-shaped area
 and converges into a single laser beam out toward Alderaan.
 The small green planet of Alderaan is blown into space dust.
-86 INT. MILLENNIUM FALCON - CENTRAL HOLD AREA 86
+<setting>86 INT. MILLENNIUM FALCON - CENTRAL HOLD AREA 86</setting>
 Ben watches Luke practice the lightsaber with a small
 "seeker" robot. Ben suddenly turns away and sits down. He
 falters, seems almost faint.
@@ -2644,7 +2646,7 @@ were suddenly silenced. I fear
 something terrible has happened.
 Ben rubs his forehead. He seems to drift into a trance. Then
 he fixes his gaze on Luke.
-BEN (CONT’D)
+BEN (CONTINUED)
 You'd better get on with your
 exercises.
 Han Solo enters the room.
@@ -2654,12 +2656,12 @@ Well, you can forget your troubles
 with those Imperial slugs. I told
 you I'd outrun 'em.
 Luke is once again practicing with the lightsaber.
-HAN (CONT’D)
+HAN (CONTINUED)
 Don't everyone thank me at once.
 Threepio watches Chewbacca and Artoo who are engrossed in a
 game in which three-dimensional holographic figures move
 along a chess-type board.
-HAN (CONT’D)
+HAN (CONTINUED)
 Anyway, we should be at Alderaan
 about oh-two-hundred hours.
 Chewbacca and the two robots sit around the lighted table
@@ -2674,7 +2676,7 @@ to walk to the new square. A sudden frown crosses
 Chewbacca's face and he begins yelling gibberish at the tiny
 robot. Threepio intercedes on behalf of his small companion
 and begins to argue with the huge Wookiee.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 He made a fair move. Screaming
 about it won't help you.
 HAN
@@ -2734,14 +2736,14 @@ There's no mystical energy field
 that controls my destiny.
 Ben smiles quietly.
 65.
-HAN (CONT’D)
+HAN (CONTINUED)
 It's all a lot of simple tricks and
 nonsense.
 BEN
 I suggest you try it again, Luke.
 Ben places a large helmet on Luke's head which covers his
 eyes.
-BEN (CONT’D)
+BEN (CONTINUED)
 This time, let go your conscious
 self and act on instinct.
 LUKE
@@ -2758,13 +2760,13 @@ drops like a rock. Luke swings the lightsaber around blindly
 missing the seeker, which fires off a laserbolt which hits
 Luke square on the seat of the pants. He lets out a painful
 yell and attempts to hit the seeker.
-BEN (CONT’D)
+BEN (CONTINUED)
 Stretch out with your feelings.
 Luke stands in one place, seemingly frozen. The seeker makes
 a dive at Luke and, incredibly, he managed to deflect the
 bolt. The ball ceases fire and moves back to its original
 position.
-BEN (CONT’D)
+BEN (CONTINUED)
 You see, you can do it.
 HAN
 I call it luck.
@@ -2778,7 +2780,7 @@ living? That's something else.
 66.
 Solo notices a small light flashing on the far side of the
 control panel.
-HAN (CONT’D)
+HAN (CONTINUED)
 Looks like we're coming up on
 Alderaan.
 Han and Chewbacca head back to the cockpit.
@@ -2788,7 +2790,7 @@ could almost see the remote.
 BEN
 That's good. You have taken your
 first step into a larger world.
-87 INT. DEATH STAR - CONFERENCE ROOM 87
+<setting>87 INT. DEATH STAR - CONFERENCE ROOM 87</setting>
 Imperial Officer Cass stands before Governor Tarkin and the
 evil Dark Lord Darth Vader.
 TARKIN
@@ -2808,10 +2810,10 @@ I told you she would never
 consciously betray the Rebellion.
 TARKIN
 Terminate her... immediately!
-88 EXT. HYPERSPACE 88
+<setting>88 EXT. HYPERSPACE 88</setting>
 The pirateship is just coming out of hyperspace; a strange
 surreal light show surrounds the ship.
-89 INT. MILLENNIUM FALCON - COCKPIT 89
+<setting>89 INT. MILLENNIUM FALCON - COCKPIT 89</setting>
 HAN
 Stand by, Chewie, here we go. Cut
 in the sublight engines.
@@ -2821,7 +2823,7 @@ window stars begin streaking past, seem to decrease in
 speed, then stop. Suddenly the starship begins to shudder
 and violently shake about. Asteroids begin to race toward
 them, battering the sides of the ship.
-HAN (CONT’D)
+HAN (CONTINUED)
 What the...? Aw, we've come out of
 hyperspace into a meteor shower.
 Some kind of asteroid collision.
@@ -2853,7 +2855,7 @@ a thousand ships with more fire
 power than I've...
 A signal starts flashing on the control panel and a muffled
 alarm starts humming.
-HAN (CONT’D)
+HAN (CONTINUED)
 There's another ship coming in.
 LUKE
 Maybe they know what happened.
@@ -2870,9 +2872,9 @@ No. It's a short range fighter.
 HAN
 There aren't any bases around here.
 Where did it come from?
-90 EXT. SPACE 90
+<setting>90 EXT. SPACE 90</setting>
 The fighter races past the Corellian pirateship.
-91 INT. MILLENNIUM FALCON - COCKPIT 91
+<setting>91 INT. MILLENNIUM FALCON - COCKPIT 91</setting>
 LUKE
 It sure is leaving in a big hurry.
 If they identify us, we're in big
@@ -2885,10 +2887,10 @@ It'd be as well to let it go. It's
 too far out of range.
 HAN
 Not for long...
-92 EXT. SPACE 92
+<setting>92 EXT. SPACE 92</setting>
 The pirateship zooms over the camera and away into the
 vastness of space after the Imperial TIE fighter.
-93 INT. MILLENNIUM FALCON - COCKPIT 93
+<setting>93 INT. MILLENNIUM FALCON - COCKPIT 93</setting>
 The tension mounts as the pirateship gains on the tiny
 fighter. In the distance, one of the stars becomes brighter
 until it is obvious that the TIE ship is heading for it. Ben
@@ -2904,10 +2906,10 @@ HAN
 Well, he ain't going to be around
 long enough to tell anyone about
 us.
-94 EXT. SPACE 94
+<setting>94 EXT. SPACE 94</setting>
 The TIE fighter is losing ground to the larger pirateship as
 they race toward camera and disappear over head.
-95 INT. MILLENNIUM FALCON - COCKPIT 95
+<setting>95 INT. MILLENNIUM FALCON - COCKPIT 95</setting>
 The distant star can be distinguished as a small moon or
 planet.
 LUKE
@@ -2951,19 +2953,19 @@ Ben Kenobi puts a hand on his shoulder.
 BEN
 You can't win. But there are
 alternatives to fighting.
-96 INT. MILLENNIUM FALCON - DEATH STAR 96
+<setting>96 INT. MILLENNIUM FALCON - DEATH STAR 96</setting>
 As the battered pirate starship is towed closer to the
 awesome metal moon, the immense size of the massive battle
 station becomes staggering. Running along the equator of the
 gigantic sphere is a mile-high band of huge docking ports
 into which the helpless pirateship is dragged.
-97 EXT. DEATH STAR - HUGE PORT DOORS 97
+<setting>97 EXT. DEATH STAR - HUGE PORT DOORS 97</setting>
 The helpless Millennium Falcon is pulled past a docking port
 control room and huge laser turret cannons.
 98 VOICE OVER DEATH STAR INTERCOM 98
 Clear Bay twenty-three-seven. We are opening the magnetic
 field.
-99 INT. DEATH STAR - DOCKING BAY 2037 99
+<setting>99 INT. DEATH STAR - DOCKING BAY 2037 99</setting>
 The pirateship is pulled in through port doors of the Death
 Star, coming to rest in a huge hangar. Thirty stormtroopers
 stand at attention in a central assembly area.
@@ -2971,17 +2973,17 @@ OFFICER
 To you stations!
 (to another officer)
 Come with me.
-100 INT. DEATH STAR - HALLWAY 100
+<setting>100 INT. DEATH STAR - HALLWAY 100</setting>
 Stormtroopers run to their posts.
 71.
-101 INT. DEATH STAR - HANGAR 2037 101
+<setting>101 INT. DEATH STAR - HANGAR 2037 101</setting>
 A line of stormtroopers march toward the pirateship in
 readiness to board it, while other troopers stand with
 weapons ready to fire.
 OFFICER
 Close all outboard shields! Close
 all outboard shields!
-102 INT. DEATH STAR - CONFERENCE ROOM 102
+<setting>102 INT. DEATH STAR - CONFERENCE ROOM 102</setting>
 Tarkin pushes a button and responds to the intercom buzz.
 TARKIN
 Yes.
@@ -2996,7 +2998,7 @@ VADER
 They must be trying to return the
 stolen plans to the princess. She
 may yet be of some use to us.
-103 INT. DEATH STAR - DOCKING BAY 2037 103
+<setting>103 INT. DEATH STAR - DOCKING BAY 2037 103</setting>
 Vader and a commander approach the troops as an Officer and
 several heavily armed troops exit the spacecraft.
 VOICE
@@ -3032,7 +3034,7 @@ OFFICER
 Get me a scanning crew in here on
 the double. I want every part of
 this ship checked!
-104 INT. MILLENNIUM FALCON - HALLWAY 104
+<setting>104 INT. MILLENNIUM FALCON - HALLWAY 104</setting>
 A trooper runs through the hallway heading for the exit. In
 a few moments all is quiet. The muffled sounds of a distant
 officer giving orders finally fade. Two floor panels
@@ -3057,7 +3059,7 @@ Who's the more foolish... the fool
 or the fool who follows him?
 73.
 Han shakes his head, muttering to himself. Chewbacca agrees.
-105 INT. DEATH STAR - MAIN FORWARD BAY 105
+<setting>105 INT. DEATH STAR - MAIN FORWARD BAY 105</setting>
 The crewmen carry a heavy box on board the ship, past the
 two stormtroopers guarding either side of the ramp.
 TROOPER
@@ -3072,7 +3074,7 @@ Hey down there, could you give us a
 hand with this?
 The stormtroopers enter the ship and a quick round of
 gunfire is heard.
-106 INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE 106
+<setting>106 INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE 106</setting>
 In a very small command office near the entrance to the
 pirateship, a Gantry Officer looks out his window and
 notices the guards are missing. He speaks into the comlink.
@@ -3085,7 +3087,7 @@ waves to the gantry officer, pointing to his ear indicating
 his comlink is not working. The gantry officer shakes his
 head in disgust and heads for the door, giving his aide an
 annoyed look.
-GANTRY OFFICER (CONT’D)
+GANTRY OFFICER (CONTINUED)
 Take over. We've got a bad
 transmitter. I'll see what I can
 do.
@@ -3127,7 +3129,7 @@ that's holding the ship here. He'll
 try to make the precise location
 appear on the monitor.
 The computer monitor flashes readouts.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 The tractor beam is coupled to the
 main reactor in seven locations. A
 power loss at one of the terminals
@@ -3162,7 +3164,7 @@ in agreement.
 HAN
 Boy you said it, Chewie.
 Han looks at Luke.
-HAN (CONT’D)
+HAN (CONTINUED)
 Where did you dig up that old
 fossil?
 LUKE
@@ -3181,7 +3183,7 @@ Who do you think...
 Suddenly Artoo begins to whistle and beep a blue streak.
 Luke goes over to him.
 76.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 What is it?
 THREEPIO
 I'm afraid I'm not quite sure, sir.
@@ -3267,11 +3269,11 @@ LUKE
 Uh... Threepio, hand me those
 binders there will you?
 Luke moves toward Chewbacca with electronic cuffs.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 Okay. Now, I'm going to put these
 on you.
 Chewie lets out a hideous growl.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 Okay. Han, you put these on.
 Luke sheepishly hands the binders to Han.
 HAN
@@ -3292,7 +3294,7 @@ THREEPIO
 That isn't very reassuring.
 Luke and Han put on their armored stormtrooper helmets and
 start off into the giant Imperial Death Star.
-107 INT. DEATH STAR - DETENTION AREA - ELEVATOR TUBE 107
+<setting>107 INT. DEATH STAR - DETENTION AREA - ELEVATOR TUBE 107</setting>
 Han and Luke try to look inconspicuous in their armored
 suits as they wait for a vacuum elevator to arrive.
 79.
@@ -3305,7 +3307,7 @@ I can't see a thing in this helmet.
 A bureaucrat races to get aboard also, but is signaled away
 by Han. The door to the pod-like vehicle slides closed and
 the elevator car takes off through a vacuum tube.
-108 INT. DEATH STAR - MAIN HALLWAY 108
+<setting>108 INT. DEATH STAR - MAIN HALLWAY 108</setting>
 Several Imperial officers walk through the wide main
 passageway. They pass several stormtroopers and a robot
 similar to Threepio but with an insect face. At the far end
@@ -3313,7 +3315,7 @@ of the hallway, a passing flash of Ben Kenobi appears, then
 disappears down a small hallway. His appearance is so
 fleeting that it is hard to tell if he is real or just an
 illusion. No one in the hallway seems to notice him.
-109 INT. DEATH STAR - INTERIOR ELEVATOR - DETENTION SECURITY109
+<setting>109 INT. DEATH STAR - INTERIOR ELEVATOR - DETENTION SECURITY109</setting>
 AREA
 Luke and Han step forward to exit
 the elevator, but the door slides
@@ -3328,7 +3330,7 @@ LUKE
 Why didn't you say so before?
 HAN
 I did say so before!
-110 INT. DETENTION AREA 110
+<setting>110 INT. DETENTION AREA 110</setting>
 Elevator doors open. A tall, grim looking Officer approaches
 the trio.
 OFFICER
@@ -3363,14 +3365,14 @@ last of the guards to fall under the laserfire just as he is
 about to push the alarm system. Han rushes to the comlink
 system, which is screeching questions about what is going
 on. He quickly checks the computer readout.
-HAN (CONT’D)
+HAN (CONTINUED)
 We've got to find out which cell
 this princess of yours is in. Here
 it is... cell twenty-one-eightseven. You go get her. I'll hold
 them here.
 Luke races down one of the cell corridors. Han speaks into
 the buzzing comlink.
-HAN (CONT’D)
+HAN (CONTINUED)
 (sounding official)
 Everything is under control.
 Situation normal.
@@ -3399,7 +3401,7 @@ HAN
 Boring conversation anyway.
 (yelling down the hall)
 Luke! We're going to have company!
-111 INT. DEATH STAR - CELL ROW 111
+<setting>111 INT. DEATH STAR - CELL ROW 111</setting>
 Luke stops in front of one of the cells and blasts the door
 away with a laser pistol. When the smoke clears, Luke sees
 the dazzling young princess-senator. She had been sleeping
@@ -3425,7 +3427,7 @@ LEIA
 Ben Kenobi is here! Where is he?
 LUKE
 Come on!
-112 INT. DEATH STAR - CONFERENCE ROOM 112
+<setting>112 INT. DEATH STAR - CONFERENCE ROOM 112</setting>
 Darth Vader paces the room as Governor Tarkin sits at the
 far end of the conference table.
 VADER
@@ -3448,7 +3450,7 @@ has gone out of the universe. You,
 my friend, are all that's left of
 their religion.
 There is a quiet buzz on the comlink.
-TARKIN (CONT’D)
+TARKIN (CONTINUED)
 Yes.
 INTERCOM VOICE
 Governor Tarkin, we have an
@@ -3467,20 +3469,20 @@ allowed to escape.
 VADER
 Escape is not his plan. I must face
 him alone.
-113 INT. DEATH STAR - DETENTION AREA - HALLWAY 113
+<setting>113 INT. DEATH STAR - DETENTION AREA - HALLWAY 113</setting>
 An ominous buzzing sound is heard on the other side of the
 elevator door.
 HAN
 Chewie!
 Chewbacca responds with a growling noise.
-HAN (CONT’D)
+HAN (CONTINUED)
 Get behind me! Get behind me!
 A series of explosions knock a hole in the elevator door
 through which several Imperial troops begin to emerge.
 Han and Chewie fire laser pistols at them through the smoke
 and flame. They turn and run down the cell hallway, meeting
 up with Luke and Leia rushing toward them.
-HAN (CONT’D)
+HAN (CONTINUED)
 Can't get out that way.
 LEIA
 Looks like you managed to cut off
@@ -3502,7 +3504,7 @@ LUKE
 We've been cut off! Are there any
 other ways out of the cell bay?...
 What was that? I didn't copy!
-114 INT. DEATH STAR - MAIN BAY GANTRY - CONTROL TOWER 114
+<setting>114 INT. DEATH STAR - MAIN BAY GANTRY - CONTROL TOWER 114</setting>
 Threepio paces the control center as little Artoo beeps and
 whistles a blue streak. Threepio yells into the small
 comlink transmitter.
@@ -3518,7 +3520,7 @@ TROOPER VOICE
 Open up in there!
 THREEPIO
 Oh, no!
-115 INT. DEATH STAR - DETENTION CORRIDOR 115
+<setting>115 INT. DEATH STAR - DETENTION CORRIDOR 115</setting>
 Luke and Leia crouch together in an alcove for protection as
 they continue to exchange fire with troops. Han and
 Chewbacca are barely able to keep the stormtroopers at bay
@@ -3557,14 +3559,14 @@ there and don't worry about it.
 Han gives him a kick and the Wookiee disappears into the
 tiny opening. Luke and Han continue firing as they work
 their way toward the opening.
-HAN (CONT’D)
+HAN (CONTINUED)
 Wonderful girl! Either I'm going to
 kill her or I'm beginning to like
 her. Get in there!
 Luke ducks laserfire as he jumps into the darkness. Han
 fires off a couple of quick blasts creating a smokey cover,
 then slides into the chute himself and is gone.
-116 INT. DEATH STAR - GARBAGE ROOM 116
+<setting>116 INT. DEATH STAR - GARBAGE ROOM 116</setting>
 Han tumbles into the large room filled with garbage and
 muck. Luke is already stumbling around looking for an exit.
 He finds a small hatchway and struggles to get it open. It
@@ -3583,7 +3585,7 @@ laserbolt ricochets wildly around the small metal room.
 Everyone dives for cover in the garbage as the bolt explodes
 almost on top of them. Leia climbs out of the garbage with a
 rather grim look on her face.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 Will you forget it? I already tried
 it. It's magnetically sealed!
 LEIA
@@ -3625,7 +3627,7 @@ around his throat.
 LEIA
 Luke!
 Leia extends a long pipe toward him.
-LEIA (CONT’D)
+LEIA (CONTINUED)
 Luke, Luke, grab a hold of this.
 LUKE
 Blast it, will you! My gun's
@@ -3646,7 +3648,7 @@ muck Luke suddenly bobs to the surface.
 LEIA
 Grab him!
 Luke seems to be released by the thing.
-LEIA (CONT’D)
+LEIA (CONTINUED)
 What happened?
 LUKE
 I don't know, it just let go of me
@@ -3668,10 +3670,10 @@ trashmasher rumbles on. The situation doesn't look too good.
 LUKE
 Wait a minute!
 Luke pulls out his comlink.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 Threepio! Come in Threepio!
 Threepio! Where could he be?
-117 INT. DEATH STAR - MAIN GANTRY - COMMAND OFFICE 117
+<setting>117 INT. DEATH STAR - MAIN GANTRY - COMMAND OFFICE 117</setting>
 A soft buzzer and the muted voice of Luke calling out for
 See-Threepio can be heard on Threepio's hand comlink, which
 is sitting on the deserted computer console. Artoo and
@@ -3700,7 +3702,7 @@ THREEPIO
 Come on!
 89.
 The guard aims a blaster at them.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Oh! All this excitement has overrun
 the circuits of my counterpart
 here. If you don't mind, I'd like
@@ -3709,7 +3711,7 @@ TROOPER
 All right.
 The guard nods and Threepio, with little Artoo in tow,
 hurries out the door.
-118 INT. DEATH STAR - GARBAGE ROOM 118
+<setting>118 INT. DEATH STAR - GARBAGE ROOM 118</setting>
 As the walls rumble closed, the room gets smaller and
 smaller. Chewie is whining and trying to hold a wall back
 with his giant paws.
@@ -3727,7 +3729,7 @@ I can't
 LUKE
 Where could he be? Threepio!
 Threepio, will you come in?
-119 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 119
+<setting>119 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 119</setting>
 THREEPIO
 They aren't here! Something must
 have happened to them. See if
@@ -3735,10 +3737,10 @@ they've been captured.
 Little Artoo carefully plugs his claw arm into a new wall
 socket and a complex array of electronic sounds spew from
 the tiny robot.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Hurry!
 90.
-120 INT. DEATH STAR - GARBAGE ROOM 120
+<setting>120 INT. DEATH STAR - GARBAGE ROOM 120</setting>
 The walls are only feet apart. Leia and Han are braced
 against the walls. The princess is frightened. They look at
 each other. Leia reaches out and takes Han's hand and she
@@ -3751,28 +3753,28 @@ going to be a lot thinner!
 Get on top of it!
 LEIA
 I'm trying!
-121 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 121
+<setting>121 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 121</setting>
 THREEPIO
 (to Artoo)
 Thank goodness, they haven't found
 them! Where could they be?
 Artoo frantically beeps something to See-Threepio.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Use the comlink? Oh, my! I forgot I
 turned it off!
-122 INT. DEATH STAR - GARBAGE ROOM 122
+<setting>122 INT. DEATH STAR - GARBAGE ROOM 122</setting>
 Meanwhile, Luke is lying on his side, trying to keep his
 head above the rising ooze. Luke's comlink begins to buzz
 and he rips it off his belt.
-123 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 123
+<setting>123 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 123</setting>
 Muffled sounds of Luke's voice over the comlink can be
 heard, but not distinctly.
 THREEPIO
 Are you there, sir?
-124 INT. DEATH STAR - GARBAGE ROOM 124
+<setting>124 INT. DEATH STAR - GARBAGE ROOM 124</setting>
 LUKE
 Threepio!
-125 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 125
+<setting>125 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 125</setting>
 THREEPIO
 We've had some problems...
 91.
@@ -3782,11 +3784,11 @@ Will you shut up and listen to me?
 Shut down all garbage mashers on
 the detention level, will you? Do
 you copy?
-126 INT. DEATH STAR - GARBAGE ROOM 126
+<setting>126 INT. DEATH STAR - GARBAGE ROOM 126</setting>
 LUKE
 Shut down all the garbage mashers
 on the detention level.
-127 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 127
+<setting>127 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 127</setting>
 LUKE
 (over comlink)
 Shut down all the garbage mashers
@@ -3796,7 +3798,7 @@ THREEPIO
 No. Shut them all down! Hurry!
 Threepio holds his head in agony as he hears the incredible
 screaming and hollering from Luke's comlink.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 Listen to them! They're dying,
 Artoo! Curse my metal body! I
 wasn't fast enough. It's all my
@@ -3804,7 +3806,7 @@ fault! My poor master!
 LUKE
 (over comlink)
 Threepio, we're all right!
-128 INT. DEATH STAR - GARBAGE ROOM 128
+<setting>128 INT. DEATH STAR - GARBAGE ROOM 128</setting>
 The screaming and hollering is the sound of joyous relief.
 The walls have stopped moving. Han, Chewie and Leia embrace
 in the background.
@@ -3812,16 +3814,16 @@ LUKE
 We're all right. You did great.
 Luke moves to the pressure sensitive hatch, looking for a
 number.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 Hey... hey, open the pressure
 maintenance hatch on unit number...
 where are we?
 92.
-129 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 129
+<setting>129 INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL 129</setting>
 HAN
 (over comlink)
 Three-two-six-eight-two-seven.
-130 INT. DEATH STAR - TRACTOR BEAM - POWER GENERATOR TRENCH 130
+<setting>130 INT. DEATH STAR - TRACTOR BEAM - POWER GENERATOR TRENCH 130</setting>
 Ben enters a humming service trench that powers the huge
 tractor beam. The trench seems to be a hundred miles deep.
 The clacking sound of huge switching devices can be heard.
@@ -3830,7 +3832,7 @@ to a control panel that connects two large cables. He
 carefully makes several adjustments in the computer
 terminal, and several lights on the board go from red to
 blue.
-131 INT. DEATH STAR - UNUSED HALLWAY 131
+<setting>131 INT. DEATH STAR - UNUSED HALLWAY 131</setting>
 The group exits the garbage room into a dusty, unused
 hallway. Han and Luke remove the trooper suits and strap on
 the blaster belts.
@@ -3860,7 +3862,7 @@ HAN
 (to Chewie)
 Come here, you big coward!
 Chewie shakes his head "no."
-HAN (CONT’D)
+HAN (CONTINUED)
 Chewie! Come here!
 LEIA
 Listen. I don't know who you are,
@@ -3880,7 +3882,7 @@ Han watches her start away. He looks at Luke.
 HAN
 No reward is worth this.
 They follow her, moving swiftly down the deserted corridor.
-132 INT. DEATH STAR - POWER TRENCH 132
+<setting>132 INT. DEATH STAR - POWER TRENCH 132</setting>
 Suddenly a door behind Ben slides open and a detachment of
 stormtroopers marches to the power trench. Ben instantly
 slips into the shadows as an Officer moves to within a few
@@ -3891,7 +3893,7 @@ canceled.
 FIRST TROOPER
 Give me regular reports.
 All but two of the stormtroopers leave.
-FIRST TROOPER (CONT’D)
+FIRST TROOPER (CONTINUED)
 Do you know what's going on?
 94.
 SECOND TROOPER
@@ -3902,12 +3904,12 @@ with his hand toward them, as the troops think they hear
 something in the other hallway. With the help of the Force,
 Ben deftly slips past the troopers and into the main
 hallway.
-SECOND TROOPER (CONT’D)
+SECOND TROOPER (CONTINUED)
 What was that?
 FIRST TROOPER
 Oh, it's nothing. Don't worry about
 it.
-133 INT. DEATH STAR - HALLWAY 133
+<setting>133 INT. DEATH STAR - HALLWAY 133</setting>
 Luke, Han, Chewbacca, and Leia run down an empty hallway and
 stop before a bay window overlooking the pirateship.
 Troopers are milling about the ship. Luke takes out his
@@ -3956,7 +3958,7 @@ himself killed? Come on!
 Luke is furious but doesn't have time to think about it for
 muted alarms begin to go off down on the hangar deck. Luke
 and Leia start off toward the starship hangar.
-134 INT. DEATH STAR - SUBHALLWAY 134
+<setting>134 INT. DEATH STAR - SUBHALLWAY 134</setting>
 Han chases the stormtroopers down a long subhallway. He is
 yelling and brandishing his laser pistol. The troops reach a
 dead end and are forced to turn and fight. Han stops a few
@@ -3966,20 +3968,20 @@ moving into an attack position in front of the lone
 starpirate. Han's determined look begins to fade as the
 troops begin to advance. Solo jumps backward as they fire at
 him.
-135 INT. DEATH STAR - SUBHALLWAY 135
+<setting>135 INT. DEATH STAR - SUBHALLWAY 135</setting>
 Chewbacca runs down the subhallway in a last-ditch attempt
 to save his bold captain. Suddenly he hears the firing of
 laser guns and yelling. Around the corner shoots Han, pirate
 extraordinaire, running for his life, followed by a host of
 furious stormtroopers. Chewbacca turns and starts running
 the other way also.
-136 INT. DEATH STAR - SUBHALLWAY 136
+<setting>136 INT. DEATH STAR - SUBHALLWAY 136</setting>
 Luke fires his laser pistol wildly as he and Leia rush down
 a narrow subhallway, chased by several stormtroopers.
 96.
 They quickly reach the end of the subhallway and race
 through an open hatchway.
-137 INT. DEATH STAR - CENTRAL CORE SHAFT 137
+<setting>137 INT. DEATH STAR - CENTRAL CORE SHAFT 137</setting>
 Luke and Leia race through the hatch onto a narrow bridge
 that spans a huge, deep shaft that seems to go into
 infinity. The bridge has been retracted into the wall of the
@@ -4039,7 +4041,7 @@ gorge and it wraps itself around an outcropping of pipes. He
 tugs on the rope to make sure it is secure, then grabs the
 princess in his arms. Leia looks at Luke, then kisses him
 quickly on the lips. Luke is very surprised.
-LEIA (CONT’D)
+LEIA (CONTINUED)
 For luck!
 Luke pushes off and they swing across the treacherous abyss
 to the corresponding hatchway on the opposite side. Just as
@@ -4047,13 +4049,13 @@ Luke and Leia reach the far side of the canyon, the
 stormtroopers break through the hatch and begin to fire at
 the escaping duo. Luke returns the fire before ducking into
 the tiny subhallway.
-138 INT. DEATH STAR - NARROW PASSAGEWAY 138
+<setting>138 INT. DEATH STAR - NARROW PASSAGEWAY 138</setting>
 Ben hides in the shadows of the narrow passageway as several
 stormtroopers rush past him in the main hallway. He checks
 to make sure they're gone, then runs down the hallway in the
 opposite direction. Darth Vader appears at the far end of
 the hallway and starts after the old Jedi.
-139 INT. DEATH STAR - MAIN FORWARD BAY 139
+<setting>139 INT. DEATH STAR - MAIN FORWARD BAY 139</setting>
 Threepio looks around at the troops milling about the
 pirateship entry ramp.
 THREEPIO
@@ -4061,7 +4063,7 @@ Where could they be?
 Artoo, plugged into the computer socket, turns his dome left
 and right, beeping a response.
 98.
-140 INT. DEATH STAR - CORRIDOR - BLAST SHIELDS DOOR 140
+<setting>140 INT. DEATH STAR - CORRIDOR - BLAST SHIELDS DOOR 140</setting>
 Han and Chewbacca run down a long corridor with several
 troopers hot on their trail.
 TROOPER
@@ -4071,10 +4073,10 @@ front of them. The young starpilot and his furry companion
 race past the huge doors just as they are closing, and
 manage to get off a couple off laserblasts at the pursuing
 troops before the doors slam shut.
-TROOPER (CONT’D)
+TROOPER (CONTINUED)
 Open the blast doors! Open the
 blast doors!
-141 INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY 141
+<setting>141 INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY 141</setting>
 Ben hurries along one of the tunnels leading to the hangar
 where the pirateship waits. Just before he reaches the
 hangar, Darth Vader steps into view at the end of the
@@ -4087,7 +4089,7 @@ is now complete.
 Ben Kenobi moves with elegant ease into a classical
 offensive position. The fearsome Dark Knight takes a
 defensive stance.
-VADER (CONT’D)
+VADER (CONTINUED)
 When I left you, I was but the
 learner; now I am the master.
 BEN
@@ -4114,7 +4116,7 @@ me down, I shall become more
 powerful than you can possibly
 imagine.
 Their lightsabers continue to meet in combat.
-142 INT. DEATH STAR - MAIN FORWARD BAY 142
+<setting>142 INT. DEATH STAR - MAIN FORWARD BAY 142</setting>
 Han Solo and Chewbacca, their weapons in hand, lean back
 against the wall surveying the forward bay, watching the
 Imperial stormtroopers make their rounds of the hangar.
@@ -4122,7 +4124,7 @@ HAN
 Didn't we just leave this party?
 Chewbacca growls a reply, as Luke and the princess join
 them.
-HAN (CONT’D)
+HAN (CONTINUED)
 What kept you?
 LEIA
 We ran into some old friends.
@@ -4132,7 +4134,7 @@ HAN
 Seems okay, if we can get to it.
 Just hope the old man got the
 tractor beam out of commission.
-143 INT. DEATH STAR - HALLWAY 143
+<setting>143 INT. DEATH STAR - HALLWAY 143</setting>
 Vader and Ben Kenobi continue their powerful duel. As they
 hit their lightsabers together, lightning flashes on impact.
 Troopers look on in interest as the old Jedi and Dark Lord
@@ -4144,7 +4146,7 @@ Look!
 Luke, Leia, Han, and Chewie look up and see Ben and Vader
 emerging from the hallways on the far side of the docking
 bay.
-144 INT. DEATH STAR - DOCKING BAY 144
+<setting>144 INT. DEATH STAR - DOCKING BAY 144</setting>
 Threepio and Artoo-Detoo are in the center of the Death
 Star's Imperial docking bay.
 THREEPIO
@@ -4152,7 +4154,7 @@ Come on, Artoo, we're going!
 Threepio ducks out of sight as the seven stormtroopers who
 were guarding the starship rush past them heading towards
 Ben and The Sith Knight. He pulls on Artoo.
-145 INT. DEATH STAR - HALLWAY 145
+<setting>145 INT. DEATH STAR - HALLWAY 145</setting>
 Solo, Chewie, Luke, and Leia tensely watch the duel. The
 troops rush toward the battling knights.
 HAN
@@ -4201,7 +4203,7 @@ Run, Luke! Run!
 Luke looks around to see where the voice came from. He turns
 toward the pirateship, ducking Imperial gunfire from the
 troopers and races into the ship.
-146 INT. MILLENNIUM FALCON - COCKPIT 146
+<setting>146 INT. MILLENNIUM FALCON - COCKPIT 146</setting>
 Han pulls back on the controls and the ship begins to move.
 The dull thud of laser bolts bouncing off the outside of the
 ship as Chewie adjusts his controls.
@@ -4211,16 +4213,16 @@ beam out if commission, or this is
 going to be a real short trip.
 Okay, hit it!
 Chewbacca growls in agreement.
-147 EXT. MILLENNIUM FALCON 147
+<setting>147 EXT. MILLENNIUM FALCON 147</setting>
 The Millennium Falcon powers away from the Death Star
 docking bay, makes a spectacular turn and disappears into
 the vastness of space.
-148 INT. MILLENNIUM FALCON - CENTRAL HOLD AREA 148
+<setting>148 INT. MILLENNIUM FALCON - CENTRAL HOLD AREA 148</setting>
 Luke, saddened by the loss of Obi-Wan Kenobi, stares off
 blankly as the robots look on. Leia puts a blanket around
 him protectively, and Luke turns and looks up at her. She
 sits down beside him.
-149 INT. MILLENNIUM FALCON - COCKPIT 149
+<setting>149 INT. MILLENNIUM FALCON - COCKPIT 149</setting>
 Solo spots approaching enemy ships.
 102.
 HAN
@@ -4229,7 +4231,7 @@ We're coming up on the sentry
 ships. Hold 'em off! Angle the
 deflector shields while I charge up
 the main guns!
-150 INT. MILLENNIUM FALCON - CENTRAL HOLD AREA 150
+<setting>150 INT. MILLENNIUM FALCON - CENTRAL HOLD AREA 150</setting>
 Luke looks downward sadly, shaking his head back and forth,
 as the princess smiles comfortingly at him.
 LUKE
@@ -4244,84 +4246,84 @@ HAN
 (to Luke)
 Come on, buddy, we're not out of
 this yet!
-151 INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT 151
+<setting>151 INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT 151</setting>
 Solo climbs into his attack position in the topside gunport.
-152 INT. MILLENNIUM FALCON - HOLD AREA 152
+<setting>152 INT. MILLENNIUM FALCON - HOLD AREA 152</setting>
 Luke gets up and moves out toward the gunports as Leia heads
 for the cockpit.
-153 INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT 153
+<setting>153 INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT 153</setting>
 Luke climbs down the ladder into the gunport cockpit,
 settling into one of the two main laser cannons mounted in
 large rotating turrets on either side of the ship.
-154 INT. MILLENNIUM FALCON - SOLO'S GUNPORT 154
+<setting>154 INT. MILLENNIUM FALCON - SOLO'S GUNPORT 154</setting>
 Han adjusts his headset as he sits before the controls of
 his laser cannon, then speaks into the attached microphone.
 HAN
 (to Luke)
 You in, kid? Okay, stay sharp!
 103.
-155 INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT 155
+<setting>155 INT. MILLENNIUM FALCON - GUNPORTS - COCKPIT 155</setting>
 Chewbacca and Princess Leia search the heavens for attacking
 TIE fighters. The Wookiee pulls back on the speed controls
 as the ship bounces slightly.
-156 INT. MILLENNIUM FALCON - SOLO'S GUNPORT - COCKPIT 156
+<setting>156 INT. MILLENNIUM FALCON - SOLO'S GUNPORT - COCKPIT 156</setting>
 Computer graphic readouts form on Solo's target screen, as
 Han reaches for controls.
-157 INT. MILLENNIUM FALCON - GUNPORT - COCKPIT 157
+<setting>157 INT. MILLENNIUM FALCON - GUNPORT - COCKPIT 157</setting>
 Luke sits in readiness for the attack, his hand on the laser
 cannon's control button.
-158 INT. MILLENNIUM FALCON - COCKPIT. 158
+<setting>158 INT. MILLENNIUM FALCON - COCKPIT. 158</setting>
 Chewbacca spots the enemy ships and barks.
 LEIA
 (into intercom)
 Here they come!
-159 INT. MILLENNIUM FALCON - COCKPIT - POV (POINT OF VIEW) -159
+<setting>159 INT. MILLENNIUM FALCON - COCKPIT - POV (POINT OF VIEW) -159</setting>
 SPACE
 The Imperial TIE fighters move
 towards the Millennium Falcon, one
 each veering off to the left and
 right of the pirateship.
-160 INT. TIE FIGHTER - COCKPIT 160
+<setting>160 INT. TIE FIGHTER - COCKPIT 160</setting>
 The stars whip past behind the Imperial pilot as he adjusts
 his maneuvering joy stick.
-161 EXT. MILLENNIUM FALCON - IN SPACE 161
+<setting>161 EXT. MILLENNIUM FALCON - IN SPACE 161</setting>
 The TIE fighter races past the Falcon, firing laser beams as
 it passes.
-162 INT. MILLENNIUM FALCON - HOLD AREA 162
+<setting>162 INT. MILLENNIUM FALCON - HOLD AREA 162</setting>
 Threepio is seated in the hold area, next to Artoo-Detoo.
 The pirateship bounces and vibrates as the power goes out in
 the room and then comes back on.
-163 INT. MILLENNIUM FALCON - COCKPIT - GUNPORTS 163
+<setting>163 INT. MILLENNIUM FALCON - COCKPIT - GUNPORTS 163</setting>
 A TIE fighter maneuvers in front of Han, who follows it and
 fires at it with the laser cannon. Luke does likewise, as
 the fighter streaks into view. The ship has suffered a minor
 hit, and bounces slightly.
 104.
-164 EXT. SPACE 164
+<setting>164 EXT. SPACE 164</setting>
 Two TIE fighters dive down toward the pirateship.
-165 INT. MILLENNIUM FALCON - GUNPORTS 165
+<setting>165 INT. MILLENNIUM FALCON - GUNPORTS 165</setting>
 Luke fires at an unseen fighter.
 LUKE
 They're coming in too fast!
-166 EXT. SPACE - MILLENNIUM FALCON/TIE FIGHTERS 166
+<setting>166 EXT. SPACE - MILLENNIUM FALCON/TIE FIGHTERS 166</setting>
 Pan with pirateship as two TIE fighters charge through the
 background. Laserbolts streak from all the craft.
-167 INT. MILLENNIUM FALCON - CHEWBACCA 167
+<setting>167 INT. MILLENNIUM FALCON - CHEWBACCA 167</setting>
 The ship shudders as a laserbolt hits very close to the
 cockpit. The Wookiee chatters something to Leia.
-168 EXT. TIE FIGHTER - SPACE 168
+<setting>168 EXT. TIE FIGHTER - SPACE 168</setting>
 Full shot of a TIE fighter as it moves fast through the
 frame, firing on the pirate starship.
-169 EXT. SPACE - TIE FIGHTERS 169
+<setting>169 EXT. SPACE - TIE FIGHTERS 169</setting>
 The two TIE fighters fire a barrage of laserbeams at the
 pirateship.
-170 INT. MILLENNIUM FALCON - MAIN PASSAGEWAY 170
+<setting>170 INT. MILLENNIUM FALCON - MAIN PASSAGEWAY 170</setting>
 A laserbolt streaks into the side of the pirateship. The
 ship lurches violently, throwing poor Threepio into a
 cabinet fill of small computer chips.
 THREEPIO
 Oooh!
-171 INT. MILLENNIUM FALCON - COCKPIT - GUNPORTS 171
+<setting>171 INT. MILLENNIUM FALCON - COCKPIT - GUNPORTS 171</setting>
 Leia watches the computer readout as Chewbacca manipulates
 the ship's controls.
 LEIA
@@ -4331,39 +4333,39 @@ Don't worry, she'll hold together.
 An enemy laserbolt hits the pirateship's control panel,
 causing it to blow out in a shower of sparks.
 105.
-HAN (CONT’D)
+HAN (CONTINUED)
 (to ship)
 You hear me, baby? Hold together!
 Artoo-Detoo advances toward the smoking sparking control
 panel, dousing the inferno by spraying it with fire
 retardant beeping all the while.
-172 INT. MILLENNIUM FALCON - GUNPORT 172
+<setting>172 INT. MILLENNIUM FALCON - GUNPORT 172</setting>
 Luke swivels in his gun mount, following the TIE fighter
 with his laser cannon.
-173 INT. MILLENNIUM FALCON - GUNPORT 173
+<setting>173 INT. MILLENNIUM FALCON - GUNPORT 173</setting>
 Solo aims his laser cannon at the enemy fighter.
-174 EXT. SPACE 174
+<setting>174 EXT. SPACE 174</setting>
 A TIE fighter streaks in front of the starship.
-175 INT. MILLENNIUM FALCON - COCKPIT 175
+<setting>175 INT. MILLENNIUM FALCON - COCKPIT 175</setting>
 Leia watches the TIE fighter ship fly over.
-176 EXT. SPACE 176
+<setting>176 EXT. SPACE 176</setting>
 A TIE fighter heads right for the pirateship, then zooms
 overhead.
-177 INT. MILLENNIUM FALCON - GUNPORTS 177
+<setting>177 INT. MILLENNIUM FALCON - GUNPORTS 177</setting>
 Luke follows the TIE fighter across his field of view,
 firing laserbeams from his cannon.
-178 EXT. TIE FIGHTER 178
+<setting>178 EXT. TIE FIGHTER 178</setting>
 A TIE fighter dives past the pirateship.
-179 INT. MILLENNIUM FALCON - GUNPORTS 179
+<setting>179 INT. MILLENNIUM FALCON - GUNPORTS 179</setting>
 Luke fires at a TIE fighter. At his port, Han follows a
 fighter in his sights, releasing a blast of laserfire. He
 connects, and the fighter explodes into fiery dust. Han
 laughs victoriously.
-180 EXT. SPACE 180
+<setting>180 EXT. SPACE 180</setting>
 Two TIE fighters move toward and over the Millennium Falcon,
 unleashing a barrage of laserbolts at the ship.
 106.
-181 INT. MILLENNIUM FALCON - GUNPORTS 181
+<setting>181 INT. MILLENNIUM FALCON - GUNPORTS 181</setting>
 Another TIE fighter moves in on the pirateship and Luke,
 smiling, fires the laser cannon at it, scoring a spectacular
 direct hit.
@@ -4374,38 +4376,38 @@ returns.
 HAN
 Great kid! Don't get cocky.
 Han turns back to his laser cannon.
-182 EXT. SPACE 182
+<setting>182 EXT. SPACE 182</setting>
 Two more TIE fighters cross in front of the pirateship.
-183 INT. MILLENNIUM FALCON - COCKPIT 183
+<setting>183 INT. MILLENNIUM FALCON - COCKPIT 183</setting>
 While Chewbacca manipulates the controls, Leia turns,
 looking over her shoulder out the ports.
 LEIA
 There are still two more of them
 out there!
-184 EXT. SPACE 184
+<setting>184 EXT. SPACE 184</setting>
 A TIE fighter moves up over the pirateship, firing
 laserblasts at it.
-185 INT. MILLENNIUM FALCON - GUNPORTS 185
+<setting>185 INT. MILLENNIUM FALCON - GUNPORTS 185</setting>
 Luke and Han look into their respective projected target
 screens. An Imperial fighter crosses Solo's port, and Han
 swivels in his chair, following it with blasts from his
 laser cannon. Another fighter crosses Luke's port, and he
 reacts in a like manner, the glow of his target screen
 lighting his face.
-186 EXT. SPACE 186
+<setting>186 EXT. SPACE 186</setting>
 The TIE fighter zooms toward the pirateship, firing
 destructive blasts at it.
-187 INT. MILLENNIUM FALCON - GUNPORTS 187
+<setting>187 INT. MILLENNIUM FALCON - GUNPORTS 187</setting>
 Luke fires a laserblast at the approaching enemy fighter,
 and it bursts into a spectacular explosion.
 107.
 Luke's projected screen gives a readout of the hit. The
 pirateship bounces slightly as it is struck by the enemy
 fire.
-188 EXT. SPACE - TIE FIGHTER 188
+<setting>188 EXT. SPACE - TIE FIGHTER 188</setting>
 The last of the attacking Imperial TIE fighters looms in,
 firing upon the Falcon.
-189 INT. MILLENNIUM FALCON - GUNPORT 189
+<setting>189 INT. MILLENNIUM FALCON - GUNPORT 189</setting>
 Solo swivels behind his cannon, his aim describing the arc
 of the TIE fighter. The fighter comes closer, firing at the
 pirateship, but a well-aimed blast from Solo's laser cannon
@@ -4417,7 +4419,7 @@ That's it! We did it!
 The princess jumps up and gives Chewie a congratulatory hug.
 LEIA
 We did it!
-190 INT. MILLENNIUM FALCON - PASSAGEWAY 190
+<setting>190 INT. MILLENNIUM FALCON - PASSAGEWAY 190</setting>
 Threepio lies on the floor of the ship, completely tangled
 in the smoking, sparking wires.
 THREEPIO
@@ -4425,10 +4427,10 @@ Help! I think I'm melting!
 (to Artoo)
 This is all your fault.
 Artoo turns his dome from side to side, beeping in response.
-191 EXT. SPACE - MILLENNIUM FALCON 191
+<setting>191 EXT. SPACE - MILLENNIUM FALCON 191</setting>
 The victorious Millennium Falcon moves off majestically
 through space.
-192 INT. DEATH STAR - CONTROL ROOM 192
+<setting>192 INT. DEATH STAR - CONTROL ROOM 192</setting>
 Darth Vader strides into the control room, where Tarkin is
 watching the huge view screen. A sea of stars is before him.
 TARKIN
@@ -4442,7 +4444,7 @@ You're sure the homing beacon is
 secure aboard their ship? I'm
 taking an awful risk, Vader. This
 had better work.
-193 INT. MILLENNIUM FALCON - COCKPIT 193
+<setting>193 INT. MILLENNIUM FALCON - COCKPIT 193</setting>
 Han, removes his gloves and smiling, is at the controls of
 the ship. Chewie moves into the aft section to check the
 damage. Leia is seated near Han.
@@ -4489,7 +4491,7 @@ love, then that's what you'll
 receive!
 She angrily turns, and as she starts out of the cockpit,
 passes Luke coming in.
-LEIA (CONT’D)
+LEIA (CONTINUED)
 Your friend is quite a mercenary. I
 wonder if he really cares about
 anything... or anyone.
@@ -4497,7 +4499,7 @@ LUKE
 I care!
 Luke, shaking his head, sits in the copilot seat. He and Han
 stare out at the vast blackness of space.
-LUKE (CONT’D)
+LUKE (CONTINUED)
 So... what do you think of her,
 Han?
 HAN
@@ -4514,25 +4516,25 @@ LUKE
 No!
 Luke says it with finality and looks away. Han smiles at
 young Luke's jealousy.
-194 EXT. SPACE AROUND FOURTH MOON OF YAVIN 194
+<setting>194 EXT. SPACE AROUND FOURTH MOON OF YAVIN 194</setting>
 The battered pirateship drifts into orbit around the planet
 Yavin and proceeds to one of its tiny green moons.
-195 EXT. FOURTH MOON OF YAVIN 195
+<setting>195 EXT. FOURTH MOON OF YAVIN 195</setting>
 The pirateship soars over the dense jungle.
 HAN (CONT'D)
 110.
-196 EXT. MASSASSI OUTPOST 196
+<setting>196 EXT. MASSASSI OUTPOST 196</setting>
 An alert guard, his laser gun in hand, scans the
 countryside. He sets the gun down and looks toward the
 temple, barely visible in the foliage.
-197 EXT. MASSASSI OUTPOST - JUNGLE TEMPLE 197
+<setting>197 EXT. MASSASSI OUTPOST - JUNGLE TEMPLE 197</setting>
 Rotting in a forest of gargantuan trees, an ancient temple
 lies shrouded in an eerie mist. The air is heavy with the
 fantastic cries of unimaginable creatures. Han, Luke and the
 others are greeted by the Rebel troops.
 Luke and the group ride into the massive temple on an
 armored military speeder.
-198 INT. MASSASSI - MAIN HANGAR DECK 198
+<setting>198 INT. MASSASSI - MAIN HANGAR DECK 198</setting>
 The military speeder stops in a huge spaceship hangar, set
 up in the interior of the crumbling temple. Willard, the
 commander of the Rebel forces, rushes up to the group and
@@ -4542,7 +4544,7 @@ WILLARD
 You're safe! We had feared the
 worst.
 Willard composes himself, steps back and bows formally.
-WILLARD (CONT’D)
+WILLARD (CONTINUED)
 When we heard about Alderaan, we
 were afraid that you were... lost
 along with your father.
@@ -4557,11 +4559,11 @@ ease of our escape. You must use
 the information in this R2 unit to
 plan the attack. It is our only
 hope.
-199 EXT. SPACE 199
+<setting>199 EXT. SPACE 199</setting>
 The surface of the Death Star ominously approaches the red
 planet Yavin.
 111.
-200 INT. DEATH STAR - CONTROL ROOM 200
+<setting>200 INT. DEATH STAR - CONTROL ROOM 200</setting>
 Grand Moff Tarkin and Lord Vader are interrupted in their
 discussion by the buzz of the comlink. Tarkin moves to
 answer the call.
@@ -4570,11 +4572,11 @@ Yes.
 201 DEATH STAR INTERCOM VOICE 201
 We are approaching the planet Yavin. The Rebel base is on a
 moon on the far side. We are preparing to orbit the planet.
-202 EXT. YAVIN - JUNGLE 202
+<setting>202 EXT. YAVIN - JUNGLE 202</setting>
 A lone guard stands in a tower high above the Yavin
 landscape, surveying the countryside. A mist hangs over the
 jungle of twisted green.
-203 INT. MASSASSI - WAR ROOM BRIEFING AREA 203
+<setting>203 INT. MASSASSI - WAR ROOM BRIEFING AREA 203</setting>
 Dodonna stands before a large electronic wall display. Leia
 and several other senators are to one side of the giant
 readout. The low-ceilinged room is filled with starpilots,
@@ -4608,7 +4610,7 @@ by Princess Leia has demonstrated a
 weakness in the battle station.
 Artoo-Detoo stands next to a similar robot, makes beeping
 sounds, and turns his head from right to left.
-DODONNA (CONT’D)
+DODONNA (CONTINUED)
 The approach will not be easy. You
 are required to maneuver straight
 down this trench and skim the
@@ -4621,7 +4623,7 @@ system. A precise hit will start a
 chain reaction which should destroy
 the station.
 A murmer of disbelief runs through the room.
-DODONNA (CONT’D)
+DODONNA (CONTINUED)
 Only a precise hit will set up a
 chain reaction. The shaft is rayshielded, so you'll have to use
 proton torpedoes.
@@ -4638,12 +4640,12 @@ DODONNA
 Man your ships! And may the Force
 be with you!
 The group rises and begins to leave.
-204 EXT. SPACE 204
+<setting>204 EXT. SPACE 204</setting>
 The Death Star begins to move around the planet toward the
 tiny green moon.
 DODONNA (CONT'D)
 113.
-205 INT. DEATH STAR 205
+<setting>205 INT. DEATH STAR 205</setting>
 Tarkin and Vader watch the computer projected screen with
 interest, as a circle of lights intertwines around one
 another on the screen showing it's position in relation to
@@ -4656,7 +4658,7 @@ This will be a day long remembered.
 It has seen the end of Kenobi and
 it will soon see the end of the
 Rebellion.
-207 INT. MASSASSI OUTPOST - MAIN HANGAR DECK 207
+<setting>207 INT. MASSASSI OUTPOST - MAIN HANGAR DECK 207</setting>
 Luke, Threepio and little Artoo enter the huge spaceship
 hangar and hurry along a long line of gleaming
 spacefighters. Flight crews rush around loading last-minute
@@ -4709,10 +4711,10 @@ you!
 Luke turns and sees Han wink at him. Luke lifts his hand in
 a small wave and then goes off.
 Han turns to Chewie who growls at his captain,
-HAN (CONT’D)
+HAN (CONTINUED)
 What're you lookin' at? I know what
 I'm doing.
-208 INT. MAIN HANGAR DECK - LUKE'S SHIP 208
+<setting>208 INT. MAIN HANGAR DECK - LUKE'S SHIP 208</setting>
 Luke, Leia, and Dodonna meet under a huge space fighter.
 LEIA
 What's wrong?
@@ -4801,7 +4803,7 @@ THREEPIO
 Hang on tight,Artoo, you've got to
 come back.
 Artoo beeps in agreement.
-THREEPIO (CONT’D)
+THREEPIO (CONTINUED)
 You wouldn't want my life to get
 boring, would you?
 Artoo whistles his reply.
@@ -4819,7 +4821,7 @@ through his goggles.
 BEN'S VOICE
 Luke, the Force will be with you.
 Luke is confused at the voice and taps his headphones.
-209 EXT. MASSASSI OUTPOST - JUNGLE 209
+<setting>209 EXT. MASSASSI OUTPOST - JUNGLE 209</setting>
 All that can be seen of the fortress is a lone guard
 standing on a small pedestal jutting out above the dense
 jungle. The muted gruesome crying sounds that naturally
@@ -4827,7 +4829,7 @@ permeate this eerie purgatory are overwhelmed by the
 thundering din of ion rockets as four silver starships
 catapult from the foliage in a tight formation and
 disappears into the morning cloud cover.
-210 INT. MASSASSI OUTPOST - WAR ROOM 210
+<setting>210 INT. MASSASSI OUTPOST - WAR ROOM 210</setting>
 The princess, Threepio, and a field commander sit quietly
 before the giant display showing the planet Yavin and its
 four moons. The red dot that represents the Death Star moves
@@ -4838,26 +4840,26 @@ MASSASSI INTERCOM VOICE
 Stand-by alert. Death Star
 approaching. Estimated time to
 firing range, fifteen minutes.
-211 EXT. SPACE 211
+<setting>211 EXT. SPACE 211</setting>
 The Death Star slowly moves behind the massive yellow
 surface of Yavin in the foreground, as many X-wing fighters
 flying in formation zoom toward us and out of the frame.
-212 EXT. SPACE - ANOTHER ANGLE 212
+<setting>212 EXT. SPACE - ANOTHER ANGLE 212</setting>
 Light from a distant sun creates an eerie atmospheric glow
 around a huge planet, Yavin. Rebel fighters flying in
 formation settle ominously in the foreground and very slowly
 pull away.
-213 INT. RED LEADER STARSHIP - COCKPIT 213
+<setting>213 INT. RED LEADER STARSHIP - COCKPIT 213</setting>
 Red Leader lowers his visor and adjusts his gun sights,
 looking to each side at his wing men.
 RED LEADER
 All wings report in.
-214 INT. ANOTHER COCKPIT 214
+<setting>214 INT. ANOTHER COCKPIT 214</setting>
 One of the Rebel fighters checks in through his mike.
 118.
 RED TEN
 Red Ten standing by.
-215 INT. BIGGS' COCKPIT 215
+<setting>215 INT. BIGGS' COCKPIT 215</setting>
 Biggs checks his fighter's controls, alert and ready for
 combat.
 RED SEVEN
@@ -4865,58 +4867,58 @@ RED SEVEN
 Red Seven standing by.
 BIGGS
 Red Three standing by.
-216 INT. PORKINS' COCKPIT 216
+<setting>216 INT. PORKINS' COCKPIT 216</setting>
 PORKINS
 Red Six standing by.
 RED NINE
 (over headset)
 Red Nine standing by.
-217 INT. WEDGE'S FIGHTER - COCKPIT 217
+<setting>217 INT. WEDGE'S FIGHTER - COCKPIT 217</setting>
 WEDGE
 Red Two standing by.
-218 INT. LUKE'S X-WING FIGHTER - COCKPIT 218
+<setting>218 INT. LUKE'S X-WING FIGHTER - COCKPIT 218</setting>
 RED ELEVEN
 (over headset)
 Red Eleven standing by.
 LUKE
 Red Five standing by.
-219 EXT. LUKE'S X-WING FIGHTER 219
+<setting>219 EXT. LUKE'S X-WING FIGHTER 219</setting>
 Artoo-Detoo, in position outside of the fighter, turns his
 head from side to side and makes beeping sounds.
-220 INT. RED LEADER'S FIGHTER - COCKPIT 220
+<setting>220 INT. RED LEADER'S FIGHTER - COCKPIT 220</setting>
 RED LEADER
 Lock S-foils in attack position.
-221 EXT. SPACE 221
+<setting>221 EXT. SPACE 221</setting>
 The group of X-wing fighters move in formation toward the
 Death Star, unfolding the wings and locking them in the "X"
 position.
 119.
-222 INT. BIGGS' COCKPIT 222
+<setting>222 INT. BIGGS' COCKPIT 222</setting>
 READ LEADER
 (over headset)
 We're passing through their
 magnetic field.
-223 INT. RED LEADER'S COCKPIT 223
+<setting>223 INT. RED LEADER'S COCKPIT 223</setting>
 RED LEADER
 Hold tight!
-224 INT. LUKE'S X-WING FIGHTER - COCKPIT 224
+<setting>224 INT. LUKE'S X-WING FIGHTER - COCKPIT 224</setting>
 Luke adjusts his controls as he concentrates on the
 approaching Death Star. The ship begins to be buffeted
 slightly.
 RED LEADER
 (over headset)
 Switch your deflectors on.
-225 INT. ANOTHER COCKPIT 225
+<setting>225 INT. ANOTHER COCKPIT 225</setting>
 RED LEADER
 (over headset)
 Double front!
-226 EXT. SPACE 226
+<setting>226 EXT. SPACE 226</setting>
 The fighters, now X-shaped darts, move in formation. The
 Death Star now appears to be a small moon growing rapidly in
 size as the Rebel fighters approach. Complex patterns on the
 metallic surface begin to become visible. A large dish
 antenna is built into the surface on one side.
-227 INT. WEDGE'S COCKPIT 227
+<setting>227 INT. WEDGE'S COCKPIT 227</setting>
 Wedge is amazed and slightly frightened at the awesome
 spectacle.
 WEDGE
@@ -4924,19 +4926,19 @@ Look at the size of that thing!
 RED LEADER
 (over headset)
 Cut the chatter, Red Two.
-228 INT. RED LEADER'S COCKPIT 228
+<setting>228 INT. RED LEADER'S COCKPIT 228</setting>
 RED LEADER
 Accelerate to attack speed. This is
 it, boys!
 120.
-229 EXT. SPACE 229
+<setting>229 EXT. SPACE 229</setting>
 As the fighters move closer to the Death Star, the awesome
 size of the gargantuan Imperial fortress is revealed. Half
 of the deadly space station is in shadow and this area
 sparkles with thousands of small lights running in thin
 lines and occasionally grouped in large clusters; somewhat
 like a city at night as seen from a weather satellite.
-230 INT. GOLD LEADER'S COCKPIT 230
+<setting>230 INT. GOLD LEADER'S COCKPIT 230</setting>
 GOLD LEADER
 Red Leader, this is Gold Leader.
 RED LEADER
@@ -4945,7 +4947,7 @@ I copy, Gold Leader.
 GOLD LEADER
 We're starting for the target shaft
 now.
-231 INT. RED LEADER'S COCKPIT 231
+<setting>231 INT. RED LEADER'S COCKPIT 231</setting>
 Red Leader looks around at his wingmen; the Death Star
 looming in from behind. Two Y-wing fighters bob back and
 forth in the background. He moves his computer targeting
@@ -4954,20 +4956,20 @@ RED LEADER
 We're in position. I'm going to cut
 across the axis and try and draw
 their fire.
-232 EXT. SPACE 232
+<setting>232 EXT. SPACE 232</setting>
 Two squads of Rebel fighters peel off. The X-wings dive
 towards the Death Star surface. A thousand lights glow
 across the dark grey expanse of the huge station.
-233 INT. DEATH STAR 233
+<setting>233 INT. DEATH STAR 233</setting>
 Alarm sirens scream as soldiers scramble to large turbopowered laser gun emplacements. Electronic drivers rotate
 the huge guns into position as crew adjust their targeting
 devices.
-234 EXT. SPACE AROUND THE DEATH STAR 234
+<setting>234 EXT. SPACE AROUND THE DEATH STAR 234</setting>
 Laserbolts streak through the star-filled night. The Rebel Xwing fighters move in toward the Imperial base, as the Death
 Star aims its massive laser guns at the Rebel forces and
 fires.
 121.
-235 INT. MASSASSI OUTPOST - WAR ROOM 235
+<setting>235 INT. MASSASSI OUTPOST - WAR ROOM 235</setting>
 Princess Leia listens to the battle over the intercom.
 Threepio is at her side.
 WEDGE
@@ -4977,48 +4979,48 @@ Heavy fire, boss! Twenty-degrees.
 RED LEADER
 (over speaker)
 I see it. Stay low.
-236 EXT. SPACE 236
+<setting>236 EXT. SPACE 236</setting>
 An X-wing zooms across the surface of the Death Star.
-237 INT. DEATH STAR 237
+<setting>237 INT. DEATH STAR 237</setting>
 Technical crews scurry here and there loading last-minute
 armaments and unlocking power cables.
-238 INT. WEDGE'S COCKPIT 238
+<setting>238 INT. WEDGE'S COCKPIT 238</setting>
 Wedge maneuvers his fighter toward the menacing Death Star.
-239 EXT. SPACE 239
+<setting>239 EXT. SPACE 239</setting>
 X-wings continue in their attack course on the Death Star.
-240 INT. LUKE'S X-WING FIGHTER - COCKPIT 240
+<setting>240 INT. LUKE'S X-WING FIGHTER - COCKPIT 240</setting>
 Luke nosedives radically, starting his attack on the
 monstrous fortress. The Death Star surface streaks past the
 cockpit window.
 LUKE
 This is Red Five; I'm going in!
-241 EXT. SPACE 241
+<setting>241 EXT. SPACE 241</setting>
 Luke's X-wing races toward the Death Star. Laserbolts streak
 from Luke's weapons, creating a huge fireball explosion on
 the dim surface.
-242 INT. LUKE'S X-WING FIGHTER - COCKPIT 242
+<setting>242 INT. LUKE'S X-WING FIGHTER - COCKPIT 242</setting>
 Terror crosses Luke's face as he realizes he won't be able
 to pull out in time to avoid the fireball.
 BIGGS
 (over headset)
 Luke, pull up!
 122.
-243 EXT. SURFACE OF DEATH STAR 243
+<setting>243 EXT. SURFACE OF DEATH STAR 243</setting>
 Luke's ship emerges from the fireball, with the leading
 edges of his wings slightly scorched.
-244 INT. BIGGS' COCKPIT 244
+<setting>244 INT. BIGGS' COCKPIT 244</setting>
 BIGGS
 Are you all right?
-245 INT. LUKE'S X-WING FIGHTER - COCKPIT 245
+<setting>245 INT. LUKE'S X-WING FIGHTER - COCKPIT 245</setting>
 Luke adjusts his controls and breathes a sigh of relief.
 Flak bursts outside the cockpit window.
 LUKE
 I got a little cooked, but I'm
 okay.
-246 EXT. SURFACE OF THE DEATH STAR 246
+<setting>246 EXT. SURFACE OF THE DEATH STAR 246</setting>
 Rebel fighters continue to strafe the Death Star's surface
 with laserbolts.
-247 INT. DEATH STAR 247
+<setting>247 INT. DEATH STAR 247</setting>
 Walls buckle and cave in. Troops and equipment are blown in
 all directions. Stormtroopers stagger out of the rubble.
 Standing in the middle of the chaos, a vision of calm and
@@ -5032,7 +5034,7 @@ VADER
 We'll have to destroy them ship to
 ship. Get the crews to their
 fighters.
-248 INT. DEATH STAR 248
+<setting>248 INT. DEATH STAR 248</setting>
 Smoke belches from the giant laser guns as they wind up
 their turbine generators to create sufficient power. The
 crew rushes about preparing for another blast. Even the
@@ -5041,12 +5043,12 @@ overwhelming noise of the monstrous weapon. One troopers
 bangs his helmet with his hand in an attempt to stop the
 ringing.
 123.
-249 INT. READ LEADER'S X-WING FIGHTER - COCKPIT - TRAVELING 249
+<setting>249 INT. READ LEADER'S X-WING FIGHTER - COCKPIT - TRAVELING 249</setting>
 Red Leader flies through a heavy hail of flak.
 RED LEADER
 Luke, let me know when you're going
 in.
-250 INT. LUKE'S X-WING - COCKPIT - TRAVELING 250
+<setting>250 INT. LUKE'S X-WING - COCKPIT - TRAVELING 250</setting>
 The Red Leader's X-wing flies past Luke as he puts his nose
 down and starts his attack dive.
 LUKE
@@ -5057,36 +5059,36 @@ fire coming from the right side of
 that deflection tower.
 LUKE
 I'm on it.
-251 EXT. SURFACE OF THE DEATH STAR 251
+<setting>251 EXT. SURFACE OF THE DEATH STAR 251</setting>
 Luke flings his X-wing into a twisting dive across the
 horizon and down onto the dim grey surface.
-252 EXT. LUKE'S X-WING TRAVELING 252
+<setting>252 EXT. LUKE'S X-WING TRAVELING 252</setting>
 A shot hurls from Luke's guns. Laserbolts streak toward the
 onrushing Death Star surface. Several small radar
 emplacements erupt in flame. Laserfire erupts from a
 protruding tower on the surface.
-253 INT. LUKE'S X-WING - COCKPIT - TRAVELING 253
+<setting>253 INT. LUKE'S X-WING - COCKPIT - TRAVELING 253</setting>
 The blurry Death Star surface races past the cockpit window
 as a big smile sweeps across Luke's face at the success of
 his run. Flak thunders on all sides of him.
-254 EXT. SURFACE OF THE DEATH STAR 254
+<setting>254 EXT. SURFACE OF THE DEATH STAR 254</setting>
 The Death Star superstructure races past Luke as he
 maneuvers his craft through a wall of laserfire and peels
 away from the surface towards the heavens.
-255 INT. DEATH STAR 255
+<setting>255 INT. DEATH STAR 255</setting>
 The thunder and smoke of the big guns reverberate throughout
 the massive structure. Many soldiers rush about in the smoke
 and chaos, silhouetted by the almost continual flash of
 explosions.
 124.
-256 INT. BIGGS' COCKPIT - TRAVELING 256
+<setting>256 INT. BIGGS' COCKPIT - TRAVELING 256</setting>
 Biggs dives through a forest of radar domes, antennae, and
 gun towers as he shoots low across the Death Star surface. A
 dense barrage of laserfire streaks by on all sides.
-257 INT. DEATH STAR 257
+<setting>257 INT. DEATH STAR 257</setting>
 Imperial star pilots dash in unison to a line of small
 auxiliary hatches that lead to Imperial TIE fighters.
-258 INT. MASSASSI OUTPOST - WAR ROOM 258
+<setting>258 INT. MASSASSI OUTPOST - WAR ROOM 258</setting>
 Princess Leia, surrounded by her generals and aides, paces
 nervously before a lighted computer table. On all sides
 technicians work in front of many lighted glass walls.
@@ -5096,13 +5098,13 @@ CONTROL OFFICER
 Squad leaders, we've picked up a
 new group of signals. Enemy
 fighters coming your way.
-259 INT. LUKE'S X-WING - COCKPIT - TRAVELING 259
+<setting>259 INT. LUKE'S X-WING - COCKPIT - TRAVELING 259</setting>
 Luke looks around to see if he can spot the approaching
 Imperial fighters.
 LUKE
 My scope's negative. I don't see
 anything.
-260 INT. RED LEADER'S X-WING - COCKPIT - TRAVELING 260
+<setting>260 INT. RED LEADER'S X-WING - COCKPIT - TRAVELING 260</setting>
 The Death Star's surface sweeps past as Red Leader searches
 the sky for the Imperial fighters. Flak pounds at his ship.
 RED LEADER
@@ -5110,62 +5112,62 @@ Keep up your visual scanning. With
 all this jamming, they'll be on top
 of you before your scope can pick
 them up.
-261 EXT. SURFACE OF THE DEATH STAR 261
+<setting>261 EXT. SURFACE OF THE DEATH STAR 261</setting>
 Silhouetted against the rim lights of the Death Star
 horizon, four ferocious Imperial TIE ships dive on the Rebel
 fighters. Two of the TIE fighters peel off and drop out of
 frame. Pan with the remaining two TIE ships.
 125.
-262 INT. BIGGS' COCKPIT - TRAVELING 262
+<setting>262 INT. BIGGS' COCKPIT - TRAVELING 262</setting>
 Biggs panics when he discovers a TIE ship on his tail. The
 horizon in the background twists around as he peels off,
 hoping to lose the Imperial fighter.
-263 INT. RED LEADER'S COCKPIT 263
+<setting>263 INT. RED LEADER'S COCKPIT 263</setting>
 RED LEADER
 Biggs! You've picked one up...
 watch it!
 BIGGS
 I can't see it! Where is he?!
-264 EXT. SPACE AROUND THE DEATH STAR 264
+<setting>264 EXT. SPACE AROUND THE DEATH STAR 264</setting>
 Biggs zooms off the surface and into space, closely followed
 by an Imperial TIE fighter. The TIE ship fires several
 laserbolts at Biggs, but misses.
-265 INT. BIGGS' COCKPIT - TRAVELING 265
+<setting>265 INT. BIGGS' COCKPIT - TRAVELING 265</setting>
 Biggs see the TIE ship behind him and swings around, trying
 to avoid him.
 BIGGS
 He's on me tight, I can't shake
 him... I can't shake him.
-266 EXT. SPACE AROUND THE DEATH STAR 266
+<setting>266 EXT. SPACE AROUND THE DEATH STAR 266</setting>
 Biggs, flying at high altitude, peels off and dives toward
 the Death Star surface, but he is unable to lose the TIE
 fighter, who sticks close to his tail.
-267 INT. X-WING FIGHTER - COCKPIT - TRAVELING 267
+<setting>267 INT. X-WING FIGHTER - COCKPIT - TRAVELING 267</setting>
 Luke is flying upside down. He rotates his ship around to
 normal attitude as he comes out of his dive.
 LUKE
 Hang on, Biggs, I'm coming in.
-268 EXT. SPACE AROUND THE DEATH STAR 268
+<setting>268 EXT. SPACE AROUND THE DEATH STAR 268</setting>
 Biggs and the tailing TIE ship dive for the surface, now
 followed by a fast-gaining Luke. After Biggs dives out of
 sight, Luke chases the Imperial fighter.
 126.
-269 EXT. SURFACE AROUND THE DEATH STAR 269
+<setting>269 EXT. SURFACE AROUND THE DEATH STAR 269</setting>
 In the foreground, the Imperial fighter races across the
 Death Star's surface, closely followed by Luke in the
 background.
-270 INT. LUKE'S X-WING FIGHTER - COCKPIT - TRAVELING 270
+<setting>270 INT. LUKE'S X-WING FIGHTER - COCKPIT - TRAVELING 270</setting>
 There is a shot from Luke's X-wing of the TIE ship exploding
 in a mass of flames.
 LUKE
 Got him!
-271 INT. DEATH STAR 271
+<setting>271 INT. DEATH STAR 271</setting>
 Darth Vader strides purposefully down a Death Star corridor,
 flanked by Imperial stormtroopers.
 VADER
 Several fighters have broken off
 from the main group. Come with me!
-272 INT. MASSASSI OUTPOST - WAR ROOM 272
+<setting>272 INT. MASSASSI OUTPOST - WAR ROOM 272</setting>
 A concerned Princess Leia, Threepio, Dodonna, and other
 officers of the Rebellion stand around the huge round
 readout screen, listening to the ship-to-ship communication
@@ -5176,37 +5178,37 @@ Pull in! Luke... pull in!
 WEDGE
 (over speaker)
 Watch your back, Luke!
-273 INT. LUKE'S X-WING FIGHTER - COCKPIT 273
+<setting>273 INT. LUKE'S X-WING FIGHTER - COCKPIT 273</setting>
 WEDGE
 (over headset)
 Watch your back! Fighter's above
 you, coming in!
-274 EXT. SPACE 274
+<setting>274 EXT. SPACE 274</setting>
 Luke's ship soars away from the Death Star's surface as he
 spots the tailing TIE fighter.
-275 INT. TIE FIGHTER'S COCKPIT 275
+<setting>275 INT. TIE FIGHTER'S COCKPIT 275</setting>
 The TIE pilot takes aim at Luke's X-wing.
 127.
-276 EXT. SPACE 276
+<setting>276 EXT. SPACE 276</setting>
 The Imperial TIE fighter pilot scores a hit on Luke's ship.
 Fire breaks out on the right side of the X-wing.
-277 INT. LUKE'S X-WING FIGHTER - COCKPIT 277
+<setting>277 INT. LUKE'S X-WING FIGHTER - COCKPIT 277</setting>
 Luke looks out of his cockpit at the flames on his ship.
 LUKE
 I'm hit, but not bad.
-278 EXT. LUKE'S X-WING FIGHTER 278
+<setting>278 EXT. LUKE'S X-WING FIGHTER 278</setting>
 Smoke pours out from behind Artoo-Detoo.
 LUKE'S VOICE
 Artoo, see what you can do with it.
 Hang on back there.
 Green laserfire moves past the beeping little robot as his
 head turns.
-279 INT. LUKE'S X-WING - COCKPIT 279
+<setting>279 INT. LUKE'S X-WING - COCKPIT 279</setting>
 Luke nervously works his controls.
 RED LEADER
 (over headset)
 Red Six...
-280 INT. MASSASSI OUTPOST - WAR ROOM 280
+<setting>280 INT. MASSASSI OUTPOST - WAR ROOM 280</setting>
 In the war room, Leia stands frozen as she listens and
 worries about Luke.
 RED LEADER
@@ -5216,44 +5218,44 @@ RED TEN
 (over speaker)
 There's a heavy fire zone on this
 side. Red Five, where are you?
-281 INT. LUKE'S X-WING - COCKPIT 281
+<setting>281 INT. LUKE'S X-WING - COCKPIT 281</setting>
 Luke spots the TIE fighter behind him and soars away from
 the Death Star surface.
 LUKE
 I can't shake him!
 128.
-282 EXT. SURFACE OF THE DEATH STAR 282
+<setting>282 EXT. SURFACE OF THE DEATH STAR 282</setting>
 Luke's ship soars closer to the surface of the Death Star,
 an Imperial TIE fighter closing in on him in hot pursuit.
-283 INT. WEDGE'S COCKPIT 283
+<setting>283 INT. WEDGE'S COCKPIT 283</setting>
 The Death Star whips below Wedge.
 WEDGE
 I'm on him, Luke!
-284 INT. LUKE'S X-WING - COCKPIT 284
+<setting>284 INT. LUKE'S X-WING - COCKPIT 284</setting>
 WEDGE
 (over headset)
 Hold on!
-285 EXT. SURFACE OF THE DEATH STAR 285
+<setting>285 EXT. SURFACE OF THE DEATH STAR 285</setting>
 Wedge dives across the horizon toward Luke and the TIE
 fighter.
-286 INT. WEDGE'S COCKPIT 286
+<setting>286 INT. WEDGE'S COCKPIT 286</setting>
 Wedge moves his X-wing in rapidly.
-287 INT. LUKE'S X-WING - COCKPIT 287
+<setting>287 INT. LUKE'S X-WING - COCKPIT 287</setting>
 Luke reacts frantically.
 LUKE
 Blast it! Wedge where are you?
-288 INT. TIE FIGHTER - COCKPIT 288
+<setting>288 INT. TIE FIGHTER - COCKPIT 288</setting>
 The fighter pilot watches Wedge's X-wing approach. Another Xwing joins him, and both unleash a volley of laserfire on
 the Imperial fighter.
-289 EXT. SPACE 289
+<setting>289 EXT. SPACE 289</setting>
 The TIE fighter explodes, filling the screen with white
 light. Luke's ship can be seen far in the distance.
-290 INT. LUKE'S X-WING - COCKPIT 290
+<setting>290 INT. LUKE'S X-WING - COCKPIT 290</setting>
 Luke looks about in relief.
 LUKE
 Thanks, Wedge.
 129.
-291 INT. MASSASSI OUTPOST - WAR ROOM 291
+<setting>291 INT. MASSASSI OUTPOST - WAR ROOM 291</setting>
 Leia, Threepio, Dodonna and other Rebel officers are
 listening to the Rebel Fighter's radio transmissions over
 the war room intercom.
@@ -5263,50 +5265,50 @@ Good shooting, Wedge!
 GOLD LEADER
 (over speaker)
 Red Leader...
-292 INT. GOLD LEADER'S Y-WING - COCKPIT 292
+<setting>292 INT. GOLD LEADER'S Y-WING - COCKPIT 292</setting>
 Gold Leader peels off and starts toward the long trenches at
 the Death Star surface pole.
 GOLD LEADER
 This is Gold Leader. We're starting
 out attack run.
-293 EXT. SPACE AROUND THE DEATH STAR 293
+<setting>293 EXT. SPACE AROUND THE DEATH STAR 293</setting>
 Three Y-wing fighters of the Gold group dive out of the
 stars toward the Death Star surface.
-294 INT. MASSASSI OUTPOST - WAR ROOM 294
+<setting>294 INT. MASSASSI OUTPOST - WAR ROOM 294</setting>
 Leia and the others are grouped around the screen, as
 technicians move about attending to their duties.
 RED LEADER
 (over speaker)
 I copy, Gold Leader. Move into
 position.
-295 EXT. SPACE AROUND THE DEATH STAR 295
+<setting>295 EXT. SPACE AROUND THE DEATH STAR 295</setting>
 Three Imperial TIE ships in precise formation dive toward
 the Death Star surface.
-296 INT. DARTH VADER'S COCKPIT 296
+<setting>296 INT. DARTH VADER'S COCKPIT 296</setting>
 Darth Vader calmly adjusts his control stick as the stars
 whip past in the window above his head.
 VADER
 Stay in attack formation!
-297 INT. MASSASSI OUTPOST - WAR ROOM 297
+<setting>297 INT. MASSASSI OUTPOST - WAR ROOM 297</setting>
 Technicians are seated at the computer readout table.
 130.
 GOLD LEADER
 (over speaker)
 The exhaust post is...
-298 INT. GOLD LEADER'S Y-WING - COCKPIT 298
+<setting>298 INT. GOLD LEADER'S Y-WING - COCKPIT 298</setting>
 GOLD LEADER
 ...marked and locked in!
-299 EXT. SPACE AROUND THE DEATH STAR 299
+<setting>299 EXT. SPACE AROUND THE DEATH STAR 299</setting>
 Gold Leader approaches the surface and pulls out to skim the
 surface of the huge station. The ship moves into a deep
 trench, firing laserbolts. The surface streaks past as
 laserfire is returned by the Death Star.
-300 INT. GOLD FIVE'S Y-WING - COCKPIT - TRAVELING 300
+<setting>300 INT. GOLD FIVE'S Y-WING - COCKPIT - TRAVELING 300</setting>
 Gold Five is a pilot in his early fifties with a very
 battered helmet that looks like it's been through many
 battles. He looks around to see if enemy ships are near. His
 fighter is buffeted by Imperial flak.
-301 INT. GOLD LEADER'S Y-WING - COCKPIT 301
+<setting>301 INT. GOLD LEADER'S Y-WING - COCKPIT 301</setting>
 Gold Leader races down the enormous trench that leads to the
 exhaust port. Laserbolts blast toward him in increasing
 numbers, occasionally exploding near the ship causing it to
@@ -5314,18 +5316,18 @@ bounce about.
 GOLD LEADER
 Switch power to front deflector
 screens.
-302 EXT. SURFACE OF THE DEATH STAR 302
+<setting>302 EXT. SURFACE OF THE DEATH STAR 302</setting>
 Three Y-wing skim the Death Star surface deep in the trench,
 as laserbolts streak past on all sides.
-303 EXT. DEATH STAR SURFACE - GUN EMPLACEMENTS 303
+<setting>303 EXT. DEATH STAR SURFACE - GUN EMPLACEMENTS 303</setting>
 An exterior surface gun blazes away at the oncoming Rebel
 fighters.
-304 INT. GOLD LEADER'S Y-WING - COCKPIT 304
+<setting>304 INT. GOLD LEADER'S Y-WING - COCKPIT 304</setting>
 GOLD LEADER
 How many guns do you think, Gold
 Five.
 131.
-305 INT. MASSASSI OUTPOST - WAR ROOM 305
+<setting>305 INT. MASSASSI OUTPOST - WAR ROOM 305</setting>
 GOLD FIVE
 (over speaker)
 I'd say about twenty guns. Some on
@@ -5337,16 +5339,16 @@ MASSASSI INTERCOM VOICE
 (over speaker)
 Death Star will be in range in five
 minutes.
-306 EXT. SURFACE OF THE DEATH STAR 306
+<setting>306 EXT. SURFACE OF THE DEATH STAR 306</setting>
 The three Y-wing fighters race toward camera and zoom
 overhead through a hail of laserfire.
-307 INT. GOLD LEADER'S Y-WING - COCKPIT 307
+<setting>307 INT. GOLD LEADER'S Y-WING - COCKPIT 307</setting>
 Gold Leader pulls his computer targeting device down in
 front of his eye. Laserbolts continue to batter the Rebel
 craft.
 GOLD LEADER
 Switching to targeting computer.
-308 INT. GOLD TWO'S Y-WING - COCKPIT 308
+<setting>308 INT. GOLD TWO'S Y-WING - COCKPIT 308</setting>
 Gold Two, a younger pilot about Luke's age, pulls down his
 targeting eye viewer and adjusts it. His ship shudders under
 intense laser barrage.
@@ -5356,23 +5358,23 @@ signal.
 As the fighters begin to approach the target area, suddenly
 all the laserfire stops. An eerie clam clings over the
 trench as the surface whips past in a blur.
-GOLD TWO (CONT’D)
+GOLD TWO (CONTINUED)
 The guns... they've stopped!
-309 EXT. GOLD FIVE'S COCKPIT 309
+<setting>309 EXT. GOLD FIVE'S COCKPIT 309</setting>
 Gold Five looks behind him.
 GOLD FIVE
 Stabilize your read deflectors.
 Watch for enemy fighters.
 132.
-310 INT. GOLD LEADER'S Y-WING - COCKPIT 310
+<setting>310 INT. GOLD LEADER'S Y-WING - COCKPIT 310</setting>
 GOLD LEADER
 They've coming in! Three marks at
 two ten.
-311 EXT. SPACE AROUND THE DEATH STAR 311
+<setting>311 EXT. SPACE AROUND THE DEATH STAR 311</setting>
 Three Imperial TIE ships, Darth Vader in the center flanked
 by two wingmen, dive in precise formation almost vertically
 toward the Death Star surface.
-312 INT. DARTH VADER'S COCKPIT 312
+<setting>312 INT. DARTH VADER'S COCKPIT 312</setting>
 Darth Vader calmly adjusts his control stick as the stars
 zoom by.
 VADER
@@ -5380,79 +5382,79 @@ I'll take them myself! Cover me!
 WINGMAN'S VOICE
 (over speaker)
 Yes, sir.
-313 EXT. SPACE AROUND THE DEATH STAR 313
+<setting>313 EXT. SPACE AROUND THE DEATH STAR 313</setting>
 Three TIE fighters zoom across the surface of the Death
 Star.
-314 INT. DARTH VADER'S COCKPIT 314
+<setting>314 INT. DARTH VADER'S COCKPIT 314</setting>
 Vader lines up Gold Two in his targeting computer. Vader's
 hands grip the control stick as he presses the button.
-315 INT. GOLD LEADER'S Y-WING - COCKPIT 315
+<setting>315 INT. GOLD LEADER'S Y-WING - COCKPIT 315</setting>
 The cockpit explodes around Gold Two. His head falls
 forward.
-316 EXT. SPACE AROUND THE DEATH STAR 316
+<setting>316 EXT. SPACE AROUND THE DEATH STAR 316</setting>
 As Gold Two's ship explodes, debris is flung out into space.
-317 INT. GOLD LEADER'S Y-WING - COCKPIT 317
+<setting>317 INT. GOLD LEADER'S Y-WING - COCKPIT 317</setting>
 Gold Leader looks over his shoulder at the scene.
-318 EXT. DEATH STAR TRENCH 318
+<setting>318 EXT. DEATH STAR TRENCH 318</setting>
 The three TIE fighters race along in the trench in a tight
 formation.
 133.
-319 INT. GOLD LEADER'S Y-WING - COCKPIT 319
+<setting>319 INT. GOLD LEADER'S Y-WING - COCKPIT 319</setting>
 Gold Leader panics.
 GOLD LEADER
 (into mike)
 I can't maneuver!
-320 INT. GOLD FIVE'S Y-WING - COCKPIT 320
+<setting>320 INT. GOLD FIVE'S Y-WING - COCKPIT 320</setting>
 Gold Five, the old veteran, trys to calm Gold Leader.
 GOLD FIVE
 Stay on target.
-321 INT. GOLD LEADER'S Y-WING - COCKPIT 321
+<setting>321 INT. GOLD LEADER'S Y-WING - COCKPIT 321</setting>
 The Death Star races by outside the cockpit window as he
 adjusts his targeting device.
 GOLD LEADER
 We're too close.
-322 INT. GOLD FIVE'S Y-WING - COCKPIT 322
+<setting>322 INT. GOLD FIVE'S Y-WING - COCKPIT 322</setting>
 The older pilot remains calm.
 GOLD FIVE
 Stay on target!
-323 INT. GOLD LEADER'S Y-WING - COCKPIT 323
+<setting>323 INT. GOLD LEADER'S Y-WING - COCKPIT 323</setting>
 Now he's really panicked.
 GOLD LEADER
 Loosen up!
-324 INT. DARTH VADER'S COCKPIT 324
+<setting>324 INT. DARTH VADER'S COCKPIT 324</setting>
 Vader calmly adjusts his targeting computer and pushes the
 fire button.
-325 INT. GOLD LEADER'S Y-WING - COCKPIT 325
+<setting>325 INT. GOLD LEADER'S Y-WING - COCKPIT 325</setting>
 Gold Leader's ship is hit by Vader's laser.
-326 EXT. SURFACE OF THE DEATH STAR 326
+<setting>326 EXT. SURFACE OF THE DEATH STAR 326</setting>
 Gold Leader explodes in a ball of flames, throwing debris in
 all directions.
-327 INT. GOLD FIVE'S Y-WING - COCKPIT 327
+<setting>327 INT. GOLD FIVE'S Y-WING - COCKPIT 327</setting>
 Gold Five moves in on the exhaust port.
 134.
 GOLD FIVE
 Gold Five to Red Leader...
-328 INT. LUKE'S X-WING FIGHTER - COCKPIT 328
+<setting>328 INT. LUKE'S X-WING FIGHTER - COCKPIT 328</setting>
 Luke looks over his shoulder at the action outside of his
 cockpit.
 GOLD FIVE
 (over headset)
 Lost Tiree, lost Dutch.
-329 INT. RED LEADER'S COCKPIT 329
+<setting>329 INT. RED LEADER'S COCKPIT 329</setting>
 RED LEADER
 I copy, Gold Five.
-330 INT. GOLD FIVE'S Y-WING - COCKPIT 330
+<setting>330 INT. GOLD FIVE'S Y-WING - COCKPIT 330</setting>
 GOLD FIVE
 They came from behind...
-331 EXT. SURFACE OF THE DEATH STAR 331
+<setting>331 EXT. SURFACE OF THE DEATH STAR 331</setting>
 One of the engines explodes on Gold Five's Y-wing fighter,
 blazing out of control. He dives past the horizon toward the
 Death Star's surface, passing a TIE fighter during his
 descent. Gold Five, a veteran of countless campaigns, spins
 toward his death.
-332 INT. LUKE'S X-WING FIGHTER - COCKPIT 332
+<setting>332 INT. LUKE'S X-WING FIGHTER - COCKPIT 332</setting>
 Luke looks nervously about him at the explosive battle.
-333 INT. DEATH STAR - CONTROL ROOM 333
+<setting>333 INT. DEATH STAR - CONTROL ROOM 333</setting>
 Grant Moff Tarkin and a Chief Officer stand in the Death
 Star's control room.
 OFFICER
@@ -5471,11 +5473,11 @@ VOICE
 (over speaker)
 Rebel base, three minutes and
 closing.
-334 INT. READ LEADER'S COCKPIT 334
+<setting>334 INT. READ LEADER'S COCKPIT 334</setting>
 Red Leader looks over at his wingmen.
 RED LEADER
 Red Group, this is Red Leader.
-335 INT. MASSASSI OUTPOST - WAR ROOM 335
+<setting>335 INT. MASSASSI OUTPOST - WAR ROOM 335</setting>
 Dodonna moves to the intercom as he fiddles with the
 computer keys.
 RED LEADER
@@ -5487,153 +5489,153 @@ This is Red Two. Flying toward you.
 BIGGS
 (over speaker)
 Red Three, standing by.
-336 INT. RED LEADER'S COCKPIT 336
+<setting>336 INT. RED LEADER'S COCKPIT 336</setting>
 DODONNA
 (over headset)
 Red Leader, this is Base One. Keep
 half your group out of range for
 the next run.
-337 INT. LUKE'S X-WING FIGHTER - COCKPIT 337
+<setting>337 INT. LUKE'S X-WING FIGHTER - COCKPIT 337</setting>
 RED LEADER'S VOICE
 (over headset)
 Copy, Base One. Luke, take Red Two
 and Three. Hold up here and wait
 for my signal... to start your run.
 Luke nods his head.
-338 EXT. SPACE AROUND THE DEATH STAR 338
+<setting>338 EXT. SPACE AROUND THE DEATH STAR 338</setting>
 The X-wing fighters of Luke, Biggs, and Wedge fly in
 formation high above the Death Star's surface.
 136.
-339 INT. LUKE'S X-WING FIGHTER - COCKPIT 339
+<setting>339 INT. LUKE'S X-WING FIGHTER - COCKPIT 339</setting>
 Luke peers out from his cockpit.
-340 EXT. SURFACE OF THE DEATH STAR 340
+<setting>340 EXT. SURFACE OF THE DEATH STAR 340</setting>
 Two X-wings move across the surface of the Death Star. Red
 Leader's X-wing drops down to the surface leading to the
 exhaust port.
-341 INT. RED LEADER'S COCKPIT 341
+<setting>341 INT. RED LEADER'S COCKPIT 341</setting>
 Red Leader looks around to watch for the TIE fighters. He
 begins to perspire.
 RED LEADER
 This is it!
-342 EXT. SPACE 342
+<setting>342 EXT. SPACE 342</setting>
 Red Leader roams down the trench of the Death Star as lasers
 streak across the black heavens.
-343 EXT. DEATH STAR SURFACE - GUN EMPLACEMENTS 343
+<setting>343 EXT. DEATH STAR SURFACE - GUN EMPLACEMENTS 343</setting>
 A huge remote-control laser cannon fires at the approaching
 Rebel fighters.
-344 EXT. DEATH STAR TRENCH 344
+<setting>344 EXT. DEATH STAR TRENCH 344</setting>
 The Rebel fighters evade the Imperial laser blasts.
-345 INT. RED TEN'S COCKPIT 345
+<setting>345 INT. RED TEN'S COCKPIT 345</setting>
 Red Ten looks around for the Imperial fighters.
 RED TEN
 We should be able to see it by now.
-346 EXT. DEATH STAR TRENCH 346
+<setting>346 EXT. DEATH STAR TRENCH 346</setting>
 From the cockpits of the Rebel pilots, the surface of the
 Death Star streaks by, with Imperial laserfire shooting
 toward them.
-347 INT. RED LEADER'S COCKPIT 347
+<setting>347 INT. RED LEADER'S COCKPIT 347</setting>
 RED LEADER
 Keep your eyes open for those
 fighters!
 137.
-348 INT. RED TEN'S COCKPIT 348
+<setting>348 INT. RED TEN'S COCKPIT 348</setting>
 RED TEN
 There's too much interference!
-349 EXT. SPACE - DEATH STAR TRENCH 349
+<setting>349 EXT. SPACE - DEATH STAR TRENCH 349</setting>
 Three X-wing fighters move in formation down the Death Star
 trench.
 RED TEN'S VOICE
 Red Five, can you see them from
 where you are?
-350 INT. LUKE'S X-WING FIGHTER - COCKPIT 350
+<setting>350 INT. LUKE'S X-WING FIGHTER - COCKPIT 350</setting>
 Luke looks down at the Death Star surface below.
 LUKE
 No sign of any... wait!
-351 INT. RED TEN'S COCKPIT 351
+<setting>351 INT. RED TEN'S COCKPIT 351</setting>
 Red Ten looks up and sees the Imperial fighters.
 LUKE
 (over headset)
 Coming in point three five.
 RED TEN
 I see them.
-352 EXT. SURFACE OF THE DEATH STAR 352
+<setting>352 EXT. SURFACE OF THE DEATH STAR 352</setting>
 Three TIE fighters, Vader flanked by two wingmen, dive in a
 tight formation. The sun reflects off their dominate solar
 fins as they loop toward the Death Star's surface.
-353 INT. RED LEADER'S COCKPIT 353
+<setting>353 INT. RED LEADER'S COCKPIT 353</setting>
 Red Leader pulls his targeting device in front of his eyes
 and makes several adjustments.
 RED LEADER
 I'm in range.
-354 EXT. SURFACE OF THE DEATH STAR 354
+<setting>354 EXT. SURFACE OF THE DEATH STAR 354</setting>
 Red Leader's X-wing moves up the Death Star trench.
-355 INT. RED LEADER'S COCKPIT 355
+<setting>355 INT. RED LEADER'S COCKPIT 355</setting>
 RED LEADER
 Target's coming up!
 138.
 Red Leader looks at his computer target readout screen. He
 then looks into his targeting device.
-RED LEADER (CONT’D)
+RED LEADER (CONTINUED)
 Just hold them off for a few
 seconds.
-356 INT. DARTH VADER'S COCKPIT 356
+<setting>356 INT. DARTH VADER'S COCKPIT 356</setting>
 Vader adjusts his control lever and dives on the X-wing
 fighters.
 VADER
 Close up formation.
-357 EXT. DEATH STAR TRENCH 357
+<setting>357 EXT. DEATH STAR TRENCH 357</setting>
 The three TIE fighters move in formation across the Death
 Star surface.
-358 INT. RED LEADER'S COCKPIT 358
+<setting>358 INT. RED LEADER'S COCKPIT 358</setting>
 Red Leader lines up his target on the targeting device cross
 hairs.
-359 EXT. SURFACE OF THE DEATH STAR 359
+<setting>359 EXT. SURFACE OF THE DEATH STAR 359</setting>
 Vader and his wingmen zoom down the trench.
-360 INT. DARTH VADER'S COCKPIT 360
+<setting>360 INT. DARTH VADER'S COCKPIT 360</setting>
 Vader rapidly approaches the two X-wings of Red Ten and Red
 Twelve. Vader's laser cannon flashes below the view of the
 front porthole. the X-wings show in the center of Vader's
 computer screen.
-361 EXT. SPACE 361
+<setting>361 EXT. SPACE 361</setting>
 Red Twelve's X-wing fighter is hit by Vader's laserfire, and
 it explodes into flames against the trench.
-362 INT. RED TEN'S COCKPIT 362
+<setting>362 INT. RED TEN'S COCKPIT 362</setting>
 Red Ten works at his controls furiously, trying to avoid
 Vader's fighter behind him.
 RED TEN: You'd better let her loose.
-363 INT. RED LEADER'S COCKPIT 363
+<setting>363 INT. RED LEADER'S COCKPIT 363</setting>
 Red Leader is concentrating on his targeting device.
 RED LEADER
 Almost there!
 139.
-364 INT. RED TEN'S COCKPIT. 364
+<setting>364 INT. RED TEN'S COCKPIT. 364</setting>
 Red Ten panics.
 RED TEN
 I can't hold them!
-365 EXT. SURFACE OF THE DEATH STAR 365
+<setting>365 EXT. SURFACE OF THE DEATH STAR 365</setting>
 Vader and his wingmen whip through the trench in pursuit of
 the Rebel fighters.
-366 INT. DARTH VADER'S COCKPIT 366
+<setting>366 INT. DARTH VADER'S COCKPIT 366</setting>
 Vader cooly pushes the fire button on his control stick.
-367 INT. RED TEN'S COCKPIT 367
+<setting>367 INT. RED TEN'S COCKPIT 367</setting>
 Darth Vader's well-aimed laserfire proves to be unavoidable,
 and strikes Red Ten's ship. Red Ten screams in anguish and
 pain.
-368 EXT. SPACE AROUND THE DEATH STAR 368
+<setting>368 EXT. SPACE AROUND THE DEATH STAR 368</setting>
 Red Ten's ship explodes and bursts into flames.
-369 INT. RED LEADER'S COCKPIT 369
+<setting>369 INT. RED LEADER'S COCKPIT 369</setting>
 Grimly, Red Leader takes careful aim and watches his
 computer targeting device, which shows the target lined up
 in the cross hairs, and fires.
-370 INT. RED LEADER'S COCKPIT 370
+<setting>370 INT. RED LEADER'S COCKPIT 370</setting>
 RED LEADER
 It's away!
-371 INT. DEATH STAR 371
+<setting>371 INT. DEATH STAR 371</setting>
 An armed Imperial stormtrooper is knocked to the floor from
 the attack explosion. Other troopers scurrying about the
 corridors are knocked against the wall and lose their
 balance.
-372 INT. MASSASSI OUTPOST - WAR ROOM 372
+<setting>372 INT. MASSASSI OUTPOST - WAR ROOM 372</setting>
 Leia and the others stare at the computer screen.
 RED NINE'S VOICE
 (over speaker)
@@ -5642,23 +5644,23 @@ It's a hit!
 RED LEADER
 (over speaker)
 Negative.
-373 INT. RED LEADER'S COCKPIT 373
+<setting>373 INT. RED LEADER'S COCKPIT 373</setting>
 Red Leader looks back at the receding Death Star. Tiny
 explosions are visible in the distance.
 RED LEADER
 Negative! It didn't go in. It just
 impacted on the surface.
-374 EXT. SPACE AROUND THE DEATH STAR - TIE FIGHTER 374
+<setting>374 EXT. SPACE AROUND THE DEATH STAR - TIE FIGHTER 374</setting>
 Darth Vader peels off in pursuit as Red Leader's X-wing
 passes the Death Star horizon.
-375 INT. DARTH VADER'S COCKPIT 375
+<setting>375 INT. DARTH VADER'S COCKPIT 375</setting>
 Vader swings his ship around for the next kill.
-376 INT. RED LEADER'S COCKPIT 376
+<setting>376 INT. RED LEADER'S COCKPIT 376</setting>
 LUKE
 (over headset)
 Red Leader, we're right above you.
 Turn to point...
-377 INT. LUKE'S X-WING FIGHTER - COCKPIT 377
+<setting>377 INT. LUKE'S X-WING FIGHTER - COCKPIT 377</setting>
 Luke tries to spot Red Leader. He looks down at the Death
 Star surface.
 LUKE
@@ -5666,36 +5668,36 @@ LUKE
 RED LEADER
 (over headset)
 Stay there...
-378 INT. RED LEADER'S COCKPIT 378
+<setting>378 INT. RED LEADER'S COCKPIT 378</setting>
 A wary Red Leader looks about nervously.
 RED LEADER
 ...I just lost my starboard engine.
-379 INT. LUKE'S X-WING FIGHTER - COCKPIT 379
+<setting>379 INT. LUKE'S X-WING FIGHTER - COCKPIT 379</setting>
 Luke looks excitedly toward Red Leader's X-wing.
 141.
 RED LEADER
 (over headset)
 Get set to make your attack run.
-380 INT. DARTH VADER'S COCKPIT 380
+<setting>380 INT. DARTH VADER'S COCKPIT 380</setting>
 Vader's gloved hands make contact with the control sticks,
 and he presses their firing buttons.
-381 INT. RED LEADER'S COCKPIT 381
+<setting>381 INT. RED LEADER'S COCKPIT 381</setting>
 Red Leader fights to gain control of his ship.
-382 EXT. SPACE AROUND THE DEATH STAR 382
+<setting>382 EXT. SPACE AROUND THE DEATH STAR 382</setting>
 Laserbolts are flung from Vader's TIE fighter, connecting
 with Red Leader's Rebel X-wing fighter. Red Leader buys it,
 creating a tremendous explosion far below. He screams and is
 destroyed.
-383 INT. LUKE'S X-WING FIGHTER - COCKPIT 383
+<setting>383 INT. LUKE'S X-WING FIGHTER - COCKPIT 383</setting>
 Luke looks out the window of his X-wing at the explosion far
 below. For the first time, he feels the helplessness of his
 situation.
-384 INT. DEATH STAR 384
+<setting>384 INT. DEATH STAR 384</setting>
 Grand Moff Tarkin casts a sinister eye at the computer
 screen.
 DEATH STAR INTERCOM VOICE
 Rebel base, one minute and closing.
-385 INT. MASSASSI OUTPOST - WAR ROOM 385
+<setting>385 INT. MASSASSI OUTPOST - WAR ROOM 385</setting>
 Dodonna and Princess Leia, with Threepio beside them, listen
 intently to the talk between the pilots. The room is grim
 after Red Leader's death. Princess Leia nervously paces the
@@ -5705,41 +5707,41 @@ LUKE
 Biggs, Wedge, let's close it up.
 We're going in. We're going in full
 throttle.
-386 INT. WEDGE'S COCKPIT 386
+<setting>386 INT. WEDGE'S COCKPIT 386</setting>
 The horizon twists as Wedge begins to pull out.
 WEDGE
 Right with you, boss.
 142.
-387 EXT. SPACE AROUND THE DEATH STAR 387
+<setting>387 EXT. SPACE AROUND THE DEATH STAR 387</setting>
 The two X-wings peel off against a background of stars and
 dive toward the Death Star.
-388 INT. BIGGS' COCKPIT 388
+<setting>388 INT. BIGGS' COCKPIT 388</setting>
 BIGGS
 Luke, at that speed will you be
 able to pull out in time?
-389 INT. LUKE'S X-WING FIGHTER - COCKPIT 389
+<setting>389 INT. LUKE'S X-WING FIGHTER - COCKPIT 389</setting>
 LUKE
 It'll be just like Beggar's Canyon
 back home.
-390 EXT. SPACE AROUND THE DEATH STAR 390
+<setting>390 EXT. SPACE AROUND THE DEATH STAR 390</setting>
 The three X-wings move in, unleashing a barrage of
 laserfire. Laserbolts are returned from the Death Star.
-391 INT. BIGGS' COCKPIT 391
+<setting>391 INT. BIGGS' COCKPIT 391</setting>
 Luke's lifelong friend struggles with his controls.
 BIGGS
 We'll stay back far enough to cover
 you.
-392 INT. LUKE'S COCKPIT 392
+<setting>392 INT. LUKE'S COCKPIT 392</setting>
 Flak and laserbolts flash outside Luke's cockpit window.
 WEDGE
 (over headset)
 My scope shows the tower, but I
 can't see the exhaust port! Are you
 sure the computer can hit it?
-393 EXT. DEATH STAR - GUN EMPLACEMENTS 393
+<setting>393 EXT. DEATH STAR - GUN EMPLACEMENTS 393</setting>
 The Death Star laser cannon slowly rotates as it shoots
 laserbolts.
-394 INT. LUKE'S X-WING FIGHTER - COCKPIT 394
+<setting>394 INT. LUKE'S X-WING FIGHTER - COCKPIT 394</setting>
 Luke looks around for the Imperial TIE fighters. He thinks
 for a moment and then moves his targeting device into
 position.
@@ -5747,18 +5749,18 @@ LUKE
 Watch yourself! Increase speed full
 throttle!
 143.
-395 INT. WEDGE'S COCKPIT 395
+<setting>395 INT. WEDGE'S COCKPIT 395</setting>
 Wedge looks excitedly about for any sign of the TIE
 fighters.
 WEDGE
 What about the tower?
-396 INT. LUKE'S X-WING FIGHTER - COCKPIT 396
+<setting>396 INT. LUKE'S X-WING FIGHTER - COCKPIT 396</setting>
 LUKE
 You worry about those fighters!
 I'll worry about the tower!
-397 EXT. DEATH STAR SURFACE 397
+<setting>397 EXT. DEATH STAR SURFACE 397</setting>
 Luke's X-wing streaks through the trench, firing lasers.
-398 INT. LUKE'S X-WING FIGHTER - COCKPIT 398
+<setting>398 INT. LUKE'S X-WING FIGHTER - COCKPIT 398</setting>
 Luke breaks into a nervous sweat as the laserfire is
 returned, knicking one of his wings close to the engine.
 LUKE
@@ -5766,24 +5768,24 @@ LUKE
 Artoo... that, that stabilizer's
 broken loose again! See if you
 can't lock it down!
-399 EXT. LUKE'S X-WING FIGHTER 399
+<setting>399 EXT. LUKE'S X-WING FIGHTER 399</setting>
 Artoo works to repair the damages. The canyon wall rushes by
 in the background, making his delicate task seem even more
 precarious.
-400 EXT. DEATH STAR 400
+<setting>400 EXT. DEATH STAR 400</setting>
 Two laser cannons are firing on the Rebel fighters.
-401 INT. WEDGE'S COCKPIT 401
+<setting>401 INT. WEDGE'S COCKPIT 401</setting>
 Wedge looks up and sees the TIE ships.
-402 INT. LUKE'S X-WING FIGHTER - COCKPIT 402
+<setting>402 INT. LUKE'S X-WING FIGHTER - COCKPIT 402</setting>
 Luke's targeting device marks off the distance to the
 target.
-403 EXT. SPACE AROUND THE DEATH STAR 403
+<setting>403 EXT. SPACE AROUND THE DEATH STAR 403</setting>
 Vader and his wingmen zoom closer.
 144.
-404 INT. DARTH VADER'S COCKPIT 404
+<setting>404 INT. DARTH VADER'S COCKPIT 404</setting>
 Vader adjusts his controls and fires laserbolts at two Xwings flying down the trench. He scores a direct hit on
 Wedge.
-405 INT. MASSASSI OUTPOST - WAR ROOM 405
+<setting>405 INT. MASSASSI OUTPOST - WAR ROOM 405</setting>
 Leia and the others are grouped around the computer board.
 WEDGE
 (over speaker)
@@ -5791,134 +5793,134 @@ I'm hit! I can't stay with you.
 LUKE
 (over speaker)
 Get clear, Wedge.
-406 INT. LUKE'S X-WING FIGHTER - COCKPIT 406
+<setting>406 INT. LUKE'S X-WING FIGHTER - COCKPIT 406</setting>
 LUKE
 You can't do any more good back
 there!
-407 INT. WEDGE'S COCKPIT 407
+<setting>407 INT. WEDGE'S COCKPIT 407</setting>
 WEDGE
 Sorry!
-408 EXT. SPACE AROUND THE DEATH STAR 408
+<setting>408 EXT. SPACE AROUND THE DEATH STAR 408</setting>
 Wedge pulls his crippled X-wing back away from the battle.
-409 INT. DARTH VADER'S COCKPIT 409
+<setting>409 INT. DARTH VADER'S COCKPIT 409</setting>
 Vader watches the escape but issues a command to his
 wingmen.
 VADER
 Let him go! Stay on the leader!
-410 EXT. SPACE AROUND THE DEATH STAR 410
+<setting>410 EXT. SPACE AROUND THE DEATH STAR 410</setting>
 Luke's X-wing speeds down the trench; the three TIE
 fighters, still in perfect unbroken formation, tail close
 behind.
-411 INT. BIGGS' COCKPIT 411
+<setting>411 INT. BIGGS' COCKPIT 411</setting>
 Biggs looks around at the TIE fighters. He is worried.
 145.
 BIGGS
 Hurry, Luke, they're coming in much
 faster this time. I can't hold
 them!
-412 EXT. SPACE AROUND THE DEATH STAR 412
+<setting>412 EXT. SPACE AROUND THE DEATH STAR 412</setting>
 The three TIE fighters move ever closer, closing in on Luke
 and Biggs.
-413 INT. LUKE'S X-WING FIGHTER - COCKPIT 413
+<setting>413 INT. LUKE'S X-WING FIGHTER - COCKPIT 413</setting>
 Luke looks back anxiously at little Artoo.
 LUKE
 Artoo, try and increase the power!
-414 EXT. LUKE'S X-WING FIGHTER 414
+<setting>414 EXT. LUKE'S X-WING FIGHTER 414</setting>
 Ignoring the bumpy ride, flak, and lasers, a beeping ArtooDetoo struggles to increase the power, his dome turning from
 side to side.
-415 EXT. SPACE AROUND THE DEATH STAR 415
+<setting>415 EXT. SPACE AROUND THE DEATH STAR 415</setting>
 Stealthily, the TIE formation creeps closer.
-416 INT. DARTH VADER'S COCKPIT 416
+<setting>416 INT. DARTH VADER'S COCKPIT 416</setting>
 Vader adjusts his control stick.
-417 INT. BIGGS' COCKPIT 417
+<setting>417 INT. BIGGS' COCKPIT 417</setting>
 Biggs looks around at the TIE fighters.
-418 INT. LUKE'S X-WING FIGHTER 418
+<setting>418 INT. LUKE'S X-WING FIGHTER 418</setting>
 Luke looks into his targeting device. He moves it away for a
 moment and ponders its use. He looks back into the computer
 targeter.
 BIGGS
 (over headset)
 Hurry up, Luke!
-419 EXT. SPACE AROUND THE DEATH STAR 419
+<setting>419 EXT. SPACE AROUND THE DEATH STAR 419</setting>
 Vader and his wingmen race through the Death Star trench.
 Biggs moves in to cover for Luke, but Vader gains on him.
-420 INT. BIGGS' COCKPIT 420
+<setting>420 INT. BIGGS' COCKPIT 420</setting>
 Biggs sees the TIE fighter aiming at him.
 146.
 BIGGS
 Wait!
-421 INT. DARTH VADER'S COCKPIT 421
+<setting>421 INT. DARTH VADER'S COCKPIT 421</setting>
 Vader squeezes the fire button on his controls.
-422 INT. BIGGS' COCKPIT 422
+<setting>422 INT. BIGGS' COCKPIT 422</setting>
 Biggs' cockpit explodes around him, lighting him in red.
-423 EXT. SURFACE OF THE DEATH STAR 423
+<setting>423 EXT. SURFACE OF THE DEATH STAR 423</setting>
 Biggs' ship bursts into a million flaming bits and scatters
 across the surface.
-424 INT. MASSASSI OUTPOST - WAR ROOM 424
+<setting>424 INT. MASSASSI OUTPOST - WAR ROOM 424</setting>
 Leia and the others stare at the computer board.
-425 INT. LUKE'S X-WING COCKPIT 425
+<setting>425 INT. LUKE'S X-WING COCKPIT 425</setting>
 Luke is stunned by Biggs' death. His eyes are watering, but
 his anger is also growing.
-426 INT. DEATH STAR - CONTROL ROOM 426
+<setting>426 INT. DEATH STAR - CONTROL ROOM 426</setting>
 Grand Moff Tarkin watches the projected target screen with
 satisfaction.
 DEATH STAR INTERCOM VOICE
 Rebel base, thirty seconds and
 closing.
-427 INT. DARTH VADER'S COCKPIT 427
+<setting>427 INT. DARTH VADER'S COCKPIT 427</setting>
 Vader takes aim on Luke and talks to the wingmen.
 VADER
 I'm on the leader.
-428 EXT. SURFACE OF THE DEATH STAR - LUKE'S SHIP 428
+<setting>428 EXT. SURFACE OF THE DEATH STAR - LUKE'S SHIP 428</setting>
 Luke's ship streaks through the trench of the Death Star.
-429 INT. MASSASSI OUTPOST - WAR ROOM 429
+<setting>429 INT. MASSASSI OUTPOST - WAR ROOM 429</setting>
 Princess Leia returns her general's worried and doubtful
 glances with solid, grim determination. Threepio seems
 nervous.
 THREEPIO
 Hang on, Artoo!
 147.
-430 INT. LUKE'S X-WING - COCKPIT 430
+<setting>430 INT. LUKE'S X-WING - COCKPIT 430</setting>
 Luke concentrates on his targeting device.
-431 EXT. SURFACE OF THE DEATH STAR 431
+<setting>431 EXT. SURFACE OF THE DEATH STAR 431</setting>
 Three TIE fighters charge away down the trench toward Luke.
-432 INT. DARTH VADER'S COCKPIT 432
+<setting>432 INT. DARTH VADER'S COCKPIT 432</setting>
 Vader's finger's curls around the control stick.
-433 INT. LUKE'S X-WING - COCKPIT 433
+<setting>433 INT. LUKE'S X-WING - COCKPIT 433</setting>
 Luke adjusts the lens of his targeting device.
-434 EXT. SURFACE OF THE DEATH STAR 434
+<setting>434 EXT. SURFACE OF THE DEATH STAR 434</setting>
 Luke's ship charges down the trench.
-435 INT. LUKE'S X-WING - COCKPIT 435
+<setting>435 INT. LUKE'S X-WING - COCKPIT 435</setting>
 Luke lines up the yellow cross-hair lines of the targeting
 device's screen. He looks into the targeting device, then
 starts at a voice he hears.
 BEN'S VOICE
 Use the Force, Luke.
-436 EXT. SURFACE OF THE DEATH STAR 436
+<setting>436 EXT. SURFACE OF THE DEATH STAR 436</setting>
 The Death Star trench zooms by.
-437 INT. LUKE'S X-WING - COCKPIT 437
+<setting>437 INT. LUKE'S X-WING - COCKPIT 437</setting>
 Luke looks up, then starts to look back into the targeting
 device. He has second thoughts.
 BEN'S VOICE
 Let go, Luke.
 A grim determination sweeps across Luke's face as he closes
 his eyes and starts to mumble Ben's training to himself.
-438 EXT. SURFACE OF THE DEATH STAR 438
+<setting>438 EXT. SURFACE OF THE DEATH STAR 438</setting>
 Luke's fighter streaks through the trench.
-439 INT. DARTH VADER'S COCKPIT 439
+<setting>439 INT. DARTH VADER'S COCKPIT 439</setting>
 VADER
 The Force is strong with this one!
 148.
-440 EXT. SURFACE OF THE DEATH STAR 440
+<setting>440 EXT. SURFACE OF THE DEATH STAR 440</setting>
 Vader follows Luke's X-wing down the trench.
-441 INT. LUKE'S X-WING - COCKPIT 441
+<setting>441 INT. LUKE'S X-WING - COCKPIT 441</setting>
 Luke looks to the targeting device, then away as he hears
 Ben's voice.
 BEN'S VOICE
 Luke, trust me.
 Luke's hand reaches for the control panel and presses the
 button. The targeting device moves away.
-442 INT. MASSASSI OUTPOST - WAR ROOM 442
+<setting>442 INT. MASSASSI OUTPOST - WAR ROOM 442</setting>
 Leia and the others stand watching the projected screen.
 BASE VOICE
 (over speaker)
@@ -5928,33 +5930,33 @@ computer. What's wrong?
 LUKE
 (over speaker)
 Nothing. I'm all right.
-443 EXT. SURFACE OF THE DEATH STAR 443
+<setting>443 EXT. SURFACE OF THE DEATH STAR 443</setting>
 Luke's ship streaks ever close to the exhaust port.
-444 INT. LUKE'S X-WING - COCKPIT 444
+<setting>444 INT. LUKE'S X-WING - COCKPIT 444</setting>
 Luke looks at the Death Star surface streaking by.
-445 EXT. LUKE'S X-WING FIGHTER 445
+<setting>445 EXT. LUKE'S X-WING FIGHTER 445</setting>
 Artoo-Detoo turns his head from side to side, beeping in
 anticipation.
-446 EXT. SURFACE OF THE DEATH STAR 446
+<setting>446 EXT. SURFACE OF THE DEATH STAR 446</setting>
 The three TIE fighters, manned by Vader and his two wingmen,
 follow Luke's X-wing down the trench.
-447 INT. DARTH VADER'S COCKPIT 447
+<setting>447 INT. DARTH VADER'S COCKPIT 447</setting>
 Vader maneuvers his controls as he looks at his doomed
 target. He presses the fire buttons on his control sticks.
 Laserfire shoots toward Luke's X-wing fighter.
 149.
-448 EXT. LUKE'S X-WING FIGHTER 448
+<setting>448 EXT. LUKE'S X-WING FIGHTER 448</setting>
 A large burst of Vader's laserfire engulfs Artoo. The arms
 go limp on the smoking little droid as he makes a highpitched sound.
-449 INT. LUKE'S X-WING FIGHTER - COCKPIT 449
+<setting>449 INT. LUKE'S X-WING FIGHTER - COCKPIT 449</setting>
 Luke looks frantically back over his shoulder at Artoo.
-450 EXT. LUKE'S X-WING FIGHTER 450
+<setting>450 EXT. LUKE'S X-WING FIGHTER 450</setting>
 Smoke billows out around little Artoo and sparks begin to
 fly.
 LUKE
 I've lost Artoo!
 Artoo's beeping sounds die out.
-451 INT. MASSASSI OUTPOST - WAR ROOM 451
+<setting>451 INT. MASSASSI OUTPOST - WAR ROOM 451</setting>
 Leia and the others stare intently at the projected screen,
 while Threepio watches the Princess. Lights representing the
 Death Star and targets glow brightly.
@@ -5962,7 +5964,7 @@ MASSASSI INTERCOM VOICE
 The Death Star has cleared the
 planet. The Death Star has cleared
 the planet.
-452 INT. DEATH STAR - CONTROL ROOM 452
+<setting>452 INT. DEATH STAR - CONTROL ROOM 452</setting>
 Tarkin glares at the projected target screen.
 DEATH STAR INTERCOM VOICE
 Rebel base, in range.
@@ -5972,123 +5974,123 @@ DEATH STAR INTERCOM VOICE
 Commence primary ignition.
 An officer reaches up and pushes buttons on the control
 panel, as green lighted buttons turn to red.
-453 EXT. SURFACE OF THE DEATH STAR 453
+<setting>453 EXT. SURFACE OF THE DEATH STAR 453</setting>
 The three TIE fighters zoom down the Death Star trench in
 pursuit of Luke, never breaking formation.
 150.
-454 INT. LUKE'S COCKPIT 454
+<setting>454 INT. LUKE'S COCKPIT 454</setting>
 Luke looks anxiously at the exhaust port.
-455 INT. DARTH VADER'S COCKPIT 455
+<setting>455 INT. DARTH VADER'S COCKPIT 455</setting>
 Vader adjusts his control sticks, checking his projected
 targeting screen.
-456 EXT. SURFACE OF THE DEATH STAR 456
+<setting>456 EXT. SURFACE OF THE DEATH STAR 456</setting>
 Luke's ship barrels down the trench.
-457 INT. DARTH VADER'S COCKPIT 457
+<setting>457 INT. DARTH VADER'S COCKPIT 457</setting>
 Vader's targeting computer swings around into position.
 Vader takes careful aim on Luke's X-wing fighter.
 VADER
 I have you now.
 He pushes the fire buttons.
-458 EXT. SURFACE OF THE DEATH STAR 458
+<setting>458 EXT. SURFACE OF THE DEATH STAR 458</setting>
 The three TIE fighters move in on Luke. As Vader's center
 fighter unleashes a volley of laserfire, one of the TIE
 ships at his side is hit and explodes into flame. The two
 remaining ships continue to move in.
-459 INT. LUKE'S X-WING FIGHTER - COCKPIT 459
+<setting>459 INT. LUKE'S X-WING FIGHTER - COCKPIT 459</setting>
 Luke looks about, wondering whose laserfire destroyed
 Vader's wingman.
-460 INT. DARTH VADER'S COCKPIT 460
+<setting>460 INT. DARTH VADER'S COCKPIT 460</setting>
 Vader is taken by surprise, and looks out from his cockpit.
 VADER
 What?
-461 INT. DARTH VADER'S WINGMAN - COCKPIT 461
+<setting>461 INT. DARTH VADER'S WINGMAN - COCKPIT 461</setting>
 Vader's wingman searches around him trying to locate the
 unknown attacker.
-462 INT. MILLENNIUM FALCON - COCKPIT 462
+<setting>462 INT. MILLENNIUM FALCON - COCKPIT 462</setting>
 Han and Chewbacca grin from ear to ear.
 HAN
 (yelling)
 Yahoo!
 151.
-463 EXT. SPACE AROUND THE DEATH STAR 463
+<setting>463 EXT. SPACE AROUND THE DEATH STAR 463</setting>
 The Millennium Falcon heads right at the two TIE fighters.
 It's a collision course.
-464 INT. WINGMAN'S COCKPIT 464
+<setting>464 INT. WINGMAN'S COCKPIT 464</setting>
 The wingman spots the pirateship coming at him and warns the
 Dark Lord.
 WINGMAN
 Look out!
-465 EXT. DEATH STAR TRENCH 465
+<setting>465 EXT. DEATH STAR TRENCH 465</setting>
 Vader's wingman panics at the sight of the oncoming pirate
 starship and veers radically to one side, colliding with
 Vader's TIE fighter in the process. Vader's wingman crashes
 into the side wall of the trench and explodes. Vader's
 damaged ship spins out of the trench with a damaged wing.
-466 EXT. SPACE AROUND THE DEATH STAR 466
+<setting>466 EXT. SPACE AROUND THE DEATH STAR 466</setting>
 Vader's ship spins out of control with a bent solar fin,
 heading for deep space.
-467 INT. DARTH VADER'S COCKPIT 467
+<setting>467 INT. DARTH VADER'S COCKPIT 467</setting>
 Vader turns round and round in circles as his ship spins
 into space.
-468 EXT. SURFACE OF THE DEATH STAR 468
+<setting>468 EXT. SURFACE OF THE DEATH STAR 468</setting>
 Solo's ship moves in toward the Death Star trench.
-469 INT. MILLENNIUM FALCON - COCKPIT 469
+<setting>469 INT. MILLENNIUM FALCON - COCKPIT 469</setting>
 Solo, smiling, speaks to Luke over his headset mike.
 HAN
 (into mike)
 You're all clear, kid.
-470 INT. MASSASSI OUTPOST - WAR ROOM 470
+<setting>470 INT. MASSASSI OUTPOST - WAR ROOM 470</setting>
 Leia and the others listen to Solo's transmission.
 HAN
 (over speaker)
 Now let's blow this thing and go
 home!
 152.
-471 INT. LUKE'S X-WING FIGHTER - COCKPIT 471
+<setting>471 INT. LUKE'S X-WING FIGHTER - COCKPIT 471</setting>
 Luke looks up and smiles. He concentrates on the exhaust
 port, then fires his laser torpedoes.
-472 EXT. SURFACE OF THE DEATH STAR 472
+<setting>472 EXT. SURFACE OF THE DEATH STAR 472</setting>
 Luke's torpedoes shoot toward the port and seems to simply
 disappear into the surface and not explode. But the shots do
 find their mark and have gone into the exhaust port and are
 heading for the main reactor.
-473 INT. LUKE'S X-WING FIGHTER - COCKPIT 473
+<setting>473 INT. LUKE'S X-WING FIGHTER - COCKPIT 473</setting>
 Luke throws his head back in relief.
-474 INT. DEATH STAR 474
+<setting>474 INT. DEATH STAR 474</setting>
 An Imperial soldier runs to the control panel board and
 pulls the attack lever as the board behind him lights up.
 INTERCOM VOICE
 Stand by to fire at Rebel base.
-475 EXT. SPACE AROUND THE DEATH STAR 475
+<setting>475 EXT. SPACE AROUND THE DEATH STAR 475</setting>
 Two X-wings, a Y-wing, and the pirateship race toward Yavin
 in the distance.
-476 INT. DEATH STAR 476
+<setting>476 INT. DEATH STAR 476</setting>
 Several Imperial soldiers, flanking a pensive Grand Moff
 Tarkin, busily push control levers and buttons.
 INTERCOM VOICE
 Standing by.
 The rumble of a distant explosion begins.
-477 EXT. SPACE AROUND THE DEATH STAR 477
+<setting>477 EXT. SPACE AROUND THE DEATH STAR 477</setting>
 The Rebel ships race out of sight, leaving the moon-like
 Death Star alone against a blanket of stars. Several small
 flashes appear on the surface. The Death Star bursts into a
 supernova, creating a spectacular heavenly display.
-478 INT. MILLENNIUM FALCON - COCKPIT 478
+<setting>478 INT. MILLENNIUM FALCON - COCKPIT 478</setting>
 HAN
 Great shot, kid. That was one in a
 million.
 153.
-479 INT. LUKE'S X-WING FIGHTER - COCKPIT 479
+<setting>479 INT. LUKE'S X-WING FIGHTER - COCKPIT 479</setting>
 Luke is at ease, and his eyes are closed.
 BEN'S VOICE
 Remember, the Force will be with
 you... always.
 The ship rocks back and forth.
-480 EXT. DARTH VADER'S TIE FIGHTER 480
+<setting>480 EXT. DARTH VADER'S TIE FIGHTER 480</setting>
 Vader's ship spins off into space.
-481 EXT. SPACE 481
+<setting>481 EXT. SPACE 481</setting>
 The Rebel ships race toward the fourth moon of Yavin.
-482 INT. MASSASSI OUTPOST - MAIN HANGAR 482
+<setting>482 INT. MASSASSI OUTPOST - MAIN HANGAR 482</setting>
 Luke climbs out of his starship fighter and is cheered by a
 throng of ground crew and pilots. Luke climbs down the
 ladder as they all welcome him with laughter, cheers, and
@@ -6135,7 +6137,7 @@ my circuits or gears will help,
 I'll gladly donate them.
 LUKE
 He'll be all right.
-483 INT. MASSASSI OUTPOST - MAIN THRONE ROOM 483
+<setting>483 INT. MASSASSI OUTPOST - MAIN THRONE ROOM 483</setting>
 Luke, Han, and Chewbacca enter the huge ruins of the main
 temple. Hundreds of troops are lined up in neat rows.
 Banners are flying and at the far end stands a vision in
@@ -6156,3 +6158,5 @@ FADE OUT:
 484 END CREDITS OVER STARS 484
 485 THE END 485
 155.
+</script>
+</root>
