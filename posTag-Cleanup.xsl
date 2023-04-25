@@ -13,7 +13,7 @@
         
      <xsl:for-each select="$verbTagged">
          <xsl:variable name="filename" as="xs:string" select="current() ! base-uri() ! tokenize(., '/')[last()]"/>
-         <xsl:result-document method="xml" indent="yes" href="verbTaggedClean-xml/{$filename}">
+         <xsl:result-document method="xml" indent="yes" href="{$filename}">
              
             <xsl:apply-templates/>
              

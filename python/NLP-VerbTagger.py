@@ -22,6 +22,7 @@ nlp = spacy.load('en_core_web_lg')
 ##################################################################################
 CollPath = '../xml'
 TargetPath = '../verbTagged-xml'
+cleanUpPath = '../verbTaggedClean-xml'
 
 #########################################################################################
 # ebb: After reading the sorted dictionary output, we know spaCy is making some mistakes.
@@ -182,6 +183,21 @@ def xmlTagger(sourcePath, SortedDict):
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
         with open(targetFile, 'w') as f:
             f.write(cleanedUp)
+        cleanup = xsltCleaner(targetFile)
+        return (cleanup)
+def xsltCleaner(targetFile):
+    print("xsltCleaner: ", f"{targetFile=}")
+    # for file in os.listdir(TargetPath):
+    #     if file.endswith(".xml"):
+    # filepath = f"{TargetPath}/{targetFile}"
+    toCleanFilename = os.path.basename(targetFile)
+    print(f"{toCleanFilename=}")
+    with PySaxonProcessor(license=False) as proc:
+        xsltproc = proc.new_xslt30_processor()
+        # xsltCompile = xsltproc.compile_stylesheet(stylesheet_file="posTag-Cleanup.xsl.xsl", save=True, output_file=f"{XSLTPath}/{toCleanFilename}")
+        output = xsltproc.transform_to_file(source_file=targetFile, stylesheet_file="../posTag-Cleanup.xsl", output_file=f"{cleanUpPath}/{toCleanFilename}")
+    return output
+
 
 assembleAllVerbs(CollPath)
 
