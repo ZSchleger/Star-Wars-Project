@@ -1,229 +1,456 @@
-ARTOO : ORG
-Alderaan : ORG
-Alliance : ORG
-Anakin : GPE
-Antilles : GPE
-Army : ORG
-Artoo : GPE
-Astro : ORG
-Autopilot : ORG
-Bail Organa of Alderaan : ORG
-Banthas : ORG
-Battle Droids : ORG
-Bazda : ORG
-Bear Clan : ORG
-Bongo du bongu : ORG
-Boonta : ORG
-Boonta Eve : ORG
-Bothan : NORP
-Bothans : NORP
-Bravo Leader : ORG
-CONCORKILL : ORG
-Camp Four : FAC
-CaptainI : ORG
-Carkoon : LOC
-Clone Troopers : ORG
-Congress : ORG
+1138 : ORG
+ACCU : ORG
+ADMIRAL : ORG
+AGEN : GPE
+AKS : ORG
+ANOTHER : ORG
+APPLAUSE : ORG
+APPO : ORG
+ARMY : ORG
+ASK AAK : ORG
+Alderaan : LOC
+Arena : FAC
+Assault Ships : ORG
+Astra : ORG
+Atro Droid : ORG
+Avenger : ORG
+BACARA : ORG
+BAIL : ORG
+BANA BREEMU : ORG
+BATTLE : ORG
+BATTLE DROIDS : ORG
+BATTLESHIP : ORG
+BLY : ORG
+BOBA : ORG
+BOBA FETT : ORG
+BODYGUARDS : ORG
+BOGA : ORG
+BOOS : ORG
+BOY : ORG
+Bail Organa : ORG
+Battle Starships : ORG
+Battleship : ORG
+Bespin : GPE
+Bib Fortuna : ORG
+Bubble City : GPE
+CHEER : ORG
+CHEWBACCA : ORG
+CHI EEKWAY : ORG
+CLONES : ORG
+CREW : ORG
+CRY : ORG
+Chamber : ORG
+Chewbacca : GPE
+Cloud City : GPE
+Cord� : GPE
+Corellian : NORP
 Coruscant : GPE
-Coucil : NORP
 Council : ORG
-Count Dooku : ORG
-Count Dooku's : ORG
-Count Dooku?His : ORG
-Courscant : ORG
+Count : ORG
+DAR WAC : ORG
+DARK : ORG
+DEXTER : ORG
+DIGNITARIES : ORG
+DOD : ORG
+DOFINE : NORP
+DOOKU : ORG
+DROIDS : ORG
 Dagobah : FAC
-Diplodiaclect : GPE
-Dooku : ORG
-Echo Seven : FAC
-Echo Station Three-T-Eight.(over : FAC
-Ello : ORG
-Empire : GPE
+Death Star : ORG
+Dengar : GPE
+Destroyer : ORG
+Dofine : NORP
+Doves : ORG
+Droid : ORG
+Droids : ORG
+EIRTAE : ORG
+ELLE : ORG
+EMBRYOS : ORG
+EMPEROR : GPE
+ENDThere : ORG
+ENGINES : ORG
+EOPIE : ORG
+EOPIES : ORG
+EXPLOSION : ORG
+Elle : ORG
+Emergency Fire Speeders : ORG
+Ewokese : NORP
+Ewoks : NORP
+FALCON : ORG
+FANTA : ORG
+FELUCIA : NORP
+FETTS : ORG
+FIGURE : ORG
+FOOTSTEPS : ORG
+FOUR COUNCIL : ORG
 Falcon : ORG
 Federation : ORG
+Federation Battleship : ORG
+Federation Fighter : ORG
+Federation Starships : ORG
+Fireships : ORG
+Floatinf : NORP
 Force : ORG
-Furbog : GPE
-Galactic Empire : GPE
-General Veers : ORG
+GAMORREAN : ORG
+GENERAL : ORG
+GENERAL GRIEVOUS : ORG
+GIDDEAN DANU : ORG
+GON : ORG
+GON JINN : ORG
+GREE : ORG
+GREEN JEDI FIGHTER : FAC
+GRIEVOUS : ORG
+GROUP : ORG
+GUNGANS : ORG
+GUNSHIP : ORG
+Galactic : NORP
+Galaxies Opera House : ORG
+Gamorrean : NORP
+General Grievous : ORG
+General Rieekan : ORG
 Geonosian : NORP
-Geonosians : NORP
-Gold Group : ORG
-Gold Leader : ORG
-Gray : ORG
-Green Group : ORG
-Guilds : ORG
-Gundark : ORG
-Gungan city : GPE
-Gungans : NORP
-Han : NORP
-Hobbie : ORG
+Gimer Stick : FAC
+HERMIONE : GPE
+HOLOGRAM OF : ORG
+HOLOGRAM of : ORG
+HOLOGRAMS : GPE
+HOROX RYYDER : ORG
+HOWL : GPE
+HUNDREDS OF CLONES : ORG
+HUTT : ORG
 Hoth : GPE
-Hut : ORG
 Huttese : NORP
-Hutts : GPE
-IBecause : ORG
-Iego : LOC
+IMPERIAL : ORG
+IMPERIAL SHUTTLE : ORG
+IRIS : ORG
+IRIS OUT : ORG
 Imperial : ORG
+Imperial Death Star : ORG
+Imperial Guards : ORG
 Imperial Star Destroyer : ORG
+Imperial Star Destroyers : ORG
 Imperial Starfleet : ORG
-Inkabunga : ORG
-Isuggest : ORG
+Imperial TIE : ORG
+Interstellar Sail Ship : LOC
+JANGO : NORP
+JANGO FETT : ORG
 JAR : ORG
-Jango : GPE
-Jar Jar : GPE
-Jar Jar Binks!Mesa : ORG
-Jedi : ORG
+JAR JAR : ORG
+JAWA : ORG
+JEDI : FAC
+JEDIS : ORG
+JOBAL : ORG
+JOCASTA NU : ORG
 Jedi Kights : GPE
-Jev Narran's : GPE
+Jedi Temple : ORG
+Jedi�s : GPE
+Jerjerrod : ORG
+KAADU : ORG
+KAADUS : ORG
+KI : GPE
+KIT FISTO : NORP
+KITSTER : ORG
+KNIGHTS : ORG
+KOLAR : ORG
+KOUHUNS : ORG
 Kamino : FAC
-Kenobi : ORG
 Knights : ORG
-Lando : GPE
-Lando Calrissian.(into : GPE
-MALEDEE : GPE
-Magnetize : ORG
-Majaesty : ORG
-Mesa : ORG
-Mesa back!Noah : ORG
-Mmmm : GPE
-Monstairs back!Wesa : ORG
-NEE ALAVAR : ORG
+Lodge : ORG
+Logray : ORG
+MACE : ORG
+MALASTARE : ORG
+MAS : ORG
+MASSIFF : ORG
+MAWHONIC : ORG
+MEDON : ORG
+MILLENNIUM : ORG
+MOE : ORG
+MON : ORG
+MONSTERS : ORG
+MOTEE : ORG
+MTT : ORG
+Millennium Falcon : ORG
+Mon Calamari : ORG
+Mon Mothma : ORG
+Moon of Endor : ORG
+Motee : ORG
+Mygeeto : GPE
+NABOO : ORG
+NABOO SKIFF : ORG
+NEIMODIANS : GPE
+NEIMOIDIAN : ORG
+NEIMOIDIAN COUNCIL : ORG
+NEIMOIDIANS : ORG
+NEXU : LOC
+NOS : ORG
+NU : ORG
+NUDU : ORG
+NUNB : ORG
+NUTE GUNRAY : ORG
+NUTE and RUNE : ORG
+NUTE and RUNE HAAKO : ORG
 Naboo : ORG
-Natoota : ORG
-Nooooooo : ORG
-North : LOC
-Nosir : GPE
-Nubian : NORP
-Nute Gunray : ORG
-OOM-9 : ORG
-Ody Mandrell : ORG
-Ootmians : NORP
-Order : ORG
-Our Clone Intelligence Units : ORG
-Outer Rim : LOC
-Outlanders : ORG
-Padm : NORP
-Palo : GPE
-Poddraces : ORG
-Punda : NORP
-Qui-Gon : ORG
-Qui-Gon Jinn : ORG
-Qui-Gon's : ORG
+Naboo Cruiser : ORG
+Naboo Skiff : ORG
+Needa : ORG
+Neimoidian : NORP
+Nordic : NORP
+OBITOKI : ORG
+ODY : ORG
+ODY MANDRELL : ORG
+OOLA : ORG
+OWEN : ORG
+Oola : ORG
+Outland : GPE
+Ozzel : GPE
+PAN : ORG
+PAN UP : ORG
+PICADOR : ORG
+PLATOON OF CLONE TROOPERS : ORG
+PLO : ORG
+PLO KOON : ORG
+PLOT KOON : ORG
+POLIS MEDICS : ORG
+PROTOCOL : ORG
+Palace : FAC
+Paploo : ORG
+Podium : ORG
+Podracers : ORG
+Polis : NORP
+QUI : ORG
+QUINLAN : ORG
+RABE : ORG
+RANCOR : ORG
+RETINUE : ORG
+RIC : ORG
+RIC OLIE : ORG
+ROAR : ORG
+RUWEE : ORG
+RUWEE NABERRIE : ORG
+RYOO : ORG
+Rancor : ORG
+Rebel Fleet : ORG
 Rebels : ORG
-Red Group : ORG
-Red Leader : ORG
-Red Two : ORG
-Republiv : ORG
-Rogue : ORG
-Rogue Group : ORG
-Rogue Leader(over : ORG
-Rogue Two : ORG
-Rootleaf : ORG
-ST 321 : FAC
-Sebulba : LOC
+Red Squad : ORG
+Republic Cruiser : ORG
+Republic Starships : LOC
+Rieekan : NORP
+Rogue Three : ORG
+Royal Cruiser : ORG
+Royal Guards : ORG
+SABE : ORG
+SALACIOUS CRUMB : ORG
+SAN HILL : ORG
+SAN HILL PO NUDO : ORG
+SCOOTER : ORG
+SCRAPES : GPE
+SEPARATIST : ORG
+SERGEANT : ORG
+SEVERAL OTHER JEDI : ORG
+SHAAK : ORG
+SHAAK TI : ORG
+SHAAKS : ORG
+SHADOWY : ORG
+SHIELD : FAC
+SHMI : ORG
+SHOTS RING OUT : ORG
+SHU MAI : ORG
+SHUTTLE : ORG
+SIO : ORG
+SIO BIBBLE : ORG
+SIX SUPER BATTLE DROIDS : ORG
+SIX WHEEL DROIDS : ORG
+SIXTEEN SUPER : ORG
+SKIFF : ORG
+SLAM : ORG
+SOLA : ORG
+SPEEDERS : ORG
+STATIC : ORG
+SUN RIT : ORG
+SUPER BATTLE : ORG
+SUPERDROIDS : GPE
+SUPREME CHANCELLOR : ORG
+Sanctuary Moon : LOC
 Senate : ORG
-Senatorial : ORG
+Senate Building : ORG
+Senate Chamber : ORG
+Senate Office : ORG
+Senate Office Building : ORG
+Senate Pod : ORG
 Separatist : NORP
 Separatists : NORP
-Spreme : NORP
+Speeder : ORG
+Speeders : ORG
+Star Cruiser : ORG
 Star Destroyer : ORG
 Star Destroyers : ORG
-Steady : NORP
-Steeth pa nagoola : ORG
-Stow : ORG
+Starfighter : ORG
+Starfreighter : ORG
+Stormtroopers : ORG
 Super Star Destroyer : ORG
 Supreme : ORG
+TARFFUL : ORG
+TARPALS : ORG
+TAUN : ORG
+TEEBO : ORG
+TEN : ORG
+TEN BATTLE DROIDS : ORG
+TERTER : ORG
+TESSEK : ORG
+TEY : ORG
+THE JEDI : ORG
+THREEPIO : ORG
 TIE : ORG
-Tarfful : GPE
-Target : ORG
-The Commerce Guilds : ORG
-The Congress of Malastare : ORG
-The Federation Army's : ORG
-The Jedi Council : ORG
-The Jedi Order : ORG
-The Lake Country : LOC
-The Trade Federation : ORG
-Threepio : ORG
-Tibanna : GPE
-Tipoca City : GPE
-Toydarian : NORP
+TOONBUCK TOORA : ORG
+TRI : ORG
+TUSKEN : ORG
+TWELVE : ORG
+TWENTY CLONE TROOPERS : ORG
+TWENTY OTHER JEDI : ORG
+TYPHO : ORG
+Tatooine : NORP
+Tauntaun : GPE
+Terter : ORG
+The CLONE SERGEANT : ORG
+The DROID GUARD : ORG
+The Droid General : ORG
+The GUNGAN ARMY : ORG
+The JEDI COUNCIL : ORG
+The Jedi Temple : ORG
+The Millennium Falcon : ORG
+The SUPER BATTLE DROIDS : ORG
+The WHEEL DROIDS : ORG
+The Wampa Ice Creature : ORG
+Theed : LOC
+Theed Plaza : FAC
+Tipoca : GPE
 Trade Federation : ORG
-Tund : GPE
-Tusekn Raiders : ORG
-Tusken Riaders : ORG
-Utapau : GPE
-Valorum as Supreme : ORG
-Wampa peedunkee unko : ORG
-Weehoo : ORG
-Whooha : ORG
+Trade Federation Ships : ORG
+Troop Transports : ORG
+Tusken : GPE
+UNDULI : ORG
+UPROAR : ORG
+Ugnaught : ORG
+Ugnaughts : ORG
+Utapau : ORG
+VALORUM : ORG
+VENDOR : ORG
+VENDORS : ORG
+VICEROY : ORG
+Veers : ORG
+WALD : ORG
+WAN : ORG
+WAT TAMBOR : ORG
+WATTO : ORG
+WAVE : ORG
+WESSEL : ORG
+WOOKIEE : ORG
+Wampa : ORG
+Watto : ORG
+Wedge : ORG
 Wookiee : NORP
-YOUSA TINK WESA IN : ORG
-amu intoe : GPE
-boyos : GPE
-cheespa : ORG
-chlorian : NORP
-chowa : ORG
-crunchen : GPE
-duey lettal bitty : ORG
-getten berry berry skeered : ORG
-getten berry skeered : ORG
-guds : ORG
-mabee : ORG
+XELBREE : ORG
+YOUNGLINGS : ORG
+ZAM : ORG
+ZETT JUKASSA : ORG
+Zuckuss : ORG
+a COUPLE OF CLONES : ORG
+a Jedi Briefing Room : FAC
+astrodroid : ORG
+byseveral TIE : ORG
+dissapears : ORG
+dus : GPE
+gasball : ORG
+gnomish : NORP
+heah : ORG
+icily : GPE
+kaadu : ORG
 mesa : ORG
-mesa palo : ORG
-mmmm : GPE
-mooie-mooie : ORG
-noe : GPE
-nosir : ORG
-nutsen : ORG
-outlauder : ORG
-pune : GPE
-the Ancient Order of the Whills : ORG
-the Commerce Guilds : ORG
-the Confederacy of Independent Systems : ORG
-the Corporate Alliance : ORG
+moon : LOC
+passenger�s : ORG
+postOBI : ORG
+ptay : GPE
+reptilian : NORP
+slwly : NORP
+suddenlt : ORG
+the Arena hallway : FAC
+the BATTLE : ORG
+the BATTLE DROIDS : ORG
+the BUZZ : ORG
+the Banking Clan : ORG
+the Briefing Room : FAC
+the CLONE SERGEANT : ORG
+the Command Ship : FAC
+the Command Starship : FAC
+the Commerce Dignitaries : ORG
+the Conference Room : FAC
+the Control Center : FAC
+the Control Room : FAC
 the Council Chamber : ORG
-the Council of Governors : ORG
+the DOORS CAN BE HEARD CLOSING : ORG
 the Death Star : ORG
-the Droid Armies : ORG
-the Droid Armies of the Trade : ORG
-the Droid Army : ORG
-the Dune Sea : LOC
-the East Platform : LOC
+the East Landing Platform : LOC
+the Emperor : FAC
 the Endor moon : LOC
-the Federation Army : ORG
+the Federation Battleship : FAC
+the Federation Cruiser : ORG
+the GOVERNING COUNCIL : ORG
+the GREEN : ORG
+the GUNGAN COUNCIL : ORG
+the Galactic Representative Commission : ORG
 the Galactic Republic : GPE
 the Galactic Senate : ORG
-the Galactic Senate of the Republic : ORG
-the General's Command Ship : ORG
+the General : ORG
+the Globe of Peace : ORG
+the Headquarters Frigate : FAC
+the Hologram Area : FAC
 the Imperial Fleet : ORG
-the Jedi Council : ORG
-the Jedi Order : ORG
+the Imperial Star Destroyers : ORG
+the Imperial council : ORG
+the Intergalactic Bank Clan : ORG
+the JEDI COUNCIL : ORG
+the Jedi Council Chamber : ORG
+the Jedi Council Chambers : ORG
+the Jedi Fighters : ORG
 the Jedi Temple : FAC
-the Jedi don't?The Jedi : GPE
-the Jei Council : ORG
-the Lake Country : LOC
-the Legislative Youth Program : ORG
+the Main Area : LOC
+the Main Collection Plant : FAC
+the Main Control Center : ORG
+the Main Control Center with YODA : ORG
+the Main Control Room : FAC
+the Main Hanger : FAC
+the Main Podium : ORG
+the Main Senate Chamber : ORG
+the Man Calamari Ballet : ORG
+the Military Assault Ships : ORG
 the Millennium Falcon : ORG
-the Outer Rim : LOC
-the Refugee Relief Movement : ORG
-the Relief Group : ORG
-the Republic every day : GPE
-the Republic. : GPE
-the Rishi Maze : FAC
+the Moon of Endor : ORG
+the Mustafar Landing Platforms : FAC
+the NEIMOIDIAN : ORG
+the Naboo Cruiser : ORG
+the Naboo Skiff : ORG
+the Office Building : FAC
+the Old West : LOC
+the Otoh Gunga : GPE
+the Rebel Headquarters Frigate : FAC
+the Rebel Star Cruisers : ORG
+the Rehab Center : FAC
+the SUPER BATTLE DROIDS : ORG
+the Sail Barge : FAC
 the Sanctuary Moon : LOC
+the Senate Arena : FAC
+the Senate Building : FAC
+the Senate Building Grand Hallway : ORG
+the Senate Office Building : ORG
 the Separatist Droid Army : ORG
-the Sovereign System of Geonosis : ORG
-the Supreme Court : ORG
-the Techno Union : ORG
+the Star Destroyer : ORG
 the Trade Federation : ORG
+the Trade Federation Battleships : ORG
+the Trade Federation Cruiser : ORG
+the WHEEL DROIDS : ORG
+the YOUNG ONES : ORG
 the congress of the Republic : ORG
-the moon : LOC
-the south slope : LOC
-theDeath Star's : ORG
-this Count Dooku : ORG
-wawdabe mesa : ORG
-wermo : ORG
-whata mesa sayin?!Dis : ORG
-youer election : ORG
-yousa Bombad General : ORG
-yousaway : ORG
+the golden droid : FAC
+traym : ORG
+uip : ORG
+viewscreens : FAC

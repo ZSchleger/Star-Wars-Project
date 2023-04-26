@@ -12,7 +12,7 @@ from saxonche import PySaxonProcessor
 # for work with XPath
 
 
-# nlp = spacy.cli.download("en_core_web_lg")
+#nlp = spacy.cli.download("en_core_web_lg")
 nlp = spacy.load('en_core_web_lg')
 
 ###############################################################################

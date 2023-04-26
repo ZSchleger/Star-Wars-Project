@@ -11,7 +11,7 @@ from saxonche import PySaxonProcessor
 # for work with XPath
 
 
-# nlp = spacy.cli.download("en_core_web_lg")
+#nlp = spacy.cli.download("en_core_web_lg")
 nlp = spacy.load('en_core_web_lg')
 
 ###############################################################################
@@ -19,8 +19,9 @@ nlp = spacy.load('en_core_web_lg')
 # 1. ebb: Define the paths to the source collection and the target collection.
 # We can use a relative path defined from this Python file's location.
 ##################################################################################
-CollPath = '../source-xml'
-TargetPath = '../taggedWithAtts'
+CollPath = '../xml'
+TargetPath = '../nameTagged-xml'
+cleanUpPath = '../nameTaggedClean-xml'
 
 #########################################################################################
 # ebb: After reading the sorted dictionary output, we know spaCy is making some mistakes.
@@ -33,76 +34,59 @@ TargetPath = '../taggedWithAtts'
 #   spaCy documentation on NER Entity Ruler: https://spacy.io/usage/rule-based-matching#entityruler
 
 config = {"spans_key": None, "annotate_ents": True, "overwrite": True, "validate": True}
-ruler = nlp.add_pipe("span_ruler", after="ner", config=config)
+ruler = nlp.add_pipe("span_ruler", before="ner", config=config)
 # Notes: Mattingly has this: ruler = nlp.add_pipe("entity_ruler", after="ner", config={"validate": True})
 # But this only works when spaCy doesn't recognize a word / phrase as a named entity of any kind.
 # If it recognizes a named entity but tags it wrong, we correct it with the span_ruler, not the entity_ruler
 patterns = [
-    {"label": "ORG", "pattern": "Balrog"},
-    {"label": "GPE", "pattern": "Bree"},
-    {"label": "LOC", "pattern": "Middle-earth"},
-    {"label": "GPE", "pattern": "Minas Tirith"},
-    {"label": "LOC", "pattern": "the Misty Mountains"},
-    {"label": "LOC", "pattern": "Rauros"},
-    {"label": "GPE", "pattern": "Rohan"},
-    {"label": "GPE", "pattern": "Gondor"},
-    {"label": "PERSON", "pattern": "Bilbo"},
-    {"label": "PERSON", "pattern": "Frodo"},
-    {"label": "PERSON", "pattern": "Gandalf"},
-    {"label": "PERSON", "pattern": "Gamgee"},
-    {"label": "PERSON", "pattern": "Adelard"},
-    {"label": "PERSON", "pattern": "ADELARD TOOK"},
-    {"label": "PERSON", "pattern": "ANGELICA"},
-    {"label": "PERSON", "pattern": "Aragorn"},
-    {"label": "PERSON", "pattern": "Arathorn"},
-    {"label": "PERSON", "pattern": "Balin"},
-    {"label": "PERSON", "pattern": [{"TEXT" : {"REGEX": "Meriadoc( Brandybuck)?"}}]},
-    {"label": "PERSON", "pattern": [{"TEXT" : {"REGEX": "Peregrin( Took)?"}}]},
-    {"label": "PERSON", "pattern": "Rose"},
-    {"label": "PERSON", "pattern": "Sandyman"},
-    {"label": "PERSON", "pattern": "Saruman"},
-    {"label": "PERSON", "pattern": "Sauron"},
-    {"label": "NULL", "pattern": "Gr�"},
-    {"label": "NULL", "pattern": "Worm"},
-    {"label": "PERSON", "pattern": "Gr�ma Wormtongue"},
-    {"label": "NULL", "pattern": "Apple"},
-    {"label": "NULL", "pattern": "AWAKE"},
-    {"label": "NULL", "pattern": "Saddle"},
-    {"label": "NULL", "pattern": "MeetingsFrodo"},
-    {"label": "NULL", "pattern": "the Rings A Long"},
-    {"label": "NULL", "pattern": "Apple"},
-    {"label": "NULL", "pattern": "Party"},
-    {"label": "NULL", "pattern": "ON PARTY"},
-    {"label": "NULL", "pattern": "PARTY"},
-    {"label": "NULL", "pattern": "Birthday Party"},
-    {"label": "NULL", "pattern": "RohanDusk"},
-    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "Rohan\w+"}}]},
-    {"label": "ORG", "pattern": "Rohirrim"},
-    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "Rohirrim\w+"}}]},
-    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "([Tt]he )? S[Hh][Ii][Rr][Ee]"}}]},
-    {"label": "LOC", "pattern": "Elvenhome"},
-    {"label": "LOC", "pattern": "Bagshot Row"},
-    {"label": "LOC", "pattern": "Bag End"},
-    {"label": "PRODUCT", "pattern": "Ring"},
-    {"label": "PERSON", "pattern": "Ringlord"},
-    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "^[a-z][a-z ]*[a-z]$"}}]},
-    # ^^ Trying to remove the all lower-case entities^^^
-    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": ".*`.*"}}]},
-    {"label": "NULL", "pattern": [{"TEXT" : {"REGEX": "[a-z]+[A-Z]\w+"}}]},
-    {"label": "NULL", "pattern": "�ri"},
-    {"label": "TIME", "pattern": "Time"},
-    {"label": "NULL", "pattern": "Throne"},
-    {"label": "CARDINAL", "pattern": "Thrice"},
-    {"label": "NULL", "pattern": "Fire"},
-    {"label": "NULL", "pattern": "Fissh"},
-    {"label": "LOC", "pattern": "Firienfeld"},
-    {"label": "LOC", "pattern": "Firienwood"},
-    {"label": "NULL", "pattern": "G3"},
-    {"label": "NULL", "pattern": "Und�"},
-    {"label": "NULL", "pattern": "Water Hot"},
-    {"label": "NULL", "pattern": "Yale"},
-    {"label": "COLOR", "pattern": "Yellow"},
-    {"label": "NULL", "pattern": "a Great"},
+
+    {"label": "PERSON", "pattern": "ARTOO"},
+    {"label": "PERSON", "pattern": "DARTH VADER"},
+    {"label": "LOC", "pattern": "Alderaan"},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "(ANAKIN|Anakin)"}}]},
+    {"label": "PERSON", "pattern": "Antilles"},
+    {"label": "PERSON", "pattern": "Artoo"},
+    {"label": "NULL", "pattern": "Astro"},
+    {"label": "NULL", "pattern": "Autopilot"},
+    {"label": "PERSON", "pattern": "Bail Organa of Alderaan"},
+    {"label": "NULL", "pattern": "Banthas"},
+    {"label": "NULL", "pattern": "Battle Droids"},
+    {"label": "PERSON", "pattern": "Bazda"},
+    {"label": "NULL", "pattern": "Bongo du bongu"},
+    {"label": "NULL", "pattern": "Boonta"},
+    {"label": "PERSON", "pattern": "Boonta Eve"},
+    {"label": "PERSON", "pattern": "Bravo Leader"},
+    {"label": "PERSON", "pattern": "CaptainI"},
+    {"label": "PERSON", "pattern": "Carkoon"},
+    {"label": "PERSON", "pattern": "Clone Troopers"},
+    {"label": "PERSON", "pattern": "Count Dooku"},
+    {"label": "PERSON", "pattern": "Dooku"},
+    {"label": "PERSON", "pattern": "Echo Seven"},
+    {"label": "PERSON", "pattern": "General Veers"},
+    {"label": "PERSON", "pattern": "Gold Leader"},
+    {"label": "PERSON", "pattern": "Han"},
+    {"label": "PERSON", "pattern": "Jango"},
+    {"label": "PERSON", "pattern": "Jar Jar"},
+    {"label": "PERSON", "pattern": "Kenobi"},
+    {"label": "PERSON", "pattern": "Lando"},
+    {"label": "PERSON", "pattern": "Lando Calrissian"},
+    {"label": "PERSON", "pattern": "Nute Gunray"},
+    {"label": "PERSON", "pattern": "00M-09"},
+    {"label": "PERSON", "pattern": "Qui-Gon"},
+    {"label": "PERSON", "pattern": "Qui-Gon Jinn"},
+    {"label": "PERSON", "pattern": "Red Leader"},
+    {"label": "PERSON", "pattern": "Red Two"},
+    {"label": "PERSON", "pattern": "Rogue Leader"},
+    {"label": "PERSON", "pattern": "Rogue Two"},
+    {"label": "PERSON", "pattern": "ST 321"},
+    {"label": "PERSON", "pattern": "Sebulba"},
+    {"label": "PERSON", "pattern": "Tarfful"},
+    {"label": "PERSON", "pattern": "Threepio"},
+    {"label": "PERSON", "pattern": "Padme"},
+    {"label": "NULL", "pattern": [{"TEXT": {"REGEX": "[A-z ]*[.',:\-][A-z ]*"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "^(CPATAIN|CAPTIAN)"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "^(SENATOR|[Ss]enator)"}}]},
+    {"label": "PERSON", "pattern": [{"TEXT": {"REGEX": "PALPATINE$"}}]},
 ]
 ruler.add_patterns(patterns)
 
@@ -118,7 +102,7 @@ def readTextFiles(filepath):
         node = proc.parse_xml(xml_text=xml)
         xp.set_context(xdm_item=node)
 
-        xpath = xp.evaluate('//book//p ! normalize-space() => string-join()')
+        xpath = xp.evaluate('(//script//sd, //crawl) ! normalize-space() => string-join()')
         # ebb: Let's get the string() value of all the <p> elements that are descendants of <book>.
         # The XPath function normalize-space() gets the string value and removes extra spaces.
         # That way we avoid the prologue, preface material.
@@ -130,6 +114,11 @@ def readTextFiles(filepath):
         cleanedUp = regex.sub("_", " ", string)
         cleanedUp = regex.sub(r"'([A-Z])]", r" \1", cleanedUp)
         cleanedUp = regex.sub(r"([.!?;'`])([A-Z'`]])", r"\1 \2", cleanedUp)
+        cleanedUp = regex.sub("Count Dooku?His", "Count Dooku", string)
+        cleanedUp = regex.sub("Poddraces", "Pod races", string)
+        cleanedUp = regex.sub("Isuggest", "I suggest", string)
+        cleanedUp = regex.sub("Padm", "Padme", string)
+        cleanedUp = regex.sub("Spreme", "Supreme", string)
         # send to spaCy to collect nlp data on the big string
         tokens = nlp(cleanedUp)
         # tokens = nlp.pipe(cleanedUp, disable=["tagger", "parser", "attribute_ruler", "lemmatizer"])
@@ -196,6 +185,7 @@ def assembleAllNames(CollPath):
             sourcePath = f"{CollPath}/{file}"
             eachFileData = xmlTagger(sourcePath, SortedDict)
             # ebb: In the lines above, we send to the xmlTagger to add the nlp info as XML elements and attributes to the source files.
+            # cleanEachFile = xsltCleaner(eachFileData)
     return eachFileData
     # Python functions don't really need to have return lines, but we can set the return to the function's most important output.
 
@@ -222,10 +212,30 @@ def xmlTagger(sourcePath, SortedDict):
             # print(f"{stringFile=}")
 
         # ebb: Output goes in the taggedOutput directory: ../taggedOutput
-        with open(targetFile, 'w') as f:
+        with open(targetFile, 'w', encoding='utf8') as f:
             f.write(stringFile)
+            # 2023-04-22 ebb: Now we send this to be processed by XSLT
+            # and remove any double-nested <name> elements. The XSLT removes the
+            # inner <name> element tags, leaves the outermost <name> elements
+            # and preserves the text nodes.
+            cleanup = xsltCleaner(targetFile)
+        return(cleanup)
+def xsltCleaner(targetFile):
+    print("xsltCleaner: ", f"{targetFile=}")
+    # for file in os.listdir(TargetPath):
+    #     if file.endswith(".xml"):
+    filepath = f"{TargetPath}/{targetFile}"
+    toCleanFilename = os.path.basename(targetFile)
+    print(f"{toCleanFilename=}")
+    with PySaxonProcessor(license=False) as proc:
+        xsltproc = proc.new_xslt30_processor()
+        # xsltCompile = xsltproc.compile_stylesheet(stylesheet_file="posTag-Cleanup.xsl.xsl", save=True, output_file=f"{XSLTPath}/{toCleanFilename}")
+        output = xsltproc.transform_to_file(source_file=filepath, stylesheet_file="../posTag-Cleanup-names.xsl", output_file=cleanUpPath)
+    return output
 
 assembleAllNames(CollPath)
+
+
 
 # ebb: The functions are all initiated here now.
 # This just delivers the collection path up to the first function in the sequence.

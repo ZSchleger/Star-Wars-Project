@@ -842,7 +842,6 @@ created : create
 creates : create
 creating : create
 credit : credit
-creep : creep
 creeps : creep
 cries : cry
 cringe : cringe
@@ -972,7 +971,6 @@ devastated : devastate
 developed : develop
 diced : dice
 did : do
-didn : didn
 die : die
 died : die
 dies : die
@@ -1042,11 +1040,9 @@ dodges : dodge
 dodging : dodge
 doen : doen
 does : do
-doesn : doesn
 doing : do
 dominate : dominate
 dominates : dominate
-don : don
 done : do
 doomed : doom
 dorp : dorp
@@ -1339,7 +1335,7 @@ foreseen : foresee
 forge : forge
 forget : forget
 forgets : forget
-forgot : forgot
+forgot : forget
 forgotten : forget
 form : form
 formed : form
@@ -1629,7 +1625,6 @@ invited : invite
 involved : involve
 irritating : irritate
 is : be
-isn : isn
 isolated : isolate
 issues : issue
 jamming : jam
@@ -3059,7 +3054,6 @@ warn : warn
 warned : warn
 warning : warn
 was : be
-wasn : wasn
 wasting : waste
 watch : watch
 watched : watch
