@@ -4,7 +4,7 @@ xquery version "3.1";
 declare variable $xSpacer := 5;
 declare variable $ySpacer := 20;
 declare variable $colors := ("red", "green", "blue", "orange", "black", "purple", "aqua", "pink","lightgreen","teal", "lightblue", "darkgreen","violet","yellow","gold","brown","grey","darkorange","yellowgreen","limegreen", "salmon");
-declare variable $starwars := collection('starwars/?select=*.xml');
+declare variable $starwars := collection('starwars_xml/?select=*.xml');
 (: In oXygen, adjust the filepath and use ?select=*.xml at the end to read around your schema and computer system files.:)
 declare variable $allCatches := $starwars//name[@type = "NORP"] => distinct-values();
 declare variable $distCatches := $starwars//name[@type = "NORP"] ! normalize-space() ! lower-case(.) ! replace(., "'", '') => distinct-values();
