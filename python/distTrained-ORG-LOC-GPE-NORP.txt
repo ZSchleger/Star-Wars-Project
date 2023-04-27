@@ -1,25 +1,45 @@
+"ANAKIN : PERSON
+"Han : PERSON
 1138 : ORG
+ABAJUB : PERSON
 ACCU : ORG
+ACKLAY : PERSON
 ADMIRAL : ORG
 AGEN : GPE
 AKS : ORG
+ALDERAAN : LOC
+ANAKIN : PERSON
+ANAKINB : PERSON
+ANAKINThey : PERSON
+ANAKIN�s : PERSON
 ANOTHER : ORG
 APPLAUSE : ORG
 APPO : ORG
 ARMY : ORG
+ARTOO : PERSON
 ASK AAK : ORG
+Ackbar : PERSON
 Alderaan : LOC
+Amidala : PERSON
+Anakin : PERSON
+Anakin�s : PERSON
+Antilles : PERSON
+Archduke : PERSON
 Arena : FAC
+Art Deco : ORG
+Artoo : PERSON
 Assault Ships : ORG
 Astra : ORG
 Atro Droid : ORG
+Aunt Beru : PERSON
 Avenger : ORG
 BACARA : ORG
 BAIL : ORG
+BAIL ORGANA : PERSON
 BANA BREEMU : ORG
 BATTLE : ORG
-BATTLE DROIDS : ORG
 BATTLESHIP : ORG
+BEN QUADINAROS : PERSON
 BLY : ORG
 BOBA : ORG
 BOBA FETT : ORG
@@ -27,39 +47,76 @@ BODYGUARDS : ORG
 BOGA : ORG
 BOOS : ORG
 BOY : ORG
+BUZZDROIDS : PERSON
 Bail Organa : ORG
+Barge : PERSON
 Battle Starships : ORG
 Battleship : ORG
+Ben : PERSON
 Bespin : GPE
+Bib : PERSON
 Bib Fortuna : ORG
+Biggs : PERSON
+Boba : PERSON
+Boba Fett : PERSON
+Boushh : PERSON
 Bubble City : GPE
+CALRISSIAN : PERSON
+CAPTIAN : PERSON
+CHANCELLOR VALORUM : PERSON
 CHEER : ORG
 CHEWBACCA : ORG
 CHI EEKWAY : ORG
+CHIRPA : PERSON
+CLASHES : PERSON
+CLIEGG : PERSON
 CLONES : ORG
+CPATAIN : PERSON
 CREW : ORG
 CRY : ORG
+Camie : PERSON
+Cass : PERSON
 Chamber : ORG
-Chewbacca : GPE
+Chancellor VALORUM : PERSON
+Chewbacca : PERSON
+Chewbacca jabbers : PERSON
+Chewie : PERSON
+Chewie barks : PERSON
+Chirpa : PERSON
+Clone Troopers : PERSON
 Cloud City : GPE
+Cockpit Speeder : PERSON
 Cord� : GPE
 Corellian : NORP
-Coruscant : GPE
+Coruscant : LOC
 Council : ORG
 Count : ORG
+Count Dooku : PERSON
 DAR WAC : ORG
 DARK : ORG
+DARSANA : PERSON
+DARTH VADER : PERSON
 DEXTER : ORG
 DIGNITARIES : ORG
+DINER : LOC
 DOD : ORG
 DOFINE : NORP
 DOOKU : ORG
 DROIDS : ORG
+Dack : PERSON
 Dagobah : FAC
+Dark Lord : PERSON
+Deak : PERSON
 Death Star : ORG
 Dengar : GPE
+Derlin : PERSON
 Destroyer : ORG
+Dexter grins : PERSON
+Dia Nogu : PERSON
+Docking Bay 94 : LOC
+Dodonna : PERSON
 Dofine : NORP
+Dooku : PERSON
 Doves : ORG
 Droid : ORG
 Droids : ORG
@@ -67,6 +124,7 @@ EIRTAE : ORG
 ELLE : ORG
 EMBRYOS : ORG
 EMPEROR : GPE
+ENDA : PERSON
 ENDThere : ORG
 ENGINES : ORG
 EOPIE : ORG
@@ -74,8 +132,9 @@ EOPIES : ORG
 EXPLOSION : ORG
 Elle : ORG
 Emergency Fire Speeders : ORG
+Empire : ORG
 Ewokese : NORP
-Ewoks : NORP
+Ewoks : PERSON
 FALCON : ORG
 FANTA : ORG
 FELUCIA : NORP
@@ -88,12 +147,18 @@ Federation : ORG
 Federation Battleship : ORG
 Federation Fighter : ORG
 Federation Starships : ORG
+Fett : PERSON
+Fetts : PERSON
 Fireships : ORG
+Flak pounds : PERSON
 Floatinf : NORP
 Force : ORG
 GAMORREAN : ORG
+GASGANO : PERSON
 GENERAL : ORG
 GENERAL GRIEVOUS : ORG
+GEONOSIAN : PERSON
+GEONOSIANS : PERSON
 GIDDEAN DANU : ORG
 GON : ORG
 GON JINN : ORG
@@ -101,16 +166,29 @@ GREE : ORG
 GREEN JEDI FIGHTER : FAC
 GRIEVOUS : ORG
 GROUP : ORG
+GUNGAN : NORP
 GUNGANS : ORG
 GUNSHIP : ORG
 Galactic : NORP
+Galactic Empire : GPE
 Galaxies Opera House : ORG
-Gamorrean : NORP
+Gamorrean : PERSON
 General Grievous : ORG
 General Rieekan : ORG
+General Veers : PERSON
 Geonosian : NORP
+Geonosis : LOC
 Gimer Stick : FAC
-HERMIONE : GPE
+Gold : ORG
+Gold Five : ORG
+Gold Leader : PERSON
+Gold Two : ORG
+Grand Moff Tarkin : ORG
+Grant Moff Tarkin : PERSON
+Greedo : PERSON
+Gungan : NORP
+HERMIONE : PERSON
+HERMIONE BAGWA : PERSON
 HOLOGRAM OF : ORG
 HOLOGRAM of : ORG
 HOLOGRAMS : GPE
@@ -118,8 +196,13 @@ HOROX RYYDER : ORG
 HOWL : GPE
 HUNDREDS OF CLONES : ORG
 HUTT : ORG
+HYPERSPACE : PERSON
+Han : PERSON
 Hoth : GPE
+Hut : ORG
+Hutt : PERSON
 Huttese : NORP
+HutteseANAKIN : PERSON
 IMPERIAL : ORG
 IMPERIAL SHUTTLE : ORG
 IRIS : ORG
@@ -129,6 +212,7 @@ Imperial Death Star : ORG
 Imperial Guards : ORG
 Imperial Star Destroyer : ORG
 Imperial Star Destroyers : ORG
+Imperial Stardestroyer : ORG
 Imperial Starfleet : ORG
 Imperial TIE : ORG
 Interstellar Sail Ship : LOC
@@ -140,43 +224,87 @@ JAWA : ORG
 JEDI : FAC
 JEDIS : ORG
 JOBAL : ORG
+JOBAL NABERRIE : PERSON
 JOCASTA NU : ORG
+Jabba : PERSON
+Jabba the Hutt : PERSON
+Jango : PERSON
+Jar Jar : PERSON
+Jawa : PERSON
+Jawas : PERSON
+Jawas Sandcrawler : PERSON
 Jedi Kights : GPE
-Jedi Temple : ORG
 Jedi�s : GPE
-Jerjerrod : ORG
+Jeers : PERSON
+Jerjerrod : PERSON
+Jundland : PERSON
 KAADU : ORG
 KAADUS : ORG
 KI : GPE
 KIT FISTO : NORP
-KITSTER : ORG
+KITSTER : PERSON
 KNIGHTS : ORG
 KOLAR : ORG
 KOUHUNS : ORG
-Kamino : FAC
+Kamino : LOC
+Kenobi : PERSON
 Knights : ORG
+LAMA SU : PERSON
+LOTT : PERSON
+LOTT DOD : PERSON
+LUKE SKYWALKER : PERSON
+Lando : PERSON
+Lando Calrissian : PERSON
+Landspeeder : PERSON
+Laserbolts : NORP
+Leia : PERSON
+Leia Organa : PERSON
+Lobot : PERSON
 Lodge : ORG
 Logray : ORG
-MACE : ORG
+Lord Vader : PERSON
+Luke : PERSON
+Luke Skywalker : PERSON
+Luke claws : PERSON
+Luke ducks laserfire : PERSON
+Luke square : PERSON
+Luke unplugs : PERSON
+Luke wriggles : PERSON
+MACE : PERSON
 MALASTARE : ORG
 MAS : ORG
+MAS AMEDDA : PERSON
 MASSIFF : ORG
+MAUL : GPE
 MAWHONIC : ORG
 MEDON : ORG
 MILLENNIUM : ORG
 MOE : ORG
+MOFF JERJERROD : PERSON
 MON : ORG
 MONSTERS : ORG
 MOTEE : ORG
 MTT : ORG
+MUSTAFAR : LOC
+Mace : PERSON
+Madine : PERSON
+Malastare : PERSON
+Mas Amedda : PERSON
 Millennium Falcon : ORG
-Mon Calamari : ORG
-Mon Mothma : ORG
+Moff Tarkin : PERSON
+Mon Calamari : PERSON
+Mon Mothma : PERSON
 Moon of Endor : ORG
+Mos Eisley : PERSON
+Mos Espa : LOC
 Motee : ORG
+Mother Ewoks : PERSON
+Motti : PERSON
+Mustafar : LOC
 Mygeeto : GPE
-NABOO : ORG
-NABOO SKIFF : ORG
+Mynock : PERSON
+NABOO : LOC
+NASS : PERSON
 NEIMODIANS : GPE
 NEIMOIDIAN : ORG
 NEIMOIDIAN COUNCIL : ORG
@@ -189,38 +317,56 @@ NUNB : ORG
 NUTE GUNRAY : ORG
 NUTE and RUNE : ORG
 NUTE and RUNE HAAKO : ORG
-Naboo : ORG
-Naboo Cruiser : ORG
-Naboo Skiff : ORG
+Naboo : LOC
 Needa : ORG
 Neimoidian : NORP
+Nien Nunb : PERSON
 Nordic : NORP
 OBITOKI : ORG
 ODY : ORG
 ODY MANDRELL : ORG
 OOLA : ORG
+ORGANA : PERSON
+ORN : PERSON
 OWEN : ORG
 Oola : ORG
+Organa : PERSON
+Otoh Gunga : LOC
 Outland : GPE
-Ozzel : GPE
+Owen : PERSON
+Owen Lars : PERSON
+Ozzel : PERSON
+PALPATINE : PERSON
 PAN : ORG
 PAN UP : ORG
+PEOPLE : PERSON
 PICADOR : ORG
 PLATOON OF CLONE TROOPERS : ORG
 PLO : ORG
 PLO KOON : ORG
 PLOT KOON : ORG
+POGGLE : PERSON
 POLIS MEDICS : ORG
 PROTOCOL : ORG
+Padme : PERSON
 Palace : FAC
+Palpatine : PERSON
+Pan : ORG
+Panaka : PERSON
 Paploo : ORG
+Piett : PERSON
 Podium : ORG
 Podracers : ORG
-Polis : NORP
+Polis Massa : LOC
+Princess Leia : PERSON
+QUEEN JAMILLIA : PERSON
 QUI : ORG
 QUINLAN : ORG
+Queen : PERSON
+Qui-Gon : PERSON
 RABE : ORG
 RANCOR : ORG
+REPUBLIC CRUISER : LOC
 RETINUE : ORG
 RIC : ORG
 RIC OLIE : ORG
@@ -228,22 +374,35 @@ ROAR : ORG
 RUWEE : ORG
 RUWEE NABERRIE : ORG
 RYOO : ORG
+Raider : PERSON
 Rancor : ORG
 Rebel Fleet : ORG
+Rebel X : PERSON
+Rebel snowspeeders : PERSON
 Rebels : ORG
+Red Leader : PERSON
 Red Squad : ORG
+Red Ten : ORG
+Red Twelve : ORG
 Republic Cruiser : ORG
 Republic Starships : LOC
 Rieekan : NORP
+Rogue Leader : PERSON
 Rogue Three : ORG
+Rogue Two : PERSON
 Royal Cruiser : ORG
 Royal Guards : ORG
+Rune Haako : PERSON
 SABE : ORG
+SAIL : PERSON
 SALACIOUS CRUMB : ORG
 SAN HILL : ORG
 SAN HILL PO NUDO : ORG
 SCOOTER : ORG
 SCRAPES : GPE
+SEEK : PERSON
+SENATOR : PERSON
+SENATORS : PERSON
 SEPARATIST : ORG
 SERGEANT : ORG
 SEVERAL OTHER JEDI : ORG
@@ -252,33 +411,45 @@ SHAAK TI : ORG
 SHAAKS : ORG
 SHADOWY : ORG
 SHIELD : FAC
-SHMI : ORG
+SHMI : PERSON
 SHOTS RING OUT : ORG
 SHU MAI : ORG
 SHUTTLE : ORG
+SIDIOUS : PERSON
 SIO : ORG
 SIO BIBBLE : ORG
-SIX SUPER BATTLE DROIDS : ORG
-SIX WHEEL DROIDS : ORG
+SIX SUPER BATTLE : ORG
+SIX WHEEL : ORG
 SIXTEEN SUPER : ORG
 SKIFF : ORG
 SLAM : ORG
 SOLA : ORG
+SPACE : LOC
 SPEEDERS : ORG
 STATIC : ORG
 SUN RIT : ORG
 SUPER BATTLE : ORG
 SUPERDROIDS : GPE
 SUPREME CHANCELLOR : ORG
+Sail Barge : PERSON
+Salacious : PERSON
+Salacious Crumb : PERSON
 Sanctuary Moon : LOC
-Senate : ORG
-Senate Building : ORG
-Senate Chamber : ORG
-Senate Office : ORG
-Senate Office Building : ORG
-Senate Pod : ORG
+Sandcrawler : ORG
+Sarlacc : PERSON
+Scooter : PERSON
+Sebulba : PERSON
+Senate : LOC
+Senator : PERSON
+Senators : PERSON
 Separatist : NORP
 Separatists : NORP
+Shaak Ti : PERSON
+Silhouetted : ORG
+Six Ugnaughts : PERSON
+Skyhopper : ORG
+Skywalker : PERSON
+Solo : PERSON
 Speeder : ORG
 Speeders : ORG
 Star Cruiser : ORG
@@ -289,54 +460,76 @@ Starfreighter : ORG
 Stormtroopers : ORG
 Super Star Destroyer : ORG
 Supreme : ORG
+Swamp : LOC
+TAA : PERSON
+TANEEL : PERSON
 TARFFUL : ORG
 TARPALS : ORG
 TAUN : ORG
+TAUN WE : PERSON
+TECKLA : PERSON
 TEEBO : ORG
 TEN : ORG
-TEN BATTLE DROIDS : ORG
+TEN BATTLE : ORG
 TERTER : ORG
 TESSEK : ORG
 TEY : ORG
 THE JEDI : ORG
 THREEPIO : ORG
 TIE : ORG
+TITLESTurmoil : PERSON
 TOONBUCK TOORA : ORG
+TRADE FEDERATION CRUISER : LOC
 TRI : ORG
 TUSKEN : ORG
 TWELVE : ORG
-TWENTY CLONE TROOPERS : ORG
-TWENTY OTHER JEDI : ORG
 TYPHO : ORG
-Tatooine : NORP
-Tauntaun : GPE
+Tagge : PERSON
+Tarkin : PERSON
+Tatooine : LOC
+Taun : PERSON
+Tauntaun : PERSON
+Teebo : PERSON
+Temple : LOC
 Terter : ORG
 The CLONE SERGEANT : ORG
 The DROID GUARD : ORG
+The Death Star : ORG
 The Droid General : ORG
-The GUNGAN ARMY : ORG
+The Exalted Hutt : PERSON
+The Imperial Stardestroyer : ORG
 The JEDI COUNCIL : ORG
-The Jedi Temple : ORG
+The Jedi : ORG
 The Millennium Falcon : ORG
-The SUPER BATTLE DROIDS : ORG
-The WHEEL DROIDS : ORG
+The SUPER BATTLE : ORG
+The WHEEL : ORG
 The Wampa Ice Creature : ORG
+The gargantuan rock formations : ORG
 Theed : LOC
-Theed Plaza : FAC
+Threepio : PERSON
 Tipoca : GPE
 Trade Federation : ORG
 Trade Federation Ships : ORG
 Troop Transports : ORG
+Trooper : ORG
 Tusken : GPE
+Tusken Raider : ORG
+Tusken Raiders : ORG
+Typho : PERSON
+UNCLE OWEN : PERSON
 UNDULI : ORG
 UPROAR : ORG
+UTAPAU : LOC
 Ugnaught : ORG
 Ugnaughts : ORG
-Utapau : ORG
+Uncle Owen : PERSON
+Utapau : LOC
 VALORUM : ORG
 VENDOR : ORG
 VENDORS : ORG
 VICEROY : ORG
+Vader : PERSON
+Vader calmly : PERSON
 Veers : ORG
 WALD : ORG
 WAN : ORG
@@ -344,40 +537,76 @@ WAT TAMBOR : ORG
 WATTO : ORG
 WAVE : ORG
 WESSEL : ORG
+WHIRS : PERSON
 WOOKIEE : ORG
 Wampa : ORG
 Watto : ORG
+Wattos : PERSON
 Wedge : ORG
+Willard : PERSON
+Windy : PERSON
 Wookiee : NORP
 XELBREE : ORG
+YANE : PERSON
 YOUNGLINGS : ORG
+Yavin : GPE
+Yoda : PERSON
 ZAM : ORG
+ZAM WESSEL : PERSON
+ZAM�S : PERSON
 ZETT JUKASSA : ORG
+Zam : PERSON
+Zam�s : PERSON
+Zev : PERSON
 Zuckuss : ORG
 a COUPLE OF CLONES : ORG
 a Jedi Briefing Room : FAC
+a Jedi Starfighter : PERSON
 astrodroid : ORG
+beatup : PERSON
+beeb : PERSON
+bob back : PERSON
 byseveral TIE : ORG
+chase Ewoks : PERSON
 dissapears : ORG
+driver�s : PERSON
+droids : ORG
 dus : GPE
 gasball : ORG
 gnomish : NORP
+green moon : LOC
+groin : PERSON
 heah : ORG
 icily : GPE
+japor : PERSON
 kaadu : ORG
+laserbolt : PERSON
+lifepod : PERSON
 mesa : ORG
+midair : PERSON
+mike : PERSON
 moon : LOC
+mumur cresendos : PERSON
 passenger�s : ORG
+phheewaat : PERSON
 postOBI : ORG
 ptay : GPE
 reptilian : NORP
+rightANAKIN : PERSON
+senator : PERSON
+senators : PERSON
+shyly : PERSON
 slwly : NORP
+speeder�s : PERSON
+steaming ardees : PERSON
+subhallway : GPE
 suddenlt : ORG
+teh : PERSON
 the Arena hallway : FAC
 the BATTLE : ORG
-the BATTLE DROIDS : ORG
 the BUZZ : ORG
 the Banking Clan : ORG
+the Bounty Hunter : PERSON
 the Briefing Room : FAC
 the CLONE SERGEANT : ORG
 the Command Ship : FAC
@@ -396,23 +625,26 @@ the Federation Battleship : FAC
 the Federation Cruiser : ORG
 the GOVERNING COUNCIL : ORG
 the GREEN : ORG
-the GUNGAN COUNCIL : ORG
+the Galactic : ORG
 the Galactic Representative Commission : ORG
 the Galactic Republic : GPE
-the Galactic Senate : ORG
 the General : ORG
 the Globe of Peace : ORG
+the Grand Moff Tarkin : ORG
 the Headquarters Frigate : FAC
 the Hologram Area : FAC
 the Imperial Fleet : ORG
 the Imperial Star Destroyers : ORG
+the Imperial Stardestroyer : ORG
 the Imperial council : ORG
 the Intergalactic Bank Clan : ORG
 the JEDI COUNCIL : ORG
+the Jedi : FAC
 the Jedi Council Chamber : ORG
 the Jedi Council Chambers : ORG
 the Jedi Fighters : ORG
-the Jedi Temple : FAC
+the Jedi Starfighter : PERSON
+the Main : ORG
 the Main Area : LOC
 the Main Collection Plant : FAC
 the Main Control Center : ORG
@@ -420,37 +652,30 @@ the Main Control Center with YODA : ORG
 the Main Control Room : FAC
 the Main Hanger : FAC
 the Main Podium : ORG
-the Main Senate Chamber : ORG
 the Man Calamari Ballet : ORG
 the Military Assault Ships : ORG
 the Millennium Falcon : ORG
 the Moon of Endor : ORG
-the Mustafar Landing Platforms : FAC
 the NEIMOIDIAN : ORG
-the Naboo Cruiser : ORG
-the Naboo Skiff : ORG
 the Office Building : FAC
 the Old West : LOC
-the Otoh Gunga : GPE
 the Rebel Headquarters Frigate : FAC
 the Rebel Star Cruisers : ORG
 the Rehab Center : FAC
-the SUPER BATTLE DROIDS : ORG
+the SUPER BATTLE : ORG
 the Sail Barge : FAC
 the Sanctuary Moon : LOC
-the Senate Arena : FAC
-the Senate Building : FAC
-the Senate Building Grand Hallway : ORG
-the Senate Office Building : ORG
 the Separatist Droid Army : ORG
 the Star Destroyer : ORG
 the Trade Federation : ORG
 the Trade Federation Battleships : ORG
 the Trade Federation Cruiser : ORG
-the WHEEL DROIDS : ORG
+the WHEEL : ORG
 the YOUNG ONES : ORG
 the congress of the Republic : ORG
 the golden droid : FAC
+the lone starpirate : LOC
+theirsword battle : PERSON
 traym : ORG
 uip : ORG
 viewscreens : FAC

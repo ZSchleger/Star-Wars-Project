@@ -3,11 +3,11 @@ xquery version "3.1";
 (: start by declaring global variables. These must end with a semicolon ;  :)
 declare variable $xSpacer := 5;
 declare variable $ySpacer := 20;
-declare variable $colors := ("red", "green", "blue", "orange", "black", "purple", "aqua", "pink","lightgreen","teal", "lightblue", "darkgreen","violet","yellow","gold","brown","grey","darkorange","yellowgreen","limegreen", "salmon");
-declare variable $starwars := collection('starwars_xml/?select=*.xml');
+declare variable $colors := ("red", "green", "blue", "orange", "black", "purple", "aqua", "pink","lightgreen","teal", "lightblue", "darkgreen","violet","yellow","gold","brown","grey","darkorange","yellowgreen","limegreen", "salmon", "deeppink", "indigo", "navy");
+declare variable $starwars := collection('starwars_xml?select=*.xml');
 (: In oXygen, adjust the filepath and use ?select=*.xml at the end to read around your schema and computer system files.:)
-declare variable $allCatches := $starwars//name[@type = "NORP"] => distinct-values();
-declare variable $distCatches := $starwars//name[@type = "NORP"] ! normalize-space() ! lower-case(.) ! replace(., "'", '') => distinct-values();
+declare variable $allCatches := $starwars//name[@type = "LOC"] => distinct-values();
+declare variable $distCatches := $starwars//name[@type = "LOC"] ! normalize-space() ! lower-case(.) ! replace(., "'", '') => distinct-values();
 
 <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
     <g transform="translate(50, 20)">
@@ -21,7 +21,7 @@ declare variable $distCatches := $starwars//name[@type = "NORP"] ! normalize-spa
     -->
     {
     for $d at $pos in $distCatches 
-    let $countThisCatch := $starwars//Q{}name[@type = "NORP"][normalize-space() ! lower-case(.) ! replace(., "'", '') = $d] => count()
+    let $countThisCatch := $starwars//Q{}name[@type = "LOC"][normalize-space() ! lower-case(.) ! replace(., "'", '') = $d] => count()
     (:THIS WILL NOT WORK: THERE IS ANOTHER WAY order by $countThisCatch descending :) 
     (: How would you make this plot a percentage of all catchphrases instead of a raw count? :)
 
@@ -37,7 +37,7 @@ return
     <g id="P-{$pos}">
         
         <line x1 = '{0}' y1 ='{$pos * $ySpacer}'  x2= '{$xSpacer * $countThisCatch}' y2="{$pos * $ySpacer}" stroke='{$colors[position() = $pos]}' stroke-width='5'/>
-        <text x="{$xSpacer * $countThisCatch + 10}" y="{$pos * $ySpacer}">{$d}</text>
+        <text x="{$xSpacer * $countThisCatch + 10 }" y="{$pos * $ySpacer}">{$d}</text>
     
     </g>
 }
