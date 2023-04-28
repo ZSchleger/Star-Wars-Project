@@ -12,12 +12,12 @@ body {
   top: 0;
 }
 
-.left-sidebar {
+/*.left-sidebar {
   left: 0;
   background-image: url("https://img.icons8.com/color/512/lightsaber.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
+  background-size: contain;*/
 }
 
 .right-sidebar {
@@ -118,9 +118,15 @@ nav ul li:first-child {
   margin: 0 auto;
 }
 
+img.logo {
+                max-width: 20%;
+                height: auto;
+            }
 
 
 
 
 
 
+
+s
