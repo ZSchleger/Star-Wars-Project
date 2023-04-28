@@ -3,7 +3,7 @@ xquery version "3.1";
 (: start by declaring global variables. These must end with a semicolon ;  :)
 declare variable $xSpacer := 5;
 declare variable $ySpacer := 20;
-declare variable $colors := ("red", "green", "blue", "orange", "black", "purple", "aqua", "pink","lightgreen","teal", "lightblue", "darkgreen","violet","yellow","gold","brown","grey","darkorange","yellowgreen","limegreen", "salmon", "deeppink", "indigo", "navy");
+declare variable $colors := ("red", "green", "blue", "orange", "lightpurple", "purple", "aqua", "pink","lightgreen","teal", "lightblue", "darkgreen","violet","yellow","gold","brown","grey","darkorange","yellowgreen","limegreen", "salmon", "deeppink", "indigo", "navy");
 declare variable $starwars := collection('starwars_xml?select=*.xml');
 (: In oXygen, adjust the filepath and use ?select=*.xml at the end to read around your schema and computer system files.:)
 declare variable $allCatches := $starwars//name[@type = "LOC"] => distinct-values();
@@ -35,9 +35,9 @@ declare variable $distCatches := $starwars//name[@type = "LOC"] ! normalize-spac
 
 return 
     <g id="P-{$pos}">
-        
         <line x1 = '{0}' y1 ='{$pos * $ySpacer}'  x2= '{$xSpacer * $countThisCatch}' y2="{$pos * $ySpacer}" stroke='{$colors[position() = $pos]}' stroke-width='5'/>
-        <text x="{$xSpacer * $countThisCatch + 10 }" y="{$pos * $ySpacer}">{$d}</text>
+        <text fill="white" x="{$xSpacer * $countThisCatch + 10 }" y="{$pos * $ySpacer}">{$d}
+        </text>
     
     </g>
 }
