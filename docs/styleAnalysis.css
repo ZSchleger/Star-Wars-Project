@@ -1,0 +1,127 @@
+/* Set background color to black */
+body {
+  background-color: black;
+  color: white;
+}
+
+/* Style the light saber side bars */
+.left-sidebar, .right-sidebar {
+  width: 50px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+}
+
+/*.left-sidebar {
+  left: 0;
+  background-image: url("https://img.icons8.com/color/512/lightsaber.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;*/
+}
+
+.right-sidebar {
+  right: 0;
+  background-image: url("https://img.icons8.com/color/512/lightsaber.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+/* Style the navigation bar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  padding: 10px;
+}
+
+/* Style the navigation links */
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+  background-color: red;
+  color: black;
+}
+
+body::after {
+  content: "";
+  background-image: url('https://img.icons8.com/color/2x/darth-vader.png');
+  background-position: center 100px;
+  background-repeat: no-repeat;
+  background-size: 25%;
+  opacity: 0.3;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+
+/* Adjust the background image when scrolling */
+/*body {
+  background-position: center 0;
+  background-size: 10%;*/
+/*}*/
+
+body::after {
+  background-position: center 300px;
+ /* transition: background-position 0.5s ease-in-out;*/
+}
+
+.movies-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.movies-left {
+  text-align: center;
+  margin-right: 50px; /* add some margin between the two columns */
+}
+
+.movies-right {
+  text-align: right;
+}
+
+/* style for the movies list */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+nav ul li:first-child {
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
