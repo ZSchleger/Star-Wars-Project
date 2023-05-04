@@ -33,7 +33,7 @@ As the <name type="NORP">Separatist</name>
          </speaker> There isn't a droid made that can out fly you, Master, and no other way to get to the Chancellor . . .</sp>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
-         </speaker> Look out, four <name type="ORG">droids</name> inbound . . .</sp>
+         </speaker> Look out, four <name type="NORP">droids</name> inbound . . .</sp>
       <setting>4 EXT. CORUSCANT-<name type="LOC">SPACE</name>
          <name type="ORG">BATTLE</name>
       </setting>
@@ -125,7 +125,7 @@ As the <name type="NORP">Separatist</name>
       <sp>
          <speaker>
             <name type="PERSON">ANAKIN</name>
-         </speaker> (continuing) The one crawling with vulture <name type="ORG">droids</name>.</sp>
+         </speaker> (continuing) The one crawling with vulture <name type="NORP">droids</name>.</sp>
       <setting>6 INT. OBI-<name type="ORG">WAN</name>'S STARFIGHTER COCKPIT-<name type="LOC">SPACE</name>
       </setting>
       <sp>
@@ -203,7 +203,7 @@ As the <name type="NORP">Separatist</name>
          </speaker> I'm coming around. I'm coming around on your tail.</sp>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
-         </speaker> All right, engage . . . and hurry. These <name type="ORG">droids</name> are all over me like a rash.</sp>
+         </speaker> All right, engage . . . and hurry. These <name type="NORP">droids</name> are all over me like a rash.</sp>
       <sd>In one incredible move, <name type="PERSON">ANAKIN</name> swings in behind the DROID <name type="ORG">TRI</name>-FIGHTERS, blowing them away one by one until there is only one left. <name type="PERSON">ARTOO</name> CHIRPS.</sd>
       <sd>
          <name type="PERSON">ARTOO</name> lets out a <name type="GPE">HOWL</name> as <name type="PERSON">ANAKIN</name> accelerates past the last DROID <name type="ORG">TRI</name>-FIGHTER, slams on his brakes, flips the Fighter around, and BLASTS the Fighter from the front. <name type="PERSON">ARTOO</name> BEEPS frantically as they fly through the debris of the destroyed ships. <name type="PERSON">ANAKIN</name> looks behind him.</sd>
@@ -255,7 +255,7 @@ As the <name type="NORP">Separatist</name>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> Just keep me steady . . . hold on ... not yet. . . now break left.</sp>
-      <sd>OBI-<name type="ORG">WAN</name> fires as he swings across the back of the VULTURE <name type="ORG">DROIDS</name>, BLASTING four of them away. <name type="PERSON">ANAKIN</name> heads for a trench along the surface of one of the Trade <name type="ORG">Federation</name>
+      <sd>OBI-<name type="ORG">WAN</name> fires as he swings across the back of the VULTURE <name type="NORP">DROIDS</name>, BLASTING four of them away. <name type="PERSON">ANAKIN</name> heads for a trench along the surface of one of the Trade <name type="ORG">Federation</name>
          <name type="ORG">Battleship</name>s. He flies into the trench, which ends in a conning tower with a small slit between two main struts.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
@@ -283,7 +283,7 @@ As the <name type="NORP">Separatist</name>
          </speaker> (continuing) I'm through.</sp>
       <sd>OBI-<name type="ORG">WAN</name> continues to fire on the VULTURE DROID FIGHTERS, driving them into the <name type="ORG">EXPLOSION</name>.
 A CLONE fighter is hit and explodes, spewing debris. The CLONE PILOT spins off into space.
-Finally, OBI-<name type="ORG">WAN</name> peels off and swings around, pulling up alongside <name type="PERSON">ANAKIN</name>. CLONE FIGHT SQUAD SEVEN battles the <name type="ORG">DROIDS</name>.</sd>
+Finally, OBI-<name type="ORG">WAN</name> peels off and swings around, pulling up alongside <name type="PERSON">ANAKIN</name>. CLONE FIGHT SQUAD SEVEN battles the <name type="NORP">DROIDS</name>.</sd>
       <sp>
          <speaker>ODD BALL</speaker> There are too many of them.</sp>
       <sp>
@@ -326,7 +326,7 @@ Finally, OBI-<name type="ORG">WAN</name> peels off and swings around, pulling up
       <sd>Two missiles continue to track Obi-Wan.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
-         </speaker> Flying is for <name type="ORG">droids</name>.</sp>
+         </speaker> Flying is for <name type="NORP">droids</name>.</sp>
       <sd>Suddenly, OBI-<name type="ORG">WAN</name> shudders, and his ship starts to plummet toward the surface of the Trade <name type="ORG">Federation</name> Cruiser. The trailing missiles fly into what looks like debris, and detonate. Five silver balls fly out of the debris and attach themselves to the ship. The balls pop open, revealing SMALL <name type="PERSON">BUZZDROIDS</name> that begin to crawl across the surface like spiders.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
@@ -335,9 +335,9 @@ Finally, OBI-<name type="ORG">WAN</name> peels off and swings around, pulling up
          <speaker>
             <name type="PERSON">ANAKIN</name>
          </speaker> I see them . . . Buzz <name type="ORG">Droid</name>s.</sp>
-      <sd>The BUZZ <name type="ORG">DROIDS</name> crawl across Obi-Wan's ship and start to tear it apart. SPARKS ERUPT where <name type="ORG">the BUZZ</name>
-         <name type="ORG">DROIDS</name> break into the wiring. One of <name type="ORG">the BUZZ</name>
-         <name type="ORG">DROIDS</name> goes after ARFOUR.</sd>
+      <sd>The BUZZ <name type="NORP">DROIDS</name> crawl across Obi-Wan's ship and start to tear it apart. SPARKS ERUPT where <name type="ORG">the BUZZ</name>
+         <name type="NORP">DROIDS</name> break into the wiring. One of <name type="ORG">the BUZZ</name>
+         <name type="NORP">DROIDS</name> goes after ARFOUR.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> Arfour, be careful. You have one . . .</sp>
@@ -353,7 +353,7 @@ Finally, OBI-<name type="ORG">WAN</name> peels off and swings around, pulling up
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> The mission. Get to <name type="FAC">the Command Ship</name>. Get the Chancellor! I'm running out of tricks here.</sp>
       <sd>
-         <name type="PERSON">ANAKIN</name> moves into position just off Obi-Wan's left side and angles his ship so his guns are pointing at the <name type="ORG">DROIDS</name> crawling over Obi-Wan�s <name type="ORG">Starfighter</name>. <name type="PERSON">ANAKIN</name> fires and vaporizes the TWO BUZZ <name type="ORG">DROIDS</name>, along with the left wing of Obi-Wan's ship.</sd>
+         <name type="PERSON">ANAKIN</name> moves into position just off Obi-Wan's left side and angles his ship so his guns are pointing at the <name type="NORP">DROIDS</name> crawling over Obi-Wan�s <name type="ORG">Starfighter</name>. <name type="PERSON">ANAKIN</name> fires and vaporizes the TWO BUZZ <name type="NORP">DROIDS</name>, along with the left wing of Obi-Wan's ship.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> (continuing) In the name of ...</sp>
@@ -385,11 +385,11 @@ Finally, OBI-<name type="ORG">WAN</name> peels off and swings around, pulling up
          </speaker> I'm not leaving without you, Master.</sp>
       <sd>
          <name type="PERSON">ANAKIN</name> moves his ship next to OBI-<name type="ORG">WAN</name>'s and tries to physically knock <name type="ORG">the BUZZ</name>
-         <name type="ORG">DROIDS</name> off. There are five left. He manages to get one off, but badly dents OBI-<name type="ORG">WAN</name>'s ship in the process. One of <name type="ORG">the BUZZ</name>
-         <name type="ORG">DROIDS</name> tears apiece off of the front of Obi-Wan's ship. Flames burst out, and more smoke billows out, obscuring <name type="FAC">the Jedi</name>'s view.</sd>
+         <name type="NORP">DROIDS</name> off. There are five left. He manages to get one off, but badly dents OBI-<name type="ORG">WAN</name>'s ship in the process. One of <name type="ORG">the BUZZ</name>
+         <name type="NORP">DROIDS</name> tears apiece off of the front of Obi-Wan's ship. Flames burst out, and more smoke billows out, obscuring <name type="FAC">the Jedi</name>'s view.</sd>
       <sd>
          <name type="PERSON">ANAKIN</name> knocks off three of <name type="ORG">the BUZZ</name>
-         <name type="ORG">DROIDS</name> and the fourth crawls out onto <name type="PERSON">Anakin</name>'s ship and starts attacking <name type="PERSON">ARTOO</name>. <name type="PERSON">ARTOO</name> fights <name type="ORG">the BUZZ</name> DROID.</sd>
+         <name type="NORP">DROIDS</name> and the fourth crawls out onto <name type="PERSON">Anakin</name>'s ship and starts attacking <name type="PERSON">ARTOO</name>. <name type="PERSON">ARTOO</name> fights <name type="ORG">the BUZZ</name> DROID.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> Blast it ... I can't see . . . my controls are gone.</sp>
@@ -432,10 +432,10 @@ Finally, OBI-<name type="ORG">WAN</name> peels off and swings around, pulling up
       <sd>
          <name type="PERSON">ANAKIN</name> maneuvers around the oncoming junk and flies into the hangar just as the blast doors <name type="ORG">SLAM</name> shut.
 OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of the cockpit. He jumps dear just as his ship EX<name type="ORG">PLO</name>DES. <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> rush at him from all directions.</sd>
+         <name type="NORP">DROIDS</name> rush at him from all directions.</sd>
       <sd>
          <name type="PERSON">ANAKIN</name> jumps out of his ship and cuts his way through the <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> to where OBI-<name type="ORG">WAN</name> is fighting. <name type="PERSON">ARTOO</name> pops out of the ship and follows <name type="PERSON">ANAKIN</name>.</sd>
+         <name type="NORP">DROIDS</name> to where OBI-<name type="ORG">WAN</name> is fighting. <name type="PERSON">ARTOO</name> pops out of the ship and follows <name type="PERSON">ANAKIN</name>.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker>
@@ -444,7 +444,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
          <speaker>
             <name type="PERSON">ANAKIN</name>
          </speaker> Tap into the ship's computers.</sp>
-      <sd>They cut down the last of the <name type="ORG">droids</name> and follow <name type="PERSON">ARTOO</name> over to a computer wall socket. The two <name type="FAC">JEDI</name> fight off FOUR MORE <name type="ORG">DROIDS</name> as <name type="PERSON">ARTOO</name> tries to find the Chancellor. Finally, a <name type="ORG">HOLOGRAM of</name> the Trade <name type="ORG">Federation</name> ship appears.</sd>
+      <sd>They cut down the last of the <name type="NORP">droids</name> and follow <name type="PERSON">ARTOO</name> over to a computer wall socket. The two <name type="FAC">JEDI</name> fight off FOUR MORE <name type="NORP">DROIDS</name> as <name type="PERSON">ARTOO</name> tries to find the Chancellor. Finally, a <name type="ORG">HOLOGRAM of</name> the Trade <name type="ORG">Federation</name> ship appears.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> The Chancellor's signal is coming from right there. The observation platform at the top of that spire.</sp>
@@ -502,7 +502,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> We are here to relieve you of Chancellor <name type="PERSON">Palpatine</name>, not join him.</sp>
-      <sd>As a dozen more <name type="ORG">droids</name> join the group, the <name type="FAC">JEDI</name> ignite their lightsabers and stand back-to-back.</sd>
+      <sd>As a dozen more <name type="NORP">droids</name> join the group, the <name type="FAC">JEDI</name> ignite their lightsabers and stand back-to-back.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker>
@@ -527,14 +527,14 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> Your idea of safe is not the same as mine.</sp>
       <sd>They run, <name type="ORG">EXPLOSION</name>S rattle the ship, and pipes continue to burst around them, spilling more fuel into the hallway. At the far end, SIX SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> drop into the fuel. The SOUNDS OF <name type="FAC">SHIELD</name> DOORS CLOSING AND LOC<name type="GPE">KI</name>NG ECHO throughout the hallway. They pass several large power generators, which are topped with SPAR<name type="GPE">KI</name>NG excess power dischargers.</sd>
+         <name type="NORP">DROIDS</name> drop into the fuel. The SOUNDS OF <name type="FAC">SHIELD</name> DOORS CLOSING AND LOC<name type="GPE">KI</name>NG ECHO throughout the hallway. They pass several large power generators, which are topped with SPAR<name type="GPE">KI</name>NG excess power dischargers.</sd>
       <sp>
          <speaker>
             <name type="PERSON">ANAKIN</name>
          </speaker> They're sealing this section off.</sp>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
-         </speaker> Six <name type="ORG">droids</name> coming our way!</sp>
+         </speaker> Six <name type="NORP">droids</name> coming our way!</sp>
       <sd>The last of <name type="ORG">the DOORS CAN BE HEARD CLOSING</name> in the distance.</sd>
       <sp>
          <speaker>
@@ -545,7 +545,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> We'll never get through that. It's too small!</sp>
       <sd>They move toward a second vent. OBI-<name type="ORG">WAN</name> is swimming in the fuel as it reaches to within a couple yards of the ceiling. <name type="PERSON">ANAKIN</name> feels along the ceiling and finds another smaller vent. He closes his eyes and tries to sense an opening, then he moves on. OBI-<name type="ORG">WAN</name> is forced into hand-to-hand combat with one of the SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>. It pulls <name type="FAC">the Jedi</name> under the fuel. Just before he is about to drown, OBI-<name type="ORG">WAN</name> disables the SUPER <name type="ORG">BATTLE</name> DROID by pushing him into an exhaust pipe.</sd>
+         <name type="NORP">DROIDS</name>. It pulls <name type="FAC">the Jedi</name> under the fuel. Just before he is about to drown, OBI-<name type="ORG">WAN</name> disables the SUPER <name type="ORG">BATTLE</name> DROID by pushing him into an exhaust pipe.</sd>
       <sd>The fuel is up to <name type="FAC">the Jedi</name>'s chins. <name type="PERSON">ANAKIN</name> finds a very, very small metal grate, then pounds on it until the tiny grate breaks loose.</sd>
       <sp>
          <speaker>
@@ -560,7 +560,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
             <name type="PERSON">ANAKIN</name>
          </speaker> Only in your mind. My Master. Look, no structure. . . .</sp>
       <sd>
-         <name type="PERSON">ANAKIN</name> grabs the side of the tiny hole and gives it a big yank, ripping a large panel loose revealing a "man-sized" work shaft. They scramble through it as the <name type="ORG">DROIDS</name> swim closer.</sd>
+         <name type="PERSON">ANAKIN</name> grabs the side of the tiny hole and gives it a big yank, ripping a large panel loose revealing a "man-sized" work shaft. They scramble through it as the <name type="NORP">DROIDS</name> swim closer.</sd>
       <setting>13 INT. VENT SHAFT-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>The TWO <name type="FAC">JEDI</name> pull themselves through the narrow vent shaft until they reach a small hatch in the side of the tube.</sd>
@@ -569,7 +569,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
             <name type="PERSON">ANAKIN</name>
          </speaker> Here's a way out.</sp>
       <sd>As the SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> reach the opening in the ceiling and the fuel gets to within a few feet of the power generator sparks, the <name type="FAC">JEDI</name> work the keyboard on the pressure lock, opening the latch.</sd>
+         <name type="NORP">DROIDS</name> reach the opening in the ceiling and the fuel gets to within a few feet of the power generator sparks, the <name type="FAC">JEDI</name> work the keyboard on the pressure lock, opening the latch.</sd>
       <setting>14 INT. SMALL PASSAGEWAY-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>The TWO <name type="FAC">JEDI</name> climb into a small passageway and slam the hatch shut. They make their way through the ever-shrinking shaft until they reach the end.</sd>
@@ -589,7 +589,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
       <setting>16 INT. VENT SHAFT-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>The SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> climb up the vent shaft. SUPER <name type="ORG">BATTLE</name> DROID R77 and SEVERAL OTHER <name type="ORG">DROIDS</name> wait in the generator room as the fuel continues to rise toward the power discharger.</sd>
+         <name type="NORP">DROIDS</name> climb up the vent shaft. SUPER <name type="ORG">BATTLE</name> DROID R77 and SEVERAL OTHER <name type="NORP">DROIDS</name> wait in the generator room as the fuel continues to rise toward the power discharger.</sd>
       <sp>
          <speaker>SUPER <name type="ORG">BATTLE</name> DROID R77</speaker> I have a bad feeling about this.</sp>
       <setting>17 INT. GENERATOR ROOM-<name type="LOC">TRADE FEDERATION CRUISER</name>
@@ -608,23 +608,23 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
          <name type="PERSON">ANAKIN</name> grins at OBI-<name type="ORG">WAN</name>, and they run down the hallway.</sd>
       <setting>20 INT. WIDE HALLWAY-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
-      <sd>The two <name type="FAC">JEDI</name> wait for an elevator to arrive. They turn around and see they are face to face with THREE DESTROYER <name type="ORG">DROIDS</name>. The <name type="ORG">DROIDS</name> start blasting away. <name type="PERSON">Anakin</name> deflects the bolts. OBI-<name type="ORG">WAN</name> frantically pushes the elevator button several more times.</sd>
+      <sd>The two <name type="FAC">JEDI</name> wait for an elevator to arrive. They turn around and see they are face to face with THREE DESTROYER <name type="NORP">DROIDS</name>. The <name type="NORP">DROIDS</name> start blasting away. <name type="PERSON">Anakin</name> deflects the bolts. OBI-<name type="ORG">WAN</name> frantically pushes the elevator button several more times.</sd>
       <sp>
          <speaker>
             <name type="PERSON">ANAKIN</name>
          </speaker>
          <name type="ORG">Destroyer</name>s!!</sp>
       <sd>Finally the door opens, and they rush inside under a hail of laser bolts. The elevator door slides shut. The <name type="FAC">JEDI</name> turn to see <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> standing behind them.</sd>
+         <name type="NORP">DROIDS</name> standing behind them.</sd>
       <sp>
          <speaker>
             <name type="ORG">BATTLE</name> DROID</speaker> Drop your weapons! I said drop 'em.</sp>
       <sd>The <name type="FAC">JEDI</name> activate their light sabers and destroy all the <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>.</sd>
+         <name type="NORP">DROIDS</name>.</sd>
       <setting>21 INT HANGAR-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>R2-D2 notices two SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> entering the hangar. He moves and hides behind a Jedi <name type="ORG">Starfighter</name>.</sd>
+         <name type="NORP">DROIDS</name> entering the hangar. He moves and hides behind a Jedi <name type="ORG">Starfighter</name>.</sd>
       <setting>22 INT. ELEVATOR-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>The elevator begins to move and screeches to a stop.</sd>
@@ -652,7 +652,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
       <setting>23 INT MAIN HANGAR-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>TWO SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> are inspecting <name type="FAC">the Jedi</name> starfighters. They overhear Obi-Wan's voice over the comlink and are distracted.</sd>
+         <name type="NORP">DROIDS</name> are inspecting <name type="FAC">the Jedi</name> starfighters. They overhear Obi-Wan's voice over the comlink and are distracted.</sd>
       <sp>
          <speaker>SUPER <name type="ORG">BATTLE</name> DROID 1</speaker> What's that?</sp>
       <sp>
@@ -673,7 +673,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
       </setting>
       <sd>
          <name type="PERSON">ARTOO</name> tries to muffle the comlink as the TWO SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> try to figure out where the voices are coming from. <name type="PERSON">ARTOO</name> extends an arm and plugs into a computer interface.</sd>
+         <name type="NORP">DROIDS</name> try to figure out where the voices are coming from. <name type="PERSON">ARTOO</name> extends an arm and plugs into a computer interface.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> (OS) <name type="PERSON">Artoo</name>, switch on the comlink. <name type="PERSON">Artoo</name>, do you hear me? <name type="PERSON">Artoo</name>, we gave you a job to do! <name type="PERSON">Artoo</name>.</sp>
@@ -690,7 +690,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
       </setting>
       <sd>
          <name type="PERSON">Anakin</name> struggles to hang on to the narrow edge of the elevator shaft. The door to the elevator shaft is pried open, and TWO <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> appear in the doorway and look down at <name type="PERSON">ANAKIN</name>. They point their guns at him.</sd>
+         <name type="NORP">DROIDS</name> appear in the doorway and look down at <name type="PERSON">ANAKIN</name>. They point their guns at him.</sd>
       <sp>
          <speaker>DROID 1</speaker>
          <name type="PERSON">Han</name>ds up, Jedi! Don't move.</sp>
@@ -699,7 +699,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
       <setting>29 INT. MAIN HANGAR-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>The TWO SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> overhear OBI-<name type="ORG">WAN</name>'s comlink messages to <name type="PERSON">ARTOO</name>.</sd>
+         <name type="NORP">DROIDS</name> overhear OBI-<name type="ORG">WAN</name>'s comlink messages to <name type="PERSON">ARTOO</name>.</sd>
       <sp>
          <speaker>SUPER <name type="ORG">BATTLE</name> DROID 1</speaker> There it is again.</sp>
       <sp>
@@ -715,7 +715,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
       <setting>31 INT. MAIN HANGAR-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>The TWO SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> see <name type="PERSON">ARTOO</name> and walk toward the little droid.</sd>
+         <name type="NORP">DROIDS</name> see <name type="PERSON">ARTOO</name> and walk toward the little droid.</sd>
       <sp>
          <speaker>SUPER <name type="ORG">BATTLE</name> DROID 1</speaker> Hey you!</sp>
       <sd>
@@ -730,15 +730,15 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
       </setting>
       <sd>
          <name type="PERSON">ARTOO</name> is held up by TWO SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>, who chuckle as the little Astro <name type="ORG">Droid</name> curses and swings at them.</sd>
+         <name type="NORP">DROIDS</name>, who chuckle as the little Astro <name type="ORG">Droid</name> curses and swings at them.</sd>
       <sp>
          <speaker>SUPER <name type="ORG">BATTLE</name> DROID 1</speaker> You stupid little astro droid!</sp>
       <setting>34 INT. ELEVATOR SHAFT-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>
          <name type="PERSON">ANAKIN</name> looks down and sees the elevator heading toward him at a high rate of speed. He looks at the <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> leaning over him with their guns pointed at him. He calculates for a moment, then gives himself a push and flips himself up into the elevator shaft.</sd>
-      <sd>Before <name type="PERSON">ANAKIN</name> can arc into a descent down the shaft, the elevator races up through the shaft, cutting the <name type="ORG">DROIDS</name> in two. <name type="PERSON">ANAKIN</name> lands on the elevator and quickly drops back through the hole in the ceiling. OBI-<name type="ORG">WAN</name> is startled and ignites his lightsaber.</sd>
+         <name type="NORP">DROIDS</name> leaning over him with their guns pointed at him. He calculates for a moment, then gives himself a push and flips himself up into the elevator shaft.</sd>
+      <sd>Before <name type="PERSON">ANAKIN</name> can arc into a descent down the shaft, the elevator races up through the shaft, cutting the <name type="NORP">DROIDS</name> in two. <name type="PERSON">ANAKIN</name> lands on the elevator and quickly drops back through the hole in the ceiling. OBI-<name type="ORG">WAN</name> is startled and ignites his lightsaber.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> Oh, it's you . . .</sp>
@@ -746,8 +746,8 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
       </setting>
       <sd>
          <name type="PERSON">ARTOO</name> activates his oil hose and sprays the SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>. The SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> slip on the oil.</sd>
+         <name type="NORP">DROIDS</name>. The SUPER <name type="ORG">BATTLE</name>
+         <name type="NORP">DROIDS</name> slip on the oil.</sd>
       <setting>36 INT. ELEVATOR SHAFT-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sp>
@@ -775,7 +775,7 @@ OBI-<name type="ORG">WAN</name> ignites his light saber and cuts his way out of 
       </setting>
       <sd>
          <name type="PERSON">ARTOO</name> ignites his arm rockets and shoots out of their grip, spraying them both with oil and setting them on fire. The SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> slip and slide until they fall, smoldering. <name type="PERSON">ARTOO</name> rolls away.</sd>
+         <name type="NORP">DROIDS</name> slip and slide until they fall, smoldering. <name type="PERSON">ARTOO</name> rolls away.</sd>
       <setting>38 INT. <name type="ORG">GENERAL</name>'S QUARTER'S-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>The elevator door opens and the TWO <name type="FAC">JEDI</name> carefully make their way into the main room of <name type="ORG">the General</name>'s Quarters.
@@ -796,7 +796,7 @@ As they get closer to <name type="PERSON">PALPATINE</name>, they see a very dist
          <name type="PERSON">Dooku</name>.</sp>
       <sd>
          <name type="PERSON">PALPATINE</name> makes a small gesture with his hand. OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANAKIN</name> turn around. The elevator DOORS CAN BE HEARD OPENING AND CLOSING as COUNT <name type="ORG">DOOKU</name> strides into the room. He is above <name type="FAC">the Jedi</name>, standing on a balcony, with two SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>. <name type="ORG">The Jedi</name> turn to see him. He looks down on <name type="FAC">the Jedi</name>.</sd>
+         <name type="NORP">DROIDS</name>. <name type="ORG">The Jedi</name> turn to see him. He looks down on <name type="FAC">the Jedi</name>.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> (quietly to <name type="PERSON">Anakin</name>) This time we will do it together.</sp>
@@ -838,7 +838,7 @@ As they get closer to <name type="PERSON">PALPATINE</name>, they see a very dist
          </speaker> (continuing) Your moves are clumsy, <name type="PERSON">Kenobi</name> . . . too predictable. You'll have to do better.</sp>
       <sd>As the battle proceeds, OBI-<name type="ORG">WAN</name> and COUNT <name type="ORG">DOOKU</name> are tired. <name type="PERSON">ANAKIN</name> is stronger as he becomes angry. <name type="PERSON">ANAKIN</name> continues to drive the attack on <name type="ORG">DOOKU</name>. COUNT <name type="ORG">DOOKU</name> throws OBI-<name type="ORG">WAN</name> back using the <name type="ORG">Force</name>.
 <name type="PERSON">ANAKIN</name> and COUNT <name type="ORG">DOOKU</name> move up the stairs. As they reach the upper landing of <name type="ORG">the General</name>'s Quarters, <name type="PERSON">ANAKIN</name> leaps over COUNT <name type="ORG">DOOKU</name>. OBI-<name type="ORG">WAN</name> reaches the top of the stairs, destroying TWO SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>. COUNT <name type="ORG">DOOKU</name> holds OBI-<name type="ORG">WAN</name> in the air using the <name type="ORG">Force</name> as he turns and kicks <name type="PERSON">ANAKIN</name> out of frame. OBI-<name type="ORG">WAN</name> is choking.
+         <name type="NORP">DROIDS</name>. COUNT <name type="ORG">DOOKU</name> holds OBI-<name type="ORG">WAN</name> in the air using the <name type="ORG">Force</name> as he turns and kicks <name type="PERSON">ANAKIN</name> out of frame. OBI-<name type="ORG">WAN</name> is choking.
 <name type="PERSON">ANAKIN</name> hits the archway.
 <name type="ORG">DOOKU</name> sends OBI-<name type="ORG">WAN</name> flying. <name type="ORG">The Jedi</name> tumbles to the lower level unconscious. COUNT <name type="ORG">DOOKU</name> spins around again and, using the <name type="ORG">Force</name>, causes a section of the balcony to drop onto OBI-<name type="ORG">WAN</name>. <name type="PERSON">ANAKIN</name> spins and kicks COUNT <name type="ORG">DOOKU</name>, sending him over the balcony. <name type="PERSON">ANAKIN</name> Jumps, following him down to the main floor. COUNT <name type="ORG">DOOKU</name> and <name type="PERSON">ANAKIN</name> continue the fight.</sd>
       <sp>
@@ -890,7 +890,7 @@ As they get closer to <name type="PERSON">PALPATINE</name>, they see a very dist
       <sp>
          <speaker>
             <name type="PERSON">PALPATINE</name>
-         </speaker> It is only natural. He cut off your arm, and you wanted revenge. It wasn't the first time, <name type="PERSON">Anakin</name>. Remember what you told me about your mother and the Sand People. Now, we must leave before more security <name type="ORG">droids</name> arrive.</sp>
+         </speaker> It is only natural. He cut off your arm, and you wanted revenge. It wasn't the first time, <name type="PERSON">Anakin</name>. Remember what you told me about your mother and the Sand People. Now, we must leave before more security <name type="NORP">droids</name> arrive.</sp>
       <sd>The ship begins to list to one side. <name type="PERSON">ANAKIN</name> rushes over to OBI-<name type="ORG">WAN</name>, lifts the control console from on top of him, and pulls him free. He kneels down and checks out his unconscious friend. <name type="PERSON">PALPATINE</name> heads for the elevators.</sd>
       <sp>
          <speaker>
@@ -943,7 +943,7 @@ As they get closer to <name type="PERSON">PALPATINE</name>, they see a very dist
          </speaker> (continuing) <name type="PERSON">Artoo</name> ... do you copy? <name type="PERSON">Artoo</name>, come in!</sp>
       <setting>43 INT. BRIDGE-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
-      <sd>Windows are blown out, <name type="ORG">droids</name> and eq<name type="ORG">uip</name>ment are sucked into space.</sd>
+      <sd>Windows are blown out, <name type="NORP">droids</name> and eq<name type="ORG">uip</name>ment are sucked into space.</sd>
       <sp>
          <speaker>PILOT</speaker> Reverse stabilizers.</sp>
       <setting>44 INT. MAIN HANGAR-<name type="LOC">TRADE FEDERATION CRUISER</name>
@@ -958,8 +958,8 @@ Several objects break through the metal blast doors, causing objects to be sucke
       </setting>
       <sd>
          <name type="PERSON">ARTOO</name> continues to skid and slide toward open space. He swerves around boxes and wrecked fighters. One of the <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> stumbles and is consumed by the electronic shield in a zap. <name type="PERSON">ARTOO</name> BEEPS a reply as he dodges the laser blasts of the <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>. One bolt hits very near him, and he SCREAMS in terror.</sd>
+         <name type="NORP">DROIDS</name> stumbles and is consumed by the electronic shield in a zap. <name type="PERSON">ARTOO</name> BEEPS a reply as he dodges the laser blasts of the <name type="ORG">BATTLE</name>
+         <name type="NORP">DROIDS</name>. One bolt hits very near him, and he SCREAMS in terror.</sd>
       <setting>47 INT. BRIDGE-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sp>
@@ -1078,7 +1078,7 @@ Several objects break through the metal blast doors, causing objects to be sucke
       <setting>58 INT. MAIN HANGAR-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>OBI-<name type="ORG">WAN</name> grabs onto the pipes that run along what was the ceiling and is now the wall. As he moves out into the hangar, TWO SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> start firing at him. <name type="ORG">The Jedi</name> ignites his lightsaber and deflects the bolts back at the <name type="ORG">DROIDS</name>, blowing them up. <name type="PERSON">ANAKIN</name> and <name type="PERSON">PALPATINE</name> follow OBI-<name type="ORG">WAN</name> along the pipes running along the ceiling of the hangar. <name type="PERSON">PALPATINE</name> struggles against the escaping air of the pressurized hangar. <name type="PERSON">PALPATINE</name> loses his grip as a pipe breaks, causing a rush of steam, but <name type="PERSON">ANAKIN</name> manages to maintain his grasp on the pipe as the CHANCELLOR dangles on the other end of the utility cable. They are surrounded by SPARKS and <name type="ORG">EXPLOSION</name>S as the ship twists and tries to break apart. <name type="PERSON">ANAKIN</name> moves out of the steam and struggles to pull <name type="PERSON">PALPATINE</name> back to safety. <name type="PERSON">ANAKIN</name> is almost pulled loose in the buffeting winds. The ceiling behind them buckles, causing pipes to break, creating geysers of steam. Some bits of pipe go hurling into the blast doors and out into space. They make it through a hangar doorway and close it behind them.</sd>
+         <name type="NORP">DROIDS</name> start firing at him. <name type="ORG">The Jedi</name> ignites his lightsaber and deflects the bolts back at the <name type="NORP">DROIDS</name>, blowing them up. <name type="PERSON">ANAKIN</name> and <name type="PERSON">PALPATINE</name> follow OBI-<name type="ORG">WAN</name> along the pipes running along the ceiling of the hangar. <name type="PERSON">PALPATINE</name> struggles against the escaping air of the pressurized hangar. <name type="PERSON">PALPATINE</name> loses his grip as a pipe breaks, causing a rush of steam, but <name type="PERSON">ANAKIN</name> manages to maintain his grasp on the pipe as the CHANCELLOR dangles on the other end of the utility cable. They are surrounded by SPARKS and <name type="ORG">EXPLOSION</name>S as the ship twists and tries to break apart. <name type="PERSON">ANAKIN</name> moves out of the steam and struggles to pull <name type="PERSON">PALPATINE</name> back to safety. <name type="PERSON">ANAKIN</name> is almost pulled loose in the buffeting winds. The ceiling behind them buckles, causing pipes to break, creating geysers of steam. Some bits of pipe go hurling into the blast doors and out into space. They make it through a hangar doorway and close it behind them.</sd>
       <setting>59 INT. HANGAR DOORWAY-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>OBI-<name type="ORG">WAN</name>, <name type="PERSON">ANAKIN</name> and <name type="PERSON">PALPATINE</name> are out of breath.</sd>
@@ -1145,11 +1145,11 @@ Several objects break through the metal blast doors, causing objects to be sucke
          <speaker>
             <name type="PERSON">ANAKIN</name>
          </speaker> (continuing) See! No problem.</sp>
-      <sd>Suddenly several doorways open, revealing TWO DESTROYER <name type="ORG">DROIDS</name>. <name type="ORG">SIXTEEN SUPER</name>
+      <sd>Suddenly several doorways open, revealing TWO DESTROYER <name type="NORP">DROIDS</name>. <name type="ORG">SIXTEEN SUPER</name>
          <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> emerge from behind the DESTROYER <name type="ORG">DROIDS</name>.
+         <name type="NORP">DROIDS</name> emerge from behind the DESTROYER <name type="NORP">DROIDS</name>.
 <name type="PERSON">ARTOO</name> turns and zaps one of the SUPER <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> who then kicks <name type="PERSON">ARTOO</name> over.</sd>
+         <name type="NORP">DROIDS</name> who then kicks <name type="PERSON">ARTOO</name> over.</sd>
       <sp>
          <speaker>SUPER <name type="ORG">BATTLE</name> DROID</speaker> Don't move, dummy. Ouch! Zap this.</sp>
       <sp>
@@ -1213,12 +1213,12 @@ OBI-<name type="ORG">WAN</name>, hands restrained with electrobonds, spins aroun
          </speaker> Crush them! Make them suffer!</sp>
       <sd>
          <name type="PERSON">ANAKIN</name> uses the <name type="ORG">Force</name> to yank his lightsaber out of <name type="ORG">the General</name>'s hand.</sd>
-      <sd>The <name type="ORG">DROIDS</name> that surround them begin to FIRE. OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANAKIN</name> jump into the line of fire. The bridge degenerates into chaos. OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANAKIN</name> are locked in a pitched battle between electro staffs and laser swords with <name type="ORG">GENERAL</name>
+      <sd>The <name type="NORP">DROIDS</name> that surround them begin to FIRE. OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANAKIN</name> jump into the line of fire. The bridge degenerates into chaos. OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANAKIN</name> are locked in a pitched battle between electro staffs and laser swords with <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name>'s TWO <name type="ORG">BODYGUARDS</name>.</sd>
       <sd>CHANCELLOR <name type="PERSON">PALPATINE</name> is taken away by two <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>. <name type="ORG">GENERAL</name>
+         <name type="NORP">DROIDS</name>. <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name> walks around the bridge directing the <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>.</sd>
+         <name type="NORP">DROIDS</name>.</sd>
       <sp>
          <speaker>
             <name type="ORG">GENERAL</name>
@@ -1226,7 +1226,7 @@ OBI-<name type="ORG">WAN</name>, hands restrained with electrobonds, spins aroun
          </speaker> Stay and watch your stations.</sp>
       <sd>OBI-<name type="ORG">WAN</name> fights one of <name type="ORG">General Grievous</name>'s <name type="ORG">BODYGUARDS</name>. The B<name type="ORG">ODY</name>GUARD carries an electrified staff about five feet long. When the laser sword hits it, electrical bolts fly everywhere and surround the laser sword. OBI-<name type="ORG">WAN</name> is unable to cut the staff. <name type="ORG">The Jedi</name> gets whacked pretty good a couple of times and is knocked halfway across the bridge.
 OBI-<name type="ORG">WAN</name> pulls himself together and attacks again, cutting off the DROID B<name type="ORG">ODY</name>GUARD'S head. The DROID B<name type="ORG">ODY</name>GUARD keeps attacking. <name type="PERSON">ANAKIN</name> struggles to defend himself against the other manic DROID B<name type="ORG">ODY</name>GUARD. He cuts the DROID B<name type="ORG">ODY</name>GUARD in half. TWO <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> try to take the CHANCELLOR away.
+         <name type="NORP">DROIDS</name> try to take the CHANCELLOR away.
 <name type="PERSON">ANAKIN</name> follows them down the hallway and cuts them down, rescuing the Chancellor.
 OBI-<name type="ORG">WAN</name> finishes off the headless B<name type="ORG">ODY</name>GUARD. It crumbles to the floor in pieces.
 ALARMS SOUND as the giant spacecraft begins to list and fall out of orbit. A PILOT yells at <name type="ORG">GENERAL</name>
@@ -1238,7 +1238,7 @@ ALARMS SOUND as the giant spacecraft begins to list and fall out of orbit. A PIL
             <name type="ORG">GENERAL</name>
             <name type="ORG">GRIEVOUS</name>
          </speaker> Stay on course . . . Don't bother with them. Keep the ship in orbit.</sp>
-      <sd>OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANAKIN</name> destroy the remaining <name type="ORG">DROIDS</name>. <name type="ORG">GENERAL</name>
+      <sd>OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANAKIN</name> destroy the remaining <name type="NORP">DROIDS</name>. <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name> retrieves one of the B<name type="ORG">ODY</name>GUARD'S staffs and faces OBI-<name type="ORG">WAN</name>. <name type="PERSON">ANAKIN</name> leaps over a console and lands behind <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name>.</sd>
       <sp>
@@ -1262,8 +1262,8 @@ OBI-<name type="ORG">WAN</name>, <name type="PERSON">ANAKIN</name>, and <name ty
       <setting>63 INT. BRIDGE-<name type="LOC">TRADE FEDERATION CRUISER</name>
       </setting>
       <sd>OBI-<name type="ORG">WAN</name> continues to fight the <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name>. The <name type="ORG">DROIDS</name> have backed him into a corner. OBI-<name type="ORG">WAN</name> hides behind a control panel as the <name type="ORG">DROIDS</name> blast away at him. He jumps up and over the <name type="ORG">DROIDS</name>, cutting most of them down before he lands. He destroys the <name type="ORG">DROIDS</name> and joins <name type="PERSON">ANAKIN</name>.
-<name type="PERSON">ANAKIN</name> and OBI-<name type="ORG">WAN</name> cut through the rest of the <name type="ORG">DROIDS</name> as if they were made of butter. <name type="PERSON">PALPATINE</name> stands in shock as he watches the carnage. <name type="ORG">Droid</name> parts are firing everywhere. OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANAKIN</name> stand back to back and cut down the last of the <name type="ORG">DROIDS</name> just as there is a huge shudder, followed by more alarms. SPARKS begin to fly outside the windows.</sd>
+         <name type="NORP">DROIDS</name>. The <name type="NORP">DROIDS</name> have backed him into a corner. OBI-<name type="ORG">WAN</name> hides behind a control panel as the <name type="NORP">DROIDS</name> blast away at him. He jumps up and over the <name type="NORP">DROIDS</name>, cutting most of them down before he lands. He destroys the <name type="NORP">DROIDS</name> and joins <name type="PERSON">ANAKIN</name>.
+<name type="PERSON">ANAKIN</name> and OBI-<name type="ORG">WAN</name> cut through the rest of the <name type="NORP">DROIDS</name> as if they were made of butter. <name type="PERSON">PALPATINE</name> stands in shock as he watches the carnage. <name type="ORG">Droid</name> parts are firing everywhere. OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANAKIN</name> stand back to back and cut down the last of the <name type="NORP">DROIDS</name> just as there is a huge shudder, followed by more alarms. SPARKS begin to fly outside the windows.</sd>
       <sp>
          <speaker>
             <name type="PERSON">PALPATINE</name>
@@ -1585,7 +1585,7 @@ The CHANCELLOR and his entourage approach <name type="PERSON">MACE</name>.</sd>
          </speaker> We're not going to worry about anything right now, all right? This is a happy moment. The happiest moment of my life.</sp>
       <setting>71 EXT. <name type="LOC">UTAPAU</name>-LANDING PLATFORM-DAY</setting>
       <sd>A small <name type="ORG">NEIMOIDIAN</name> S<name type="ORG">HUTT</name>LE lands. <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> surround the ramp as <name type="ORG">GENERAL</name>
+         <name type="NORP">DROIDS</name> surround the ramp as <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name> descends onto the platform. SUPER <name type="ORG">BATTLE</name> DROID G21 approaches.</sd>
       <sp>
          <speaker>SUPER <name type="ORG">BATTLE</name> DROID G21</speaker> The planet is secure, sir. The population is under control.</sp>
@@ -2097,7 +2097,7 @@ PADME descends the stairs and joins <name type="PERSON">ANAKIN</name> on the ver
       <sp>
          <speaker>
             <name type="PERSON">ANAKIN</name>
-         </speaker> I know that system well. It would take us little time to drive the <name type="ORG">droids</name> off that planet.</sp>
+         </speaker> I know that system well. It would take us little time to drive the <name type="NORP">droids</name> off that planet.</sp>
       <sp>
          <speaker>
             <name type="PERSON">MACE</name> WINDU</speaker>
@@ -2269,7 +2269,7 @@ PADME descends the stairs and joins <name type="PERSON">ANAKIN</name> on the ver
             <name type="ORG">THREEPIO</name>
          </speaker> Is there anything I might do for you, my lady?</sp>
       <sp>
-         <speaker>PADME</speaker> Yes, make sure all the security <name type="ORG">droids</name> are working. Thank you, <name type="PERSON">Threepio</name>.</sp>
+         <speaker>PADME</speaker> Yes, make sure all the security <name type="NORP">droids</name> are working. Thank you, <name type="PERSON">Threepio</name>.</sp>
       <sd>The golden droid turns and exits.</sd>
       <sd>PADME stands and watches the sunset. The <name type="ORG">SHADOWY</name>
          <name type="ORG">FIGURE</name> moves toward her. She senses something.</sd>
@@ -2592,12 +2592,12 @@ PADME descends the stairs and joins <name type="PERSON">ANAKIN</name> on the ver
          <name type="PERSON">ANAKIN</name> is angry.</sd>
       <sp>
          <speaker>
-            <name type="PERSON">MACE</name> WINDU</speaker> (continuing) Obi-Wan, prepare two clone brigades as quickly as you can. If this report is true, there's no telling how many battle <name type="ORG">droids</name> he may have with him.</sp>
+            <name type="PERSON">MACE</name> WINDU</speaker> (continuing) Obi-Wan, prepare two clone brigades as quickly as you can. If this report is true, there's no telling how many battle <name type="NORP">droids</name> he may have with him.</sp>
       <setting>91 INT. KASHYYYK-HOLOGRAM AREA-DAY</setting>
       <sd>YODA gets out of his chair and walks to the edge of the platform.</sd>
       <sp>
          <speaker>CLONE COMMANDER <name type="ORG">GREE</name>
-         </speaker> The <name type="ORG">droids</name> have started up their main power generators.</sp>
+         </speaker> The <name type="NORP">droids</name> have started up their main power generators.</sp>
       <sp>
          <speaker>YODA</speaker> Then now the time is, Commander.</sp>
       <sp>
@@ -2605,7 +2605,7 @@ PADME descends the stairs and joins <name type="PERSON">ANAKIN</name> on the ver
          </speaker> Yes, sir.</sp>
       <sd>The battle begins.</sd>
       <setting>92 EXT. KASHYYYK-BEACH HEAD-DAY</setting>
-      <sd>A WOO<name type="GPE">KI</name>EE CHIEFTAIN lets out a roar as the <name type="NORP">Wookiee</name> army rushes to face the DROID <name type="ORG">ARMY</name>. CORPORATE ALLIANCE TANK <name type="ORG">DROIDS</name> race across the water against the WOO<name type="GPE">KI</name>EES and CLONE TROOPERS on the beach. DROID <name type="ORG">GUNSHIP</name>S provide air support, while a SPIDER DROID emerges from the watery depths. A brave WOO<name type="GPE">KI</name>EE places an explosive on a <name type="ORG">SEPARATIST</name> TANK and jumps off just before the TANK EX<name type="ORG">PLO</name>DES. From <name type="FAC">the Hologram Area</name>, <name type="PERSON">Yoda</name> observes the ongoing battle.</sd>
+      <sd>A WOO<name type="GPE">KI</name>EE CHIEFTAIN lets out a roar as the <name type="NORP">Wookiee</name> army rushes to face the DROID <name type="ORG">ARMY</name>. CORPORATE ALLIANCE TANK <name type="NORP">DROIDS</name> race across the water against the WOO<name type="GPE">KI</name>EES and CLONE TROOPERS on the beach. DROID <name type="ORG">GUNSHIP</name>S provide air support, while a SPIDER DROID emerges from the watery depths. A brave WOO<name type="GPE">KI</name>EE places an explosive on a <name type="ORG">SEPARATIST</name> TANK and jumps off just before the TANK EX<name type="ORG">PLO</name>DES. From <name type="FAC">the Hologram Area</name>, <name type="PERSON">Yoda</name> observes the ongoing battle.</sd>
       <setting>93 EXT. CORUSCANT-PADME'S APARTMENT-EARLY M<name type="PERSON">ORN</name>ING</setting>
       <sd>
          <name type="PERSON">Padme</name>'s apartment building is surrounded by the smog-shrouded city of <name type="LOC">Coruscant</name>.</sd>
@@ -2778,7 +2778,7 @@ PADME descends the stairs and joins <name type="PERSON">ANAKIN</name> on the ver
          </speaker> That was <name type="PERSON">Anakin</name> who was late. I believe.</sp>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
-         </speaker> Very well, the burden is on me not to destroy all the <name type="ORG">droids</name> before you get there.</sp>
+         </speaker> Very well, the burden is on me not to destroy all the <name type="NORP">droids</name> before you get there.</sp>
       <sp>
          <speaker>CLONE COMMANDER C<name type="ORG">ODY</name>
          </speaker> I'm counting on you.</sp>
@@ -3057,9 +3057,9 @@ OBI-<name type="ORG">WAN</name> walks up to the WRANGLERS and uses the <name typ
          <speaker>
             <name type="ORG">GENERAL</name>
             <name type="ORG">GRIEVOUS</name>
-         </speaker> General <name type="PERSON">Kenobi</name>, you are a bold one. I find your behavior bewildering . . . Surely you realize you're doomed, (to <name type="ORG">droids</name>) Kill him!</sp>
+         </speaker> General <name type="PERSON">Kenobi</name>, you are a bold one. I find your behavior bewildering . . . Surely you realize you're doomed, (to <name type="NORP">droids</name>) Kill him!</sp>
       <sd>About a HUNDRED <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> surround OBI-<name type="ORG">WAN</name>, <name type="ORG">GENERAL</name>
+         <name type="NORP">DROIDS</name> surround OBI-<name type="ORG">WAN</name>, <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name>, and his <name type="ORG">BODYGUARDS</name>. OBI-<name type="ORG">WAN</name> looks around, then walks right up to <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name>.
 They stare at each other for a moment.</sd>
@@ -3071,7 +3071,7 @@ They stare at each other for a moment.</sd>
       <sd>The <name type="ORG">BODYGUARDS</name> raise their power staffs to knock OBI-<name type="ORG">WAN</name> away, but OBI-<name type="ORG">WAN</name> ducks as the deadly staffs whistle over his head. <name type="ORG">The Jedi</name>'s lightsaber ignites, and OBI-<name type="ORG">WAN</name> deftly cuts one B<name type="ORG">ODY</name>GUARD in two. His staff flies into the air and is caught by <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name>. The other THREE <name type="ORG">BODYGUARDS</name> attack OBI-<name type="ORG">WAN</name> with an intense fury.
 OBI-<name type="ORG">WAN</name> uses the <name type="ORG">Force</name> to release apiece of eq<name type="ORG">uip</name>ment from the ceiling. It drops on the <name type="ORG">BODYGUARDS</name>, smashing them. OBI-<name type="ORG">WAN</name> walks toward <name type="ORG">GRIEVOUS</name>, slashing the last B<name type="ORG">ODY</name>GUARD to pieces. <name type="ORG">BATTLE</name>
-         <name type="ORG">DROIDS</name> move toward OBI-<name type="ORG">WAN</name>.</sd>
+         <name type="NORP">DROIDS</name> move toward OBI-<name type="ORG">WAN</name>.</sd>
       <sp>
          <speaker>
             <name type="ORG">GENERAL</name>
@@ -3092,10 +3092,10 @@ OBI-<name type="ORG">WAN</name> uses the <name type="ORG">Force</name> to releas
          </speaker> You forget I trained <name type="FAC">the Jedi</name> that defeated <name type="ORG">Count</name>
          <name type="PERSON">Dooku</name>!</sp>
       <sd>OBI-<name type="ORG">WAN</name> is hard-pressed to defend himself against the deadly onslaught. They fight across the control room as the <name type="ORG">BATTLE</name> DROID SHARPSHOOTERS try to pick off <name type="FAC">the Jedi</name>. OBI-<name type="ORG">WAN</name> mounts a ferocious counterattack and cuts off one of <name type="ORG">GRIEVOUS</name>'s hands. A loud <name type="ORG">EXPLOSION</name> is heard echoing throughout the sinkhole. <name type="ORG">GENERAL</name>
-         <name type="ORG">GRIEVOUS</name> and OBI-<name type="ORG">WAN</name> glance to the entrance of the control center and see CLONE TROOPS in the distance, attacking <name type="ORG">DROIDS</name> in the sinkhole. On the far wall of the sinkhole, <name type="ORG">CLONES</name> can be seen rappelling onto balconies.</sd>
+         <name type="ORG">GRIEVOUS</name> and OBI-<name type="ORG">WAN</name> glance to the entrance of the control center and see CLONE TROOPS in the distance, attacking <name type="NORP">DROIDS</name> in the sinkhole. On the far wall of the sinkhole, <name type="ORG">CLONES</name> can be seen rappelling onto balconies.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
-         </speaker> I may not defeat your <name type="ORG">droids</name>, but my troops certainly will.</sp>
+         </speaker> I may not defeat your <name type="NORP">droids</name>, but my troops certainly will.</sp>
       <sp>
          <speaker>
             <name type="ORG">GENERAL</name>
@@ -3104,12 +3104,12 @@ OBI-<name type="ORG">WAN</name> uses the <name type="ORG">Force</name> to releas
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> I don't think so.</sp>
-      <sd>TWENTY <name type="ORG">CLONES</name> suddenly rappel into the entrance of the control center, ray guns blazing. Chaos. Laser bolts fly everywhere as the <name type="ORG">DROIDS</name> return fire. OBI-<name type="ORG">WAN</name> attacks <name type="ORG">GENERAL</name>
+      <sd>TWENTY <name type="ORG">CLONES</name> suddenly rappel into the entrance of the control center, ray guns blazing. Chaos. Laser bolts fly everywhere as the <name type="NORP">DROIDS</name> return fire. OBI-<name type="ORG">WAN</name> attacks <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name>, who defends himself rigorously with one of his bodyguard's electro-staffs. OBI-<name type="ORG">WAN</name> uses the <name type="ORG">Force</name> to hurl <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name> backwards. He falls onto a lower platform and OBI-<name type="ORG">WAN</name> jumps down after him.</sd>
       <setting>113 INT. <name type="LOC">UTAPAU</name>-<name type="ORG">TEN</name>TH LEVEL-CONTROL CENTER-DAY</setting>
-      <sd>More <name type="ORG">CLONES</name> rappel into the control center and blast away at the remaining <name type="ORG">DROIDS</name>.
-The <name type="FAC">JEDI</name> cuts down several <name type="ORG">DROIDS</name> as he races to the entrance of the control center. OBI-<name type="ORG">WAN</name> spots <name type="ORG">GENERAL</name>
+      <sd>More <name type="ORG">CLONES</name> rappel into the control center and blast away at the remaining <name type="NORP">DROIDS</name>.
+The <name type="FAC">JEDI</name> cuts down several <name type="NORP">DROIDS</name> as he races to the entrance of the control center. OBI-<name type="ORG">WAN</name> spots <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name> racing toward one of the landing platforms in the midst of the battle. <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name> jumps onto a WHEEL <name type="ORG">SCOOTER</name> and takes off down the wall of the sinkhole. OBI-<name type="ORG">WAN</name> whistles for his LIZARD <name type="ORG">BOGA</name>, who runs to him. OBI-<name type="ORG">WAN</name> jumps on.</sd>
       <setting>114 EXT. <name type="LOC">UTAPAU</name>-CLIFF AND LANDING PLATFORM-DAY</setting>
@@ -3347,14 +3347,14 @@ office.
       <setting>119 EXT. <name type="LOC">UTAPAU</name>-CLIFF AND LANDING PLATFORM-DAY</setting>
       <sd>OBI-<name type="ORG">WAN</name> gives the LIZARD a swift kick with the heel of his boot, and they take off down the vertical side of the sheer cliff. As <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name> reaches the landing platform where his shuttle is waiting. OBI-<name type="ORG">WAN</name> drops onto the top of the starship with his LIZARD. <name type="ORG">GENERAL</name>
-         <name type="ORG">GRIEVOUS</name> spins his scooter around and takes off up the vertical cliff face with OBI-<name type="ORG">WAN</name> and his LIZARD in hot pursuit. The sinkhole is engulfed in a great battle between <name type="ORG">CLONES</name> and <name type="ORG">DROIDS</name>. The <name type="PERSON">PEOPLE</name> OF <name type="LOC">UTAPAU</name> cower in whatever shelter they can find.</sd>
+         <name type="ORG">GRIEVOUS</name> spins his scooter around and takes off up the vertical cliff face with OBI-<name type="ORG">WAN</name> and his LIZARD in hot pursuit. The sinkhole is engulfed in a great battle between <name type="ORG">CLONES</name> and <name type="NORP">DROIDS</name>. The <name type="PERSON">PEOPLE</name> OF <name type="LOC">UTAPAU</name> cower in whatever shelter they can find.</sd>
       <setting>120 EXT. <name type="LOC">UTAPAU</name>-MAIN CITY PLAZA-DAY</setting>
       <sd>A LARGE <name type="ORG">GROUP</name> OF <name type="LOC">UTAPAU</name>AN TROOPS on LIZARDS attack the DROID <name type="ORG">ARMY</name>.</sd>
       <sd>OBI-<name type="ORG">WAN</name> and <name type="ORG">GENERAL</name>
          <name type="ORG">GRIEVOUS</name> race through the city at breakneck speed. Passing through battle zones, narrowly escaping <name type="ORG">EXPLOSION</name>S, laser bolts, and TROOPS from both sides.</sd>
       <sd>
          <name type="ORG">GENERAL</name>
-         <name type="ORG">GRIEVOUS</name> lays the <name type="PERSON">Scooter</name> down as he goes around sharp turns. Obi-Wan's LIZARD breathes hard as she tries to keep up. They destroy <name type="ORG">droids</name>, eq<name type="ORG">uip</name>ment, and clone troops as the <name type="FAC">JEDI</name> and the <name type="ORG">GENERAL</name> cut a swath of destruction through the city.</sd>
+         <name type="ORG">GRIEVOUS</name> lays the <name type="PERSON">Scooter</name> down as he goes around sharp turns. Obi-Wan's LIZARD breathes hard as she tries to keep up. They destroy <name type="NORP">droids</name>, eq<name type="ORG">uip</name>ment, and clone troops as the <name type="FAC">JEDI</name> and the <name type="ORG">GENERAL</name> cut a swath of destruction through the city.</sd>
       <setting>121 EXT. <name type="LOC">UTAPAU</name>-WINDMILLS-DAY</setting>
       <sd>
          <name type="ORG">GENERAL</name>
@@ -3719,7 +3719,7 @@ The full force of <name type="PERSON">Palpatine</name>'s powerful Bolts blasts <
          <name type="PERSON">ANAKIN</name> goes to <name type="FAC">the Jedi</name>
          <name type="LOC">Temple</name> with a battalion of <name type="PERSON">Clone Troopers</name>.</sd>
       <setting>132 EXT. <name type="LOC">UTAPAU</name>-<name type="ORG">TEN</name>TH LEVEL-LANDIXG PLATFORM-DAY</setting>
-      <sd>The battle between the <name type="ORG">CLONES</name> and the <name type="ORG">DROIDS</name> rages throughout the sinkhole. OBI-<name type="ORG">WAN</name> rides up to CLONE COMMANDER C<name type="ORG">ODY</name>.</sd>
+      <sd>The battle between the <name type="ORG">CLONES</name> and the <name type="NORP">DROIDS</name> rages throughout the sinkhole. OBI-<name type="ORG">WAN</name> rides up to CLONE COMMANDER C<name type="ORG">ODY</name>.</sd>
       <sp>
          <speaker>OBI-<name type="ORG">WAN</name>
          </speaker> Commander, contact your troops. Tell them to move to the higher levels.</sp>
@@ -3738,7 +3738,7 @@ The full force of <name type="PERSON">Palpatine</name>'s powerful Bolts blasts <
          <speaker>CLONE COMMANDER C<name type="ORG">ODY</name>
          </speaker> Yes, sir!</sp>
       <sd>OBI-<name type="ORG">WAN</name> and the LIZARD ride off down the wall of the giant sinkhole.
-The battle rages throughout the city. CLONE COMMANDER C<name type="ORG">ODY</name> (2224,) takes out his comlink and listens to the <name type="ORG">HOLOGRAM OF</name> DARTH <name type="PERSON">SIDIOUS</name> as, far below, OBI-<name type="ORG">WAN</name> can been seen battling <name type="ORG">DROIDS</name> on a landing platform.</sd>
+The battle rages throughout the city. CLONE COMMANDER C<name type="ORG">ODY</name> (2224,) takes out his comlink and listens to the <name type="ORG">HOLOGRAM OF</name> DARTH <name type="PERSON">SIDIOUS</name> as, far below, OBI-<name type="ORG">WAN</name> can been seen battling <name type="NORP">DROIDS</name> on a landing platform.</sd>
       <sp>
          <speaker>DARTH <name type="PERSON">SIDIOUS</name>
          </speaker> Commander Cody, the time has come. Execute Order Sixty-Six.</sp>
@@ -3749,7 +3749,7 @@ The battle rages throughout the city. CLONE COMMANDER C<name type="ORG">ODY</nam
       <sp>
          <speaker>CLONE COMMANDER C<name type="ORG">ODY</name>
          </speaker> Blast him!</sp>
-      <sd>The battle rages all around OBI-<name type="ORG">WAN</name>. <name type="ORG">DROIDS</name> and <name type="ORG">CLONES</name> are everywhere. OBI-<name type="ORG">WAN</name> is riding on a LIZARD, cutting down <name type="ORG">DROIDS</name> as he races across the battlefield. Suddenly a volley of laser blasts from behind him knocks him and his LIZARD off the wall of the sinkhole. He looks around just in time to see his CLONE TROOPS are firing on him.
+      <sd>The battle rages all around OBI-<name type="ORG">WAN</name>. <name type="NORP">DROIDS</name> and <name type="ORG">CLONES</name> are everywhere. OBI-<name type="ORG">WAN</name> is riding on a LIZARD, cutting down <name type="NORP">DROIDS</name> as he races across the battlefield. Suddenly a volley of laser blasts from behind him knocks him and his LIZARD off the wall of the sinkhole. He looks around just in time to see his CLONE TROOPS are firing on him.
 OBI-<name type="ORG">WAN</name> falls hundreds of feet to the bottom of the water-filled sinkhole.</sd>
       <setting>133 EXT. MYGEETO-DAWN</setting>
       <sd>The sky slowly awakens on the crystal world of <name type="GPE">Mygeeto</name>. A battle rages. Clone troops battle the droid armies across a long bridge. <name type="GPE">KI</name>-ADI-MUNDi uses his light saber to deflect enemy fire. CLONE COMMANDER <name type="ORG">BACARA</name> (<name type="ORG">1138</name>) exits a Gunship near the entrance to the city. He rallies his TROOPS to attack the city, then gets a message on his comlink. He stops and moves to one side as a <name type="ORG">HOLOGRAM OF</name> DARTH <name type="PERSON">SIDIOUS</name> appears on the comlink in the palm of his hand. He moves further into the shadows.</sd>
@@ -3778,7 +3778,7 @@ OBI-<name type="ORG">WAN</name> falls hundreds of feet to the bottom of the wate
          </speaker> No.</sp>
       <sd>
          <name type="ORG">BLY</name> blasts AAYLA in the back. The OTHER <name type="ORG">CLONES</name> fire on her as she hits the ground.</sd>
-      <sd>Another Jedi, BARRISS OFFEE, is cutting down a patrol of <name type="ORG">DROIDS</name> when a CLONE WAL<name type="GPE">KI</name>NG TANK and SEVEN CLONE TROOPERS round a corner and blast <name type="FAC">the Jedi</name> away.</sd>
+      <sd>Another Jedi, BARRISS OFFEE, is cutting down a patrol of <name type="NORP">DROIDS</name> when a CLONE WAL<name type="GPE">KI</name>NG TANK and SEVEN CLONE TROOPERS round a corner and blast <name type="FAC">the Jedi</name> away.</sd>
       <setting>135 EXT. KASHYYYK-MEETING HALL-DAY</setting>
       <sd>YODA drops his gimer stick, clutches his chest, and rests against a wall.</sd>
       <setting>136 EXT. KASHYYYK-EDGE OF VILIAGE-DAY</setting>
@@ -3818,7 +3818,7 @@ The cannon fires, and <name type="ORG">QUI</name>NLAN VOS and the <name type="OR
          <speaker>CLONE COMMANDER <name type="ORG">GREE</name>
          </speaker> It will be done, My Lord.</sp>
       <sd>CLONE COMMANDER <name type="ORG">GREE</name> snaps his comlink shut.</sd>
-      <sd>YODA watches from the balcony. The battle rages as <name type="ORG">CLONES</name> and WOO<name type="GPE">KI</name>EES attack <name type="ORG">DROIDS</name> coming across the water on CORPORATE ALLIANCE TANK <name type="ORG">DROIDS</name>. <name type="ORG">CHEWBACCA</name> and <name type="ORG">TARFFUL</name> stand on either side of <name type="FAC">the Jedi</name> Master as he watches the battle below. CLONE COMMANDER <name type="ORG">GREE</name> and ONE OFFICER walk onto the balcony toward YODA. YODA stands looking over the battlefield below. When they are close enough, the <name type="ORG">CLONES</name> reveal their weapons and fire.</sd>
+      <sd>YODA watches from the balcony. The battle rages as <name type="ORG">CLONES</name> and WOO<name type="GPE">KI</name>EES attack <name type="NORP">DROIDS</name> coming across the water on CORPORATE ALLIANCE TANK <name type="NORP">DROIDS</name>. <name type="ORG">CHEWBACCA</name> and <name type="ORG">TARFFUL</name> stand on either side of <name type="FAC">the Jedi</name> Master as he watches the battle below. CLONE COMMANDER <name type="ORG">GREE</name> and ONE OFFICER walk onto the balcony toward YODA. YODA stands looking over the battlefield below. When they are close enough, the <name type="ORG">CLONES</name> reveal their weapons and fire.</sd>
       <sd>But faster than the <name type="ORG">CLONES</name> can reveal their weapons, YODA ignites his lightsaber, leaps in the air, and beheads both <name type="ORG">CLONES</name>. <name type="ORG">CHEWBACCA</name> and <name type="ORG">TARFFUL</name> fire their weapons as more <name type="ORG">CLONES</name> enter the hall. The <name type="NORP">Wookiee</name>s call out to YODA to follow them. <name type="ORG">CHEWBACCA</name> picks YODA up and carries him away.</sd>
       <setting>143 EXT. CORUSCANT-<name type="FAC">JEDI</name> TEMPLE-NIGHT</setting>
       <sd>A <name type="FAC">JEDI</name> is surrounded and gunned down by CLONE TROOPERS.</sd>
@@ -4070,7 +4070,7 @@ The ground opens up, and a small WOO<name type="GPE">KI</name>EE ESCAPE POD rise
       <sp>
          <speaker>
             <name type="ORG">THREEPIO</name>
-         </speaker> Something important is going on! I heard a rumor they are going to banish all <name type="ORG">droids</name>.</sp>
+         </speaker> Something important is going on! I heard a rumor they are going to banish all <name type="NORP">droids</name>.</sp>
       <sd>
          <name type="PERSON">ARTOO</name> BEEPS rather loudly. C-3PO puts his fingers to his lips.</sd>
       <sp>
@@ -4375,7 +4375,7 @@ YODA and OBI-<name type="ORG">WAN</name> walk through the ruins of the <name typ
          </speaker> . . .Who?? Who could have done this?</sp>
       <setting>178 INT. <name type="LOC">MUSTAFAR</name>-MAIN CONTROL CENTER-DAY</setting>
       <sd>
-         <name type="PERSON">ANAKIN</name> ignites his lightsaber, <name type="ORG">NU</name>TE and the OTHERS panic. The <name type="ORG">DROIDS</name> at the controls and the GUARDS grab their weapons, but it is too late. They are cut down in a flash. The <name type="NORP">Separatist</name>s bang on the doors, and <name type="ORG">NU</name>TE and RUNE HAAKO flee under a table.</sd>
+         <name type="PERSON">ANAKIN</name> ignites his lightsaber, <name type="ORG">NU</name>TE and the OTHERS panic. The <name type="NORP">DROIDS</name> at the controls and the GUARDS grab their weapons, but it is too late. They are cut down in a flash. The <name type="NORP">Separatist</name>s bang on the doors, and <name type="ORG">NU</name>TE and RUNE HAAKO flee under a table.</sd>
       <sd>
          <name type="PERSON">ANAKIN</name>, stone-faced, moves through the room like the grim reaper. Bodies drop everywhere. SCREAMS are cut short as the head of <name type="ORG">the Banking Clan</name> dies.</sd>
       <sd>Then <name type="PERSON">POGGLE</name> THE LESSER loses his head; <name type="ORG">WAT TAMBOR</name>, <name type="ORG">SHU MAI</name>, and the REST OF THE <name type="ORG">SEPARATIST</name>S run into the conference room.</sd>
@@ -4386,7 +4386,7 @@ YODA and OBI-<name type="ORG">WAN</name> walk through the ruins of the <name typ
          </speaker> The attempt on my life has left me scarred and deformed, but I assure you my resolve has never been stronger.</sp>
       <sd>Applause.</sd>
       <setting>180 INT. <name type="LOC">MUSTAFAR</name>-MAIN CONTROL CENTER-DAY</setting>
-      <sd>In the hallway, <name type="PERSON">ANAKIN</name> cuts down <name type="ORG">DROIDS</name> and <name type="ORG">SEPARATIST</name>S alike. He is unstoppable. <name type="PERSON">ANAKIN</name> turns his head-his eyes are yellow.</sd>
+      <sd>In the hallway, <name type="PERSON">ANAKIN</name> cuts down <name type="NORP">DROIDS</name> and <name type="ORG">SEPARATIST</name>S alike. He is unstoppable. <name type="PERSON">ANAKIN</name> turns his head-his eyes are yellow.</sd>
       <setting>181 INT. CORUSCANT-SENATE CHAMBER-SUNSET</setting>
       <sd>
          <name type="PERSON">PALPATINE</name> continues his speech at the podium.</sd>
@@ -4429,7 +4429,7 @@ YODA and OBI-<name type="ORG">WAN</name> walk through the ruins of the <name typ
       <sd>After everyone in <name type="ORG">the Main</name> Control Room is dead, <name type="PERSON">ANAKIN</name> moves to the small conference room where <name type="ORG">WAT TAMBOR</name>. <name type="ORG">SHU MAI</name>, and some OTHER <name type="ORG">SEPARATIST</name>S are hiding. RUNE HAAKO tries to run but is trapped by a dead-end as <name type="PERSON">ANAKIN</name> advances.</sd>
       <sp>
          <speaker>RUNE HAAKO</speaker> Stop! Enough, this is not right!</sp>
-      <sd>RUNE is cut down. <name type="ORG">NU</name>TE GUNRAY crawls out from under the table and opens <name type="ORG">the Main</name> Door, allowing DESTROYER <name type="ORG">DROIDS</name> to enter. <name type="ORG">WAT TAMBOR</name> is cut down, along with <name type="ORG">SHU MAI</name>. DESTROYER <name type="ORG">DROIDS</name> appear in the doorway and blast away, causing total destruction. When the firing is over, <name type="PERSON">ANAKIN</name> is gone. Blown away? No. <name type="PERSON">ANAKIN</name> drops from the ceiling behind the TWO <name type="ORG">DROIDS</name> and cuts them to pieces before they know what hit them.</sd>
+      <sd>RUNE is cut down. <name type="ORG">NU</name>TE GUNRAY crawls out from under the table and opens <name type="ORG">the Main</name> Door, allowing DESTROYER <name type="NORP">DROIDS</name> to enter. <name type="ORG">WAT TAMBOR</name> is cut down, along with <name type="ORG">SHU MAI</name>. DESTROYER <name type="NORP">DROIDS</name> appear in the doorway and blast away, causing total destruction. When the firing is over, <name type="PERSON">ANAKIN</name> is gone. Blown away? No. <name type="PERSON">ANAKIN</name> drops from the ceiling behind the TWO <name type="NORP">DROIDS</name> and cuts them to pieces before they know what hit them.</sd>
       <setting>183 INT. <name type="LOC">MUSTAFAR</name>-MAIN CONTROL CENTER-HALLWAY-DAY</setting>
       <sd>
          <name type="ORG">NU</name>TE GUNRAY is the last <name type="NORP">Separatist</name> leader alive. <name type="PERSON">ANAKIN</name> moves on to find <name type="ORG">NU</name>TE GUNRAY hiding in an alcove.</sd>
@@ -4979,7 +4979,7 @@ Support for the entire structure begins to fall away, and the collection cluster
       <sd>SNAPPING AND METAL GROANS are heard as the main part of the collector starts to break away and move toward the lava fall. OBI-<name type="ORG">WAN</name> looks around and sees a small floating platform making its way toward the tower.</sd>
       <sd>OBI-<name type="ORG">WAN</name> does a double hack-flip and lands squarely on the floating platform. He immediately leans to one side and moves away from the tower.</sd>
       <sd>
-         <name type="PERSON">ANAKIN</name> realizes he is doomed as the entire tower heads for the falls. In the distance he sees some CONSTRUCTION <name type="ORG">DROIDS</name>. He swings back to the tower, climbs up and makes a running leap and miraculously lands on A WORKER DROID. The DROID is confused and chatters to his CO-WORKER. The giant collector goes over the lava flow and disappears in the mist of sparks below.</sd>
+         <name type="PERSON">ANAKIN</name> realizes he is doomed as the entire tower heads for the falls. In the distance he sees some CONSTRUCTION <name type="NORP">DROIDS</name>. He swings back to the tower, climbs up and makes a running leap and miraculously lands on A WORKER DROID. The DROID is confused and chatters to his CO-WORKER. The giant collector goes over the lava flow and disappears in the mist of sparks below.</sd>
       <sd>OBI-<name type="ORG">WAN</name> heads for the bank of the lava river, but <name type="PERSON">Anakin</name>'s DROID is faster. He catches up with his old Master.</sd>
       <sd>OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANAKIN</name> continue the swordfight. They battle away, balancing on the tiny platform and puzzled DROID. <name type="PERSON">ANAKIN</name>, standing on the <name type="ORG">Droid</name>, approaches OBI-<name type="ORG">WAN</name> on the work platform.</sd>
       <sp>
@@ -5109,7 +5109,7 @@ OBI-<name type="ORG">WAN</name> rides in the co-pilot's station. He sits looking
       <sd>The shuttle lands. DARTH <name type="PERSON">SIDIOUS</name> and CLONE TROOPERS leave the shuttle. <name type="PERSON">ANAKIN</name>'s body is carried along in a floating medical capsule.</sd>
       <setting>226 INT. POLIS <name type="ORG">MAS</name>SA-MEDICAL CENTER-NIGHT</setting>
       <sd>
-         <name type="ORG">POLIS MEDICS</name> work, on PADME in an operating theater. OBI-<name type="ORG">WAN</name> and one of the MEDICAL <name type="ORG">DROIDS</name> enter an observation room where <name type="ORG">BAIL</name> and YODA are waiting.</sd>
+         <name type="ORG">POLIS MEDICS</name> work, on PADME in an operating theater. OBI-<name type="ORG">WAN</name> and one of the MEDICAL <name type="NORP">DROIDS</name> enter an observation room where <name type="ORG">BAIL</name> and YODA are waiting.</sd>
       <sp>
          <speaker>MEDICAL DROID</speaker> Medically, she is completely healthy. For reasons we can't explain, we are losing her.</sp>
       <sp>
@@ -5133,7 +5133,7 @@ OBI-<name type="ORG">WAN</name> rides in the co-pilot's station. He sits looking
          </speaker> It s some kind of reproductive process, I think.</sp>
       <setting>227 INT. CORUSCANT-<name type="ORG">IMPERIAL</name> REHAB CENTER-DAY</setting>
       <sd>
-         <name type="PERSON">ANAKIN</name>, in the medical capsule, is lifted onto a table in <name type="FAC">the Rehab Center</name>. <name type="ORG">DROIDS</name> go to work on him. <name type="PERSON">ANAKIN</name> has new legs and a new arm.</sd>
+         <name type="PERSON">ANAKIN</name>, in the medical capsule, is lifted onto a table in <name type="FAC">the Rehab Center</name>. <name type="NORP">DROIDS</name> go to work on him. <name type="PERSON">ANAKIN</name> has new legs and a new arm.</sd>
       <setting>228 INT. POLIS <name type="ORG">MAS</name>SA-MEDICAL CENTER-NIGHT</setting>
       <sd>The TWINS are being delivered as <name type="ORG">BAIL</name>
          <name type="PERSON">ORGANA</name>, YODA, <name type="PERSON">ARTOO</name>, and <name type="ORG">THREEPIO</name> watch. OBI-<name type="ORG">WAN</name> is in the operating theater with PADME. He takes her hand.</sd>
@@ -5170,7 +5170,7 @@ OBI-<name type="ORG">WAN</name> rides in the co-pilot's station. He sits looking
          <speaker>PADME</speaker> Obi-Wan . . . there . . . is good in him. I know there is ... still . . .</sp>
       <sd>A last gasp, and she dies. Obi-Wan studies the necklace.</sd>
       <setting>231 INT. CORUSCANT-<name type="ORG">IMPERIAL</name> REHAB CENTER-DAY</setting>
-      <sd>DARTH <name type="PERSON">SIDIOUS</name> hovers around the periphery of a group of MEDICAL <name type="ORG">DROIDS</name> who are working on <name type="PERSON">ANAKIN</name>. DARTH <name type="PERSON">SIDIOUS</name> paces in the foreground. A DROID approaches the <name type="PERSON">Dark Lord</name>.</sd>
+      <sd>DARTH <name type="PERSON">SIDIOUS</name> hovers around the periphery of a group of MEDICAL <name type="NORP">DROIDS</name> who are working on <name type="PERSON">ANAKIN</name>. DARTH <name type="PERSON">SIDIOUS</name> paces in the foreground. A DROID approaches the <name type="PERSON">Dark Lord</name>.</sd>
       <sp>
          <speaker>MEDICAL DROID</speaker> My Lord, the construction is finished ... he lives.</sp>
       <sp>
@@ -5196,12 +5196,12 @@ OBI-<name type="ORG">WAN</name> rides in the co-pilot's station. He sits looking
       <sp>
          <speaker>DARTH <name type="PERSON">SIDIOUS</name>
          </speaker> I'm afraid she died. ... it seems in your anger, you killed her.</sp>
-      <sd>A LOW GROAN emanates from <name type="PERSON">Vader</name>'s mask. Suddenly everything in the room begins to implode, including some of the <name type="ORG">DROIDS</name>.</sd>
+      <sd>A LOW GROAN emanates from <name type="PERSON">Vader</name>'s mask. Suddenly everything in the room begins to implode, including some of the <name type="NORP">DROIDS</name>.</sd>
       <sp>
          <speaker>
             <name type="PERSON">DARTH VADER</name>
          </speaker> I couldn't have! She was alive! I felt her! She was alive! It's impossible! No!!!</sp>
-      <sd>VADER SCREAMS, breaks his bonds to the table, and steps forward, waving his hands, causing objects to fly around the room. <name type="PERSON">SIDIOUS</name> deflects the objects, but some of the <name type="ORG">DROIDS</name> aren't so lucky. VADER'S PAINFUL SCREAMS echo throughout the Center.</sd>
+      <sd>VADER SCREAMS, breaks his bonds to the table, and steps forward, waving his hands, causing objects to fly around the room. <name type="PERSON">SIDIOUS</name> deflects the objects, but some of the <name type="NORP">DROIDS</name> aren't so lucky. VADER'S PAINFUL SCREAMS echo throughout the Center.</sd>
       <setting>232 EXT. <name type="LOC">NABOO</name>-<name type="LOC">ALDERAAN</name> STARCRUISER</setting>
       <sd>
          <name type="ORG">BAIL</name>
@@ -5273,7 +5273,7 @@ OBI-<name type="ORG">WAN</name> rides in the co-pilot's station. He sits looking
          <speaker>
             <name type="ORG">BAIL</name>
             <name type="PERSON">ORGANA</name>
-         </speaker> I'm placing these <name type="ORG">droids</name> in your care. Treat them well. Clean them up. Have the Protocol <name type="ORG">Droid</name>'s mind wiped.</sp>
+         </speaker> I'm placing these <name type="NORP">droids</name> in your care. Treat them well. Clean them up. Have the Protocol <name type="ORG">Droid</name>'s mind wiped.</sp>
       <sp>
          <speaker>
             <name type="ORG">THREEPIO</name>

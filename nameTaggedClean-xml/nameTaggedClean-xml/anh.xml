@@ -85,7 +85,7 @@ their way into the smoke-filled corridor.</sd>
       <sd>In a few minutes the entire passageway is ablaze with 
 laserfire. The deadly bolts ricochet in wild random patterns 
 creating huge explosions. <name type="ORG">Stormtroopers</name> scatter and duck 
-behind storage lockers. <name type="NORP">Laserbolts</name> hit several Rebel soldiers 
+behind storage lockers. Laserbolts hit several Rebel soldiers 
 who scream and stagger through the smoke, holding shattered 
 arms and faces.</sd>
       <sd>An explosion hits near the robots.</sd>
@@ -521,7 +521,7 @@ planet <name type="LOC">Tatooine</name>.</sd>
       <setting>EXT. TATOOINE - DESERT</setting>
       <sd>
          <name type="PERSON">Jundland</name>, or "No Man's Land", where the rugged desert <name type="ORG">mesa</name>s 
-meet the foreboding dune sea. The two helpless astro-<name type="ORG">droids</name> 
+meet the foreboding dune sea. The two helpless astro-<name type="NORP">droids</name> 
 kick up clouds of sand as they leave the <name type="PERSON">lifepod</name> and clumsily 
 work their way across the desert wasteland. The <name type="PERSON">lifepod</name> in 
 the distance rests half buried in the sand.</sd>
@@ -882,7 +882,7 @@ go off in this direction.</sp>
 and gives it to the first trooper.</sd>
       <sp>
          <speaker>SECOND TROOPER</speaker>
-Look, sir -- <name type="ORG">droids</name>.</sp>
+Look, sir -- <name type="NORP">droids</name>.</sp>
       <setting>EXT. TATOOINE - DUNES</setting>
       <sd>The <name type="ORG">Sandcrawler</name> moves slowly down a great sand dune.</sd>
       <setting>INT. SANDCRAWLER</setting>
@@ -1508,17 +1508,17 @@ He knew my father?</sp>
             <name type="ORG">OWEN</name>
          </speaker>
 I told you to forget it. Your only 
-concern is to prepare the new <name type="ORG">droids</name> 
+concern is to prepare the new <name type="NORP">droids</name> 
 for tomorrow. In the morning I want 
 them on the south ridge working out 
 those condensers.</sp>
       <sp>
          <speaker>LUKE</speaker>
-Yes, sir. I think those new <name type="ORG">droids</name> 
+Yes, sir. I think those new <name type="NORP">droids</name> 
 are going to work out fine. In fact, 
 I, uh, was also thinking about our 
 agreement about my staying on another 
-season. And if these new <name type="ORG">droids</name> do 
+season. And if these new <name type="NORP">droids</name> do 
 work out, I want to transmit my 
 application to the Academy this year.</sp>
       <sd>
@@ -1533,7 +1533,7 @@ harvest?</sp>
       <sp>
          <speaker>LUKE</speaker>
 Sure, there're more than enough 
-<name type="ORG">droids</name>.</sp>
+<name type="NORP">droids</name>.</sp>
       <sp>
          <speaker>
             <name type="ORG">OWEN</name>
@@ -1572,7 +1572,7 @@ Where are you going?</sp>
       <sp>
          <speaker>LUKE</speaker>
 It looks like I'm going nowhere. I 
-have to finish cleaning those <name type="ORG">droids</name>.</sp>
+have to finish cleaning those <name type="NORP">droids</name>.</sp>
       <sd>Resigned to his fate, <name type="PERSON">Luke</name> paddles out of the room. <name type="PERSON">Owen</name> 
 mechanically finishes his dinner.</sd>
       <sp>
@@ -1638,7 +1638,7 @@ electrobinoculars.</sd>
             <name type="ORG">THREEPIO</name>
          </speaker>
 That R2 unit has always been a 
-problem. These astro-<name type="ORG">droids</name> are 
+problem. These astro-<name type="NORP">droids</name> are 
 getting quite out of hand. Even I 
 can't understand their logic at times.</sp>
       <sp>
@@ -1705,7 +1705,7 @@ early.</sp>
          <speaker>
             <name type="ORG">OWEN</name>
          </speaker>
-Uh? Did he take those two new <name type="ORG">droids</name> 
+Uh? Did he take those two new <name type="NORP">droids</name> 
 with him?</sp>
       <sp>
          <speaker>AUNT BERU</speaker>
@@ -2410,7 +2410,7 @@ him.</sd>
          <speaker>BEN</speaker>
 There's nothing you could have done, 
 <name type="PERSON">Luke</name>, had you been there. You'd have 
-been killed, too, and the <name type="ORG">droids</name> 
+been killed, too, and the <name type="NORP">droids</name> 
 would be in the hands of the <name type="ORG">Empire</name>.</sp>
       <sp>
          <speaker>LUKE</speaker>
@@ -2440,7 +2440,7 @@ hardend stormtroopers who look over the two robots. A <name type="ORG">Trooper</
 questions <name type="PERSON">Luke</name>.</sd>
       <sp>
          <speaker>TROOPER</speaker>
-How long have you had these <name type="ORG">droids</name>?</sp>
+How long have you had these <name type="NORP">droids</name>?</sp>
       <sp>
          <speaker>LUKE</speaker>
 About three or four seasons.</sp>
@@ -2463,11 +2463,11 @@ We don't need to see his
 identification.</sp>
       <sp>
          <speaker>BEN</speaker>
-These are not the <name type="ORG">droids</name> your looking 
+These are not the <name type="NORP">droids</name> your looking 
 for.</sp>
       <sp>
          <speaker>TROOPER</speaker>
-These are not the <name type="ORG">droids</name> we're looking 
+These are not the <name type="NORP">droids</name> we're looking 
 for.</sp>
       <sp>
          <speaker>BEN</speaker>
@@ -2548,7 +2548,7 @@ drift.</sd>
 What?</sp>
       <sp>
          <speaker>BAR<name type="ORG">TEN</name>DER</speaker>
-Your <name type="ORG">droids</name>. They'll have to wait 
+Your <name type="NORP">droids</name>. They'll have to wait 
 outside. We don't want them here.</sp>
       <sd>
          <name type="PERSON">Luke</name> looks at old <name type="PERSON">Ben</name>, who is busy talking to one of the 
@@ -2704,7 +2704,7 @@ you, old man. What's the cargo?</sp>
       <sp>
          <speaker>BEN</speaker>
 Only passengers. Myself, the boy, 
-two <name type="ORG">droids</name>, and no questions asked.</sp>
+two <name type="NORP">droids</name>, and no questions asked.</sp>
       <sp>
          <speaker>HAN</speaker>
 What is it? Some kind of local 
@@ -3414,7 +3414,7 @@ But sir, nobody worries about
 upsetting a droid.</sp>
       <sp>
          <speaker>HAN</speaker>
-That's 'cause <name type="ORG">droids</name> don't pull 
+That's 'cause <name type="NORP">droids</name> don't pull 
 people's arms out of their socket 
 when they lose. <name type="NORP">Wookiee</name>s are known 
 to do that.</sp>
@@ -3822,7 +3822,7 @@ It must be a decoy, sir. Several of
 the escape pods have been jettisoned.</sp>
       <sp>
          <speaker>VADER</speaker>
-Did you find any <name type="ORG">droids</name>?</sp>
+Did you find any <name type="NORP">droids</name>?</sp>
       <sp>
          <speaker>OFFICER</speaker>
 No, sir. If there were any on board, 
@@ -3984,7 +3984,7 @@ I want to go with you.</sp>
       <sp>
          <speaker>BEN</speaker>
 Be patient, <name type="PERSON">Luke</name>. Stay and watch 
-over the <name type="ORG">droids</name>.</sp>
+over the <name type="NORP">droids</name>.</sp>
       <sp>
          <speaker>LUKE</speaker>
 But he can...</sp>
@@ -5491,7 +5491,7 @@ They're coming in too fast!</sp>
          <name type="ORG">FALCON</name>/<name type="ORG">TIE</name> FIGHTERS</setting>
       <sd>
          <name type="ORG">Pan</name> with pirateship as two <name type="ORG">TIE</name> fighters charge through the 
-background. <name type="NORP">Laserbolts</name> streak from all the craft.</sd>
+background. Laserbolts streak from all the craft.</sd>
       <setting>INT. <name type="ORG">MILLENNIUM</name>
          <name type="ORG">FALCON</name> - <name type="ORG">CHEWBACCA</name>
       </setting>
@@ -6310,8 +6310,7 @@ powered laser gun emplacements. Electronic drivers rotate
 the huge guns into position as crew adjust their targeting 
 devices.</sd>
       <setting>EXT. <name type="LOC">SPACE</name> AROUND THE DEATH STAR</setting>
-      <sd>
-         <name type="NORP">Laserbolts</name> streak through the star-filled night. The <name type="PERSON">Rebel X</name>-
+      <sd>Laserbolts streak through the star-filled night. The <name type="PERSON">Rebel X</name>-
 wing fighters move in toward the <name type="ORG">Imperial</name> base, as the Death 
 Star aims its massive laser guns at the Rebel forces and 
 fires.</sd>
@@ -6350,7 +6349,7 @@ This is Red Five; I'm going in!</sp>
       <setting>EXT. <name type="LOC">SPACE</name>
       </setting>
       <sd>
-         <name type="PERSON">Luke</name>'s X-wing races toward the <name type="ORG">Death Star</name>. <name type="NORP">Laserbolts</name> streak 
+         <name type="PERSON">Luke</name>'s X-wing races toward the <name type="ORG">Death Star</name>. Laserbolts streak 
 from <name type="PERSON">Luke</name>'s weapons, creating a huge fireball explosion on 
 the dim surface.</sd>
       <setting>INT. LUKE'S X-WING FIGHTER - COCKPIT</setting>
@@ -6426,7 +6425,7 @@ I'm on it.</sp>
          <name type="PERSON">Luke</name> flings his X-wing into a twisting dive across the horizon 
 and down onto the dim grey surface.</sd>
       <setting>EXT. LUKE'S X-WING TRAVELING</setting>
-      <sd>A shot hurls from <name type="PERSON">Luke</name>'s guns. <name type="NORP">Laserbolts</name> streak toward the 
+      <sd>A shot hurls from <name type="PERSON">Luke</name>'s guns. Laserbolts streak toward the 
 onrushing <name type="ORG">Death Star</name> surface. Several small radar emplacements 
 erupt in flame. Laserfire erupts from a protruding tower on 
 the surface.</sd>
@@ -6731,7 +6730,7 @@ buffeted by <name type="ORG">Imperial</name> flak.</sd>
       <setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
       <sd>
          <name type="ORG">Gold</name> Leader races down the enormous trench that leads to the 
-exhaust port. <name type="NORP">Laserbolts</name> blast toward him in increasing 
+exhaust port. Laserbolts blast toward him in increasing 
 numbers, occasionally exploding near the ship causing it to 
 bounce about.</sd>
       <sp>
@@ -6771,7 +6770,7 @@ through a hail of laserfire.</sd>
       <setting>INT. GOLD LEADER'S Y-WING - COCKPIT</setting>
       <sd>
          <name type="ORG">Gold</name> Leader pulls his computer targeting device down in front 
-of his eye. <name type="NORP">Laserbolts</name> continue to batter the Rebel craft.</sd>
+of his eye. Laserbolts continue to batter the Rebel craft.</sd>
       <sp>
          <speaker>GOLD LEADER</speaker>
 Switching to targeting computer.</sp>
@@ -7196,8 +7195,7 @@ and he presses their firing buttons.</sd>
       <sd>
          <name type="PERSON">Red Leader</name> fights to gain control of his ship.</sd>
       <setting>EXT. <name type="LOC">SPACE</name> AROUND THE DEATH STAR</setting>
-      <sd>
-         <name type="NORP">Laserbolts</name> are flung from <name type="PERSON">Vader</name>'s <name type="ORG">TIE</name> fighter, connecting 
+      <sd>Laserbolts are flung from <name type="PERSON">Vader</name>'s <name type="ORG">TIE</name> fighter, connecting 
 with <name type="PERSON">Red Leader</name>'s <name type="PERSON">Rebel X</name>-wing fighter. <name type="PERSON">Red Leader</name> buys it, 
 creating a tremendous explosion far below. He screams and is 
 destroyed.</sd>
@@ -7244,7 +7242,7 @@ It'll be just like Beggar's Canyon
 back home.</sp>
       <setting>EXT. <name type="LOC">SPACE</name> AROUND THE DEATH STAR</setting>
       <sd>The three X-wings move in, unleashing a barrage of laserfire.  
-<name type="NORP">Laserbolts</name> are returned from the <name type="ORG">Death Star</name>.</sd>
+Laserbolts are returned from the <name type="ORG">Death Star</name>.</sd>
       <setting>INT. BIGGS' COCKPIT</setting>
       <sd>
          <name type="PERSON">Luke</name>'s lifelong friend struggles with his controls.</sd>

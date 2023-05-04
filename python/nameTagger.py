@@ -11,7 +11,7 @@ from saxonche import PySaxonProcessor
 # for work with XPath
 
 
-#nlp = spacy.cli.download("en_core_web_lg")
+nlp = spacy.cli.download("en_core_web_lg")
 nlp = spacy.load('en_core_web_lg')
 
 ###############################################################################
@@ -83,8 +83,8 @@ patterns = [
     {"label": "PERSON", "pattern": "Tarfful"},
     {"label": "PERSON", "pattern": "Threepio"},
     {"label": "PERSON", "pattern": "Padme"},
-    {"label": "ORG", "pattern": "droids"},
-    {"label": "ORG", "pattern": "DROIDS"},
+    {"label": "NORP", "pattern": "droids"},
+    {"label": "NORP", "pattern": "DROIDS"},
     {"label": "NULL", "pattern": "Darth"},
     {"label": "NULL", "pattern": "DARTH"},
     {"label": "NULL", "pattern": "sid"},
@@ -128,6 +128,7 @@ patterns = [
     {"label": "LOC", "pattern": "Polis Massa"},
     {"label": "LOC", "pattern": "DAGOBAH"},
     {"label": "LOC", "pattern": "STAR DESTROYER"},
+    {"label": "NULL", "pattern": "Laserbolts"},
 
     {"label": "NULL", "pattern": "TWENTY"},
     {"label": "NULL", "pattern": "CPATAIN"},

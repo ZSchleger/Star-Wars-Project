@@ -133,7 +133,7 @@ poor <name type="PERSON">Chewbacca</name> never returned from this awful place.<
 Don't be so sure. If I told you half the things I've heard about this 
 <name type="PERSON">Jabba</name> the <name type="ORG">Hut</name>t, you'd probably short-circuit.</sp>
 
-<sd>The two <name type="ORG">droids</name> fearfully approach the massive gate to the palace.</sd>
+<sd>The two <name type="NORP">droids</name> fearfully approach the massive gate to the palace.</sd>
 
 <sp><speaker><name type="ORG">THREEPIO</name></speaker>
 <name type="PERSON">Artoo</name>, are you sure this is the right place? I better knock, I suppose.</sp>
@@ -149,7 +149,7 @@ There doesn't seem to be anyone there. Let's go back and tell Master
 
 <sd>A small hatch in the middle of the door opens and a spidery mechanical 
 arm, with a large electronic eyeball on the end, pops out and inspects 
-the two <name type="ORG">droids</name>.</sd>
+the two <name type="NORP">droids</name>.</sd>
 
 <sp><speaker>STRANGE VOICE</speaker>
 Tee chuta hhat yudd!</sp>
@@ -171,7 +171,7 @@ I don't think they're going to let us in, <name type="PERSON">Artoo</name>. We'd
 
 <sd><name type="PERSON">Artoo</name> beeps his reluctance as <name type="PERSON">Threepio</name> turns to leave. Suddenly the 
 massive door starts to rise with a horrific metallic SCREECH. The 
-robots turn back and face an endless black cavity. The <name type="ORG">droids</name> look at 
+robots turn back and face an endless black cavity. The <name type="NORP">droids</name> look at 
 one another, afraid to enter.</sd>
 
 <sd><name type="PERSON">Artoo</name> starts forward into the gloom. <name type="PERSON">Threepio</name> rushes after his stubby 
@@ -233,12 +233,12 @@ He says that our instructions are to give it only to <name type="PERSON">Jabba</
 I'm terribly sorry. I'm afraid he's ever so stubborn about these sort 
 of things.</sp>
 
-<sd><name type="PERSON">Bib</name> gestures for the <name type="ORG">droids</name> to follow.</sd>
+<sd><name type="PERSON">Bib</name> gestures for the <name type="NORP">droids</name> to follow.</sd>
 
 <sp><speaker>BIB</speaker>
 Nudd Chaa.</sp>
 
-<sd>The <name type="ORG">droids</name> follow the tall, tentacled alien into the darkness, trailed 
+<sd>The <name type="NORP">droids</name> follow the tall, tentacled alien into the darkness, trailed 
 by the two guards.</sd>
 
 <sp><speaker><name type="ORG">THREEPIO</name></speaker>
@@ -256,7 +256,7 @@ repulsive blob of bloated fat with a maniacal grin. Chained to the
 horrible creature is the beautiful alien female dancer named <name type="ORG">OOLA</name>. At 
 the foot of the dais sits an obnoxious birdlike creature, SALACIOUS 
 CRUMB. <name type="PERSON">Bib</name> whispers something in the slobbering degenerate's ear. <name type="PERSON">Jabba</name> 
-laughs horribly, at the two terrified <name type="ORG">droids</name> before him. <name type="PERSON">Threepio</name> bows 
+laughs horribly, at the two terrified <name type="NORP">droids</name> before him. <name type="PERSON">Threepio</name> bows 
 politely.</sd>
 
 <sp><speaker><name type="ORG">THREEPIO</name></speaker>
@@ -285,7 +285,7 @@ life.
 With your wisdom, I'm sure that we can work out an arrangement which 
 will be mutually beneficial and enable us to avoid any unpleasant 
 confrontation. As a token of my goodwill, I present to you a gift: 
-these two <name type="ORG">droids</name>.</sp>
+these two <name type="NORP">droids</name>.</sp>
 
 <sd><name type="PERSON">Threepio</name> is startled by this announcement.</sd>
 
@@ -324,7 +324,7 @@ carbonized HAN SOLO.</sd>
 <sd>One of <name type="PERSON">Jabba</name>'s <name type="PERSON">Gamorrean</name> guards marches <name type="PERSON">Artoo</name> and <name type="PERSON">Threepio</name> down a dank, 
 shadowy passageway lined with holding cells. The cries of unspeakable 
 creatures bounce off the cold stone walls. Occasionally a repulsive arm 
-or tentacle grabs through the bars at the hapless <name type="ORG">droids</name>. <name type="PERSON">Artoo</name> beeps 
+or tentacle grabs through the bars at the hapless <name type="NORP">droids</name>. <name type="PERSON">Artoo</name> beeps 
 pitifully.</sd>
 
 <sp><speaker><name type="ORG">THREEPIO</name></speaker>
@@ -1327,7 +1327,7 @@ explodes into the deck as <name type="PERSON">Luke</name> and <name type="PERSON
 <name type="PERSON">Luke</name> and <name type="PERSON">Leia</name> land on the skiff with flair.</sd>
 
 <sp><speaker>LUKE</speaker>
-Let's go! And don't forget the <name type="ORG">droids</name>.</sp>
+Let's go! And don't forget the <name type="NORP">droids</name>.</sp>
 
 <sp><speaker>LANDO</speaker>
 We're on our way.</sp>
@@ -1340,7 +1340,7 @@ craft is on fire.</sd>
 <sd><name type="PERSON">Threepio</name>'s legs stick straight up from the dune where he landed. Next 
 to it, <name type="PERSON">Artoo</name>'s periscope is the only thing above the sand. The skiff 
 floats above them and two large electromagnets dangle down on a wire. 
-With a loud CLANG, both <name type="ORG">droids</name> are pulled 
+With a loud CLANG, both <name type="NORP">droids</name> are pulled 
 from the sand.</sd>
 
 <setting>43   EXT DUNE SEA</setting>
@@ -1824,7 +1824,7 @@ nearby <name type="ORG">Moon of Endor</name>, and the protecting deflector shiel
 but beautiful woman in her fifties. Conferring with her are several 
 military leaders, including <name type="ORG">GENERAL</name> MADINE and <name type="ORG">ADMIRAL</name> ACKBAR (a 
 salmon-colored <name type="PERSON">Mon Calamari</name>). <name type="PERSON">Lando</name> moves through the crowd until he 
-finds <name type="PERSON">Han</name> and <name type="PERSON">Chewie</name>, standing next to <name type="PERSON">Leia</name> and the two <name type="ORG">droids</name>.</sp>
+finds <name type="PERSON">Han</name> and <name type="PERSON">Chewie</name>, standing next to <name type="PERSON">Leia</name> and the two <name type="NORP">droids</name>.</sp>
 
 <sd><name type="PERSON">Han</name> peers at <name type="PERSON">Lando</name>'s new insignia on his chest, and is amused.</sd>
 
@@ -2392,7 +2392,7 @@ it rises up to slam directly into a tree in a giant ball of fire.</sd>
 
 <setting>66   EXT SCOUT CAMPSITE - FOREST</setting>
 
-<sd><name type="PERSON">Han</name>, <name type="PERSON">Chewie</name>, and the <name type="ORG">droids</name>, along with the rest of the squad, wait 
+<sd><name type="PERSON">Han</name>, <name type="PERSON">Chewie</name>, and the <name type="NORP">droids</name>, along with the rest of the squad, wait 
 anxiously in the clearing. <name type="PERSON">Artoo</name>'s radar screen sticks out of his domed 
 head and revolves, scanning the forest. He beeps.</sd>
 
@@ -2429,7 +2429,7 @@ Take the squad ahead.  We'll meet at the shield generator at 0300.</sp>
 <sp><speaker>LUKE</speaker>
 Come on, <name type="PERSON">Artoo</name>.  We'll need your scanners.</sp>
 
-<sd><name type="PERSON">Luke</name>, <name type="PERSON">Chewie</name>, <name type="PERSON">Han</name>, and the <name type="ORG">droids</name> move off in one direction as the 
+<sd><name type="PERSON">Luke</name>, <name type="PERSON">Chewie</name>, <name type="PERSON">Han</name>, and the <name type="NORP">droids</name> move off in one direction as the 
 squad proceeds in another.</sd>
 
 <sp><speaker><name type="ORG">THREEPIO</name></speaker>
@@ -2620,7 +2620,7 @@ As you wish.</sp>
 
 <setting>70   EXT FOREST CLEARING - LEIA'S CRASH SITE</setting>
 
-<sd><name type="PERSON">Han</name>, <name type="PERSON">Luke</name>, <name type="PERSON">Chewie</name>, and the two <name type="ORG">droids</name> are spread out as they move 
+<sd><name type="PERSON">Han</name>, <name type="PERSON">Luke</name>, <name type="PERSON">Chewie</name>, and the two <name type="NORP">droids</name> are spread out as they move 
 through the heavy foliage near the clearing where we last saw <name type="PERSON">Leia</name>. 
 <name type="PERSON">Luke</name> finds <name type="PERSON">Leia</name>'s helmet, picks it up with an expression of concern.</sd>
 
@@ -3252,7 +3252,7 @@ Then my father is truly dead.</sp>
 
 <setting>79   EXT ENDOR - RIDGE OVERLOO<name type="GPE">KI</name>NG <name type="FAC">SHIELD</name> GENERATOR</setting>
 
-<sd><name type="PERSON">Han</name>, <name type="PERSON">Leia</name>, <name type="PERSON">Chewbacca</name>, the <name type="ORG">droids</name>, Wicket, and another Ewok scout, 
+<sd><name type="PERSON">Han</name>, <name type="PERSON">Leia</name>, <name type="PERSON">Chewbacca</name>, the <name type="NORP">droids</name>, Wicket, and another Ewok scout, 
 PA<name type="ORG">PLO</name>O, hide on a ridge overlooking the massive <name type="ORG">Imperial</name> shield 
 generator. At the base of the generator is an <name type="ORG">Imperial</name> landing 
 platform. <name type="PERSON">Leia</name> studies the installation.</sd>
@@ -3319,7 +3319,7 @@ INTO <name type="PERSON">HYPER<name type="LOC">SPACE</name></name>. And disappea
 
 <setting>83   EXT ENDOR - RIDGE OVERLOO<name type="GPE">KI</name>NG CONTROL BUNKER</setting>
 
-<sd><name type="PERSON">Han</name>, <name type="PERSON">Leia</name>, <name type="PERSON">Chewie</name>, the <name type="ORG">droids</name>, and their two Ewok guides, Wicket and 
+<sd><name type="PERSON">Han</name>, <name type="PERSON">Leia</name>, <name type="PERSON">Chewie</name>, the <name type="NORP">droids</name>, and their two Ewok guides, Wicket and 
 <name type="ORG">Paploo</name>, have reunited with the Rebel strike squad. The entire group is 
 spread through the thick undergrowth. Below them is the BUNKER that 
 leads into the generator. Four <name type="ORG">Imperial</name> scouts, their speeder bikes 
@@ -3719,7 +3719,7 @@ Bring those two down here!</sp>
 Let's go!</sp>
 
 <sd><name type="PERSON">Artoo</name> and <name type="PERSON">Threepio</name> are standing near one of the big trees. As six 
-<name type="ORG">Imperial</name> stormtroopers rush over to take them captive, the two <name type="ORG">droids</name> 
+<name type="ORG">Imperial</name> stormtroopers rush over to take them captive, the two <name type="NORP">droids</name> 
 duck out of sight behind the tree.</sd>
 
 <sp><speaker><name type="ORG">THREEPIO</name></speaker>
@@ -3731,7 +3731,7 @@ Freeze! Don't move!</sp>
 <sp><speaker><name type="ORG">THREEPIO</name></speaker>
 We surrender.</sp>
 
-<sd>The stormtroopers come around the tree and find the two <name type="ORG">droids</name> waiting 
+<sd>The stormtroopers come around the tree and find the two <name type="NORP">droids</name> waiting 
 quietly to be taken. As the <name type="ORG">Imperial</name> troops move to do that, however, a 
 band of <name type="PERSON">Ewoks</name> drops down from above and overpowers them.</sd>
 
@@ -3767,7 +3767,7 @@ runs after him.</sd>
 Going? What do you mean, you're going. But-- but going where, <name type="PERSON">Artoo</name>? 
 No, what! <name type="PERSON">Artoo</name>! Oh, this is no time for heroics. Come back!</sp>
 
-<sd>Biker scouts race around and over the two <name type="ORG">droids</name>, blasting away at the 
+<sd>Biker scouts race around and over the two <name type="NORP">droids</name>, blasting away at the 
 little <name type="PERSON">Ewoks</name> as the furries scurry for cover.</sd>
 
 <sd>A group of <name type="PERSON">Ewoks</name> have moved a primitive catapult into position. They 
@@ -4581,7 +4581,7 @@ supernovas into oblivion.</sd>
 
 <setting>136  EXT ENDOR FOREST</setting>
 
-<sd><name type="PERSON">Han</name> and <name type="PERSON">Leia</name>, <name type="PERSON">Chewie</name>, the <name type="ORG">droids</name>, the Rebel troops, and the <name type="PERSON">Ewoks</name> all 
+<sd><name type="PERSON">Han</name> and <name type="PERSON">Leia</name>, <name type="PERSON">Chewie</name>, the <name type="NORP">droids</name>, the Rebel troops, and the <name type="PERSON">Ewoks</name> all 
 look to the sky as the <name type="ORG">Death Star</name> reveals itself in a final flash of 
 self-destruction. They all cheer.</sd>
 

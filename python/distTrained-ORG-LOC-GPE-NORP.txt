@@ -102,7 +102,7 @@ DINER : LOC
 DOD : ORG
 DOFINE : NORP
 DOOKU : ORG
-DROIDS : ORG
+DROIDS : NORP
 Dack : PERSON
 Dagobah : FAC
 Dark Lord : PERSON
@@ -256,7 +256,6 @@ LUKE SKYWALKER : PERSON
 Lando : PERSON
 Lando Calrissian : PERSON
 Landspeeder : PERSON
-Laserbolts : NORP
 Leia : PERSON
 Leia Organa : PERSON
 Lobot : PERSON
@@ -570,7 +569,7 @@ byseveral TIE : ORG
 chase Ewoks : PERSON
 dissapears : ORG
 driver�s : PERSON
-droids : ORG
+droids : NORP
 dus : GPE
 gasball : ORG
 gnomish : NORP

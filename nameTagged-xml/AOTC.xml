@@ -1072,7 +1072,7 @@ start counting to himself as he watches something below approach.</sd>
 
 <sd><name type="ORG">ZAM</name> exits the crashed speeder and runs. <name type="PERSON">ANA<name type="GPE">KI</name>N</name> picks himself up off the pavement and runs down the very crowded street.</sd>
 
-<sd>It's the seedy underbelly of the city. Broken sidewalks, garish lights reflected on the filthy puddles. It's pretty crowded with various ALIEN LOW-LIFES, <name type="ORG">PAN</name>HANDLING <name type="ORG">DROIDS</name>, and the occasional group of UPPERCLASS SLUMMERS.</sd>
+<sd>It's the seedy underbelly of the city. Broken sidewalks, garish lights reflected on the filthy puddles. It's pretty crowded with various ALIEN LOW-LIFES, <name type="ORG">PAN</name>HANDLING <name type="NORP">DROIDS</name>, and the occasional group of UPPERCLASS SLUMMERS.</sd>
 
 <sd><name type="PERSON">ANA<name type="GPE">KI</name>N</name> barges into several of them as he chases after the fleeing <name type="ORG">ZAM</name>. He loses <name type="PERSON">the Bounty Hunter</name> in the crowd, them sees him again. The young Jedi is having a very difficult time getting through the crowd.</sd>
 
@@ -1845,7 +1845,7 @@ vastness of the spaceport with <name type="PERSON">ARTOO</name> trundling along 
 
 			It's these funny little cuts on
 			the side give it away...
-			Those analysis <name type="ORG">droids</name> you've got
+			Those analysis <name type="NORP">droids</name> you've got
 			over there only focus on symbols,
 			you know. I should think you Jedi
 			would have more respect for the
@@ -1853,7 +1853,7 @@ vastness of the spaceport with <name type="PERSON">ARTOO</name> trundling along 
 			wisdom.
 
 <sp><speaker>OBI-<name type="ORG">WAN</name></speaker>
-			Well, Dex, if <name type="ORG">droids</name> could think, we
+			Well, Dex, if <name type="NORP">droids</name> could think, we
 			wouldn't be here, would we?
 				(laughing)
 			<name type="LOC">Kamino</name>... doesn't sound familiar.
@@ -1865,7 +1865,7 @@ vastness of the spaceport with <name type="PERSON">ARTOO</name> trundling along 
 			I'd say about twelve parsecs
 			outside the Rishi Maze, toward the
 			south. It should be easy to find,
-			even for those <name type="ORG">droids</name> in your
+			even for those <name type="NORP">droids</name> in your
 			archive to find. Those <name type="LOC">Kamino</name>ans
 			keep to themselves. They're
 			cloners. Damned good ones, too.
@@ -2631,7 +2631,7 @@ vastness of the spaceport with <name type="PERSON">ARTOO</name> trundling along 
 
 <setting>INT. <name type="FAC">JEDI</name> TEMPLE, TRAINING VERANDA - DAY</setting>
 
-<sd>OBI-<name type="ORG">WAN</name> comes out onto the veranda and stops, watching TWENTY or so FOUR-YEAR-OLDS doing training exercises, supervised by YODA. They wear helmets over their eyes and try to strike little TRAINING <name type="ORG">DROIDS</name> with their miniature lightsabers. The <name type="ORG">DROIDS</name> dance in front of them.</sd>
+<sd>OBI-<name type="ORG">WAN</name> comes out onto the veranda and stops, watching TWENTY or so FOUR-YEAR-OLDS doing training exercises, supervised by YODA. They wear helmets over their eyes and try to strike little TRAINING <name type="NORP">DROIDS</name> with their miniature lightsabers. The <name type="NORP">DROIDS</name> dance in front of them.</sd>
 
 <sp><speaker>YODA</speaker>
 			Don't think... feel... be as one
@@ -3359,7 +3359,7 @@ vastness of the spaceport with <name type="PERSON">ARTOO</name> trundling along 
 
 <sp><speaker><name type="PERSON">LAMA SU</name></speaker>
 			They're immensely superior to
-			<name type="ORG">droids</name>, capable of independent
+			<name type="NORP">droids</name>, capable of independent
 			thought and action.</sp>
 
 <sp><speaker>OBI-<name type="ORG">WAN</name></speaker>
@@ -3698,7 +3698,7 @@ forms on his forehead. He turns violently. He cries out.</sd>
 				(to the droid driver)
 			Wait, please.</sp>
 
-<sd><name type="PERSON">ANA<name type="GPE">KI</name>N</name> and PADME get down. Sitting on a stool in front of the shop is <name type="ORG">WATTO</name>. He is using a small electronic screwdriver on a fiddly DROID. THREE PIT <name type="ORG">DROIDS</name> are chattering away and are trying to help him, but they seem only to make him madder.</sd>
+<sd><name type="PERSON">ANA<name type="GPE">KI</name>N</name> and PADME get down. Sitting on a stool in front of the shop is <name type="ORG">WATTO</name>. He is using a small electronic screwdriver on a fiddly DROID. THREE PIT <name type="NORP">DROIDS</name> are chattering away and are trying to help him, but they seem only to make him madder.</sd>
 
 <sp><speaker><name type="ORG">WATTO</name></speaker>
 				(yelling, in <name type="ORG">Hut</name>tese)
@@ -3716,13 +3716,13 @@ forms on his forehead. He turns violently. He cries out.</sd>
 				(in <name type="ORG">Hut</name>tese)
 			I said excuse me.</sp>
 
-<sd><name type="ORG">WATTO</name> turns to the chattering PIT <name type="ORG">DROIDS</name>.</sd>
+<sd><name type="ORG">WATTO</name> turns to the chattering PIT <name type="NORP">DROIDS</name>.</sd>
 
 <sp><speaker><name type="ORG">WATTO</name></speaker>
 				(in <name type="ORG">Hut</name>tese)
 			Shut down.</sp>
 
-<sd>The PIT <name type="ORG">DROIDS</name> snap into their storage position.</sd>
+<sd>The PIT <name type="NORP">DROIDS</name> snap into their storage position.</sd>
 
 <sp><speaker><name type="ORG">WATTO</name></speaker>
 				(continuing, in <name type="ORG">Hut</name>tese)
@@ -4304,7 +4304,7 @@ terribly beaten. <name type="PERSON">Anakin</name> cradles her tenderly.</sd>
 
 <sd>OBI-<name type="ORG">WAN</name> takes a pair of electronic binoculars from his belt and puts them to his eyes. He sees a cluster of great towers like fantastic stalagmites rise from the plain below.</sd>
 
-<sd>SLOW <name type="ORG">PAN</name> with the binoculars, and suddenly a line of <name type="ORG">Battle Starships</name> come into view. OBI-<name type="ORG">WAN</name> touches the viewfinder. Between fifty and a hundred <name type="ORG">Federation</name> Starships in near rows. Some are on platforms that are carrying the Starships diwn to an underground facility. Other platforms are rising to the surface. They carry THOUSANDS of <name type="ORG">BATTLE</name> <name type="ORG">DROIDS</name> that step off and file into the waiting ships. A fully loaded Starship takes off. OBI-<name type="ORG">WAN</name> swings the binoculars upward, to see more <name type="ORG">Federation</name> Starships.</sd>
+<sd>SLOW <name type="ORG">PAN</name> with the binoculars, and suddenly a line of <name type="ORG">Battle Starships</name> come into view. OBI-<name type="ORG">WAN</name> touches the viewfinder. Between fifty and a hundred <name type="ORG">Federation</name> Starships in near rows. Some are on platforms that are carrying the Starships diwn to an underground facility. Other platforms are rising to the surface. They carry THOUSANDS of <name type="ORG">BATTLE</name> <name type="NORP">DROIDS</name> that step off and file into the waiting ships. A fully loaded Starship takes off. OBI-<name type="ORG">WAN</name> swings the binoculars upward, to see more <name type="ORG">Federation</name> Starships.</sd>
 
 <setting>EXT. TATOOINE, <name type="ORG">TUSKEN</name> RAIDER CAMP, OASIS - DAWN</setting>
 
@@ -4332,7 +4332,7 @@ terribly beaten. <name type="PERSON">Anakin</name> cradles her tenderly.</sd>
 			...Starships from the Trade
 			<name type="ORG">Federation</name> and the Commerce Guilds
 			are taking deliveries of battle
-			<name type="ORG">droids</name> from the foundries on
+			<name type="NORP">droids</name> from the foundries on
 			<name type="LOC">Geonosis</name>.</sp>
 
 <sp><speaker><name type="ORG">BAIL</name> <name type="PERSON">ORGANA</name></speaker>
@@ -4437,7 +4437,7 @@ terribly beaten. <name type="PERSON">Anakin</name> cradles her tenderly.</sd>
 			With all due respect for <name type="FAC">the Jedi</name>
 			Order, two hundred will be no
 			match for hundreds of thousands of
-			battle <name type="ORG">droids</name>.</sp>
+			battle <name type="NORP">droids</name>.</sp>
 
 <sp><speaker><name type="PERSON">MACE</name> WINDU</speaker>
 			Patience. We should wait for Obi-
@@ -5229,15 +5229,15 @@ their lips to meet. They kiss.</sd>
 			It wasn't the <name type="NORP">Geonosian</name>s I was
 			thinking about. How well do you
 			think one Jedi will hold up
-			against a thousand battle <name type="ORG">droids</name>?</sp>
+			against a thousand battle <name type="NORP">droids</name>?</sp>
 
-<sd>COUNT <name type="ORG">DOOKU</name> signals. THOUSANDS OF <name type="ORG">DROIDS</name> start to pour into all parts of the arena.</sd>
+<sd>COUNT <name type="ORG">DOOKU</name> signals. THOUSANDS OF <name type="NORP">DROIDS</name> start to pour into all parts of the arena.</sd>
 
-<sd><name type="PERSON">MACE</name> WINDU draws his lightsaber, <name type="NORP">JANGO</name> FETT draws his guns and fires at <name type="PERSON">MACE</name> WINDU, who deflects the shots. <name type="NORP">JANGO</name> FETT and <name type="PERSON">MACE</name> WINDU jump into the arena, where they fight. <name type="ORG">BOBA</name> FETT wacthes his Dad and <name type="FAC">the Jedi</name> Master fight. The battle beginss. <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S fly away everywhere. <name type="ORG">DROIDS</name> fire at <name type="FAC">JEDI</name>, who deflect the bolts and cult down the <name type="ORG">DROIDS</name>. The <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name> TROOPS fire ray guns that are more difficult for the <name type="FAC">JEDI</name> to deflect.</sd>
+<sd><name type="PERSON">MACE</name> WINDU draws his lightsaber, <name type="NORP">JANGO</name> FETT draws his guns and fires at <name type="PERSON">MACE</name> WINDU, who deflects the shots. <name type="NORP">JANGO</name> FETT and <name type="PERSON">MACE</name> WINDU jump into the arena, where they fight. <name type="ORG">BOBA</name> FETT wacthes his Dad and <name type="FAC">the Jedi</name> Master fight. The battle beginss. <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S fly away everywhere. <name type="NORP">DROIDS</name> fire at <name type="FAC">JEDI</name>, who deflect the bolts and cult down the <name type="NORP">DROIDS</name>. The <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name> TROOPS fire ray guns that are more difficult for the <name type="FAC">JEDI</name> to deflect.</sd>
 
-<sd>The REEK and the <name type="LOC">NEXU</name> are spooked by the battle. The REEK bucks the riders off its back and stampedes around the arena, trampling <name type="ORG">DROIDS</name> and <name type="FAC">JEDI</name> that have moved into its path. PADME picks up a discarded pistol and joins the fight. SEVERAL <name type="FAC">JEDI</name> run to the center of the arena and toss lightsabers to OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANA<name type="GPE">KI</name>N</name>.</sd>
+<sd>The REEK and the <name type="LOC">NEXU</name> are spooked by the battle. The REEK bucks the riders off its back and stampedes around the arena, trampling <name type="NORP">DROIDS</name> and <name type="FAC">JEDI</name> that have moved into its path. PADME picks up a discarded pistol and joins the fight. SEVERAL <name type="FAC">JEDI</name> run to the center of the arena and toss lightsabers to OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANA<name type="GPE">KI</name>N</name>.</sd>
 
-<sd>Among the crowd, <name type="FAC">JEDI</name> cut down swaths of <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S and <name type="ORG">DROIDS</name>. On the sand, <name type="FAC">JEDI</name> fight, attacking <name type="ORG">DROIDS</name>. OBI0<name type="ORG">WAN</name> and <name type="PERSON">ANA<name type="GPE">KI</name>N</name> swing their lightsabers, cutting <name type="ORG">DROIDS</name> in half. PADME blasts away at <name type="ORG">DROIDS</name> and <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S.</sd>
+<sd>Among the crowd, <name type="FAC">JEDI</name> cut down swaths of <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S and <name type="NORP">DROIDS</name>. On the sand, <name type="FAC">JEDI</name> fight, attacking <name type="NORP">DROIDS</name>. OBI0<name type="ORG">WAN</name> and <name type="PERSON">ANA<name type="GPE">KI</name>N</name> swing their lightsabers, cutting <name type="NORP">DROIDS</name> in half. PADME blasts away at <name type="NORP">DROIDS</name> and <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S.</sd>
 
 <setting>INT. COCKPIT, <name type="LOC">NABOO</name> STARSHIP</setting>
 
@@ -5251,15 +5251,15 @@ their lips to meet. They kiss.</sd>
 
 <setting>EXT. GEO<name type="ORG">NOS</name>IS, EXECUTION ARENA - DAY</setting>
 
-<sd>Among the tiers, <name type="FAC">JEDI</name> are slowly being driven back. They have killed heaps of <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S and have kncoked out piles of <name type="ORG">DROIDS</name>, but sheer numbers are telling. Individual <name type="FAC">JEDI</name> are being cut down or blasted/ The rest are retreating into the arena.</sd>
+<sd>Among the tiers, <name type="FAC">JEDI</name> are slowly being driven back. They have killed heaps of <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S and have kncoked out piles of <name type="NORP">DROIDS</name>, but sheer numbers are telling. Individual <name type="FAC">JEDI</name> are being cut down or blasted/ The rest are retreating into the arena.</sd>
 
-<sd><name type="PERSON">ANA<name type="GPE">KI</name>N</name> and PADME are back-to-back, fighting <name type="ORG">DROIDS</name> and flying <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S. <name type="PERSON">MACE</name> WINDU fights fiercely with <name type="NORP">JANGO</name> FETT. Finally, the bounty hunter falls. His helmet goes flying, bouncing down the steps, tumbling and rolling, kicked here and there by random feet. The bounty hunter's body falls to the ground.</sd>
+<sd><name type="PERSON">ANA<name type="GPE">KI</name>N</name> and PADME are back-to-back, fighting <name type="NORP">DROIDS</name> and flying <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S. <name type="PERSON">MACE</name> WINDU fights fiercely with <name type="NORP">JANGO</name> FETT. Finally, the bounty hunter falls. His helmet goes flying, bouncing down the steps, tumbling and rolling, kicked here and there by random feet. The bounty hunter's body falls to the ground.</sd>
 
-<sd><name type="PERSON">MACE</name> WINDU runs to the center of the arena and fights back-to-back with OBI-<name type="ORG">WAN</name>, as they swipe and mangle <name type="ORG">DROIDS</name>.</sd>
+<sd><name type="PERSON">MACE</name> WINDU runs to the center of the arena and fights back-to-back with OBI-<name type="ORG">WAN</name>, as they swipe and mangle <name type="NORP">DROIDS</name>.</sd>
 
 <sp><speaker>OBI-<name type="ORG">WAN</name></speaker>
 			Someone's got to - shut down -
-			these <name type="ORG">droids</name>.</sp>
+			these <name type="NORP">droids</name>.</sp>
 
 <sp><speaker><name type="PERSON">MACE</name> WINDU</speaker>
 			Don't worry! It's being - taken
@@ -5267,15 +5267,15 @@ their lips to meet. They kiss.</sd>
 
 <setting>EXT. GEO<name type="ORG">NOS</name>IS, FEDERATION STARSHIP - DAY</setting>
 
-<sd><name type="GPE">KI</name>-ADI-MUNDI leads a raiding party of about TWENTY <name type="FAC">JEDI</name> through the lines of parked <name type="ORG">Battle Starships</name>. They cut a swath through masses of <name type="ORG">DROIDS</name> until they arrive at <name type="FAC">the Command Starship</name>. Some <name type="FAC">JEDI</name> fall. The rest cut their way up the ramps and into <name type="FAC">the Command Ship</name>.</sd>
+<sd><name type="GPE">KI</name>-ADI-MUNDI leads a raiding party of about TWENTY <name type="FAC">JEDI</name> through the lines of parked <name type="ORG">Battle Starships</name>. They cut a swath through masses of <name type="NORP">DROIDS</name> until they arrive at <name type="FAC">the Command Starship</name>. Some <name type="FAC">JEDI</name> fall. The rest cut their way up the ramps and into <name type="FAC">the Command Ship</name>.</sd>
 
 <setting>INT. COMMAND FEDERATION STARSHIP, CORRIDORS - DAY</setting>
 
-<sd><name type="GPE">KI</name>-ADI-MUNDI and <name type="PERSON">teh</name> surviving <name type="FAC">JEDI</name> fight their way through the corridors of <name type="FAC">the Command Ship</name>, deflecting laser bolts, slicing <name type="ORG">DROIDS</name>.</sd>
+<sd><name type="GPE">KI</name>-ADI-MUNDI and <name type="PERSON">teh</name> surviving <name type="FAC">JEDI</name> fight their way through the corridors of <name type="FAC">the Command Ship</name>, deflecting laser bolts, slicing <name type="NORP">DROIDS</name>.</sd>
 
 <setting>INT. COMMAND FEDERATION STARSHIP, CONTROL BRIDGE - DAY</setting>
 
-<sd>THEY burst onto the bridge and chop down the COMMAND <name type="ORG">DROIDS</name>. The <name type="ORG">NEIMOIDIAN</name>S flee in all directions. KE-ADI-MUNDI leans over the control panel. He locates the illuminated master switch and punches down on it. It goes dark. Instantly, all the <name type="ORG">DROIDS</name> on the Starship and all the <name type="ORG">DROIDS</name> in the arena FREEZE!</sd>
+<sd>THEY burst onto the bridge and chop down the COMMAND <name type="NORP">DROIDS</name>. The <name type="ORG">NEIMOIDIAN</name>S flee in all directions. KE-ADI-MUNDI leans over the control panel. He locates the illuminated master switch and punches down on it. It goes dark. Instantly, all the <name type="NORP">DROIDS</name> on the Starship and all the <name type="NORP">DROIDS</name> in the arena FREEZE!</sd>
 
 <sd>There is a moment of stunned silence, then the <name type="FAC">JEDI</name> <name type="ORG">CHEER</name>. One the bridge, <name type="ORG">PLO</name> KOON claps <name type="GPE">KI</name>-ADI-MUNDI on the back.</sd>
 
@@ -5283,7 +5283,7 @@ their lips to meet. They kiss.</sd>
 			We've done it! Now we have a
 			chance!</sp>
 
-<sd>Suddenly, there is a harsh BEEPING SOUND. All the <name type="ORG">DROIDS</name> on the Starship and all the <name type="ORG">DROIDS</name> in the arena start fighting again! <name type="GPE">KI</name>-ADI-MUNDI stares in disbelief and dismay.</sd>
+<sd>Suddenly, there is a harsh BEEPING SOUND. All the <name type="NORP">DROIDS</name> on the Starship and all the <name type="NORP">DROIDS</name> in the arena start fighting again! <name type="GPE">KI</name>-ADI-MUNDI stares in disbelief and dismay.</sd>
 
 <sp><speaker><name type="GPE">KI</name>-ADI-MUNDI</speaker>
 			The system's off but they're still
@@ -5293,13 +5293,13 @@ their lips to meet. They kiss.</sd>
 
 <setting>EXT. GEO<name type="ORG">NOS</name>IS, EXECUTION ARENA - DAY</setting>
 
-<sd><name type="PERSON">MACE</name> WINDU, OBI-<name type="ORG">WAN</name>, <name type="PERSON">ANA<name type="GPE">KI</name>N</name>, PADME and an exhausted group of about TWENTY <name type="FAC">JEDI</name> stand in the center of the arena surrounded by a ring of <name type="ORG">BATTLE</name> <name type="ORG">DROIDS</name>. The bloodied sand around them is strewn with the bodies of DEAD <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S, SHATTERED <name type="ORG">DROIDS</name> and <name type="FAC">JEDI</name>.</sd>
+<sd><name type="PERSON">MACE</name> WINDU, OBI-<name type="ORG">WAN</name>, <name type="PERSON">ANA<name type="GPE">KI</name>N</name>, PADME and an exhausted group of about TWENTY <name type="FAC">JEDI</name> stand in the center of the arena surrounded by a ring of <name type="ORG">BATTLE</name> <name type="NORP">DROIDS</name>. The bloodied sand around them is strewn with the bodies of DEAD <name type="PERSON">GEO<name type="ORG">NOS</name>IAN</name>S, SHATTERED <name type="NORP">DROIDS</name> and <name type="FAC">JEDI</name>.</sd>
 
 <sd>At the foot of some steps, <name type="ORG">BOBA</name> FETT finds his father's battered helmet. He picks it up.</sd>
 
-<sd><name type="GPE">KI</name>-ADI-MUNDI and the SURVIVORS from the raiding party are herded into the arena by SUPER<name type="ORG">DROIDS</name>. From the encircling tiers above, THOUSANDS OF <name type="ORG">BATTLE</name> <name type="ORG">DROIDS</name> level their weapons menacingly.</sd>
+<sd><name type="GPE">KI</name>-ADI-MUNDI and the SURVIVORS from the raiding party are herded into the arena by SUPER<name type="NORP">DROIDS</name>. From the encircling tiers above, THOUSANDS OF <name type="ORG">BATTLE</name> <name type="NORP">DROIDS</name> level their weapons menacingly.</sd>
 
-<sd>In the archducal box, COUNT <name type="ORG">DOOKU</name> lifts his hand. The <name type="ORG">DROIDS</name> lower their weapons. The COUNT calls out to the <name type="FAC">JEDI</name>.</sd>
+<sd>In the archducal box, COUNT <name type="ORG">DOOKU</name> lifts his hand. The <name type="NORP">DROIDS</name> lower their weapons. The COUNT calls out to the <name type="FAC">JEDI</name>.</sd>
 
 <sp><speaker>COUNT <name type="ORG">DOOKU</name></speaker>
 			Master Windu!</sp>
@@ -5324,12 +5324,12 @@ their lips to meet. They kiss.</sd>
 			Then, I'm sorry, old friend. You
 			will have to be destroyed.</sp>
 
-<sd>The <name type="ORG">DROIDS</name> raise their weapons. <name type="PERSON">ANA<name type="GPE">KI</name>N</name> and PADME clasps hands tightly. COUNT <name type="ORG">DOOKU</name> raises his hand to give the order to fire. PADME looks up <name type="ORG">suddenlt</name> and whispers to <name type="PERSON">ANA<name type="GPE">KI</name>N</name>.</sd>
+<sd>The <name type="NORP">DROIDS</name> raise their weapons. <name type="PERSON">ANA<name type="GPE">KI</name>N</name> and PADME clasps hands tightly. COUNT <name type="ORG">DOOKU</name> raises his hand to give the order to fire. PADME looks up <name type="ORG">suddenlt</name> and whispers to <name type="PERSON">ANA<name type="GPE">KI</name>N</name>.</sd>
 
 <sp><speaker>PADME</speaker>
 			Look!</sp>
 
-<sd>Above, six Gunships are descending fast through the open area in the arena ceiling. They land in a cluster around the handful of <name type="FAC">JEDI</name>. CLONE TROOPERS spill out and start firing at the <name type="ORG">DROIDS</name>. There is a hellstorm of laserfire that bounces off the laser shields created by the Gunships. YODA appears at the door of one of the Gunships.</sd>
+<sd>Above, six Gunships are descending fast through the open area in the arena ceiling. They land in a cluster around the handful of <name type="FAC">JEDI</name>. CLONE TROOPERS spill out and start firing at the <name type="NORP">DROIDS</name>. There is a hellstorm of laserfire that bounces off the laser shields created by the Gunships. YODA appears at the door of one of the Gunships.</sd>
 
 <sp><speaker>YODA</speaker>
 			Come on - hurry! Hurry!</sp>
@@ -5338,7 +5338,7 @@ their lips to meet. They kiss.</sd>
 
 <setting>EXT. GEO<name type="ORG">NOS</name>IS, TERRAIN OUTSIDE EXECUTION ARENA - DAY</setting>
 
-<sd>The massed lines of parked <name type="ORG">Federation</name> Starships and the <name type="ORG">DROIDS</name> surrounding the arena, are themselves surrounded by thousands of <name type="LOC">Republic Starships</name>, disgorging <name type="ORG">TEN</name>S OF THOUSANDS OF CLONE TROOPERS. Beyond, more <name type="LOC">Republic Starships</name> are landing and spewing out troops.</sd>
+<sd>The massed lines of parked <name type="ORG">Federation</name> Starships and the <name type="NORP">DROIDS</name> surrounding the arena, are themselves surrounded by thousands of <name type="LOC">Republic Starships</name>, disgorging <name type="ORG">TEN</name>S OF THOUSANDS OF CLONE TROOPERS. Beyond, more <name type="LOC">Republic Starships</name> are landing and spewing out troops.</sd>
 
 <setting>INT. <name type="ORG">GUNSHIP</name> <name type="ORG">NU</name>MBER ONE - DAY</setting>
 
@@ -5349,7 +5349,7 @@ their lips to meet. They kiss.</sd>
 			Encircle them we must, then
 			divide.</sp>
 
-<sd>The CLONE TROOPERS open fire with artillery. <name type="ORG">EX<name type="ORG">PLO</name><name type="ORG">SIO</name>N</name>S wreck the parked <name type="ORG">Battle Starships</name>. CLONE TROOPERS advance, firing at the massed <name type="ORG">DROIDS</name>. FIGHTER <name type="ORG">DROIDS</name> fly overhead, exchanging fire with the Gunships and <name type="FAC">JEDI</name> fighters.</sd>
+<sd>The CLONE TROOPERS open fire with artillery. <name type="ORG">EX<name type="ORG">PLO</name><name type="ORG">SIO</name>N</name>S wreck the parked <name type="ORG">Battle Starships</name>. CLONE TROOPERS advance, firing at the massed <name type="NORP">DROIDS</name>. FIGHTER <name type="NORP">DROIDS</name> fly overhead, exchanging fire with the Gunships and <name type="FAC">JEDI</name> fighters.</sd>
 
 <setting>INT. COCKPIT, <name type="LOC">NABOO</name> STARSHIP - DAY</setting>
 
@@ -5364,11 +5364,11 @@ their lips to meet. They kiss.</sd>
 
 <setting>EXT. <name type="ORG">BATTLE</name>FIELD, GEO<name type="ORG">NOS</name>IS LANDSCAPE - DAY</setting>
 
-<sd>Gunship #2 skims the battlefield, firing down, deflecting answering fire from the <name type="ORG">droids</name>.</sd>
+<sd>Gunship #2 skims the battlefield, firing down, deflecting answering fire from the <name type="NORP">droids</name>.</sd>
 
 <setting>INT. <name type="ORG">GUNSHIP</name> <name type="ORG">NU</name>MBER TWO - DAY</setting>
 
-<sd>OBI-<name type="ORG">WAN</name>, <name type="PERSON">ANA<name type="GPE">KI</name>N</name> and PADME are at the open sides of the Gunship. <name type="ORG">CLONES</name> fire down at the <name type="ORG">DROIDS</name> below.</sd>
+<sd>OBI-<name type="ORG">WAN</name>, <name type="PERSON">ANA<name type="GPE">KI</name>N</name> and PADME are at the open sides of the Gunship. <name type="ORG">CLONES</name> fire down at the <name type="NORP">DROIDS</name> below.</sd>
 
 <sd>The Gunship slows, circling over a droid gun-emplacement. It blasts it, but suddenly the Gunship is rocked by a near miss. It lurches violently.</sd>
 
@@ -5424,18 +5424,18 @@ their lips to meet. They kiss.</sd>
 
 <setting>INT. GEO<name type="ORG">NOS</name>IS, SECRET HANGER TOWER - LATE DAY</setting>
 
-<sd>COUNT <name type="ORG">DOOKU</name> throws switches on a control panel. His <name type="LOC">Interstellar Sail Ship</name> is guarded by a SQUAD OF SUPER <name type="ORG">BATTLE</name> <name type="ORG">DROIDS</name>. The doors of the exit-port slide open.</sd>
+<sd>COUNT <name type="ORG">DOOKU</name> throws switches on a control panel. His <name type="LOC">Interstellar Sail Ship</name> is guarded by a SQUAD OF SUPER <name type="ORG">BATTLE</name> <name type="NORP">DROIDS</name>. The doors of the exit-port slide open.</sd>
 
 <sp><speaker>DROID CAPTAIN</speaker>
 			Your Excellency!</sp>
 
-<sd>COUNT <name type="ORG">DOOKU</name> turns as OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANA<name type="GPE">KI</name>N</name> run in through the hanger doors. They draw their lightsabers. The <name type="ORG">DROIDS</name> raise their weapons.</sd>
+<sd>COUNT <name type="ORG">DOOKU</name> turns as OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANA<name type="GPE">KI</name>N</name> run in through the hanger doors. They draw their lightsabers. The <name type="NORP">DROIDS</name> raise their weapons.</sd>
 
 <sp><speaker>COUNT <name type="ORG">DOOKU</name></speaker>
 			That won't be necessary, Captain.
 			Stand down. And leave them to me.</sp>
 
-<sd>The <name type="ORG">DROIDS</name> lower their weapons and back off to the walls. COUNT <name type="ORG">DOOKU</name> looks at OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANA<name type="GPE">KI</name>N</name> with slight amusement.</sd>
+<sd>The <name type="NORP">DROIDS</name> lower their weapons and back off to the walls. COUNT <name type="ORG">DOOKU</name> looks at OBI-<name type="ORG">WAN</name> and <name type="PERSON">ANA<name type="GPE">KI</name>N</name> with slight amusement.</sd>
 
 <sp><speaker>OBI-<name type="ORG">WAN</name></speaker>
 				(to <name type="PERSON">Anakin</name>)
@@ -5538,9 +5538,9 @@ their lips to meet. They kiss.</sd>
 
 <sd>OBI-<name type="ORG">WAN</name> uses the <name type="ORG">Force</name> to catch his lightsaber and he tosses it to <name type="PERSON">ANA<name type="GPE">KI</name>N</name>. With TWO LIGHT<name type="ORG">SABE</name>RS, <name type="PERSON">ANA<name type="GPE">KI</name>N</name> attacks. COUNT <name type="ORG">DOOKU</name> parries and ripostes. It is no contest. <name type="PERSON">ANA<name type="GPE">KI</name>N</name> is driven back against the wall. He loses one lightsaber. Finally COUNT <name type="ORG">DOOKU</name>, in one flashing move, sends <name type="PERSON">Anakin</name>'s arm, cut at the elbow, flying still gripping his lightsaber. <name type="PERSON">ANA<name type="GPE">KI</name>N</name> drops to the ground in agony. COUNT <name type="ORG">DOOKU</name> draws himself up to deliver the coup de grace.</sd>
 
-<sd>Suddenly, the great doors slide open. The <name type="ORG">DROIDS</name> turn fast, raising their weapons. Through the thick smoke, emerges the heroic figure of YODA. He stops on the smoke-filled threashold, FOUR <name type="ORG">DROIDS</name> lined up on either side of him, guns pointed.</sd>
+<sd>Suddenly, the great doors slide open. The <name type="NORP">DROIDS</name> turn fast, raising their weapons. Through the thick smoke, emerges the heroic figure of YODA. He stops on the smoke-filled threashold, FOUR <name type="NORP">DROIDS</name> lined up on either side of him, guns pointed.</sd>
 
-<sd>Before the <name type="ORG">DROIDS</name> can get off a shot, YODA raises his hand, and the <name type="ORG">DROIDS</name> are flung against the far walls and crash to the floor in heaps of smoking metal.</sd>
+<sd>Before the <name type="NORP">DROIDS</name> can get off a shot, YODA raises his hand, and the <name type="NORP">DROIDS</name> are flung against the far walls and crash to the floor in heaps of smoking metal.</sd>
 
 <sd>Silence. COUNT <name type="ORG">DOOKU</name> steps away from <name type="PERSON">ANA<name type="GPE">KI</name>N</name> to face <name type="FAC">the Jedi</name> Grand Master. His lightsaber whirls in a formal salute.</sd>
 
