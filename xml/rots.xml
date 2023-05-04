@@ -2306,11 +2306,11 @@ The JEDI cuts down several DROIDS as he races to the entrance of the control cen
 
 <sd>KI-ADI-MUNDI, ANAKIN, YODA, MACE, CLONE COMMANDER CODY, and AAYLA SECURA talk via holograms.</sd>
 
-<sp><speaker>CLONE COMMANDER CODY</speaker> Master Windu, may I interrupt? General Kenobi has made contact with General Grievous, and we</sp>
-have begun our attack.
+    <sp><speaker>CLONE COMMANDER CODY</speaker> Master Windu, may I interrupt? General Kenobi has made contact with General Grievous, and we have begun our attack.</sp>
 
-<sp><speaker>MACE WINDU</speaker> Thank you, Commander. Anakin, deliver this report to the Chancellor. His reaction will give us a clue to his</sp>
-intentions.
+
+<sp><speaker>MACE WINDU</speaker> Thank you, Commander. Anakin, deliver this report to the Chancellor. His reaction will give us a clue to his intentions.</sp>
+
 
 <sp><speaker>ANAKIN</speaker> Yes, Master.</sp>
 
@@ -2318,8 +2318,8 @@ intentions.
 
 <sp><speaker>MACE WINDU</speaker> I sense a plot to destroy the Jedi. The dark side of the Force surrounds the Chancellor.</sp>
 
-<sp><speaker>KI-ADI-MUNDI</speaker> If he does not give up his emergency powers after the destruction of Grievous, then he should be removed from</sp>
-office.
+<sp><speaker>KI-ADI-MUNDI</speaker> If he does not give up his emergency powers after the destruction of Grievous, then he should be removed from office.</sp>
+
 
 <sp><speaker>MACE WINDU</speaker> That could be a dangerous move ... the Jedi Council would have to take control of the Senate in order to secure a peaceful transition . . .</sp>
 
@@ -2477,8 +2477,8 @@ PALPATINE turns and moves to his office.</sd>
 <sd>ANAKIN watches as the JEDI leave in their ship.</sd>
 
 <setting>125 INT. CORUSCANT-JEDI COUNCIL/PADME'S APARTMENT-EARLY EVENING</setting>
-
-(INTERCUT)
+<sd>
+(INTERCUT)</sd>
 
 <sd>PADME is alone in her apartment, thinking of Anakin. ANAKIN sits alone in the Jedi Council Chamber thinking of PADME.</sd>
 
@@ -3208,7 +3208,7 @@ The ground opens up, and a small WOOKIEE ESCAPE POD rises into the field. YODA o
 
 <sp><speaker>PALPATINE</speaker> The remaining Jedi will be hunted down and defeated. (applause) Any collaborators will suffer the same fate.</sp>
 
-(applause)
+<sd>(applause)</sd>
 
 <sd>These have been trying times, but we have passed the test.</sd>
 
@@ -3529,8 +3529,8 @@ YODA and OBI-WAN walk through the ruins of the Temple until they come across the
 
 <sp><speaker>ANAKIN</speaker> I don't want to hear any more about Obi-Wan. The Jedi turned against me. Don't you turn against me.</sp>
 
-<sp><speaker>PADME</speaker> I don't know you anymore. Anakin, you're breaking my heart. I'll never stop loving you, but you are going down a path I</sp>
-can't follow.
+    <sp><speaker>PADME</speaker> I don't know you anymore. Anakin, you're breaking my heart. I'll never stop loving you, but you are going down a path I can't follow.</sp>
+
 
 <sp><speaker>ANAKIN</speaker> Because of Obi-Wan?</sp>
 
@@ -3584,7 +3584,7 @@ can't follow.
 
 <sp><speaker>OBI-WAN</speaker> Only a Sith Lord deals in absolutes. I will do what I must.</sp>
 
-(ignites his lightsaber)
+<sd>(ignites his lightsaber)</sd>
 
 <sp><speaker>ANAKIN</speaker> You will try.</sp>
 

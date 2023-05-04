@@ -1768,16 +1768,16 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 
 <sd>Steam billows out from the kitchen hatch behind the counter as a huge head pokes through.</sd>
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
+	<sp><speaker>DEXTER JETTSTER</speaker> 
+		Obi-Wan!</sp>
 
-			Obi-Wan!
 
 <sp><speaker>OBI-WAN</speaker>
 			Hey, Dex.</sp>
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
+	<sp><speaker>DEXTER JETTSTER</speaker> 
+		Take a seat! Be right with ya!</sp>
 
-			Take a seat! Be right with ya!
 
 <sd>OBI-WAN sits in a booth.</sd>
 
@@ -1790,9 +1790,9 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 <sd>HERMIONE moves off as the door to the counter opens and DEXTER JETTSTER appears. He is big - bald and sweaty, old and alien. Not someone to tangle with. He arrives, beaming hugely.</sd>
 
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
+	<sp><speaker>DEXTER JETTSTER</speaker> 
+		Hey, ol' buddy!</sp>
 
-			Hey, ol' buddy!
 
 <sp><speaker>OBI-WAN</speaker>
 			Hey, Dex.</sp>
@@ -1800,29 +1800,30 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 <sd>DEXTER eases himself into the seat opposite OBI-WAN. He can just make it. HERMIONE sets two mugs of steaming ardees in from of them.</sd>
 
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
+<sp><speaker>DEXTER JETTSTER</speaker>
+	So, my friend. What can I do for
+	ya?</sp>
 
-			So, my friend. What can I do for
-			ya?
+
 
 <sp><speaker>OBI-WAN</speaker>
 			You can tell me what this is.</sp>
 
 <sd>OBI-WAN places the dart on the table between them. DEX'S eyes widen. He puts down his mug.</sd>
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
+	<sp><speaker>DEXTER JETTSTER</speaker>
+		Well, whattaya know...</sp>
 
-			Well, whattaya know...
+
 
 <sd>DEXTER picks up the dart delicately between his puffy fingers and peers at it.</sd>
 
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
-
+<sp><speaker>DEXTER JETTSTER</speaker>
 				(continuing)
 			I ain't seen one of these since I
 			was prospecting on Subterrel
-			beyond the Outer Rim!
+			beyond the Outer Rim!</sp>
 
 <sp><speaker>OBI-WAN</speaker>
 			Do you know where it came from?</sp>
@@ -1830,19 +1831,17 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 <sd>DEXTER grins. He puts the dart down between them.</sd>
 
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
-
+<sp><speaker>DEXTER JETTSTER</speaker>
 			This baby belongs to them cloners.
 			What you got here is a Kamino
-			Kyberdart.
+			Kyberdart.</sp>
 
 <sp><speaker>OBI-WAN</speaker>
 			Kamino Kyberdart... I wonder why
 			it didn't show up in any analysis
 			archive.</sp>
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
-
+<sp><speaker>DEXTER JETTSTER</speaker>
 			It's these funny little cuts on
 			the side give it away...
 			Those analysis droids you've got
@@ -1850,8 +1849,7 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 			you know. I should think you Jedi
 			would have more respect for the
 			difference between knowledge and
-			wisdom.
-
+			wisdom. </sp>
 <sp><speaker>OBI-WAN</speaker>
 			Well, Dex, if droids could think, we
 			wouldn't be here, would we?
@@ -1859,8 +1857,7 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 			Kamino... doesn't sound familiar.
 			Is it part of the Republic?</sp>
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
-
+<sp><speaker>DEXTER JETTSTER</speaker>
 			No, it's beyond the Outer Rim.
 			I'd say about twelve parsecs
 			outside the Rishi Maze, toward the
@@ -1868,26 +1865,24 @@ vastness of the spaceport with ARTOO trundling along behind them.</sd>
 			even for those droids in your
 			archive to find. Those Kaminoans
 			keep to themselves. They're
-			cloners. Damned good ones, too.
+			cloners. Damned good ones, too. </sp>
 
 <sd>OBI-WAN then picks up the dart, holding it midway between them.</sd>
 
 <sp><speaker>OBI-WAN</speaker>
 			Cloners? Are they friendly?</sp>
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
-
-			It depends.
+<sp><speaker>DEXTER JETTSTER</speaker>
+			It depends.</sp>
 
 <sp><speaker>OBI-WAN</speaker>
 			On what, Dex?</sp>
 
 <sd>Dexter grins. </sd>
 
-<sp><speaker>DEXTER JETTSTER</speaker></sp>
-
+<sp><speaker>DEXTER JETTSTER</speaker>
 			On how good your manners are...
-			and how big your pocketbook is...
+			and how big your pocketbook is...</sp>
 
 <setting>EXT. NABOO SPACEPORT - DAY</setting>
 

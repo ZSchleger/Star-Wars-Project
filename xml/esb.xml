@@ -2253,8 +2253,9 @@ Destroyer continues on a collision course with two oncoming Star
 Destroyers.  Slowly, it starts to veer to the left.</sd>
 
 <setting>INT. STAR DESTROYER - BRIDGE</setting>
-Out the front window, the two approaching Star Destroyers can be seen 
-veering to the left.
+
+<sd>Out the front window, the two approaching Star Destroyers can be seen 
+veering to the left.</sd>
 
 <sp><speaker>IMPERIAL OFFICER</speaker>
 		Take evasive action!</sp>
@@ -4375,9 +4376,9 @@ interior.  Leia looks worried.</sd>
 		Whoa!  Wait a minute!  Let me 
 		explain.</sp>
 
-				<setting>INTERCOM VOICE</setting>
+<sp><speaker>INTERCOM VOICE</speaker>
 		You will not deviate from your 
-		present course.
+		present course.</sp>
 
 <sp><speaker>THREEPIO</speaker>
 		Rather touchy, aren't they?</sp>
@@ -4393,9 +4394,9 @@ interior.  Leia looks worried.</sd>
 		I'm sure he's forgotten about 
 		that.</sp>
 
-				<setting>INTERCOM VOICE</setting>
+<sp><speaker>INTERCOM VOICE</speaker>
 		Permission granted to land on 
-		Platform Three-two-seven.
+		Platform Three-two-seven.</sp>
 
 <sp><speaker>HAN</speaker>
 			(into transmitter)

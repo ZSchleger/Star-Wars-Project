@@ -4,8 +4,10 @@
 by <writer>Lawrence Kasdan &amp; George Lucas</writer>
 
 
-<script>The boundless heavens serve as a back-drop for the MAIN TITLE, followed 
-by a ROLL-UP, which crawls into infinity.
+<script>
+
+<sd>The boundless heavens serve as a back-drop for the MAIN TITLE, followed 
+by a ROLL-UP, which crawls into infinity.</sd>
 
 <subTitle epNum="6">EPISODE 6 RETURN OF THE JEDI</subTitle>
 
@@ -28,7 +30,8 @@ shuttle rockets from the main bay of the ship and hustles toward the
 Death Star.</sd>
 
 <setting>2    INT IMPERIAL SHUTTLE - COCKPIT </setting>
-The shuttle captain makes contact with the Death Star.
+
+ <sd>The shuttle captain makes contact with the Death Star.</sd>
 
 <sp><speaker>SHUTTLE CAPTAIN</speaker>
 Command station, this is ST 321. Code Clearance Blue. We're starting 
@@ -157,7 +160,7 @@ Tee chuta hhat yudd!</sp>
 <sp><speaker>THREEPIO</speaker>
 Goodness gracious me!</sp>
 
- Threepio points to Artoo, then to himself.
+<sd> Threepio points to Artoo, then to himself.</sd>
 
 <sp><speaker>THREEPIO</speaker>
 Artoo Detoowha bo Seethreepiowha ey toota odd mischka Jabba du Hutt.</sp>
@@ -827,7 +830,7 @@ door--if only he can get to it. The Rancor spots Luke and reaches into
 the crevice for him. Luke grabs a large rock and raises it, smashing it 
 down on the Rancor's finger.</sd>
 
-19   HOLDING TUNNEL - RANCOR PIT
+<setting>19   HOLDING TUNNEL - RANCOR PIT</setting>
 
 <sd>The Rancor lets out a loud howl as Luke makes a run for the holding 
 cave. He reaches the door and pushes a button to open it. When he 
@@ -1415,7 +1418,7 @@ He means "You're welcome."</sp>
 <sp><speaker>LANDO</speaker>
 Come on, let's get off this miserable dust ball.</sp>
 
-44A  EXT SPACE ABOVE TATOOINE 
+<setting>44A  EXT SPACE ABOVE TATOOINE </setting>
 
 <sd>The desolate yellow planet fills the screen, Luke's X-wing appears and 
 peels off to the left. A moment later, the FALCON appears as a dot and 
@@ -1831,9 +1834,9 @@ finds Han and Chewie, standing next to Leia and the two droids.</sp>
 <sp><speaker>HAN</speaker>
 Well, look at you, a general, huh?</sp>
 
- LANDO
+<sp><speaker>LANDO</speaker>
  Oh, well, someone must have told them about my little maneuver at the 
-battle of Taanab.
+battle of Taanab.</sp>
 
 <sp><speaker>HAN	 (sarcastic)</speaker>
 Well, don't look at me, pal. I just said you were a fair pilot. I 
@@ -1966,8 +1969,8 @@ Hi, Han... Chewie.</sp>
 
 <sd>Artoo beeps a singsong observation to a worried Threepio.</sd>
 
- THREEPIO
-"Exciting" is hardly the word I would use.
+<sp><speaker>THREEPIO</speaker>
+"Exciting" is hardly the word I would use.</sp>
 
 <setting>54   INT HEADQUARTERS FRIGATE - MAIN DOCKING BAY</setting>
 
@@ -2647,8 +2650,8 @@ I hope she's alright.</sp>
 <sd>Chewbacca growls, sniffing the air, then, with a bark, pushes off 
 through the foliage.</sd>
 
-                              HAN
-What, Chewie? What? Chewie!
+<sp><speaker>HAN</speaker>
+What, Chewie? What? Chewie!</sp>
 
 <sd>The others rush to keep up with the giant Wookiee. As he scoots along, 
 Artoo whistles nervously.</sd>
@@ -3792,8 +3795,9 @@ with Imperial TIE fighters, the battle raging around thecruisers of the
 Rebel armada.</sd>
 
 <setting>101  INT MILLENNIUM FALCON - COCKPIT</setting>
-Lando is in radio communication with the pilots of the other Rebel 
-squads.
+
+<sd>Lando is in radio communication with the pilots of the other Rebel 
+squads.</sd>
 
 <sp><speaker>LANDO</speaker>
 Watch yourself, Wedge! Three from above!</sp>
