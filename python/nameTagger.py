@@ -128,7 +128,7 @@ patterns = [
     {"label": "LOC", "pattern": "Polis Massa"},
     {"label": "LOC", "pattern": "DAGOBAH"},
     {"label": "LOC", "pattern": "STAR DESTROYER"},
-    
+
     {"label": "NULL", "pattern": "TWENTY"},
     {"label": "NULL", "pattern": "CPATAIN"},
     {"label": "LOC", "pattern": "Mos Espa"},

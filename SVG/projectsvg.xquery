@@ -36,7 +36,7 @@ declare variable $distCatches := $starwars//name[@type = "LOC"] ! normalize-spac
 return 
     <g id="P-{$pos}">
         <line x1 = '{0}' y1 ='{$pos * $ySpacer}'  x2= '{$xSpacer * $countThisCatch}' y2="{$pos * $ySpacer}" stroke='{$colors[position() = $pos]}' stroke-width='5'/>
-        <text fill="white" x="{$xSpacer * $countThisCatch + 10 }" y="{$pos * $ySpacer}">{$d}
+        <text fill="black" x="{$xSpacer * $countThisCatch + 10 }" y="{$pos * $ySpacer}">{$d}
         </text>
     
     </g>
